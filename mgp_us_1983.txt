@@ -1,0 +1,1163 @@
+Tree <index.php>
+
+
+  Mathematics Genealogy Project
+
+  * Home <index.php>
+  * Search <search.php>
+  * Extrema <extrema.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+  * Mirrors <mirrors.php>
+      o NDSU (main) <http://www.genealogy.math.ndsu.nodak.edu/>
+      o AMS <http://www.genealogy.ams.org/>
+      o Bielefeld <http://www.math.uni-bielefeld.de/genealogy>
+      o IMPA <http://genealogy.impa.br/>
+
+A service of the NDSU <http://www.ndsu.edu/> Department of Mathematics
+<http://www.math.ndsu.nodak.edu/>, in association with the American
+Mathematical Society <http://www.ams.org/>.
+
+Your search has found 929 records in our database.
+Display results in .
+
+Abbotteen, Essam <id.php?id=43545> 	Oklahoma State University 	1983
+Abdullah, Salem <id.php?id=23175> 	State University of New York at
+Buffalo 	1983
+Abedi, Farrokh <id.php?id=43452> 	Oklahoma State University 	1983
+Ablamowicz, Rafal <id.php?id=3033> 	Southern Illinois University at
+Carbondale 	1983
+Abrahamson, Philip <id.php?id=83492> 	Stanford University 	1983
+Abram, Thomas <id.php?id=17215> 	University of California, Santa
+Barbara 	1983
+Abreu, Dilip <id.php?id=129896> 	Princeton University 	1983
+Abu-Sbeih, Mohammad <id.php?id=158962> 	The Pennsylvania State
+University 	1983
+Acar, William <id.php?id=80727> 	University of Pennsylvania 	1983
+Adams, Colin <id.php?id=9763> 	University of Wisconsin-Madison 	1983
+Adams, Loyce <id.php?id=50101> 	University of Virginia 	1983
+Agrawal, Om <id.php?id=1169> 	State University of New York at Stony
+Brook 	1983
+Agrawal, Subhash <id.php?id=81905> 	Purdue University 	1983
+Alho, Juha <id.php?id=13052> 	Northwestern University 	1983
+Allen, Edward <id.php?id=3873> 	University of Tennessee - Knoxville 	1983
+Allen, John <id.php?id=43758> 	Rice University 	1983
+Allen, III, Myron <id.php?id=12430> 	Princeton University 	1983
+Alvin, Barbara <id.php?id=116391> 	University of Washington 	1983
+Amgott, Steven <id.php?id=5998> 	Rutgers University, New Brunswick 	1983
+Ammar, Gregory <id.php?id=14986> 	Case Western Reserve University 	1983
+Andersen, Anders <id.php?id=104749> 	Purdue University 	1983
+Anderson, Caroline <id.php?id=133779> 	Carnegie Mellon University 	1983
+Anderson, Christopher <id.php?id=31565> 	University of California,
+Berkeley 	1983
+Andrew, Michael <id.php?id=105889> 	University of Wyoming 	1983
+Andrews, James <id.php?id=16407> 	Arizona State University 	1983
+Angaye, Cleopas <id.php?id=172670> 	Kansas State University 	1983
+Ansari, Mohamad <id.php?id=7090> 	University of Michigan 	1983
+Anstreicher, Kurt <id.php?id=80143> 	Stanford University 	1983
+Antoniano Mateos, José <id.php?id=69576> 	Massachusetts Institute of
+Technology 	1983
+Arch, John <id.php?id=91976> 	University of Oregon 	1983
+Armendt, Brad <id.php?id=173318> 	University of Illinois at Chicago 	1983
+Arnold, Reginald <id.php?id=103366> 	Stanford University 	1983
+Arnold, III, William <id.php?id=63584> 	University of Southern
+California 	1983
+Artale, Maria <id.php?id=36764> 	Brandeis University 	1983
+Arthur, James <id.php?id=100770> 	Purdue University 	1983
+Arzberger, Peter <id.php?id=15848> 	Purdue University 	1983
+Assmann, Susan <id.php?id=68365> 	Massachusetts Institute of
+Technology 	1983
+Attele, Kapila <id.php?id=15470> 	Michigan State University 	1983
+Averbuch, Amir <id.php?id=55496> 	Columbia University 	1983
+Avila, Diana <id.php?id=51135> 	University of California, Riverside 	1983
+Awad, Elias <id.php?id=120953> 	California Institute of Technology 	1983
+Baderian, Armen <id.php?id=15216> 	Adelphi University 	1983
+Bagchi, Sitadri <id.php?id=10710> 	The Ohio State University 	1983
+Bagger, Jonathan <id.php?id=55213> 	Princeton University 	1983
+Bahrampour, Yousef <id.php?id=12866> 	University of Oregon 	1983
+Baker, Laura <id.php?id=139326> 	University of Colorado at Boulder 	1983
+Baker, Richard <id.php?id=83404> 	Stanford University 	1983
+Ballotti, Michael <id.php?id=43293> 	Tulane University 	1983
+Bando, Shigetoshi <id.php?id=138158> 	Princeton University 	1983
+Bao, David <id.php?id=22915> 	University of California, Berkeley 	1983
+Bapat, Chandrashekhar <id.php?id=154562> 	Missouri University of Science
+and Technology 	1983
+Barr, Alan <id.php?id=76722> 	Rensselaer Polytechnic Institute 	1983
+Barry, Daniel <id.php?id=35352> 	Yale University 	1983
+Barth, Norman <id.php?id=66411> 	The University of North Carolina at
+Chapel Hill 	1983
+Bartnik, Robert <id.php?id=58243> 	Princeton University 	1983
+Bator, Elizabeth <id.php?id=58488> 	The Pennsylvania State University 	1983
+Baxter , M. <id.php?id=151916> 	The University of Chicago 	1983
+Bayer, Margaret <id.php?id=44369> 	Cornell University 	1983
+Bechtel, Stephen <id.php?id=94951> 	University of California, Berkeley 	1983
+Bedard, Robert <id.php?id=15119> 	Massachusetts Institute of
+Technology 	1983
+Belair, Jacques <id.php?id=52946> 	Cornell University 	1983
+Bencsath, Katalin <id.php?id=35539> 	City University of New York 	1983
+Benedict, Jeffry <id.php?id=9882> 	University of Cincinnati 	1983
+Bennett, Fredricka <id.php?id=47362> 	University of Massachusetts
+Amherst 	1983
+Benson, Frederick <id.php?id=104948> 	Yale University 	1983
+Beran, David <id.php?id=79751> 	University of Northern Colorado 	1983
+Bhate, Hemant <id.php?id=9208> 	Yale University 	1983
+Bickford, Mark <id.php?id=9764> 	University of Wisconsin-Madison 	1983
+Bielecki, Daria <id.php?id=22239> 	Georgia Institute of Technology 	1983
+Bier, Vicki <id.php?id=60741> 	Massachusetts Institute of Technology 	1983
+Birget, Jean-Camille <id.php?id=54180> 	University of California,
+Berkeley 	1983
+Biswas, Gautam <id.php?id=77179> 	Michigan State University 	1983
+Black, Stephen <id.php?id=31000> 	Clemson University 	1983
+Blackburn, Katherine <id.php?id=87559> 	University of Tennessee -
+Knoxville 	1983
+Blackwood, Philip <id.php?id=16399> 	University of Virginia 	1983
+Blecksmith, Richard <id.php?id=45212> 	University of Arizona 	1983
+Bledsoe, Margaret <id.php?id=33641> 	New York University 	1983
+Blitch, Patricia <id.php?id=38486> 	University of South Carolina 	1983
+Bloch, Ethan <id.php?id=41408> 	Cornell University 	1983
+Bloom, Toby <id.php?id=86199> 	Massachusetts Institute of Technology 	1983
+Boehnke, Michael <id.php?id=47761> 	University of California, Los
+Angeles 	1983
+Bolfarine, Heleno <id.php?id=34293> 	University of California,
+Berkeley 	1983
+Bonett, Douglas <id.php?id=96917> 	University of California, Los
+Angeles 	1983
+Borne, Kirk <id.php?id=133025> 	California Institute of Technology 	1983
+Boswell, Steven <id.php?id=43757> 	Rice University 	1983
+Bourgeade, Antoine <id.php?id=146794> 	New York University 	1983
+Bouzar, Nadjib <id.php?id=12992> 	Northwestern University 	1983
+Bowers, Philip <id.php?id=3877> 	University of Tennessee - Knoxville 	1983
+Boyar, Joan <id.php?id=43900> 	University of California, Berkeley 	1983
+Boyd, Ernest <id.php?id=3480> 	University of Montana 	1983
+Boyer, Steven <id.php?id=58693> 	Cornell University 	1983
+Boyland, Philip <id.php?id=1867> 	University of Iowa 	1983
+Boyle, M. Michael <id.php?id=14996> 	University of Washington 	1983
+Bradley, Michael <id.php?id=88054> 	University of Notre Dame 	1983
+Brandenberger, Robert <id.php?id=74906> 	Harvard University 	1983
+Brandt, Jørgen <id.php?id=53550> 	The University of Chicago 	1983
+Breen, Timothy <id.php?id=41871> 	University of Florida 	1983
+Brenan, Kathryn <id.php?id=48663> 	University of California, Los
+Angeles 	1983
+Bridgland, Michael <id.php?id=3249> 	The Louisiana State University 	1983
+Briggs, Sanda <id.php?id=172414> 	Clarkson University 	1983
+Brinkley, James <id.php?id=71793> 	Stanford University 	1983
+Brooks, Richard <id.php?id=150853> 	University of Massachusetts
+Amherst 	1983
+Brophy, John <id.php?id=16762> 	Purdue University 	1983
+Bryant, Barrett <id.php?id=99713> 	Northwestern University 	1983
+Burd, Stephen <id.php?id=140856> 	Purdue University 	1983
+Burel, Byron <id.php?id=135214> 	Georgia Institute of Technology 	1983
+Burke, James <id.php?id=28296> 	University of Illinois at
+Urbana-Champaign 	1983
+Byers, Ralph <id.php?id=44398> 	Cornell University 	1983
+Cabrera, Javier <id.php?id=23178> 	Princeton University 	1983
+Calcaterra, Robert <id.php?id=9765> 	University of Wisconsin-Madison 	1983
+Caliceti, Emanuela <id.php?id=16334> 	University of Virginia 	1983
+Capka, David <id.php?id=81904> 	Purdue University 	1983
+Caraiscos, Christo <id.php?id=84379> 	Princeton University 	1983
+Carey, Michael <id.php?id=80277> 	University of California, Berkeley 	1983
+Carlin, Kevin <id.php?id=53632> 	Yale University 	1983
+Carlson, Dean <id.php?id=63422> 	University of Delaware 	1983
+Carstensen, Patricia <id.php?id=7091> 	University of Michigan 	1983
+Carton, James <id.php?id=109953> 	Princeton University 	1983
+Casian, Luis <id.php?id=42425> 	Massachusetts Institute of Technology 	1983
+Cavalier, John <id.php?id=17042> 	Virginia Polytechnic Institute and
+State University 	1983
+Chakiris, Kenneth <id.php?id=37525> 	Columbia University 	1983
+Chakravarthy, Srinivasaraghavan <id.php?id=48465> 	University of
+Delaware 	1983
+Chalfant, James <id.php?id=52635> 	North Carolina State University 	1983
+Chambers, Daniel <id.php?id=55075> 	University of Maryland College
+Park 	1983
+Champney, Timothy <id.php?id=95177> 	The University of Chicago 	1983
+Chang, Derek <id.php?id=3439> 	University of California, Riverside 	1983
+Chang, Li-Ly <id.php?id=9397> 	Washington State University 	1983
+Chao, Martin <id.php?id=116877> 	University of California, Los Angeles 	1983
+Chapin, Steven <id.php?id=6002> 	Rutgers University, New Brunswick 	1983
+Chavez, Patrick <id.php?id=88253> 	Cornell University 	1983
+Chayes, Jennifer <id.php?id=47677> 	Princeton University 	1983
+Chayes, Lincoln <id.php?id=48553> 	Princeton University 	1983
+Chen, Cheng-Tie <id.php?id=130017> 	University of Pennsylvania 	1983
+Chen, David <id.php?id=65234> 	University of Michigan 	1983
+Chen, Keh-Wei <id.php?id=34681> 	University of California, Berkeley 	1983
+Chen, Shun <id.php?id=68618> 	Purdue University 	1983
+Chen, Wen-Jen <id.php?id=83598> 	University of Florida 	1983
+Chen, Yenn Kunn Oliver <id.php?id=28091> 	University of Washington 	1983
+Chern, I-liang <id.php?id=33322> 	New York University 	1983
+Cherowitzo, William <id.php?id=37502> 	Columbia University 	1983
+Cherry, Guy <id.php?id=75995> 	University of Delaware 	1983
+Chhetry, Devendra <id.php?id=983> 	University of Texas at Dallas 	1983
+Choi, ByoungSeon <id.php?id=134043> 	Stanford University 	1983
+Chou (Tso), Kai Seng (Kaising) <id.php?id=43981> 	New York University 	1983
+Chow, Ling-Shua <id.php?id=36109> 	Southern Methodist University 	1983
+Chow, Mosuk <id.php?id=107408> 	Cornell University 	1983
+Christensen, Ronald <id.php?id=69732> 	University of
+Minnesota-Minneapolis 	1983
+Chu, Yu <id.php?id=105343> 	Virginia Polytechnic Institute and State
+University 	1983
+Chu, Yu <id.php?id=11136> 	Kent State University 	1983
+Chua, Tin <id.php?id=48131> 	Iowa State University 	1983
+Church, Kenneth <id.php?id=97406> 	Massachusetts Institute of
+Technology 	1983
+Cifuentes, Patricio <id.php?id=1949> 	Washington University in St.
+Louis 	1983
+Clayton, Murray <id.php?id=61785> 	University of Minnesota-Minneapolis 	1983
+Cline, Daren <id.php?id=29810> 	Colorado State University 	1983
+Cobb, Paul <id.php?id=117822> 	University of Georgia 	1983
+Cogswell, Richard <id.php?id=1954> 	Washington University in St. Louis 	1983
+Cohen, Daniel <id.php?id=106146> 	Indiana University 	1983
+Cohen, Douglas <id.php?id=31032> 	The University of Chicago 	1983
+Colley, Susan <id.php?id=22288> 	Massachusetts Institute of Technology 	1983
+Collingwood, David <id.php?id=19924> 	University of Utah 	1983
+Conforti, Michele <id.php?id=160300> 	Carnegie Mellon University 	1983
+Cook, Anne <id.php?id=1352> 	The American University 	1983
+Cooper, Keith <id.php?id=43756> 	Rice University 	1983
+Coppersmith, Susan <id.php?id=137127> 	Cornell University 	1983
+Corkill, Daniel <id.php?id=110031> 	University of Massachusetts
+Amherst 	1983
+Costa, Max <id.php?id=110416> 	Stanford University 	1983
+Costello, Patricia <id.php?id=101005> 	The Ohio State University 	1983
+Coulton, Patrick <id.php?id=59608> 	University of Notre Dame 	1983
+Cowles, Jonathan <id.php?id=51924> 	The University of Rochester 	1983
+Crane, Ronny <id.php?id=16307> 	University of Virginia 	1983
+Crockett, Patrick <id.php?id=47267> 	The University of North Carolina at
+Chapel Hill 	1983
+Croker, Albert <id.php?id=100905> 	State University of New York at Stony
+Brook 	1983
+Cromarty, Andrew <id.php?id=136868> 	University of Massachusetts
+Amherst 	1983
+Cross, Stephen <id.php?id=132134> 	University of Illinois at
+Urbana-Champaign 	1983
+Crutchfield, James <id.php?id=144459> 	University of California, Santa
+Cruz 	1983
+Cuperman, Vladimir <id.php?id=138758> 	University of California, Santa
+Barbara 	1983
+Currie, Melvin <id.php?id=61715> 	University of Pittsburgh 	1983
+Daniels, Margaret <id.php?id=20290> 	Auburn University 	1983
+Darnel, Michael <id.php?id=42427> 	University of Kansas 	1983
+Daugman, John <id.php?id=107896> 	Harvard University 	1983
+Davidson, James <id.php?id=87251> 	Stanford University 	1983
+De Almeida, Sebastiao <id.php?id=1170> 	State University of New York at
+Stony Brook 	1983
+Deanin, Alice <id.php?id=35795> 	University of Maryland College Park 	1983
+de Castro Feitosa, Edilson <id.php?id=79743> 	University of California,
+Davis 	1983
+Dee, Dick <id.php?id=33578> 	New York University 	1983
+DeGuire, Linda <id.php?id=165833> 	University of Georgia 	1983
+Dehnert, James <id.php?id=31751> 	University of California, Berkeley 	1983
+de la Llave Canosa, Rafael <id.php?id=13156> 	Princeton University 	1983
+Delosme, Jean-Marc <id.php?id=39899> 	Stanford University 	1983
+De Luna, José <id.php?id=3874> 	University of Tennessee - Knoxville 	1983
+de Micheli, Giovanni <id.php?id=69695> 	University of California,
+Berkeley 	1983
+Demmel, James <id.php?id=27477> 	University of California, Berkeley 	1983
+Demsky, Scott <id.php?id=122345> 	University of Miami 	1983
+Deretsky, Tatiana <id.php?id=17145> 	University of California, Santa
+Barbara 	1983
+Deretsky, Zakhar <id.php?id=17173> 	University of California, Santa
+Barbara 	1983
+de Rougemont, Michel <id.php?id=112981> 	University of California, Los
+Angeles 	1983
+Desrochers, Maryse <id.php?id=7861> 	Cornell University 	1983
+Dewar, William <id.php?id=112107> 	Massachusetts Institute of
+Technology 	1983
+Diaz, Ricardo <id.php?id=24022> 	Princeton University 	1983
+Dickinson, R. <id.php?id=127669> 	University of Texas at Austin 	1983
+Dimitric, Radoslav <id.php?id=43312> 	Tulane University 	1983
+Dimovski, Donco <id.php?id=49189> 	State University of New York at
+Binghamton 	1983
+Dix, Lynn <id.php?id=52548> 	North Carolina State University 	1983
+Dizaji, Ahmad <id.php?id=15468> 	Michigan State University 	1983
+Djomehri, Mohammad <id.php?id=32230> 	University of California,
+Berkeley 	1983
+D'Mello, Joseph <id.php?id=10709> 	The Ohio State University 	1983
+Dobbs, Drena <id.php?id=91903> 	University of Oregon 	1983
+Doerr, Thomas <id.php?id=62460> 	University of Arizona 	1983
+do Nascimento, Arnaldo <id.php?id=14558> 	Brown University 	1983
+Dönmez, Doğan <id.php?id=31916> 	University of California, Berkeley 	1983
+Donoho, David <id.php?id=18642> 	Harvard University 	1983
+Douglas, Sarah <id.php?id=71729> 	Stanford University 	1983
+Droms, Carl <id.php?id=44955> 	Syracuse University 	1983
+Dror, Moshe <id.php?id=97354> 	University of Maryland College Park 	1983
+Drost, John <id.php?id=122359> 	University of Miami 	1983
+D'Souza, Harry <id.php?id=65286> 	University of Notre Dame 	1983
+Du, Bau-Sen <id.php?id=2037> 	University of Minnesota-Minneapolis 	1983
+Duncan, James <id.php?id=69659> 	University of Southern California 	1983
+Dussault, Robert <id.php?id=32750> 	University of California, Berkeley 	1983
+Dutt, Amitava <id.php?id=148324> 	Massachusetts Institute of
+Technology 	1983
+Duvall, Steven <id.php?id=83680> 	Stanford University 	1983
+Dwork, Cynthia <id.php?id=92899> 	Cornell University 	1983
+Dyck, Stephen <id.php?id=32730> 	University of California, Berkeley 	1983
+Dykacz, Janice <id.php?id=49742> 	The Johns Hopkins University 	1983
+Dziuban, Stephen <id.php?id=59636> 	Rensselaer Polytechnic Institute 	1983
+Eaton, Brian <id.php?id=57857> 	University of Colorado at Boulder 	1983
+Edelman, David <id.php?id=64359> 	Columbia University 	1983
+Efrat, Isaac <id.php?id=33710> 	New York University 	1983
+Eid, Ghazi <id.php?id=11152> 	Kent State University 	1983
+Elbadawi, Ibrahim <id.php?id=52582> 	North Carolina State University 	1983
+Elssamadisy, Elssayed <id.php?id=52596> 	North Carolina State
+University 	1983
+El-Zohny, Habiba <id.php?id=149367> 	Clark University 	1983
+Enge, Per <id.php?id=121409> 	University of Illinois at
+Urbana-Champaign 	1983
+Epstein, Charles <id.php?id=33693> 	New York University 	1983
+Epstein, Susan <id.php?id=70333> 	Rutgers University, New Brunswick 	1983
+Ercil, Aytul <id.php?id=14554> 	Brown University 	1983
+Erickson, Kelvin <id.php?id=141355> 	Iowa State University 	1983
+Erlebacher, Gordon <id.php?id=112894> 	Columbia University 	1983
+Esfahanian, Abdol-Hossein <id.php?id=161621> 	Northwestern University 	1983
+Ettinger, Linda <id.php?id=117644> 	University of Oregon 	1983
+Eucker, Bradley <id.php?id=14707> 	Iowa State University 	1983
+Exner, George <id.php?id=7092> 	University of Michigan 	1983
+Fairley, David <id.php?id=83230> 	Stanford University 	1983
+Falk, Michael <id.php?id=9766> 	University of Wisconsin-Madison 	1983
+Farmer, Joan <id.php?id=6003> 	Rutgers University, New Brunswick 	1983
+Farvardin, Nariman <id.php?id=81467> 	Rensselaer Polytechnic Institute 	1983
+Fawcett, John <id.php?id=11846> 	California Institute of Technology 	1983
+Fenson, Eitan <id.php?id=7093> 	University of Michigan 	1983
+Ferdon, Mary <id.php?id=106012> 	University of South Carolina 	1983
+Fernandez Perez, Jose <id.php?id=2074> 	Washington University in St.
+Louis 	1983
+Fernando, Suren <id.php?id=9767> 	University of Wisconsin-Madison 	1983
+Ferreyra, Guillermo <id.php?id=6001> 	Rutgers University, New
+Brunswick 	1983
+Field, Daniel <id.php?id=82097> 	Princeton University 	1983
+Filippou, Filippos <id.php?id=126155> 	University of California,
+Berkeley 	1983
+Fine, Charles <id.php?id=95715> 	Stanford University 	1983
+Fink, Pamela <id.php?id=167031> 	Duke University 	1983
+Finston, David <id.php?id=38624> 	University of California, San Diego 	1983
+Fisher, Albert <id.php?id=28171> 	University of Washington 	1983
+Flack, Virginia <id.php?id=34658> 	University of California, Berkeley 	1983
+Flapan, Erica <id.php?id=9768> 	University of Wisconsin-Madison 	1983
+Flinn, Barbara <id.php?id=7094> 	University of Michigan 	1983
+Fochler, Michael <id.php?id=43150> 	University of California, San
+Diego 	1983
+Foda, Omar <id.php?id=93832> 	Purdue University 	1983
+Folledo, Manuel <id.php?id=35327> 	University of California, Berkeley 	1983
+Fonken, David <id.php?id=45599> 	University of Texas at Austin 	1983
+Fontecilla, Rodrigo <id.php?id=43755> 	Rice University 	1983
+Foote, Robert <id.php?id=7095> 	University of Michigan 	1983
+Ford, Cecile <id.php?id=50774> 	Texas Tech University 	1983
+Fountis, Nicholaos <id.php?id=52576> 	North Carolina State University 	1983
+Fox, Dale <id.php?id=86418> 	Purdue University 	1983
+Fox, Edward <id.php?id=112109> 	Cornell University 	1983
+Fox, Jeffrey <id.php?id=32254> 	University of California, Berkeley 	1983
+Fox, Mark <id.php?id=67143> 	Carnegie Mellon University 	1983
+Franzen, Berthold <id.php?id=43319> 	Tulane University 	1983
+Frazier, Michael <id.php?id=19777> 	University of California, Los
+Angeles 	1983
+Frech, Bruce <id.php?id=15835> 	University of Virginia 	1983
+Frees, Edward <id.php?id=47268> 	The University of North Carolina at
+Chapel Hill 	1983
+Friedman, Eduardo <id.php?id=154176> 	Princeton University 	1983
+Froese, Richard <id.php?id=16339> 	University of Virginia 	1983
+Frohliger, John <id.php?id=16779> 	Purdue University 	1983
+Fujimoto, Richard <id.php?id=78220> 	University of California,
+Berkeley 	1983
+Gaborski, Roger <id.php?id=63709> 	University of Maryland College Park 	1983
+Gail, Harry Richard <id.php?id=184256> 	University of California, Los
+Angeles 	1983
+Galison, Peter <id.php?id=119981> 	Harvard University 	1983
+Gallegos, Gricelda <id.php?id=2110> 	University of Iowa 	1983
+Gallivan, Kyle <id.php?id=41381> 	University of Illinois at
+Urbana-Champaign 	1983
+Ganapathy, Jayanthi <id.php?id=16747> 	Purdue University 	1983
+Ganesan, Subramanian <id.php?id=190052> 	State University of New York at
+Albany 	1983
+Ganser, Gary <id.php?id=143711> 	Rensselaer Polytechnic Institute 	1983
+Gedney, Charles <id.php?id=130723> 	Massachusetts Institute of
+Technology 	1983
+Gelernter, David <id.php?id=39908> 	State University of New York at
+Stony Brook 	1983
+George, Adel <id.php?id=89205> 	University of Minnesota-Minneapolis 	1983
+Georgiou, Tryphon <id.php?id=86216> 	University of Florida 	1983
+Ghahramani, Saeed <id.php?id=32818> 	University of California,
+Berkeley 	1983
+Gharib, Morteza <id.php?id=119464> 	California Institute of Technology 	1983
+Ghosh, Bijoy <id.php?id=37330> 	Harvard University 	1983
+Giambrone, Thomas <id.php?id=95760> 	State University of New York at
+Buffalo 	1983
+Giltinan, David <id.php?id=47271> 	The University of North Carolina at
+Chapel Hill 	1983
+Goerss, Paul <id.php?id=28306> 	Massachusetts Institute of Technology 	1983
+Golbeck, Amanda <id.php?id=117090> 	University of California, Berkeley 	1983
+Goldberg, David <id.php?id=39756> 	University of Michigan 	1983
+Goldberg, Lisa <id.php?id=36755> 	Brandeis University 	1983
+Goldman, Ron <id.php?id=103365> 	Stanford University 	1983
+Goldwasser, John <id.php?id=9769> 	University of Wisconsin-Madison 	1983
+Goodall, Colin <id.php?id=18643> 	Harvard University 	1983
+Goodman, John <id.php?id=97192> 	Princeton University 	1983
+Goodman, Jonathan <id.php?id=33920> 	Stanford University 	1983
+Goodrich, Glenn <id.php?id=75305> 	University of Washington 	1983
+Goodrich II, John <id.php?id=55043> 	Duke University 	1983
+Goolsby, Ronnie <id.php?id=24961> 	The University of North Carolina at
+Chapel Hill 	1983
+Gordon, Gary <id.php?id=24962> 	The University of North Carolina at
+Chapel Hill 	1983
+Gosling, James <id.php?id=50143> 	Carnegie Mellon University 	1983
+Goudey, Dale <id.php?id=66394> 	University of California, Los Angeles 	1983
+Goyal, Sulbha <id.php?id=3872> 	University of Tennessee - Knoxville 	1983
+Gray, J. Brian <id.php?id=95311> 	Clemson University 	1983
+Grayson, Matt <id.php?id=74614> 	Princeton University 	1983
+Greenberg, Albert <id.php?id=75310> 	University of Washington 	1983
+Greenberg, Sally <id.php?id=99994> 	Carnegie Mellon University 	1983
+Greene, Daniel <id.php?id=47209> 	Stanford University 	1983
+Greenhouse, Joel <id.php?id=178910> 	University of Michigan 	1983
+Grinberg, Eric <id.php?id=40783> 	Harvard University 	1983
+Grizzle, Jessy <id.php?id=133462> 	University of Texas at Austin 	1983
+Groggel, David <id.php?id=83599> 	University of Florida 	1983
+Groisser, David <id.php?id=73850> 	Harvard University 	1983
+Gross, Thomas <id.php?id=50066> 	Stanford University 	1983
+Grubbs, William <id.php?id=91794> 	Virginia Polytechnic Institute and
+State University 	1983
+Guirguis, Georges <id.php?id=3876> 	University of Tennessee -
+Knoxville 	1983
+Gupta, Rajiv <id.php?id=36576> 	Massachusetts Institute of Technology 	1983
+Gupta, Suchitra <id.php?id=74078> 	State University of New York at Stony
+Brook 	1983
+Gupte, Neelima <id.php?id=75736> 	State University of New York at Stony
+Brook 	1983
+Guy, Robert <id.php?id=47345> 	University of Massachusetts Amherst 	1983
+Haas, Jean-Francois <id.php?id=119611> 	California Institute of
+Technology 	1983
+Haeberly, Jean-Pierre <id.php?id=9366> 	The University of Chicago 	1983
+Hagstrom, Thomas <id.php?id=11847> 	California Institute of Technology 	1983
+Hailat, Mohammad <id.php?id=7096> 	University of Michigan 	1983
+Hajela, Dhananjay <id.php?id=10711> 	The Ohio State University 	1983
+Haksever, Cengiz <id.php?id=23916> 	University of Texas at Austin 	1983
+Halasi, Kadosa <id.php?id=57850> 	University of Colorado at Boulder 	1983
+Halchin, Judy <id.php?id=24969> 	The University of North Carolina at
+Chapel Hill 	1983
+Halpern, Jerry <id.php?id=83229> 	Stanford University 	1983
+Hamm, Rose <id.php?id=20281> 	Auburn University 	1983
+Haran, Shai <id.php?id=64471> 	Massachusetts Institute of Technology 	1983
+Harker, Patrick <id.php?id=129720> 	University of Pennsylvania 	1983
+Harris, James <id.php?id=17480> 	University of Alabama-Tuscaloosa 	1983
+Harris, L. E. <id.php?id=151918> 	The University of Chicago 	1983
+Harrison, Terry <id.php?id=116330> 	University of Tennessee -
+Knoxville 	1983
+Hart, Deborah <id.php?id=10517> 	California Institute of Technology 	1983
+Harter, Rachel <id.php?id=48105> 	Iowa State University 	1983
+Hathaway, Richard <id.php?id=29574> 	Rice University 	1983
+Haviv, Moshe <id.php?id=85254> 	Yale University 	1983
+Hawkins, John <id.php?id=4719> 	University of Illinois at
+Urbana-Champaign 	1983
+Hawkins, William <id.php?id=77752> 	University of Arizona 	1983
+Hawkins, Jr., Doyle <id.php?id=61287> 	The University of North Carolina
+at Chapel Hill 	1983
+Haynes, Jr., Tyler <id.php?id=25436> 	The George Washington University 	1983
+Hemakul, Wanida <id.php?id=24957> 	The University of North Carolina at
+Chapel Hill 	1983
+Hemasinha, Rohan <id.php?id=177939> 	State University of New York at
+Buffalo 	1983
+Hernandez, Gaston <id.php?id=2208> 	University of
+Minnesota-Minneapolis 	1983
+Heymans, Luc <id.php?id=160556> 	California Institute of Technology 	1983
+Higgins, Aparna <id.php?id=51184> 	University of Notre Dame 	1983
+Hildreth, Ellen <id.php?id=131614> 	Massachusetts Institute of
+Technology 	1983
+Hilliard, Michael <id.php?id=99110> 	Cornell University 	1983
+Hill-Tout, Barry <id.php?id=4459> 	Brown University 	1983
+Hjelmstad, Keith <id.php?id=123549> 	University of California,
+Berkeley 	1983
+Hobby, David <id.php?id=32210> 	University of California, Berkeley 	1983
+Hoerl, Roger <id.php?id=36046> 	University of Delaware 	1983
+Holloway, Leslie <id.php?id=116881> 	University of California, Los
+Angeles 	1983
+Homan, Sharon <id.php?id=50519> 	University of Iowa 	1983
+Hon, Robert <id.php?id=50328> 	Carnegie Mellon University 	1983
+Hook, Julian <id.php?id=104881> 	Princeton University 	1983
+Hopkins, Nora <id.php?id=16341> 	University of Virginia 	1983
+Horwith, Bruce <id.php?id=116021> 	University of Michigan 	1983
+Hossain, Murshed <id.php?id=154621> 	The College of William and Mary 	1983
+Housman, David <id.php?id=99108> 	Cornell University 	1983
+Hriljac, Paul <id.php?id=64472> 	Massachusetts Institute of Technology 	1983
+Hsiang, Jieh <id.php?id=110603> 	University of Illinois at
+Urbana-Champaign 	1983
+Hsueh, Yuang-Cheh <id.php?id=48592> 	University of California, Los
+Angeles 	1983
+Huang, Kuodo <id.php?id=10823> 	University of North Texas 	1983
+Huang, Min-Jei <id.php?id=51926> 	The University of Rochester 	1983
+Huerta, Ivan <id.php?id=16607> 	Purdue University 	1983
+Hughbanks, Timothy <id.php?id=113952> 	Cornell University 	1983
+Hulbert, Douglas <id.php?id=8936> 	University of Southern California 	1983
+Hung, David <id.php?id=10714> 	The Ohio State University 	1983
+Hung, Hsien-Ming <id.php?id=48110> 	Iowa State University 	1983
+Hunt, Frances <id.php?id=85497> 	University of Utah 	1983
+Hurley, John <id.php?id=1178> 	State University of New York at Stony
+Brook 	1983
+Hussey, James <id.php?id=91795> 	Virginia Polytechnic Institute and
+State University 	1983
+Ioannou, Petros <id.php?id=138670> 	Harvard University 	1983
+Ipsen, Ilse <id.php?id=18491> 	The Pennsylvania State University 	1983
+Ireson, Michael <id.php?id=83600> 	University of Florida 	1983
+Iskra, Joseph <id.php?id=59265> 	Vanderbilt University 	1983
+Itzikowitz, Samuel <id.php?id=63411> 	Rensselaer Polytechnic Institute 	1983
+Izen, Steven <id.php?id=65888> 	Massachusetts Institute of Technology 	1983
+Jablow, Eric <id.php?id=42477> 	Princeton University 	1983
+Jackson, Stephen <id.php?id=14679> 	University of California, Los
+Angeles 	1983
+Jacobson, Eliot <id.php?id=45215> 	University of Arizona 	1983
+Jacobson, Theodore <id.php?id=171697> 	University of Texas at Austin 	1983
+Jafari, Abdol <id.php?id=100669> 	Michigan State University 	1983
+Jagadish, Mysore <id.php?id=122362> 	University of Miami 	1983
+Janeba, Mark <id.php?id=17216> 	University of California, Santa
+Barbara 	1983
+Jankins, Mark <id.php?id=51181> 	University of Maryland College Park 	1983
+Jarrell, Nancy <id.php?id=78554> 	University of Wisconsin-Madison 	1983
+Jensen, David <id.php?id=53692> 	North Carolina State University 	1983
+Jia, Rong-Qing <id.php?id=9771> 	University of Wisconsin-Madison 	1983
+Johnson, Daniel <id.php?id=9772> 	University of Wisconsin-Madison 	1983
+Johnson, Diane <id.php?id=12867> 	University of Oregon 	1983
+Johnson, Joseph <id.php?id=42426> 	Massachusetts Institute of
+Technology 	1983
+Johnson, Robert <id.php?id=160616> 	The University of North Carolina at
+Chapel Hill 	1983
+Johnson, Steven <id.php?id=99663> 	Indiana University 	1983
+Jones, Thomas <id.php?id=139198> 	Massachusetts Institute of
+Technology 	1983
+Jong, Linda <id.php?id=51136> 	University of California, Riverside 	1983
+Jorion, P. <id.php?id=151919> 	The University of Chicago 	1983
+Joshua, Roy <id.php?id=13053> 	Northwestern University 	1983
+Jow, Richard <id.php?id=24329> 	Claremont Graduate University 	1983
+Joyner, William <id.php?id=27186> 	University of Maryland College Park 	1983
+Kabuka, Mansur <id.php?id=73660> 	University of Virginia 	1983
+Kadvany, John <id.php?id=32563> 	University of California, Berkeley 	1983
+Kardar, Mehran <id.php?id=151006> 	Massachusetts Institute of
+Technology 	1983
+Karmarkar, Narendra <id.php?id=106239> 	University of California,
+Berkeley 	1983
+Karplus, Kevin <id.php?id=100752> 	Stanford University 	1983
+Kastner, John <id.php?id=70353> 	Rutgers University, New Brunswick 	1983
+Katok, Svetlana <id.php?id=36934> 	University of Maryland College Park 	1983
+Katz, Andrew <id.php?id=47536> 	The University of Chicago 	1983
+Kearney, Joseph <id.php?id=113075> 	University of
+Minnesota-Minneapolis 	1983
+Keem, Changho <id.php?id=4460> 	Brown University 	1983
+Keith, William <id.php?id=87832> 	Cornell University 	1983
+Keller, Carol <id.php?id=5996> 	Rutgers University, New Brunswick 	1983
+Kempthorne, Peter <id.php?id=34692> 	University of California,
+Berkeley 	1983
+Kepecs, Jonathan <id.php?id=78558> 	University of Wisconsin-Madison 	1983
+Kersten, Daniel <id.php?id=81621> 	University of Minnesota-Minneapolis 	1983
+Key, Eric <id.php?id=41696> 	Cornell University 	1983
+Khakbaz, Javad <id.php?id=86639> 	Stanford University 	1983
+Khavinson, Dmitry <id.php?id=4461> 	Brown University 	1983
+Khor, Hoe-peng <id.php?id=36340> 	University of Notre Dame 	1983
+Kidman, Kent <id.php?id=17167> 	University of California, Santa
+Barbara 	1983
+Kiessler, Peter <id.php?id=31266> 	Virginia Polytechnic Institute and
+State University 	1983
+Kim, Hyuk <id.php?id=7097> 	University of Michigan 	1983
+Kirby, James <id.php?id=9532> 	New Mexico State University 	1983
+Kirby, Robert <id.php?id=78875> 	University of Maryland College Park 	1983
+Kirkpatrick, Mark <id.php?id=45885> 	University of Washington 	1983
+Kiser, Terry <id.php?id=145571> 	Oregon State University 	1983
+Klingenberg, Christian <id.php?id=33093> 	New York University 	1983
+Knight, Karl <id.php?id=22643> 	Brandeis University 	1983
+Knight, Jr., Thomas <id.php?id=61045> 	Massachusetts Institute of
+Technology 	1983
+Knight-Kaiser, Barbara <id.php?id=13057> 	Brandeis University 	1983
+Knuckles, Bettie <id.php?id=84171> 	The University of North Carolina at
+Chapel Hill 	1983
+Koditschek, Daniel <id.php?id=127458> 	Yale University 	1983
+Koh, Jee <id.php?id=7098> 	University of Michigan 	1983
+Kolitz, Stephan <id.php?id=85900> 	Northwestern University 	1983
+Kollár, János <id.php?id=20125> 	Brandeis University 	1983
+Komanaka, Henryka <id.php?id=3034> 	Southern Illinois University at
+Carbondale 	1983
+Konkowski, Deborah <id.php?id=171906> 	University of Texas at Austin 	1983
+Koochesfahani, Manoochehr <id.php?id=121097> 	California Institute of
+Technology 	1983
+Korf, Richard <id.php?id=70509> 	Carnegie Mellon University 	1983
+Koseff, Jeffrey R. <id.php?id=138998> 	Stanford University 	1983
+Koshy, Mathew <id.php?id=89392> 	State University of New York at Stony
+Brook 	1983
+Koury, John <id.php?id=149871> 	North Carolina State University 	1983
+Kraft, Jurgen <id.php?id=16594> 	Purdue University 	1983
+Kramer, David <id.php?id=58944> 	University of Maryland College Park 	1983
+Kramer, Morrey <id.php?id=42376> 	University of Michigan 	1983
+Krasny, Robert <id.php?id=7914> 	University of California, Berkeley 	1983
+Kreatsoulas, John <id.php?id=127645> 	Massachusetts Institute of
+Technology 	1983
+Krishna, Kottekai <id.php?id=92303> 	University of Pittsburgh 	1983
+Krishna, Vijay <id.php?id=88452> 	Princeton University 	1983
+Krop, Leonid <id.php?id=37436> 	The University of Chicago 	1983
+Kulos, Margaret <id.php?id=3662> 	University of Rhode Island 	1983
+Kumar, P. <id.php?id=37570> 	University of Southern California 	1983
+Kumar, Parameswaran <id.php?id=37509> 	Columbia University 	1983
+Kumar, Ranganathan <id.php?id=168225> 	University of Illinois at
+Urbana-Champaign 	1983
+Kumar, Seshavadhani <id.php?id=48464> 	University of Delaware 	1983
+Kuo, Yue-Sun <id.php?id=96152> 	University of California, San Diego 	1983
+Kwon, Kil <id.php?id=6000> 	Rutgers University, New Brunswick 	1983
+Laird, John <id.php?id=50357> 	Carnegie Mellon University 	1983
+Lamb, David <id.php?id=50157> 	Carnegie Mellon University 	1983
+Lamken, Esther <id.php?id=7099> 	University of Michigan 	1983
+Landau, Susan <id.php?id=60037> 	Massachusetts Institute of Technology 	1983
+Landman, Bruce <id.php?id=30300> 	Virginia Polytechnic Institute and
+State University 	1983
+Langer, Therese <id.php?id=32172> 	University of California, Berkeley 	1983
+Lansky, Amy <id.php?id=76625> 	Stanford University 	1983
+Lantz, Victoria <id.php?id=9381> 	Washington State University 	1983
+Laohakosol, Vichian <id.php?id=93913> 	University of Illinois at
+Urbana-Champaign 	1983
+Laprade, Jr, Robert <id.php?id=54190> 	Brown University 	1983
+Lau, Edwin <id.php?id=84503> 	University of California, Berkeley 	1983
+Lauer, Tod <id.php?id=140092> 	University of California, Santa Cruz 	1983
+Lavin, Joanne <id.php?id=88068> 	Columbia University 	1983
+Lee, Chia-Hoang <id.php?id=78876> 	University of Maryland College Park 	1983
+Lee, Insup <id.php?id=78152> 	University of Wisconsin-Madison 	1983
+Lee, Jeh <id.php?id=25200> 	Vanderbilt University 	1983
+Lee, Jyh-hao <id.php?id=30838> 	Yale University 	1983
+Lee, Kwae <id.php?id=63583> 	University of Southern California 	1983
+Lee, Min <id.php?id=1171> 	State University of New York at Stony Brook 	1983
+Lee, Young-Ha <id.php?id=36070> 	Southern Methodist University 	1983
+Lee, Youngjo <id.php?id=128447> 	Iowa State University 	1983
+Leland, Mary-Diane <id.php?id=78530> 	University of Wisconsin-Madison 	1983
+Lemke, Jon <id.php?id=46979> 	The Pennsylvania State University 	1983
+Lemon, Michael <id.php?id=85500> 	University of Utah 	1983
+Lenhart, William <id.php?id=38788> 	Dartmouth College 	1983
+Leung, Lawrence <id.php?id=136217> 	Virginia Polytechnic Institute and
+State University 	1983
+Lev-Ari, Hanoch <id.php?id=121463> 	Stanford University 	1983
+Lev-Ari, Hanoch <id.php?id=121449> 	Stanford University 	1983
+Levine, Alan <id.php?id=99788> 	State University of New York at Stony
+Brook 	1983
+LeVine, Daniel <id.php?id=14555> 	Brown University 	1983
+Levstein, Fernando <id.php?id=65150> 	Massachusetts Institute of
+Technology 	1983
+Lewandowski, Jim <id.php?id=164636> 	University of Illinois at
+Urbana-Champaign 	1983
+Lewis, Jerry <id.php?id=73610> 	Iowa State University 	1983
+Li, Chao-Shyuan <id.php?id=987> 	University of Texas at Dallas 	1983
+Li, Luen-Chau <id.php?id=33651> 	New York University 	1983
+Liang, Franklin <id.php?id=47201> 	Stanford University 	1983
+Liles, Albert <id.php?id=8791> 	University of South Florida 	1983
+Lin, Chang-shou <id.php?id=33529> 	New York University 	1983
+Lin, Yutang <id.php?id=31611> 	University of California, Berkeley 	1983
+Linfield, David <id.php?id=33571> 	New York University 	1983
+Liu, Regina <id.php?id=46399> 	Columbia University 	1983
+Livorni, Elvira <id.php?id=103919> 	University of Notre Dame 	1983
+Long, Doug <id.php?id=17026> 	Princeton University 	1983
+Long, Lyle <id.php?id=78702> 	The George Washington University 	1983
+Lott, John <id.php?id=30508> 	University of California, Berkeley 	1983
+Lou, J-H <id.php?id=141124> 	Cornell University 	1983
+Lovegren, Victoria <id.php?id=93077> 	University of Texas at Austin 	1983
+Lovejoy, William <id.php?id=43610> 	University of Delaware 	1983
+Løw, Erik <id.php?id=88953> 	Princeton University 	1983
+Luby, Michael <id.php?id=106240> 	University of California, Berkeley 	1983
+Lucas, Thomas <id.php?id=3601> 	University of Missouri - Columbia 	1983
+Luminet, Denis <id.php?id=20090> 	University of Utah 	1983
+Luxon, Bruce <id.php?id=3600> 	University of Missouri - Columbia 	1983
+Ly, Uy-Loi <id.php?id=139166> 	Stanford University 	1983
+Lyles, Joseph <id.php?id=103329> 	The University of Rochester 	1983
+Lyons, Russell <id.php?id=7100> 	University of Michigan 	1983
+Ma, Frank <id.php?id=7101> 	University of Michigan 	1983
+MacCluer, Barbara <id.php?id=15469> 	Michigan State University 	1983
+Macdonald, Douglas <id.php?id=141017> 	California Institute of
+Technology 	1983
+Mackenzie, Dana <id.php?id=17382> 	Princeton University 	1983
+Madden, James <id.php?id=38920> 	Wesleyan University 	1983
+Maguire, Maureen <id.php?id=49786> 	The Johns Hopkins University 	1983
+Mahdavianary, Seyedkazem <id.php?id=64774> 	State University of New York
+at Binghamton 	1983
+Mahoney, Carolyn <id.php?id=10712> 	The Ohio State University 	1983
+Maier, Robert <id.php?id=6005> 	Rutgers University, New Brunswick 	1983
+Makhluf, Rafiq <id.php?id=8937> 	University of Southern California 	1983
+Maleki, Pir <id.php?id=11218> 	Kansas State University 	1983
+Malik, Muhammad <id.php?id=8938> 	University of Southern California 	1983
+Malumuth, Eliot <id.php?id=115806> 	University of Michigan 	1983
+Mandelbaum, Avishai <id.php?id=79457> 	Cornell University 	1983
+Manohar, Aneesh <id.php?id=105736> 	Harvard University 	1983
+Mansouri-Ghiassi, Seied <id.php?id=45583> 	University of Kentucky 	1983
+Mantini, Lisa <id.php?id=36927> 	Harvard University 	1983
+March, Peter <id.php?id=11967> 	University of Minnesota-Minneapolis 	1983
+Marcotte, Odile <id.php?id=160933> 	Cornell University 	1983
+Marcus, David <id.php?id=32863> 	Massachusetts Institute of Technology 	1983
+Marin, Myriam <id.php?id=122347> 	University of Miami 	1983
+Marker, David <id.php?id=31315> 	Yale University 	1983
+Martin, Geoffrey <id.php?id=68895> 	State University of New York at
+Stony Brook 	1983
+Martinez, Rafael <id.php?id=15471> 	Michigan State University 	1983
+Martins, Joao <id.php?id=91290> 	State University of New York at
+Buffalo 	1983
+Mason, Dorothy <id.php?id=1742> 	University of Florida 	1983
+Masujima, Michio <id.php?id=67775> 	Massachusetts Institute of
+Technology 	1983
+Matet, Pierre <id.php?id=74519> 	The Pennsylvania State University 	1983
+Matney, Kenneth <id.php?id=120095> 	Kansas State University 	1983
+Matthews, Peter <id.php?id=1332> 	The American University 	1983
+Mauney, Jon <id.php?id=60943> 	University of Wisconsin-Madison 	1983
+Maxey, Gilbert <id.php?id=48568> 	University of California, Los
+Angeles 	1983
+May, Catherine <id.php?id=87290> 	Yale University 	1983
+Mazumdar, Ravi <id.php?id=78844> 	University of California, Los
+Angeles 	1983
+McCarthy, John <id.php?id=24565> 	Columbia University 	1983
+McCasland, Roy <id.php?id=125848> 	University of Texas at Arlington 	1983
+McClellan, Paul <id.php?id=163854> 	Oregon State University 	1983
+McCloskey, Joseph <id.php?id=49384> 	University of Maryland Baltimore
+County 	1983
+McCormick, V, S. Thomas <id.php?id=83510> 	Stanford University 	1983
+McDermit, Sharon <id.php?id=45598> 	University of Texas at Austin 	1983
+McDonald, Steven <id.php?id=101168> 	University of California,
+Berkeley 	1983
+McKee, Linda <id.php?id=165938> 	University of Georgia 	1983
+McMillen, William <id.php?id=32492> 	University of California,
+Berkeley 	1983
+McPherson, Donald <id.php?id=111950> 	Wayne State University 	1983
+Mead (Hall), Nancy <id.php?id=21644> 	Polytechnic University 	1983
+Meggs, William <id.php?id=988> 	University of Texas at Dallas 	1983
+Melhem, Rami <id.php?id=92305> 	University of Pittsburgh 	1983
+Mendleson, Howard <id.php?id=82345> 	North Carolina State University 	1983
+Merrill, Kathy <id.php?id=76046> 	University of Colorado at Boulder 	1983
+Merritt, Michael <id.php?id=99068> 	Georgia Institute of Technology 	1983
+Micali, Silvio <id.php?id=77138> 	University of California, Berkeley 	1983
+Micallef, Mario <id.php?id=33739> 	New York University 	1983
+Michalek, Gary <id.php?id=44358> 	Yale University 	1983
+Michon, Gérard <id.php?id=189503> 	University of California, Los
+Angeles 	1983
+Migliore, Juan <id.php?id=4462> 	Brown University 	1983
+Miller, Dale <id.php?id=59645> 	Carnegie Mellon University 	1983
+Miller, Keith <id.php?id=75214> 	University of Iowa 	1983
+Mills, Charles <id.php?id=9773> 	University of Wisconsin-Madison 	1983
+Milner, Fabio <id.php?id=16913> 	The University of Chicago 	1983
+Mistiri, Fathalla <id.php?id=17263> 	Arizona State University 	1983
+Mitchell, Brian <id.php?id=8508> 	Western Michigan University 	1983
+Mitzman, David <id.php?id=6004> 	Rutgers University, New Brunswick 	1983
+Mobolurin, Ayodele <id.php?id=173082> 	University of Massachusetts
+Amherst 	1983
+Moeller, Mark <id.php?id=130724> 	Massachusetts Institute of
+Technology 	1983
+Moghadam, Hosien <id.php?id=3440> 	University of California, Riverside 	1983
+Mohamed, Fouad Abd El-Aal <id.php?id=145572> 	Oregon State University 	1983
+Mok, Aloysius <id.php?id=58483> 	Massachusetts Institute of Technology 	1983
+Monk, Peter <id.php?id=5997> 	Rutgers University, New Brunswick 	1983
+Moody, Douglas <id.php?id=119487> 	California Institute of Technology 	1983
+Mook, Douglas <id.php?id=91047> 	Massachusetts Institute of Technology 	1983
+Moore, JoAnne <id.php?id=111953> 	Wayne State University 	1983
+Morell, Larry <id.php?id=64973> 	University of Maryland College Park 	1983
+Morgan, John <id.php?id=47390> 	The University of North Carolina at
+Chapel Hill 	1983
+Morgenthaler, Stephan <id.php?id=35280> 	Princeton University 	1983
+Mosher, Lee <id.php?id=46158> 	Princeton University 	1983
+Moskowitz, Ira <id.php?id=1172> 	State University of New York at Stony
+Brook 	1983
+Mostafa, Ghandehari <id.php?id=79744> 	University of California, Davis 	1983
+Moszkowski, Benjamin <id.php?id=111507> 	Stanford University 	1983
+Mount, David <id.php?id=41477> 	Purdue University 	1983
+Murphy, Katherine <id.php?id=14556> 	Brown University 	1983
+Murray, John <id.php?id=68304> 	University of Washington 	1983
+Murray, Margaret <id.php?id=9207> 	Yale University 	1983
+Nagurney, Anna <id.php?id=14557> 	Brown University 	1983
+Nakata, Masaomi <id.php?id=31970> 	University of California, Berkeley 	1983
+Nakata, Mie <id.php?id=32808> 	University of California, Berkeley 	1983
+Nall, Van <id.php?id=12172> 	University of Houston 	1983
+Nam, Boo <id.php?id=141354> 	Iowa State University 	1983
+Namjoo, Masood <id.php?id=86640> 	Stanford University 	1983
+Nayak, Tapan <id.php?id=49006> 	University of Pittsburgh 	1983
+Nazaret, William <id.php?id=34693> 	University of California, Berkeley 	1983
+Neeman, Amnon <id.php?id=28528> 	Harvard University 	1983
+Nehorai, Arye <id.php?id=44051> 	Stanford University 	1983
+Nelson, Barry <id.php?id=79094> 	Purdue University 	1983
+Ng, Kwok <id.php?id=32336> 	University of California, Berkeley 	1983
+Ng, Wing <id.php?id=129836> 	Massachusetts Institute of Technology 	1983
+Niemi, Antti <id.php?id=99419> 	Massachusetts Institute of Technology 	1983
+Noell, Alan <id.php?id=41478> 	Princeton University 	1983
+Nunan, Kevin <id.php?id=44483> 	Stanford University 	1983
+Nychka, Douglas <id.php?id=32977> 	University of Wisconsin-Madison 	1983
+Ochi, Yoshimichi <id.php?id=147767> 	University of Washington 	1983
+Odell, David <id.php?id=14002> 	Cornell University 	1983
+Olsen, Elwood <id.php?id=101813> 	Illinois Institute of Technology 	1983
+Orailoglu, Alex <id.php?id=127149> 	University of Illinois at
+Urbana-Champaign 	1983
+Orav, Endel <id.php?id=83228> 	Stanford University 	1983
+Orloff, Tobias <id.php?id=62294> 	Princeton University 	1983
+Orosz, Luiz <id.php?id=155520> 	Rice University 	1983
+Ortega, S. Luis <id.php?id=9881> 	University of Cincinnati 	1983
+Oruç, A. Yavuz <id.php?id=95923> 	Syracuse University 	1983
+O'Sullivan, Finbarr <id.php?id=22850> 	University of Wisconsin-Madison 	1983
+Otani, Thomas <id.php?id=121336> 	University of California, San Diego 	1983
+Ozsu, M. Tamer <id.php?id=72390> 	The Ohio State University 	1983
+Pacheco, Peter <id.php?id=2560> 	The Florida State University 	1983
+Padovani, Roberto <id.php?id=130827> 	University of Massachusetts
+Amherst 	1983
+Palay, Andrew <id.php?id=50403> 	Carnegie Mellon University 	1983
+Paleologou, Efthimios <id.php?id=147091> 	University of Illinois at
+Urbana-Champaign 	1983
+Palmer, Owen <id.php?id=43734> 	Rice University 	1983
+Palosaari, Gary <id.php?id=121487> 	University of California,
+Riverside 	1983
+Pandian, Ramaiah <id.php?id=25437> 	The George Washington University 	1983
+Papageorgiou, Nickolas <id.php?id=129969> 	Harvard University 	1983
+Parker, Robert <id.php?id=89842> 	Harvard University 	1983
+Pastan, Ariel <id.php?id=172388> 	Kansas State University 	1983
+Patrizio, Giorgio <id.php?id=61652> 	University of Notre Dame 	1983
+Patterson, Dena <id.php?id=31318> 	University of California, Berkeley 	1983
+Pearce, David <id.php?id=41496> 	Princeton University 	1983
+Peck, Roger <id.php?id=998> 	University of Texas at Dallas 	1983
+Peddada, Shyamal <id.php?id=49007> 	University of Pittsburgh 	1983
+Pelikan, Stephen <id.php?id=87605> 	Boston University Graduate School 	1983
+Pence, Thomas <id.php?id=67781> 	California Institute of Technology 	1983
+Percival, Donald <id.php?id=22808> 	University of Washington 	1983
+Perlman, Mirta <id.php?id=31567> 	University of California, Berkeley 	1983
+Petenate, Jose <id.php?id=128448> 	Iowa State University 	1983
+Peters, Stephen <id.php?id=83227> 	Stanford University 	1983
+Petersen, Troels <id.php?id=1173> 	State University of New York at Stony
+Brook 	1983
+Peterson, Benjamin <id.php?id=138875> 	Yale University 	1983
+Petro, John <id.php?id=23097> 	University of Pennsylvania 	1983
+Phillips, Jorge <id.php?id=62976> 	Stanford University 	1983
+Pinter, Shlomit <id.php?id=109809> 	Boston University Graduate School 	1983
+Plesha, Michael <id.php?id=179699> 	Northwestern University 	1983
+Polak, George <id.php?id=98219> 	Carnegie Mellon University 	1983
+Politakis, Peter <id.php?id=70354> 	Rutgers University, New Brunswick 	1983
+Pollack-Johnson, Bruce <id.php?id=32868> 	University of Pennsylvania 	1983
+Popovich, Edward <id.php?id=83601> 	University of Florida 	1983
+Possolo, Antonio <id.php?id=25307> 	Yale University 	1983
+Post, Steven <id.php?id=39523> 	Princeton University 	1983
+Prabhu, Gurpur <id.php?id=168179> 	Washington State University 	1983
+Prasanna Kumar, Viktor <id.php?id=92875> 	The Pennsylvania State
+University 	1983
+Preckel, Paul <id.php?id=61192> 	Stanford University 	1983
+Prendergast, Michael <id.php?id=11848> 	California Institute of
+Technology 	1983
+Presotto, David <id.php?id=96070> 	University of California, Berkeley 	1983
+Previato, Emma <id.php?id=11731> 	Harvard University 	1983
+Prisco, Mary <id.php?id=47297> 	University of Massachusetts Amherst 	1983
+Pritchard, Freya <id.php?id=43180> 	University of California, San
+Diego 	1983
+Przybythkowski, Stanislaw <id.php?id=59650> 	University of Arizona 	1983
+Purohit, Dayal <id.php?id=1174> 	State University of New York at Stony
+Brook 	1983
+Pzena, Howard <id.php?id=35554> 	City University of New York 	1983
+Quinn, Michael <id.php?id=71727> 	Washington State University 	1983
+Raddatz, William <id.php?id=22159> 	Georgia Institute of Technology 	1983
+Ralescu, Anca <id.php?id=2631> 	Indiana University 	1983
+Ramachandran, Vijaya <id.php?id=82098> 	Princeton University 	1983
+Ramakrishnan, Iyer <id.php?id=8760> 	University of Texas at Austin 	1983
+Rao, Sumathi <id.php?id=131859> 	State University of New York at Stony
+Brook 	1983
+Ratcliff, Gail <id.php?id=46718> 	Yale University 	1983
+Reagor, Mary <id.php?id=8888> 	Texas Christian University 	1983
+Redmount, Ian <id.php?id=141016> 	California Institute of Technology 	1983
+Reed, Daniel <id.php?id=40994> 	Purdue University 	1983
+Reed, George <id.php?id=55062> 	University of Maryland College Park 	1983
+Rehailia, Mohamed-el-Hadi <id.php?id=42373> 	University of Michigan 	1983
+Reid, Leslie <id.php?id=15135> 	Duke University 	1983
+Renegar, Jr., James <id.php?id=32595> 	University of California,
+Berkeley 	1983
+Repovš, Dušan <id.php?id=18998> 	The Florida State University 	1983
+Reyna, Luis <id.php?id=11849> 	California Institute of Technology 	1983
+Rigoli, Marco <id.php?id=2656> 	Washington University in St. Louis 	1983
+Ritchie, Stephen <id.php?id=76846> 	Cornell University 	1983
+Roberson, Pamela <id.php?id=12173> 	University of Houston 	1983
+Robinson, Jr., E. Arthur <id.php?id=25445> 	University of Maryland
+College Park 	1983
+Rockswold, Gary <id.php?id=163> 	Iowa State University 	1983
+Rodríguez Esquerdo, Pedro <id.php?id=114544> 	University of California,
+Santa Barbara 	1983
+Rokhlin, Vladimir <id.php?id=29573> 	Rice University 	1983
+Ronn, Ehud <id.php?id=109970> 	Stanford University 	1983
+Rosenberg, Jonathan <id.php?id=50156> 	Carnegie Mellon University 	1983
+Rosenbloom, Paul <id.php?id=50358> 	Carnegie Mellon University 	1983
+Rosenthal, William <id.php?id=1175> 	State University of New York at
+Stony Brook 	1983
+Ross, David <id.php?id=9774> 	University of Wisconsin-Madison 	1983
+Rossi, P. E. <id.php?id=151920> 	The University of Chicago 	1983
+Rowe, Neil <id.php?id=87250> 	Stanford University 	1983
+Rozenshtein, David <id.php?id=100904> 	State University of New York at
+Stony Brook 	1983
+Rubinstein, Michael <id.php?id=153589> 	Harvard University 	1983
+Ruiz, Sergio <id.php?id=8509> 	Western Michigan University 	1983
+Russell, David <id.php?id=1594> 	University of Arizona 	1983
+Ryan, Louise <id.php?id=92143> 	Harvard University 	1983
+Rychlik, Marek <id.php?id=31703> 	University of California, Berkeley 	1983
+Saadat, Farivar <id.php?id=83393> 	Stanford University 	1983
+Sabutis, J. <id.php?id=156207> 	University of Pittsburgh 	1983
+Sadek, Ibrahim <id.php?id=17196> 	University of California, Santa
+Barbara 	1983
+Sadr, Ramin <id.php?id=66393> 	University of California, Los Angeles 	1983
+Saerens, Rita <id.php?id=28257> 	University of Washington 	1983
+Salas, Héctor <id.php?id=2691> 	University of Iowa 	1983
+Sallee, John <id.php?id=28159> 	University of Washington 	1983
+Samaranayake, V. A. <id.php?id=25475> 	Kansas State University 	1983
+Sampaio-Neto, Raimundo <id.php?id=126323> 	University of Southern
+California 	1983
+Sánchez Calle, Antonio <id.php?id=132417> 	Princeton University 	1983
+Sandhu, Ravinderpal <id.php?id=70336> 	Rutgers University, New
+Brunswick 	1983
+Sangani, Ashok <id.php?id=177548> 	Stanford University 	1983
+Santos, Juan <id.php?id=51737> 	The University of Chicago 	1983
+Saphire, Diane <id.php?id=59075> 	Carnegie Mellon University 	1983
+Sarie, Talib <id.php?id=44625> 	Clarkson University 	1983
+Satyanarayanan, Mahadev <id.php?id=50117> 	Carnegie Mellon University 	1983
+Scariano, Stephen <id.php?id=50806> 	Texas Tech University 	1983
+Schaeffer, John <id.php?id=2705> 	Indiana University 	1983
+Scheidler, Michael <id.php?id=43718> 	Rice University 	1983
+Schell, George <id.php?id=140801> 	Purdue University 	1983
+Schick, Anton <id.php?id=81541> 	Michigan State University 	1983
+Schiff, M. <id.php?id=151921> 	The University of Chicago 	1983
+Schindler, Frank <id.php?id=30645> 	University of Utah 	1983
+Schmitz, Bruce <id.php?id=41692> 	University of Wisconsin-Milwaukee 	1983
+Schorow, David <id.php?id=31995> 	University of California, Berkeley 	1983
+Schrader, David <id.php?id=81906> 	Purdue University 	1983
+Schreyer, Frank-Olaf <id.php?id=22644> 	Brandeis University 	1983
+Schroeder, Carolyn <id.php?id=24561> 	Massachusetts Institute of
+Technology 	1983
+Schroeder, Thomas <id.php?id=69015> 	Indiana University 	1983
+Schumer, Peter <id.php?id=23173> 	University of Maryland College Park 	1983
+Schunck, Brian <id.php?id=145059> 	Massachusetts Institute of
+Technology 	1983
+Schwartz, Mark <id.php?id=12993> 	Northwestern University 	1983
+Scott, R. <id.php?id=137025> 	North Carolina State University 	1983
+Scovel, James <id.php?id=33279> 	New York University 	1983
+Scowcroft, Philip <id.php?id=30446> 	Cornell University 	1983
+Seaman, Jr., John <id.php?id=989> 	University of Texas at Dallas 	1983
+Selinger, Robert <id.php?id=150409> 	University of California,
+Berkeley 	1983
+Sellke, Thomas <id.php?id=59209> 	Stanford University 	1983
+Semmes, Stephen <id.php?id=2722> 	Washington University in St. Louis 	1983
+Senk, Sharon <id.php?id=91392> 	The University of Chicago 	1983
+Seoh, Munsup <id.php?id=2724> 	Indiana University 	1983
+Setork, Ali <id.php?id=3035> 	Southern Illinois University at
+Carbondale 	1983
+Sewelson, Vivian <id.php?id=131088> 	Cornell University 	1983
+Shafer, Steven <id.php?id=50212> 	Carnegie Mellon University 	1983
+Shallit, Jeffrey <id.php?id=31748> 	University of California, Berkeley 	1983
+Shao, Jr., Stephen <id.php?id=92931> 	University of Maryland College
+Park 	1983
+Shatah, Jalal <id.php?id=14559> 	Brown University 	1983
+Shatz, Sol <id.php?id=119521> 	Northwestern University 	1983
+Shaw, Steven <id.php?id=52947> 	Cornell University 	1983
+Sheng, Jiang <id.php?id=5999> 	Rutgers University, New Brunswick 	1983
+Shenker, Scott <id.php?id=143532> 	The University of Chicago 	1983
+Sherman, Mark <id.php?id=50302> 	Carnegie Mellon University 	1983
+Sheu, Shuenn-Jyi <id.php?id=4463> 	Brown University 	1983
+Sheung, Kwok <id.php?id=43083> 	University of Hawaii 	1983
+Shiau, Tzong-Huei <id.php?id=78513> 	University of Wisconsin-Madison 	1983
+Shields, Lynwood <id.php?id=132912> 	New York University 	1983
+Shiskowski, Kenneth <id.php?id=2743> 	Lehigh University 	1983
+Siegel, Alan <id.php?id=96472> 	Stanford University 	1983
+Siegel, Alan <id.php?id=5995> 	Rutgers University, New Brunswick 	1983
+Sigal, Ron <id.php?id=126019> 	New York University 	1983
+Sigurdsson, Gunnar <id.php?id=28278> 	University of Washington 	1983
+Simmons, James <id.php?id=43361> 	Tulane University 	1983
+Singer, Julio <id.php?id=120801> 	The University of North Carolina at
+Chapel Hill 	1983
+Singh, Raghuvansh <id.php?id=138876> 	Yale University 	1983
+Sistla, Aravinda <id.php?id=113077> 	Harvard University 	1983
+Slattery, Michael <id.php?id=9775> 	University of Wisconsin-Madison 	1983
+Sledge, Frank <id.php?id=88463> 	University of Pittsburgh 	1983
+Slotine, Jean <id.php?id=107156> 	Massachusetts Institute of
+Technology 	1983
+Slymen, Donald <id.php?id=50518> 	University of Iowa 	1983
+Smith, Marjolein <id.php?id=52622> 	North Carolina State University 	1983
+Smith, Robert <id.php?id=47471> 	The University of North Carolina at
+Chapel Hill 	1983
+Smith, Wayne <id.php?id=32493> 	University of California, Berkeley 	1983
+Smith III, Julius <id.php?id=171390> 	Stanford University 	1983
+Soares, Eliana <id.php?id=9776> 	University of Wisconsin-Madison 	1983
+Sobel, Marc <id.php?id=34577> 	University of California, Berkeley 	1983
+Sohl, Jeffrey <id.php?id=92932> 	University of Maryland College Park 	1983
+Soria, Fernando <id.php?id=2768> 	Washington University in St. Louis 	1983
+Souganidis, Panagiotis <id.php?id=9930> 	University of
+Wisconsin-Madison 	1983
+Soyka, Michael <id.php?id=94447> 	Drexel University 	1983
+Spagnuolo, Jr., John <id.php?id=74890> 	Rensselaer Polytechnic
+Institute 	1983
+Sparra, James <id.php?id=12174> 	University of Houston 	1983
+Spurr, Michael <id.php?id=43365> 	Tulane University 	1983
+Stasny, Elizabeth <id.php?id=59079> 	Carnegie Mellon University 	1983
+Stead, Sarah <id.php?id=14560> 	Brown University 	1983
+Steele, David <id.php?id=8792> 	University of South Florida 	1983
+Stefanou, Spiro <id.php?id=79336> 	University of California, Davis 	1983
+Stefanski, Leonard <id.php?id=47277> 	The University of North Carolina
+at Chapel Hill 	1983
+Steidley, Carl <id.php?id=117652> 	University of Oregon 	1983
+Steinberg, David <id.php?id=125386> 	University of Wisconsin-Madison 	1983
+Steinhardt, Allan <id.php?id=41757> 	University of Colorado at Boulder 	1983
+Steyn, Uinam Jung <id.php?id=140453> 	The University of Oklahoma 	1983
+Stillman, Michael <id.php?id=28530> 	Harvard University 	1983
+Stirling, Wynn <id.php?id=174317> 	Stanford University 	1983
+Stock, James <id.php?id=61453> 	University of California, Berkeley 	1983
+Stone, William <id.php?id=20201> 	University of Utah 	1983
+Strate, Gordon <id.php?id=91321> 	Colorado State University 	1983
+Suen, Ching-Yun <id.php?id=12175> 	University of Houston 	1983
+Sung, Li-Yeng <id.php?id=1176> 	State University of New York at Stony
+Brook 	1983
+Suri, Manil <id.php?id=40310> 	Carnegie Mellon University 	1983
+Suryanto, Mr. <id.php?id=165943> 	University of Georgia 	1983
+Szyld, Daniel <id.php?id=33613> 	New York University 	1983
+Tang, Betty <id.php?id=8939> 	University of Southern California 	1983
+Tarmast, Ghasem <id.php?id=115397> 	University of Missouri - Columbia 	1983
+Taylor, Jeremy <id.php?id=34456> 	University of California, Berkeley 	1983
+Taylor, Tom <id.php?id=16472> 	Harvard University 	1983
+Temkin, Bharti <id.php?id=35524> 	City University of New York 	1983
+Terman, Christopher <id.php?id=144837> 	Massachusetts Institute of
+Technology 	1983
+Thebaut, Stephen <id.php?id=81907> 	Purdue University 	1983
+Thirunavukkarasu, K <id.php?id=10713> 	The Ohio State University 	1983
+Thomas, David <id.php?id=47847> 	Montana State University 	1983
+Thomas, Flint <id.php?id=65183> 	Purdue University 	1983
+Thomas, Stan <id.php?id=155885> 	Vanderbilt University 	1983
+Tichnor, Marilyn <id.php?id=111962> 	Wayne State University 	1983
+Tong, Po <id.php?id=31452> 	University of California, Berkeley 	1983
+Tongring, Nils <id.php?id=9174> 	Yale University 	1983
+Torczynski, John <id.php?id=119308> 	California Institute of
+Technology 	1983
+Trautman, David <id.php?id=3602> 	University of Missouri - Columbia 	1983
+Treiman, Jay <id.php?id=28235> 	University of Washington 	1983
+Treuden, Michael <id.php?id=656> 	Oregon State University 	1983
+Tripp, Robert <id.php?id=91793> 	Virginia Polytechnic Institute and
+State University 	1983
+Trosset, Michael <id.php?id=34339> 	University of California, Berkeley 	1983
+Tsai, Chih-Ling <id.php?id=89357> 	University of Minnesota-Minneapolis 	1983
+Tsang, Vincent Ying Yin <id.php?id=42374> 	University of Michigan 	1983
+Tsau, Chichen (Michael) <id.php?id=2846> 	University of Iowa 	1983
+Tschantz, Steven <id.php?id=32211> 	University of California, Berkeley 	1983
+Tucker, Bessie <id.php?id=8470> 	University of Mississippi 	1983
+Tuomenoska, David <id.php?id=100837> 	Purdue University 	1983
+Tzou, Kou-Hu <id.php?id=168351> 	Washington University in St. Louis 	1983
+Ullery, William <id.php?id=45217> 	University of Arizona 	1983
+Umble, Ronald <id.php?id=20557> 	The University of North Carolina at
+Chapel Hill 	1983
+Ustin, Susan <id.php?id=38691> 	University of California, Davis 	1983
+Vaccaro, Richard <id.php?id=79566> 	Princeton University 	1983
+Valente, José <id.php?id=61093> 	Massachusetts Institute of Technology 	1983
+Van Dyke, Frances <id.php?id=64756> 	University of Illinois at Chicago 	1983
+VanLehn, Kurt <id.php?id=101008> 	Massachusetts Institute of
+Technology 	1983
+Vargas, John <id.php?id=11696> 	Adelphi University 	1983
+Vargas-Jarillo, Cristobal <id.php?id=110103> 	University of Texas at
+Arlington 	1983
+Varman, Peter <id.php?id=125172> 	University of Texas at Austin 	1983
+Vecchia, Jr., Aldo <id.php?id=37264> 	Colorado State University 	1983
+Veitch, James <id.php?id=34303> 	University of California, Berkeley 	1983
+Vella, David <id.php?id=16349> 	University of Virginia 	1983
+Venkatesan, Shankar <id.php?id=22796> 	The Pennsylvania State
+University 	1983
+Verathaworn, Theeraporn <id.php?id=42375> 	University of Michigan 	1983
+Vernon, Mary <id.php?id=82243> 	University of California, Los Angeles 	1983
+Vijayan, Gopalakrishnan <id.php?id=82099> 	Princeton University 	1983
+Villalobos, Miguel <id.php?id=32978> 	University of Wisconsin-Madison 	1983
+Vilonen, Kari <id.php?id=4464> 	Brown University 	1983
+Vogel, Curtis <id.php?id=13066> 	Colorado State University 	1983
+Vojta, Paul <id.php?id=22509> 	Harvard University 	1983
+von Bachhaus, Anton <id.php?id=17450> 	University of
+Alabama-Tuscaloosa 	1983
+Vu, Phuong <id.php?id=12176> 	University of Houston 	1983
+Vulis, Michael <id.php?id=35525> 	City University of New York 	1983
+Wachter, Ralph <id.php?id=179259> 	The Johns Hopkins University 	1983
+Wadge, William <id.php?id=31379> 	University of California, Berkeley 	1983
+Wagner, Donald <id.php?id=67627> 	Northwestern University 	1983
+Wajngurt, Clara <id.php?id=35555> 	City University of New York 	1983
+Wakim, Paul <id.php?id=34294> 	University of California, Berkeley 	1983
+Waksman, Peter <id.php?id=2873> 	University of Minnesota-Minneapolis 	1983
+Walker, Anita <id.php?id=93734> 	The University of Oklahoma 	1983
+Walsh, Bruce <id.php?id=171408> 	University of Washington 	1983
+Walsh, John <id.php?id=10821> 	University of North Texas 	1983
+Wang, Chin-Ying <id.php?id=165451> 	The Ohio State University 	1983
+Wang, Jinde <id.php?id=65330> 	University of Kentucky 	1983
+Wang, W. <id.php?id=113832> 	Michigan State University 	1983
+Warchall, Henry <id.php?id=11969> 	University of California, Berkeley 	1983
+Waters, Steven <id.php?id=102434> 	Idaho State University 	1983
+Watt, Stephen <id.php?id=4885> 	University of Illinois at
+Urbana-Champaign 	1983
+Webb, David <id.php?id=79190> 	Cornell University 	1983
+Webber, Robert <id.php?id=29762> 	University of Maryland College Park 	1983
+Welsh, Anne <id.php?id=30551> 	The American University 	1983
+Wenocur, Michael <id.php?id=83226> 	Stanford University 	1983
+Westfall, Peter <id.php?id=85010> 	University of California, Davis 	1983
+Whaley, Fredrick <id.php?id=131552> 	The University of North Carolina at
+Chapel Hill 	1983
+Whang, Kyu <id.php?id=87263> 	Stanford University 	1983
+Wichman, Indrek <id.php?id=152484> 	Princeton University 	1983
+Wigderson, Avi <id.php?id=82100> 	Princeton University 	1983
+Williams, John <id.php?id=2913> 	Indiana University 	1983
+Williams, Ruth <id.php?id=22520> 	Stanford University 	1983
+Williams, Stanley <id.php?id=10822> 	University of North Texas 	1983
+Willis, Catherine <id.php?id=31772> 	University of California,
+Berkeley 	1983
+Wilson, Gregory <id.php?id=17174> 	University of California, Santa
+Barbara 	1983
+Wilson, John <id.php?id=24970> 	The University of North Carolina at
+Chapel Hill 	1983
+Wing, Jeannette <id.php?id=50090> 	Massachusetts Institute of
+Technology 	1983
+Winokur, Alexander <id.php?id=76681> 	The Pennsylvania State
+University 	1983
+Winslow, Dennis <id.php?id=108688> 	Montana State University 	1983
+Withers, William <id.php?id=22210> 	Georgia Institute of Technology 	1983
+Witmer, Jeffrey <id.php?id=78422> 	University of Minnesota-Minneapolis 	1983
+Wittrock, Robert <id.php?id=83522> 	Stanford University 	1983
+Wolfe, David <id.php?id=143303> 	Kent State University 	1983
+Wong, Chi-Wing <id.php?id=34455> 	University of California, Berkeley 	1983
+Wu, Da-Ching <id.php?id=42482> 	Carnegie Mellon University 	1983
+Xia, Jingbo <id.php?id=1177> 	State University of New York at Stony
+Brook 	1983
+Yang, Deane <id.php?id=26953> 	Harvard University 	1983
+Yasinovskaya, Victoria <id.php?id=32994> 	Rice University 	1983
+Yatracos, Yannis <id.php?id=34534> 	University of California, Berkeley 	1983
+Yeh-Shu, Hsiaw-Chan <id.php?id=51137> 	University of California,
+Riverside 	1983
+Yeralan, Sencer <id.php?id=103830> 	University of Florida 	1983
+Yoo, Year Back <id.php?id=7578> 	Washington State University 	1983
+Young, Corwin <id.php?id=15836> 	University of Virginia 	1983
+Yu, Yao <id.php?id=131632> 	University of Texas at Austin 	1983
+Zadeck, Frank <id.php?id=43728> 	Rice University 	1983
+Zahed, Ismail <id.php?id=121088> 	Massachusetts Institute of
+Technology 	1983
+Zdonik, Stanley <id.php?id=98359> 	Massachusetts Institute of
+Technology 	1983
+Zelterman, Daniel <id.php?id=136053> 	Yale University 	1983
+Zemankova, Maria <id.php?id=2977> 	The Florida State University 	1983
+Ziebarth, Johnny <id.php?id=147625> 	Mississippi State University 	1983
+Zimmerman, Jay <id.php?id=3875> 	University of Illinois at
+Urbana-Champaign 	1983
+Zimmermann, Francisco <id.php?id=51134> 	University of California,
+Riverside 	1983
+Zomorrodian, Reza <id.php?id=124350> 	University of Pittsburgh 	1983
+Zwiebach, Barton <id.php?id=52167> 	California Institute of Technology 	1983
+Zwillinger, Daniel <id.php?id=11850> 	California Institute of
+Technology 	1983
+
+  * Search <search.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+
+
+The Mathematics Genealogy Project is in need of funds to help pay for
+student help and other associated costs. If you would like to
+contribute, please donate online
+<https://epayment.ndus.nodak.edu/C22800_ustores/web/product_detail.jsp?PRODUCTID=2989&SINGLESTORE=true>
+using credit card or bank transfer or mail your tax-deductible
+contribution to:
+
+Mathematics Genealogy Project
+Department of Mathematics
+North Dakota State University
+P. O. Box 6050
+Fargo, North Dakota 58108-6050
+

@@ -1,0 +1,1149 @@
+Tree <index.php>
+
+
+  Mathematics Genealogy Project
+
+  * Home <index.php>
+  * Search <search.php>
+  * Extrema <extrema.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+  * Mirrors <mirrors.php>
+      o NDSU (main) <http://www.genealogy.math.ndsu.nodak.edu/>
+      o AMS <http://www.genealogy.ams.org/>
+      o Bielefeld <http://www.math.uni-bielefeld.de/genealogy>
+      o IMPA <http://genealogy.impa.br/>
+
+A service of the NDSU <http://www.ndsu.edu/> Department of Mathematics
+<http://www.math.ndsu.nodak.edu/>, in association with the American
+Mathematical Society <http://www.ams.org/>.
+
+Your search has found 926 records in our database.
+Display results in .
+
+Abd Rahman, Mohd <id.php?id=52563> 	North Carolina State University 	1978
+Abel, Andrew <id.php?id=73406> 	Massachusetts Institute of Technology 	1978
+Aborn, Bruce <id.php?id=1782> 	Ohio University 	1978
+Adams, David <id.php?id=6948> 	University of Kentucky 	1978
+Adeleke, Samson <id.php?id=154985> 	The Johns Hopkins University 	1978
+Adler, Edward <id.php?id=158675> 	Princeton University 	1978
+Aganagic, Muhamed <id.php?id=83295> 	Stanford University 	1978
+Agarwal, Girdhar <id.php?id=161750> 	Purdue University 	1978
+Aguilera, Néstor <id.php?id=68742> 	University of
+Minnesota-Minneapolis 	1978
+Akdogan, Guray <id.php?id=66327> 	University of Iowa 	1978
+Akhlaghi, Mohammad <id.php?id=12851> 	University of Oregon 	1978
+Akritas, Michael <id.php?id=48144> 	University of Wisconsin-Madison 	1978
+Alikakos, Nicholas <id.php?id=4646> 	Brown University 	1978
+Alladi, Krishnaswami <id.php?id=7565> 	University of California, Los
+Angeles 	1978
+Allan, John <id.php?id=14499> 	Brown University 	1978
+Alleman, James <id.php?id=67654> 	University of Notre Dame 	1978
+Allemong, John <id.php?id=102446> 	University of Illinois at
+Urbana-Champaign 	1978
+Allen, III, John <id.php?id=32205> 	University of California, Berkeley 	1978
+Allinger, Deborah <id.php?id=1803> 	Indiana University 	1978
+Alpseymen, Nuriye <id.php?id=7235> 	University of Michigan 	1978
+Al-Rawi, Abed <id.php?id=111827> 	Colorado State University 	1978
+Amirkhanian-Jolfai, Vrege <id.php?id=43435> 	Oklahoma State University 	1978
+Amit-Cohen, Rafi <id.php?id=92286> 	University of Pittsburgh 	1978
+Amlicke, Bruce <id.php?id=147624> 	Mississippi State University 	1978
+Anacker, Steven <id.php?id=9990> 	The Ohio State University 	1978
+Anderson, George <id.php?id=43738> 	Rice University 	1978
+Anderson, James <id.php?id=147765> 	University of Washington 	1978
+Anderson, Marlow <id.php?id=15766> 	University of Kansas 	1978
+Andreassian, Agnes <id.php?id=12480> 	University of Oregon 	1978
+Angad-Gaur, Hendrik <id.php?id=19376> 	Tulane University 	1978
+Ansourian, Manoug <id.php?id=29452> 	Massachusetts Institute of
+Technology 	1978
+Apter, Arthur <id.php?id=41891> 	Massachusetts Institute of Technology 	1978
+Arthaud-Kuhman, Nicole <id.php?id=18618> 	Stanford University 	1978
+Artz, Jr., Ray <id.php?id=110322> 	Carnegie Mellon University 	1978
+Ashkenazi, Max <id.php?id=5963> 	Rutgers University, New Brunswick 	1978
+Ashtekar, Abhay <id.php?id=92486> 	The University of Chicago 	1978
+Assad, Arjang <id.php?id=78166> 	Massachusetts Institute of Technology 	1978
+Astaburuaga, Maria <id.php?id=9619> 	University of Wisconsin-Madison 	1978
+Awad, Adnan <id.php?id=35347> 	Yale University 	1978
+Aydi, N. <id.php?id=3594> 	University of Missouri - Columbia 	1978
+Ayeni, Reuben <id.php?id=142921> 	Cornell University 	1978
+Azarnia, Nozar <id.php?id=9872> 	University of Cincinnati 	1978
+Azzam, Mufid <id.php?id=34451> 	University of California, Berkeley 	1978
+Baker, Lawrence <id.php?id=97195> 	University of Maryland College Park 	1978
+Baker, Jr., Henry <id.php?id=112627> 	Massachusetts Institute of
+Technology 	1978
+Bakker, William <id.php?id=1830> 	Emory University 	1978
+Bardwell, Maureen <id.php?id=46465> 	Bowling Green State University 	1978
+Baroody, Jr., Anthony <id.php?id=82696> 	University of
+Wisconsin-Madison 	1978
+Barr, Richard <id.php?id=80595> 	University of Texas at Austin 	1978
+Barrer, John <id.php?id=86426> 	University of Texas at Dallas 	1978
+Barrett, William <id.php?id=8712> 	University of Utah 	1978
+Bartick, II, Philip <id.php?id=61818> 	University of Miami 	1978
+Barton, Russell <id.php?id=62674> 	Cornell University 	1978
+Basile, James <id.php?id=1144> 	State University of New York at Stony
+Brook 	1978
+Batchelor, Marjorie <id.php?id=64823> 	Massachusetts Institute of
+Technology 	1978
+Batra, Himat <id.php?id=25266> 	Polytechnic University 	1978
+Baudet, Gerard <id.php?id=50316> 	Carnegie Mellon University 	1978
+Bauer, Douglas <id.php?id=14987> 	Stevens Institute of Technology 	1978
+Baum, Steven <id.php?id=162628> 	Cornell University 	1978
+Baxter, Nancy <id.php?id=5964> 	Rutgers University, New Brunswick 	1978
+Beander, Bert <id.php?id=82697> 	University of Wisconsin-Madison 	1978
+Beatrous, Jr., Frank <id.php?id=40294> 	Tulane University 	1978
+Beatty, John <id.php?id=139451> 	University of California, Berkeley 	1978
+Beaudry, Marie <id.php?id=86635> 	Stanford University 	1978
+Becken, Don <id.php?id=8479> 	University of Mississippi 	1978
+Beebe, Alfred <id.php?id=28238> 	University of Washington 	1978
+Berman, David <id.php?id=45528> 	University of Texas at Austin 	1978
+Berman, Lawrence <id.php?id=32054> 	University of California, Berkeley 	1978
+Berman, Oded <id.php?id=109150> 	Massachusetts Institute of Technology 	1978
+Bernard, John <id.php?id=22712> 	University of Texas at Austin 	1978
+Berning, Jr., John <id.php?id=22818> 	Duke University 	1978
+Beser, Jacques <id.php?id=141061> 	Stanford University 	1978
+Betounes, David <id.php?id=1853> 	The Florida State University 	1978
+Bialik, Ora <id.php?id=44313> 	Case Western Reserve University 	1978
+Birch, Jeffrey <id.php?id=70395> 	University of Washington 	1978
+Birdwell, J. Douglas <id.php?id=112456> 	Massachusetts Institute of
+Technology 	1978
+Bissett, Edward <id.php?id=11822> 	California Institute of Technology 	1978
+Bjørnstad, Jan <id.php?id=34574> 	University of California, Berkeley 	1978
+Blanchard, Paul <id.php?id=61010> 	Yale University 	1978
+Bloom, Jeremy <id.php?id=67785> 	Massachusetts Institute of Technology 	1978
+Blount, Marion <id.php?id=86636> 	Stanford University 	1978
+Blumenthal, Robert <id.php?id=15720> 	Washington University in St.
+Louis 	1978
+Boggess, Lois <id.php?id=132121> 	University of Illinois at
+Urbana-Champaign 	1978
+Boudourides, Moses <id.php?id=101688> 	The Johns Hopkins University 	1978
+Bountis, Anastassios <id.php?id=99130> 	The University of Rochester 	1978
+Bradley, Richard <id.php?id=9731> 	University of California, San Diego 	1978
+Brake, John <id.php?id=72750> 	North Carolina State University 	1978
+Brand, Neal <id.php?id=12034> 	Stanford University 	1978
+Brant, Larry <id.php?id=49724> 	The Johns Hopkins University 	1978
+Breidbart, Seth <id.php?id=131094> 	Yale University 	1978
+Brennan, Michael <id.php?id=81149> 	University of California,
+Riverside 	1978
+Brewster, Stephen <id.php?id=9983> 	The Ohio State University 	1978
+Brodsky, Joel <id.php?id=34330> 	University of California, Berkeley 	1978
+Brook, Cecilia <id.php?id=35221> 	The University of North Carolina at
+Chapel Hill 	1978
+Brooks, David <id.php?id=116386> 	University of Washington 	1978
+Brown, Donna <id.php?id=41357> 	Massachusetts Institute of Technology 	1978
+Brown, Scott <id.php?id=17130> 	University of California, Santa
+Barbara 	1978
+Brown, Jr., Peter <id.php?id=43297> 	Tulane University 	1978
+Bruell, Steven <id.php?id=81924> 	Purdue University 	1978
+Bube, Kenneth <id.php?id=28294> 	Stanford University 	1978
+Buckholz, Richard <id.php?id=101689> 	The Johns Hopkins University 	1978
+Buckley, Fred <id.php?id=35593> 	City University of New York 	1978
+Buckwalter, Jeff <id.php?id=65307> 	Carnegie Mellon University 	1978
+Buhite, Jack <id.php?id=65140> 	Carnegie Mellon University 	1978
+Bulsara, Adi <id.php?id=112677> 	University of Texas at Austin 	1978
+Burkom, Howard <id.php?id=851> 	University of Illinois at
+Urbana-Champaign 	1978
+Burry, David <id.php?id=48503> 	The University of Chicago 	1978
+Burton, Robert <id.php?id=8713> 	University of Utah 	1978
+Buttner, Wolfram <id.php?id=43300> 	Tulane University 	1978
+Buzo de la Pena, L. Andrés <id.php?id=83389> 	Stanford University 	1978
+Cade, John <id.php?id=47338> 	University of Massachusetts Amherst 	1978
+Caflisch, Russel <id.php?id=33190> 	New York University 	1978
+Caginalp, Gunduz <id.php?id=78004> 	Cornell University 	1978
+Caicedo, Xavier <id.php?id=51182> 	University of Maryland College Park 	1978
+Cain, William <id.php?id=3855> 	University of Tennessee - Knoxville 	1978
+Carlson, Stephan <id.php?id=15768> 	University of Kansas 	1978
+Carlson, Timothy <id.php?id=92406> 	University of
+Minnesota-Minneapolis 	1978
+Carter, David <id.php?id=7849> 	Columbia University 	1978
+Carter, P. <id.php?id=1720> 	University of Florida 	1978
+Cartlidge, James <id.php?id=1912> 	Indiana University 	1978
+Catlin, David <id.php?id=16463> 	Princeton University 	1978
+Cattell, Rick <id.php?id=50111> 	Carnegie Mellon University 	1978
+Celarier, Donald <id.php?id=145578> 	Oregon State University 	1978
+Cervantes de Gortari, Jaime <id.php?id=65180> 	Purdue University 	1978
+Cervantes-Sandoval, Rafael <id.php?id=12622> 	University of Colorado at
+Boulder 	1978
+Chalmers, Graham <id.php?id=31698> 	University of California, Berkeley 	1978
+Chan, Tony <id.php?id=36680> 	Stanford University 	1978
+Chang, Haichau <id.php?id=36822> 	Brandeis University 	1978
+Chang, Rosemary <id.php?id=14500> 	Brown University 	1978
+Chang, Tze <id.php?id=180103> 	University of South Carolina 	1978
+Chang, Weita <id.php?id=53283> 	Massachusetts Institute of Technology 	1978
+Chang, Yen <id.php?id=153> 	Iowa State University 	1978
+Chase, Karen <id.php?id=17321> 	Texas A&M University 	1978
+Chastkofsky, Leonard <id.php?id=62305> 	Yale University 	1978
+Chatterji, Samaresh <id.php?id=35480> 	Wayne State University 	1978
+Chen, James <id.php?id=60029> 	Iowa State University 	1978
+Chen, Kun Yuan <id.php?id=88198> 	University of Pennsylvania 	1978
+Chen, Nan <id.php?id=5961> 	Rutgers University, New Brunswick 	1978
+Chen, Nei-Mao <id.php?id=33179> 	New York University 	1978
+Chen, Wen-Chen <id.php?id=42380> 	University of Michigan 	1978
+Cheng, Shih-Chuan <id.php?id=74316> 	The Florida State University 	1978
+Chernick, Michael <id.php?id=83198> 	Stanford University 	1978
+Chevreau, Bernard <id.php?id=7244> 	University of Michigan 	1978
+Chilson, David <id.php?id=72661> 	Bowling Green State University 	1978
+Chiu, Yu-Hsing <id.php?id=19921> 	University of Utah 	1978
+(Chmielewski) Nemeth, Margaret <id.php?id=91775> 	Virginia Polytechnic
+Institute and State University 	1978
+Cho, Yookun <id.php?id=120140> 	University of Minnesota-Minneapolis 	1978
+Chou, Rouh-Jane <id.php?id=90368> 	Yale University 	1978
+Chow, Jeff <id.php?id=17319> 	Texas A&M University 	1978
+Chu, Ching-Yu <id.php?id=1143> 	State University of New York at Stony
+Brook 	1978
+Chu, Chinku <id.php?id=28437> 	University of Alabama-Tuscaloosa 	1978
+Chu, Sydney <id.php?id=122615> 	Columbia University 	1978
+Chuang, David <id.php?id=36915> 	Carnegie Mellon University 	1978
+Chung, Sei-Jong <id.php?id=66328> 	University of Iowa 	1978
+Church, Curtis <id.php?id=8776> 	University of South Florida 	1978
+Chutsky, Alan <id.php?id=11692> 	Adelphi University 	1978
+Clancy, Steven <id.php?id=106458> 	The Johns Hopkins University 	1978
+Clark, Dean <id.php?id=14501> 	Brown University 	1978
+Cleaveland, J. Craig <id.php?id=147280> 	University of California, Los
+Angeles 	1978
+Clinkenbeard, Dennis <id.php?id=121488> 	University of California,
+Riverside 	1978
+Coats, Jr., Carlie <id.php?id=67779> 	Massachusetts Institute of
+Technology 	1978
+Cohen, Martin <id.php?id=46577> 	University of Southern California 	1978
+Cohen, Michael <id.php?id=26990> 	University of California, Los
+Angeles 	1978
+Cohen, Ralph <id.php?id=12025> 	Brandeis University 	1978
+Cohn, William <id.php?id=9620> 	University of Wisconsin-Madison 	1978
+Cole, Paul <id.php?id=23142> 	University of Pennsylvania 	1978
+Colella, Phillip <id.php?id=31559> 	University of California, Berkeley 	1978
+Collofello, James <id.php?id=1291> 	Northwestern University 	1978
+Conn, Jack <id.php?id=10462> 	Princeton University 	1978
+Cook, Charles <id.php?id=16715> 	Purdue University 	1978
+Cook, R. <id.php?id=82434> 	Vanderbilt University 	1978
+Cooper, Curtis <id.php?id=154> 	Iowa State University 	1978
+Cooperman, Gene <id.php?id=14502> 	Brown University 	1978
+Copeland, Henry <id.php?id=17447> 	University of Alabama-Tuscaloosa 	1978
+Coppage, Jr., Samuel <id.php?id=23925> 	New York University 	1978
+Cornell, Gary <id.php?id=4434> 	Brown University 	1978
+Cornuéjols, Gérard <id.php?id=40749> 	Cornell University 	1978
+Cortazar, Maria del Carmen <id.php?id=33272> 	New York University 	1978
+Cox, Gregory <id.php?id=18180> 	Auburn University 	1978
+Croke, Christopher <id.php?id=23197> 	The University of Chicago 	1978
+Cruess, David <id.php?id=49741> 	The Johns Hopkins University 	1978
+Culler, Marc <id.php?id=32646> 	University of California, Berkeley 	1978
+Cunningham, Mary <id.php?id=87366> 	University of Tennessee -
+Knoxville 	1978
+Curto, Raul <id.php?id=1145> 	State University of New York at Stony
+Brook 	1978
+Cushman, John <id.php?id=155> 	Iowa State University 	1978
+Cybenko, George <id.php?id=27221> 	Princeton University 	1978
+Czeisler, Charles <id.php?id=49074> 	Stanford University 	1978
+Daffer, Peter <id.php?id=41769> 	University of South Carolina 	1978
+Damiano, Robert <id.php?id=12458> 	University of Oregon 	1978
+Dang, Lanh <id.php?id=15221> 	Princeton University 	1978
+Dasgupta, Chandan <id.php?id=166079> 	University of Pennsylvania 	1978
+Daskin, Mark <id.php?id=88618> 	Massachusetts Institute of Technology 	1978
+David, Karl <id.php?id=47331> 	University of Massachusetts Amherst 	1978
+Davis, Danny <id.php?id=1724> 	University of Florida 	1978
+Day, Martin <id.php?id=86105> 	University of Colorado at Boulder 	1978
+Deal, Jr., Forest <id.php?id=73687> 	The Johns Hopkins University 	1978
+Dechene, Lucy <id.php?id=30972> 	University of California, Riverside 	1978
+Decker, Dwight <id.php?id=11823> 	California Institute of Technology 	1978
+Decker, Richard <id.php?id=9984> 	The Ohio State University 	1978
+De Franza, James <id.php?id=11138> 	Kent State University 	1978
+De Logi, Walter <id.php?id=141012> 	California Institute of Technology 	1978
+DeRobertis, Lorraine <id.php?id=35346> 	Yale University 	1978
+Dickinson, John <id.php?id=64845> 	Massachusetts Institute of
+Technology 	1978
+Dietz, E. Jacquelin <id.php?id=83638> 	The University of Connecticut 	1978
+DiEuliis, Val Anthony <id.php?id=179563> 	University of Illinois at
+Urbana-Champaign 	1978
+Dion, Bernard <id.php?id=82709> 	University of Wisconsin-Madison 	1978
+Dipert, Randall <id.php?id=106260> 	Indiana University 	1978
+Disch, Damon <id.php?id=2025> 	Indiana University 	1978
+Divsalar, Dariush <id.php?id=66387> 	University of California, Los
+Angeles 	1978
+Domic, Antun <id.php?id=65301> 	Massachusetts Institute of Technology 	1978
+Douglass, Robert <id.php?id=82700> 	University of Wisconsin-Madison 	1978
+Dovermann, Karl <id.php?id=5957> 	Rutgers University, New Brunswick 	1978
+Drager, Lance <id.php?id=35873> 	Brandeis University 	1978
+Driscoll, Bonita <id.php?id=13044> 	Northwestern University 	1978
+Dunham, James <id.php?id=83386> 	Stanford University 	1978
+Dunigan, Jr., Thomas <id.php?id=63392> 	The University of North Carolina
+at Chapel Hill 	1978
+Dunsmore, Hubert <id.php?id=103308> 	University of Maryland College
+Park 	1978
+Dupuy, James <id.php?id=17448> 	University of Alabama-Tuscaloosa 	1978
+Dutton, Charles <id.php?id=27044> 	Temple University 	1978
+Dymáček, Wayne <id.php?id=27222> 	Virginia Polytechnic Institute and
+State University 	1978
+Eagle, Jr., Vernon <id.php?id=5954> 	Rutgers University, New Brunswick 	1978
+Ealy, Jr., Clifton <id.php?id=47535> 	The University of Chicago 	1978
+Eby, Lloyd <id.php?id=83614> 	University of Florida 	1978
+Ecker, Michael <id.php?id=35655> 	City University of New York 	1978
+Eklund, Anthony <id.php?id=93191> 	Virginia Polytechnic Institute and
+State University 	1978
+Elaydi, Saber <id.php?id=61880> 	University of Missouri - Columbia 	1978
+El Gamal, Abbas <id.php?id=71449> 	Stanford University 	1978
+Elton, John <id.php?id=9170> 	Yale University 	1978
+Emanuel, Kerry <id.php?id=65889> 	Massachusetts Institute of
+Technology 	1978
+Engelbrecht-Wiggans, Richard <id.php?id=99112> 	Cornell University 	1978
+Epstein, Barbara <id.php?id=28505> 	Harvard University 	1978
+Erickson, Ranel <id.php?id=85956> 	Stanford University 	1978
+Evangelist, W. Michael <id.php?id=88920> 	Northwestern University 	1978
+Ezquerra, Norberto <id.php?id=78219> 	The Florida State University 	1978
+Factor, James <id.php?id=10959> 	Saint Louis University 	1978
+Fahy, Edward <id.php?id=909> 	Lehigh University 	1978
+Faran, James <id.php?id=31533> 	University of California, Berkeley 	1978
+Farhi, Edward <id.php?id=105726> 	Harvard University 	1978
+Federici, Gary <id.php?id=25355> 	Syracuse University 	1978
+Feuer, Arie <id.php?id=81761> 	Yale University 	1978
+Fieldsteel, Adam <id.php?id=14979> 	University of California, Berkeley 	1978
+Finamore, Weiler <id.php?id=135094> 	University of Wisconsin-Madison 	1978
+Fischer, Thomas <id.php?id=3709> 	University of Nebraska-Lincoln 	1978
+Fischer-Colbrie, Doris <id.php?id=32070> 	University of California,
+Berkeley 	1978
+Fischthal, Arnold <id.php?id=35600> 	City University of New York 	1978
+Fisher, David <id.php?id=3236> 	The Louisiana State University 	1978
+Floyd, William <id.php?id=7658> 	Princeton University 	1978
+Folberg, ex Pollack, Amy <id.php?id=31813> 	University of California,
+Berkeley 	1978
+Fontana, Robert <id.php?id=83390> 	Stanford University 	1978
+Ford, David <id.php?id=9988> 	The Ohio State University 	1978
+Fordyce, Nancy <id.php?id=2088> 	The Florida State University 	1978
+Foster, Larry <id.php?id=43431> 	Oklahoma State University 	1978
+Foster, Leslie <id.php?id=14503> 	Brown University 	1978
+Fournelle, Tom <id.php?id=798> 	University of Illinois at
+Urbana-Champaign 	1978
+Frame, Michael <id.php?id=43318> 	Tulane University 	1978
+Frank, Douglas <id.php?id=41785> 	University of South Carolina 	1978
+Franklin, William <id.php?id=78730> 	Harvard University 	1978
+Frey, Addison <id.php?id=91077> 	University of Pittsburgh 	1978
+Frolow, Igor <id.php?id=14504> 	Brown University 	1978
+Fwu, Chih-Chy <id.php?id=17169> 	University of California, Santa
+Barbara 	1978
+Gabber, Ofer <id.php?id=22504> 	Harvard University 	1978
+Gage, Michael <id.php?id=24414> 	Stanford University 	1978
+Gajendragadkar, Dilip <id.php?id=4175> 	University of Illinois at
+Urbana-Champaign 	1978
+Gallier, Jean <id.php?id=78759> 	University of California, Los Angeles 	1978
+Gamber, Heather <id.php?id=32970> 	University of Wisconsin-Madison 	1978
+Gans, Lydia <id.php?id=51144> 	University of California, Riverside 	1978
+Gansner, Emden <id.php?id=18028> 	Massachusetts Institute of
+Technology 	1978
+Gardiner, Joseph <id.php?id=47375> 	The University of North Carolina at
+Chapel Hill 	1978
+Gardner, Robert <id.php?id=7247> 	University of Michigan 	1978
+Garland, David <id.php?id=121395> 	University of California, Riverside 	1978
+Garza, Gene <id.php?id=5587> 	University of Georgia 	1978
+George, Daryl <id.php?id=15769> 	University of Kansas 	1978
+Gerber, Eric <id.php?id=17213> 	University of California, Santa
+Barbara 	1978
+Gewand, Marlene <id.php?id=22312> 	State University of New York at
+Buffalo 	1978
+Gibson, Laurie <id.php?id=12150> 	University of Houston 	1978
+Gillet, Henri <id.php?id=28526> 	Harvard University 	1978
+Gillogly, James <id.php?id=50361> 	Carnegie Mellon University 	1978
+Gilmer, Patrick <id.php?id=700> 	University of California, Berkeley 	1978
+Glastad, Bruce <id.php?id=2134> 	The Florida State University 	1978
+Glaz, Joseph <id.php?id=109955> 	Rutgers University, New Brunswick 	1978
+Glover, Joseph <id.php?id=43190> 	University of California, San Diego 	1978
+Gluck, David <id.php?id=53476> 	The University of Chicago 	1978
+Glynn, Robert <id.php?id=36824> 	Brandeis University 	1978
+Goff, Stuart <id.php?id=47307> 	University of Massachusetts Amherst 	1978
+Gold, Ellen <id.php?id=100720> 	The Johns Hopkins University 	1978
+Goldberg, David <id.php?id=8346> 	Princeton University 	1978
+Goldberg, Donald <id.php?id=38730> 	Dartmouth College 	1978
+Gomez-Mont Avalos, Xavier <id.php?id=42479> 	Princeton University 	1978
+Goodman-Petrushka, Sharon <id.php?id=35522> 	City University of New
+York 	1978
+Gorini, Flavio <id.php?id=34404> 	University of California, Berkeley 	1978
+Graves, Stephen <id.php?id=68468> 	The University of Rochester 	1978
+Gray, Terence <id.php?id=31360> 	University of California, Los Angeles 	1978
+Grebogi, Celso <id.php?id=125460> 	University of Maryland College Park 	1978
+Grebogi, Celso <id.php?id=39666> 	University of Maryland College Park 	1978
+Green, John <id.php?id=31786> 	University of California, Berkeley 	1978
+Green, Linda <id.php?id=144666> 	Yale University 	1978
+Greenland, Sander <id.php?id=106755> 	University of California, Los
+Angeles 	1978
+Grice, John <id.php?id=12642> 	Missouri University of Science and
+Technology 	1978
+Griffeth, Nancy <id.php?id=107305> 	The University of Chicago 	1978
+Grinstead, Charles <id.php?id=48839> 	University of California, Los
+Angeles 	1978
+Grinstein, Georges <id.php?id=53439> 	The University of Rochester 	1978
+Grosholz, Emily <id.php?id=106649> 	Yale University 	1978
+Gross, Benedict <id.php?id=12980> 	Harvard University 	1978
+Grotberg, James <id.php?id=101687> 	The Johns Hopkins University 	1978
+Guillory, Carroll <id.php?id=32486> 	University of California,
+Berkeley 	1978
+Gupta, Udaiprakash <id.php?id=82068> 	Princeton University 	1978
+Gutterman, Peter <id.php?id=82701> 	University of Wisconsin-Madison 	1978
+Haas, Ronald <id.php?id=43549> 	Oklahoma State University 	1978
+Haase, Nickolette <id.php?id=11155> 	Kent State University 	1978
+Habibi-Ashrafi, Farrokh <id.php?id=147829> 	University of Southern
+California 	1978
+Hagedorn, George <id.php?id=36719> 	Princeton University 	1978
+Hajja, Mowaffaq <id.php?id=16850> 	Purdue University 	1978
+Hall, William <id.php?id=9621> 	University of Wisconsin-Madison 	1978
+Halpern, Noemi <id.php?id=20003> 	Columbia University 	1978
+Hamaker, Charles <id.php?id=12850> 	University of Oregon 	1978
+Hamm, John <id.php?id=75726> 	State University of New York at Stony
+Brook 	1978
+Hammerstrom, Thomas <id.php?id=34331> 	University of California,
+Berkeley 	1978
+Harbater, David <id.php?id=23203> 	Massachusetts Institute of
+Technology 	1978
+Harboure de Aguilera, Eleonor <id.php?id=66863> 	University of
+Minnesota-Minneapolis 	1978
+Hardorp, Detlef <id.php?id=15139> 	Princeton University 	1978
+Harel, David <id.php?id=18992> 	Massachusetts Institute of Technology 	1978
+Hargraves, Beverly <id.php?id=2190> 	University of
+Minnesota-Minneapolis 	1978
+Harris, Joseph <id.php?id=18748> 	Harvard University 	1978
+Harrop, Frederick <id.php?id=4435> 	Brown University 	1978
+Hassam, Adil <id.php?id=158305> 	Princeton University 	1978
+Hayashi, Eric <id.php?id=32487> 	University of California, Berkeley 	1978
+Heath, Michael <id.php?id=41388> 	Stanford University 	1978
+Heidrich, Arnost <id.php?id=90909> 	University of Maryland College
+Park 	1978
+Henig, Mordechai <id.php?id=87400> 	Yale University 	1978
+Herman, Franklin <id.php?id=29967> 	Yale University 	1978
+Hernandez-Lerma, Onesimo <id.php?id=14505> 	Brown University 	1978
+(Hershberger) Kirkwood, Bessie <id.php?id=107903> 	The University of
+Oklahoma 	1978
+Hiebert, Kathie <id.php?id=43739> 	Rice University 	1978
+Hiller, Howard <id.php?id=62764> 	Massachusetts Institute of
+Technology 	1978
+Hirstein, James <id.php?id=69737> 	University of Georgia 	1978
+Ho, Thomas <id.php?id=23052> 	University of Pennsylvania 	1978
+Hoang, Thu <id.php?id=9874> 	University of Cincinnati 	1978
+Hoffstein, Jeffrey <id.php?id=12988> 	Massachusetts Institute of
+Technology 	1978
+Hogben, Leslie <id.php?id=7982> 	Yale University 	1978
+Hollerbach, John <id.php?id=113364> 	Massachusetts Institute of
+Technology 	1978
+Holmes, Mark <id.php?id=19597> 	University of California, Los Angeles 	1978
+Homer, Steven <id.php?id=32787> 	Massachusetts Institute of Technology 	1978
+Honda, Masahiro <id.php?id=82702> 	University of Wisconsin-Madison 	1978
+Hong, Sung <id.php?id=14047> 	University of Texas at Austin 	1978
+Hooton, James <id.php?id=117607> 	State University of New York at
+Buffalo 	1978
+Hoover, Douglas <id.php?id=9622> 	University of Wisconsin-Madison 	1978
+Hoover, John <id.php?id=5606> 	University of Utah 	1978
+Hopkins, Billy <id.php?id=45544> 	University of Texas at Austin 	1978
+Hopkins, Mark <id.php?id=918> 	University of Illinois at
+Urbana-Champaign 	1978
+Hou, Shui-Hung <id.php?id=7548> 	University of Michigan 	1978
+Howell, Kenneth <id.php?id=2231> 	Indiana University 	1978
+Hoyle, Stephen <id.php?id=5959> 	Rutgers University, New Brunswick 	1978
+Hsieh, Chang-Tseh <id.php?id=140798> 	Purdue University 	1978
+Hsieh, John-Tien <id.php?id=1725> 	University of Florida 	1978
+Hsu, Margaretha <id.php?id=91776> 	Virginia Polytechnic Institute and
+State University 	1978
+Huang, David <id.php?id=31378> 	Temple University 	1978
+Huang, Elizabeth <id.php?id=48108> 	Iowa State University 	1978
+Huard, James <id.php?id=30679> 	The Pennsylvania State University 	1978
+Huff, Lawrence <id.php?id=64720> 	Montana State University 	1978
+Huffman, Shirley <id.php?id=12640> 	Missouri University of Science and
+Technology 	1978
+Hunacek, Mark <id.php?id=5960> 	Rutgers University, New Brunswick 	1978
+Huneke, Craig <id.php?id=7983> 	Yale University 	1978
+Hunter, Gregory <id.php?id=82069> 	Princeton University 	1978
+Hutchins, Harry <id.php?id=5711> 	The University of Chicago 	1978
+Hwang, Chii-Ruey <id.php?id=14506> 	Brown University 	1978
+Igusa, Kiyoshi <id.php?id=23349> 	Princeton University 	1978
+Imber, Yeshoshua <id.php?id=123205> 	Brown University 	1978
+Ingram, Nancy <id.php?id=118717> 	University of Maryland College Park 	1978
+Iorio, Valeria <id.php?id=32437> 	University of California, Berkeley 	1978
+Itani, Abdul-Hafiz <id.php?id=134848> 	University of Iowa 	1978
+Izan, Haji <id.php?id=149826> 	The University of Chicago 	1978
+Jackson, David <id.php?id=933> 	University of Illinois at
+Urbana-Champaign 	1978
+Jackson, Michael <id.php?id=1142> 	State University of New York at Stony
+Brook 	1978
+Jacoby, George <id.php?id=180966> 	University of California, Los
+Angeles 	1978
+Jacyna, Garry <id.php?id=85300> 	Rensselaer Polytechnic Institute 	1978
+Jain, Rajendra <id.php?id=103794> 	Harvard University 	1978
+James, Richard <id.php?id=67550> 	The Johns Hopkins University 	1978
+Jani, Mahendra <id.php?id=35564> 	City University of New York 	1978
+Jantzen, Robert <id.php?id=46027> 	University of California, Berkeley 	1978
+Jefferson, Curtis <id.php?id=44240> 	Case Western Reserve University 	1978
+Jernigan, Robert <id.php?id=30223> 	University of South Florida 	1978
+Jervis, Jane <id.php?id=122879> 	Yale University 	1978
+Jino, Mario <id.php?id=146201> 	University of Illinois at
+Urbana-Champaign 	1978
+John, David <id.php?id=2271> 	Emory University 	1978
+Johnson, David <id.php?id=155489> 	Rice University 	1978
+Johnson, Eugene <id.php?id=122080> 	University of California,
+Riverside 	1978
+Johnson, Timothy <id.php?id=87833> 	Cornell University 	1978
+Johnson, William <id.php?id=59515> 	University of Arizona 	1978
+Jones, Charles <id.php?id=38751> 	Dartmouth College 	1978
+Jones, Marsha <id.php?id=11156> 	Kent State University 	1978
+Jones, Peter <id.php?id=25055> 	University of California, Los Angeles 	1978
+Jones, Sandie <id.php?id=50858> 	University of Wisconsin-Madison 	1978
+Kafka, Fred <id.php?id=141651> 	University of Pennsylvania 	1978
+Kandel, Abraham <id.php?id=13034> 	University of New Mexico 	1978
+Kao, Shaw <id.php?id=17825> 	The University of Oklahoma 	1978
+Kaplan, Marc <id.php?id=82070> 	Princeton University 	1978
+Katseff, Howard <id.php?id=177276> 	University of California, Berkeley 	1978
+Katz, Edward <id.php?id=80686> 	University of Louisiana at Lafayette 	1978
+Kaufmann, Matthew <id.php?id=9623> 	University of Wisconsin-Madison 	1978
+Keane, William <id.php?id=5721> 	University of Notre Dame 	1978
+Keller, James <id.php?id=3595> 	University of Missouri - Columbia 	1978
+Kellman, Don <id.php?id=88966> 	Temple University 	1978
+Kells, Lawrence <id.php?id=63521> 	Massachusetts Institute of
+Technology 	1978
+Kelsh, James <id.php?id=87896> 	University of California, Riverside 	1978
+Kenig, Carlos <id.php?id=9335> 	The University of Chicago 	1978
+Kerckhoff, Steven <id.php?id=44029> 	Princeton University 	1978
+Khalil, Hassan <id.php?id=91393> 	University of Illinois at
+Urbana-Champaign 	1978
+Kim, Ki Mok <id.php?id=34298> 	University of California, Berkeley 	1978
+Kindermann, Ross <id.php?id=4082> 	University of Illinois at
+Urbana-Champaign 	1978
+King, Jr., Joseph <id.php?id=12151> 	University of Houston 	1978
+Kingston, Joseph <id.php?id=12643> 	Missouri University of Science and
+Technology 	1978
+Kinicki, Robert <id.php?id=87782> 	Duke University 	1978
+Kirchmeyer, John <id.php?id=13045> 	Northwestern University 	1978
+Kirkpatrick, Melvin <id.php?id=87528> 	University of Tennessee -
+Knoxville 	1978
+Kirousis, Lefteris <id.php?id=48791> 	University of California, Los
+Angeles 	1978
+Klainerman, Sergiu <id.php?id=18856> 	New York University 	1978
+Kleinhenz, Robert <id.php?id=4859> 	University of Illinois at
+Urbana-Champaign 	1978
+Kliorys, Constantine <id.php?id=11139> 	Kent State University 	1978
+Knafl, George <id.php?id=12563> 	Northwestern University 	1978
+Knobloch, Edgar <id.php?id=92099> 	Harvard University 	1978
+Knodle, Stephen <id.php?id=28260> 	University of Washington 	1978
+Ko, Hai-Ping <id.php?id=9985> 	The Ohio State University 	1978
+Kocatepe, Mefharet <id.php?id=47818> 	University of Michigan 	1978
+Koenig, Keith <id.php?id=119896> 	California Institute of Technology 	1978
+Koether, Robb <id.php?id=89091> 	The University of Oklahoma 	1978
+Kofman, Ehud <id.php?id=86304> 	University of California, Los Angeles 	1978
+Kohen, Abdelouahab <id.php?id=2325> 	Washington University in St.
+Louis 	1978
+Kolaitis, Phokion <id.php?id=48792> 	University of California, Los
+Angeles 	1978
+Konrad, Michael <id.php?id=2327> 	Ohio University 	1978
+Korn, Edward <id.php?id=83197> 	Stanford University 	1978
+Kornblum, Deborah <id.php?id=35594> 	City University of New York 	1978
+Krinik, Alan <id.php?id=87897> 	University of California, Riverside 	1978
+Ku, Richard <id.php?id=112457> 	Massachusetts Institute of Technology 	1978
+Kuhlmann, Douglas <id.php?id=13046> 	Northwestern University 	1978
+Kumagai, Donna <id.php?id=2337> 	Lehigh University 	1978
+Kung, Joseph <id.php?id=11614> 	Massachusetts Institute of Technology 	1978
+Kurtz, Douglas <id.php?id=5955> 	Rutgers University, New Brunswick 	1978
+Kurtzke, Jr., John <id.php?id=31331> 	University of California, Los
+Angeles 	1978
+Kutkut, Mahmoud <id.php?id=1146> 	State University of New York at Stony
+Brook 	1978
+Kwak, Edward <id.php?id=104690> 	Ohio University 	1978
+Kwan, Kwok-Yin <id.php?id=12852> 	University of Oregon 	1978
+Kwiatkowski, Jan <id.php?id=85437> 	University of California, Berkeley 	1978
+Kwon, Yong Rae <id.php?id=126495> 	University of Pittsburgh 	1978
+Laine, Thomas <id.php?id=13047> 	Northwestern University 	1978
+Lakatos, Edward <id.php?id=55080> 	University of Maryland College Park 	1978
+Lake, Robert <id.php?id=50022> 	The Johns Hopkins University 	1978
+Lambert, Annick <id.php?id=183968> 	University of Wisconsin-Madison 	1978
+Lambert, Diane <id.php?id=57540> 	The University of Rochester 	1978
+Lang, William <id.php?id=28527> 	Harvard University 	1978
+La Roche, Peter <id.php?id=30441> 	Cornell University 	1978
+Laventhal, Mark <id.php?id=86221> 	Massachusetts Institute of
+Technology 	1978
+Lawrence, William <id.php?id=63702> 	University of Maryland College
+Park 	1978
+Le, Chap <id.php?id=73222> 	University of New Mexico 	1978
+Leary, Robert <id.php?id=83508> 	Stanford University 	1978
+Lebowitz, Rochelle <id.php?id=5962> 	Rutgers University, New Brunswick 	1978
+Lee, Chong <id.php?id=52487> 	North Carolina State University 	1978
+Lee, C. S. George <id.php?id=67574> 	Purdue University 	1978
+Lee, Der-Tsai <id.php?id=179559> 	University of Illinois at
+Urbana-Champaign 	1978
+Lee, Susan <id.php?id=41783> 	University of South Carolina 	1978
+Lee, Yuet <id.php?id=30410> 	Massachusetts Institute of Technology 	1978
+Lee (Berg), Rebecca <id.php?id=19448> 	University of California,
+Riverside 	1978
+Lemkin, Peter <id.php?id=78859> 	University of Maryland College Park 	1978
+Lentini-Gil, Marianela <id.php?id=11824> 	California Institute of
+Technology 	1978
+Leung, Koon-Loon <id.php?id=9624> 	University of Wisconsin-Madison 	1978
+Leung, Yuk <id.php?id=7258> 	University of Michigan 	1978
+Leurgans, Sue <id.php?id=83196> 	Stanford University 	1978
+Levi, Mark <id.php?id=19537> 	New York University 	1978
+Levy, Victor <id.php?id=149827> 	The University of Chicago 	1978
+Lewis, Jr., L. Gaunce <id.php?id=7720> 	The University of Chicago 	1978
+Liao, Lu-Peji <id.php?id=2392> 	Washington University in St. Louis 	1978
+Lichtenstein, Walter <id.php?id=32806> 	University of California,
+Berkeley 	1978
+Lichtin, Benjamin <id.php?id=9986> 	The Ohio State University 	1978
+Liggett, Robin <id.php?id=70505> 	University of California, Los
+Angeles 	1978
+Lim, Jae <id.php?id=83055> 	Massachusetts Institute of Technology 	1978
+Limaye, Ranjan <id.php?id=30343> 	University of Iowa 	1978
+Lindblom, Lee <id.php?id=118631> 	University of Maryland College Park 	1978
+Linde, Yoseph <id.php?id=83387> 	Stanford University 	1978
+Lindsay, Bruce <id.php?id=62644> 	University of Washington 	1978
+Linnell, Melvin <id.php?id=107941> 	Montana State University 	1978
+Li Santi, Barbara <id.php?id=17203> 	University of California, Santa
+Barbara 	1978
+Liu, Aggie <id.php?id=24308> 	Claremont Graduate University 	1978
+Lo, Albert <id.php?id=34452> 	University of California, Berkeley 	1978
+Long, Timothy <id.php?id=81926> 	Purdue University 	1978
+Longbotham, C. <id.php?id=1443> 	The Florida State University 	1978
+Looze, Douglas <id.php?id=133711> 	Massachusetts Institute of
+Technology 	1978
+Lovett, Jane <id.php?id=9989> 	The Ohio State University 	1978
+Lubin, Jay <id.php?id=101179> 	University of Washington 	1978
+Ludescher, William <id.php?id=2425> 	Indiana University 	1978
+Luk, Franklin <id.php?id=46413> 	Stanford University 	1978
+Lund, John <id.php?id=13072> 	University of Utah 	1978
+Lupo, Thomas <id.php?id=37429> 	Columbia University 	1978
+Ma, Joong <id.php?id=130824> 	University of Massachusetts Amherst 	1978
+MacCalla, Johnetta <id.php?id=147828> 	University of Southern
+California 	1978
+MacGregor, Robert <id.php?id=106234> 	University of California,
+Berkeley 	1978
+Mack, Yue-Pok <id.php?id=43185> 	University of California, San Diego 	1978
+Mackiw, George <id.php?id=16304> 	University of Virginia 	1978
+Madden, Catherine <id.php?id=2434> 	Lehigh University 	1978
+Maddux, Roger <id.php?id=29537> 	University of California, Berkeley 	1978
+Magiawala, Kiran <id.php?id=120950> 	California Institute of
+Technology 	1978
+Magid, Martin <id.php?id=4436> 	Brown University 	1978
+Maher, Mary <id.php?id=11971> 	The University of Rochester 	1978
+Maheshwari, Shachindra <id.php?id=160286> 	Northwestern University 	1978
+Maier, David <id.php?id=82071> 	Princeton University 	1978
+Malaiya, Yashwant <id.php?id=122022> 	Utah State University 	1978
+Manders, Kenneth <id.php?id=31472> 	University of California, Berkeley 	1978
+Marchesin, Dan <id.php?id=33321> 	New York University 	1978
+Marcondes, Nilson <id.php?id=34332> 	University of California,
+Berkeley 	1978
+Marcus, Mitchell <id.php?id=97405> 	Massachusetts Institute of
+Technology 	1978
+Marcus, Philip <id.php?id=69347> 	Princeton University 	1978
+Marden, John <id.php?id=41336> 	The University of Chicago 	1978
+Margolis, Eric <id.php?id=64017> 	University of Colorado at Boulder 	1978
+Marin, Samuel <id.php?id=63636> 	Carnegie Mellon University 	1978
+Martin, Gary <id.php?id=141088> 	Stanford University 	1978
+Marwil, Earl <id.php?id=29572> 	Cornell University 	1978
+Masarani, Muhamad <id.php?id=4606> 	University of Illinois at
+Urbana-Champaign 	1978
+Matelski, John <id.php?id=42478> 	Princeton University 	1978
+Matoi, Thomas <id.php?id=129416> 	Massachusetts Institute of
+Technology 	1978
+Matsuyama, Yasuo <id.php?id=83388> 	Stanford University 	1978
+Matthes, Lloyd <id.php?id=87354> 	University of Tennessee - Knoxville 	1978
+Matthies, Hermann <id.php?id=64003> 	Massachusetts Institute of
+Technology 	1978
+May, Ralph <id.php?id=23093> 	University of Pennsylvania 	1978
+McAsey, Michael <id.php?id=10165> 	University of Iowa 	1978
+McCartney, Philip <id.php?id=24310> 	Claremont Graduate University 	1978
+McCarty, Loretta <id.php?id=27043> 	Temple University 	1978
+McCay, Brian <id.php?id=62293> 	Oregon State University 	1978
+McClung, O. <id.php?id=12514> 	University of Oregon 	1978
+McClure, James <id.php?id=9362> 	The University of Chicago 	1978
+McCormick, William <id.php?id=83195> 	Stanford University 	1978
+McCracken, Donald <id.php?id=50362> 	Carnegie Mellon University 	1978
+McCullough, Darryl <id.php?id=7259> 	University of Michigan 	1978
+McFarland, Blanche <id.php?id=52536> 	North Carolina State University 	1978
+McGee, Daniel <id.php?id=49807> 	The Johns Hopkins University 	1978
+McGee, Keane <id.php?id=145579> 	Oregon State University 	1978
+McKay, Lucia <id.php?id=45530> 	University of Texas at Austin 	1978
+McKean, Joseph <id.php?id=9685> 	The Pennsylvania State University 	1978
+McKellar, Robert <id.php?id=44891> 	University of Arizona 	1978
+McKenna, Kenneth <id.php?id=117891> 	Yale University 	1978
+McKenzie, John <id.php?id=34215> 	University of Michigan 	1978
+McLeod, Dennis <id.php?id=80774> 	Massachusetts Institute of
+Technology 	1978
+McOwen, Robert <id.php?id=31601> 	University of California, Berkeley 	1978
+Mead, Jr., Robert <id.php?id=81925> 	Purdue University 	1978
+Meeks, Stephen <id.php?id=36105> 	Southern Methodist University 	1978
+mendonca e Moura, Carlos <id.php?id=63703> 	University of Maryland
+College Park 	1978
+Meshkani, Mohammad <id.php?id=98829> 	The Florida State University 	1978
+Meyer, Robert <id.php?id=3710> 	University of Nebraska-Lincoln 	1978
+Miles, Gary <id.php?id=86007> 	University of Southern California 	1978
+Miller, Arnold <id.php?id=11379> 	University of California, Berkeley 	1978
+Mintzer, Fred <id.php?id=84398> 	Princeton University 	1978
+Mishne, David <id.php?id=141092> 	Stanford University 	1978
+Miskimins, Richard <id.php?id=111789> 	Colorado State University 	1978
+Modiano, Eduardo <id.php?id=155348> 	Massachusetts Institute of
+Technology 	1978
+Moin, Parviz <id.php?id=107815> 	Stanford University 	1978
+Morari, Manfred <id.php?id=142331> 	University of
+Minnesota-Minneapolis 	1978
+Morgan, Karolyn <id.php?id=32086> 	University of California, Berkeley 	1978
+Morris, Robert <id.php?id=106576> 	University of California, Los
+Angeles 	1978
+Morrison, Ian <id.php?id=28525> 	Harvard University 	1978
+Mortenson, Robert <id.php?id=919> 	University of Illinois at
+Urbana-Champaign 	1978
+Mostrom, Michael <id.php?id=101387> 	University of California,
+Berkeley 	1978
+Mueller, Dale <id.php?id=3471> 	University of Montana 	1978
+Mullis, Ina <id.php?id=101150> 	University of Colorado at Boulder 	1978
+Mulry, Mary <id.php?id=2513> 	Indiana University 	1978
+Murphy, Paul <id.php?id=70322> 	Rutgers University, New Brunswick 	1978
+Murray, Daniel <id.php?id=45486> 	University of Arizona 	1978
+Muto, Shigeo <id.php?id=99114> 	Cornell University 	1978
+Mynick, Harry <id.php?id=101165> 	University of California, Berkeley 	1978
+Nagase, Teruo <id.php?id=4162> 	University of Illinois at
+Urbana-Champaign 	1978
+Nair, Vijayan <id.php?id=34453> 	University of California, Berkeley 	1978
+Najfeld, Igor <id.php?id=14507> 	Brown University 	1978
+Naylor, Lawrence <id.php?id=17826> 	The University of Oklahoma 	1978
+Neidhardt, Arnold <id.php?id=9625> 	University of Wisconsin-Madison 	1978
+Neu, John <id.php?id=11825> 	California Institute of Technology 	1978
+Newton, Arthur <id.php?id=144824> 	University of California, Berkeley 	1978
+Niefield, Susan <id.php?id=5956> 	Rutgers University, New Brunswick 	1978
+Niemegeers, Ignas <id.php?id=169412> 	Purdue University 	1978
+Nishihara, H. K. <id.php?id=67783> 	Massachusetts Institute of
+Technology 	1978
+Nkwuo, Jonathan <id.php?id=34403> 	University of California, Berkeley 	1978
+Nocedal, Jorge <id.php?id=43740> 	Rice University 	1978
+Nordheim, Erik <id.php?id=82781> 	University of Minnesota-Minneapolis 	1978
+Notz, William <id.php?id=48084> 	Cornell University 	1978
+Nygard, Kendall <id.php?id=13009> 	Virginia Polytechnic Institute and
+State University 	1978
+Ochoa, Juan <id.php?id=31426> 	University of California, Berkeley 	1978
+Okech, Jack <id.php?id=89747> 	Texas Southern University 	1978
+Olaussen, Kare <id.php?id=64846> 	Massachusetts Institute of
+Technology 	1978
+Ollin, Harold <id.php?id=58422> 	State University of New York at Stony
+Brook 	1978
+Omolayole, Joseph <id.php?id=140986> 	University of California, Los
+Angeles 	1978
+Ong, Boon-Hua <id.php?id=31427> 	University of California, Berkeley 	1978
+Ore, Jr., Fred <id.php?id=99420> 	Massachusetts Institute of
+Technology 	1978
+O'Rourke, Brian <id.php?id=50028> 	The Johns Hopkins University 	1978
+Ottenstein, Karl <id.php?id=81927> 	Purdue University 	1978
+Ottenstein, Linda <id.php?id=81928> 	Purdue University 	1978
+Outlaw, Charlotte <id.php?id=9873> 	University of Cincinnati 	1978
+Ouyoung, Kuong <id.php?id=43347> 	Tulane University 	1978
+Ovadia, Fred <id.php?id=24327> 	Claremont Graduate University 	1978
+Overman, Jr., Edward <id.php?id=1590> 	University of Arizona 	1978
+Oversteegen, Lex <id.php?id=37079> 	Wayne State University 	1978
+Ozguc, Bulent <id.php?id=182528> 	University of Pennsylvania 	1978
+Pai, Ajit <id.php?id=136332> 	State University of New York at Stony
+Brook 	1978
+Palmer, John <id.php?id=14508> 	Brown University 	1978
+Palmiter, Michael <id.php?id=31650> 	University of California,
+Berkeley 	1978
+Panetta, Richard <id.php?id=9626> 	University of Wisconsin-Madison 	1978
+Pariente, Silvia <id.php?id=155345> 	Massachusetts Institute of
+Technology 	1978
+Park, Jae <id.php?id=9876> 	University of Cincinnati 	1978
+Parker, Jr., D. Stott <id.php?id=44059> 	University of Illinois at
+Urbana-Champaign 	1978
+Parks, Jean <id.php?id=51922> 	The University of Rochester 	1978
+Parr, William <id.php?id=36066> 	Southern Methodist University 	1978
+Parris, Richard <id.php?id=133338> 	Princeton University 	1978
+Parry, Robert <id.php?id=44450> 	Stanford University 	1978
+Pass, Ralph <id.php?id=32884> 	University of Maryland College Park 	1978
+Passty, Gregory <id.php?id=8946> 	University of Southern California 	1978
+Patankar, Padmakar <id.php?id=113431> 	University of Texas at Dallas 	1978
+Pate-Cornell, Marie <id.php?id=121357> 	Stanford University 	1978
+Patten, Paul <id.php?id=30655> 	The University of Oklahoma 	1978
+Payne Jr., Cloyd <id.php?id=19452> 	University of Toledo 	1978
+Paysen, Timothy <id.php?id=51143> 	University of California, Riverside 	1978
+Peele, Rhodes <id.php?id=35215> 	The University of North Carolina at
+Chapel Hill 	1978
+Pelland, David <id.php?id=38897> 	Wesleyan University 	1978
+Peral, Juan <id.php?id=8347> 	Princeton University 	1978
+Perez, Jose <id.php?id=11227> 	Kansas State University 	1978
+Perloff, Michael <id.php?id=18614> 	Stanford University 	1978
+Perlstadt, Marci <id.php?id=31760> 	University of California, Berkeley 	1978
+Perry, Dewayne <id.php?id=108843> 	Stevens Institute of Technology 	1978
+Peskin, Michael <id.php?id=105804> 	Cornell University 	1978
+Peterson, Bradley <id.php?id=136075> 	University of Arizona 	1978
+Peterson, Dale <id.php?id=62288> 	Harvard University 	1978
+Petrucdelli, Joseph <id.php?id=155426> 	Purdue University 	1978
+Petty, Michael <id.php?id=2599> 	The Florida State University 	1978
+Petzold, Linda <id.php?id=41492> 	University of Illinois at
+Urbana-Champaign 	1978
+Pham, Son <id.php?id=9875> 	University of Cincinnati 	1978
+Phillips, Fred <id.php?id=41351> 	University of Texas at Austin 	1978
+Pichet, Claude <id.php?id=5965> 	Rutgers University, New Brunswick 	1978
+Pilpel, Shaiy <id.php?id=34402> 	University of California, Berkeley 	1978
+Poplawski, David <id.php?id=81929> 	Purdue University 	1978
+Porter, Robert <id.php?id=6695> 	Northwestern University 	1978
+Portnoff, Michael <id.php?id=91051> 	Massachusetts Institute of
+Technology 	1978
+Powell, Wayne <id.php?id=43350> 	Tulane University 	1978
+Preston, David <id.php?id=90842> 	University of Maryland College Park 	1978
+Price, Lynne <id.php?id=82707> 	University of Wisconsin-Madison 	1978
+Przybylski, Jerome <id.php?id=8503> 	Western Michigan University 	1978
+Qualls, Debra <id.php?id=38782> 	Dartmouth College 	1978
+Quesada Rettschlag, Antonio <id.php?id=1722> 	University of Florida 	1978
+Quinto, Eric <id.php?id=41485> 	Massachusetts Institute of Technology 	1978
+Raanan, Joseph <id.php?id=44367> 	Cornell University 	1978
+Rabinowitz, Joshua <id.php?id=37518> 	Columbia University 	1978
+Rajagopal, Kumbakonam <id.php?id=67347> 	University of
+Minnesota-Minneapolis 	1978
+Rallis, Nancy <id.php?id=2634> 	Indiana University 	1978
+Ramaswami, Vaidyanathan <id.php?id=48462> 	Purdue University 	1978
+Ramsey, John <id.php?id=3237> 	The Louisiana State University 	1978
+Ran, Ziv <id.php?id=32315> 	University of California, Berkeley 	1978
+Rangarajan, Anand <id.php?id=69447> 	University of Wisconsin-Madison 	1978
+Rao, Aswath <id.php?id=44256> 	Case Western Reserve University 	1978
+Rapoport, David <id.php?id=33610> 	New York University 	1978
+Rawat, Pramud <id.php?id=48725> 	University of California, Los Angeles 	1978
+Read, William <id.php?id=14048> 	University of Texas at Austin 	1978
+Reber, Douglas <id.php?id=14509> 	Brown University 	1978
+Reddy, C. Ramu <id.php?id=59142> 	Duke University 	1978
+Redner, Richard <id.php?id=12152> 	University of Houston 	1978
+Reichmeider, Philip <id.php?id=11695> 	Adelphi University 	1978
+Reid, Walter <id.php?id=1369> 	University of Colorado at Boulder 	1978
+Reiter, Edna <id.php?id=9871> 	University of Cincinnati 	1978
+Rejali, Ali <id.php?id=45261> 	Stanford University 	1978
+Resco, Richard <id.php?id=43195> 	University of California, San Diego 	1978
+Rhee, Wan <id.php?id=11161> 	Kent State University 	1978
+Rhodes, Michael <id.php?id=140985> 	University of California, Los
+Angeles 	1978
+Richter, Gary <id.php?id=718> 	University of Texas at Austin 	1978
+Riddle, Fay <id.php?id=1721> 	University of Florida 	1978
+Riley, David <id.php?id=380> 	University of Iowa 	1978
+Riley, James <id.php?id=24412> 	Wayne State University 	1978
+Rizzoli, Paola <id.php?id=80615> 	University of California, San Diego 	1978
+Roberts, Gary <id.php?id=16676> 	Purdue University 	1978
+Rocha-Caridi, Alvany <id.php?id=5953> 	Rutgers University, New
+Brunswick 	1978
+Rock, Stephen <id.php?id=70998> 	Stanford University 	1978
+Rockhold, Frank <id.php?id=41830> 	Virginia Commonwealth University 	1978
+Rodriguez, Robert <id.php?id=47455> 	The University of North Carolina at
+Chapel Hill 	1978
+Rogers, III, William <id.php?id=83194> 	Stanford University 	1978
+Rollin, Linda <id.php?id=60825> 	Colorado State University 	1978
+Ronan, Mark <id.php?id=12853> 	University of Oregon 	1978
+Rosalsky, Andrew <id.php?id=61510> 	Rutgers University, New Brunswick 	1978
+Rose, Michael <id.php?id=51736> 	The University of Chicago 	1978
+Rosenthal, David <id.php?id=43208> 	University of California, San
+Diego 	1978
+Rosoff, Jeffrey <id.php?id=31815> 	University of California, Berkeley 	1978
+Ross, Rocky <id.php?id=7512> 	Washington State University 	1978
+Rostamian, Rouben <id.php?id=14510> 	Brown University 	1978
+Rothman, Sheldon <id.php?id=35637> 	City University of New York 	1978
+Roubine, Olivier <id.php?id=120378> 	University of California,
+Berkeley 	1978
+Royster, David <id.php?id=3238> 	The Louisiana State University 	1978
+Rubin, Arthur <id.php?id=10490> 	California Institute of Technology 	1978
+Rubin, Steve <id.php?id=50322> 	Carnegie Mellon University 	1978
+Rumely, Robert <id.php?id=80059> 	Princeton University 	1978
+Ruskey, Frank <id.php?id=15125> 	University of California, San Diego 	1978
+Ruskin, David <id.php?id=48778> 	University of California, Los Angeles 	1978
+Russinoff, David <id.php?id=33238> 	New York University 	1978
+Rust, III, Albert <id.php?id=8778> 	University of South Florida 	1978
+Rutledge, James <id.php?id=179562> 	University of Illinois at
+Urbana-Champaign 	1978
+Ruzzo, W. Larry <id.php?id=71764> 	University of California, Berkeley 	1978
+Sachs, Larry <id.php?id=122186> 	The Ohio State University 	1978
+Sadler, Thomas <id.php?id=17479> 	University of Alabama-Tuscaloosa 	1978
+Sagiv, Yehoshua <id.php?id=82073> 	Princeton University 	1978
+Sakai, Ann <id.php?id=116015> 	University of Michigan 	1978
+Saksena, Shiva <id.php?id=126933> 	Louisiana Tech University 	1978
+Salter, Richard <id.php?id=2696> 	Indiana University 	1978
+Salveter, Sharon <id.php?id=82708> 	University of Wisconsin-Madison 	1978
+Samelson, Christopher <id.php?id=15767> 	University of Kansas 	1978
+Sammon, Peter <id.php?id=97722> 	Cornell University 	1978
+Sangwine-Yager, Jane <id.php?id=64802> 	University of California,
+Davis 	1978
+Santa Coloma, Teresa <id.php?id=54248> 	University of Notre Dame 	1978
+Sanz, Jose <id.php?id=33638> 	New York University 	1978
+Saraidaridis, Charalampos <id.php?id=177356> 	Case Western Reserve
+University 	1978
+Sastry, Narasimha <id.php?id=74953> 	University of Pittsburgh 	1978
+Sato, Nobuyuki <id.php?id=36815> 	Brandeis University 	1978
+Saunders, Bonnie <id.php?id=31855> 	University of California, Berkeley 	1978
+Schaefer, Thomas <id.php?id=31947> 	University of California, Berkeley 	1978
+Schaller, Stuart <id.php?id=82712> 	University of Wisconsin-Madison 	1978
+Schapira, Michael <id.php?id=30799> 	Polytechnic University 	1978
+Schechtma, Kenneth <id.php?id=2707> 	Washington University in St.
+Louis 	1978
+Schlereth, Eugene <id.php?id=47544> 	Washington University in St.
+Louis 	1978
+Schmidt, Erik <id.php?id=98274> 	Cornell University 	1978
+Schmidt, Ron <id.php?id=12153> 	University of Houston 	1978
+Schmitz, David <id.php?id=20216> 	University of Utah 	1978
+Schneider, Fred <id.php?id=73493> 	State University of New York at Stony
+Brook 	1978
+Schoenfelder, Carol <id.php?id=47521> 	The University of North Carolina
+at Chapel Hill 	1978
+Schwalm, Mizuho <id.php?id=55262> 	Montana State University 	1978
+Schwalm, William <id.php?id=55258> 	Montana State University 	1978
+Schwartz, Richard <id.php?id=69957> 	University of California, Los
+Angeles 	1978
+Schwingendorf, Keith <id.php?id=16636> 	Purdue University 	1978
+Scott, David <id.php?id=28287> 	University of Washington 	1978
+Scott, David <id.php?id=32331> 	University of California, Berkeley 	1978
+Segal, Marsha <id.php?id=16318> 	University of Virginia 	1978
+Seltzer, Stanley <id.php?id=46528> 	University of Iowa 	1978
+Sembiring, Robert <id.php?id=34657> 	University of California,
+Berkeley 	1978
+Shadish, Jr., William <id.php?id=62519> 	Purdue University 	1978
+Shafer, Douglas <id.php?id=35205> 	The University of North Carolina at
+Chapel Hill 	1978
+Shaffer, Jeffrey <id.php?id=100792> 	University of Maryland College
+Park 	1978
+Shamos, Michael <id.php?id=102419> 	Yale University 	1978
+Shapiro, Bruce <id.php?id=78860> 	University of Maryland College Park 	1978
+Shapiro, Dawn <id.php?id=15446> 	Michigan State University 	1978
+Shapiro, Stewart <id.php?id=171418> 	State University of New York at
+Buffalo 	1978
+Sharma, Surendra <id.php?id=127643> 	Massachusetts Institute of
+Technology 	1978
+Shaw, Terry <id.php?id=45514> 	University of Texas at Austin 	1978
+Shay, William <id.php?id=41709> 	University of Wisconsin-Milwaukee 	1978
+Sheffi, Yosef <id.php?id=69373> 	Massachusetts Institute of Technology 	1978
+Sheffield, John <id.php?id=11826> 	California Institute of Technology 	1978
+Shelburne, Brian <id.php?id=123424> 	Duke University 	1978
+Shen, Michael <id.php?id=116882> 	University of California, Los
+Angeles 	1978
+Shepardson, Wilfred <id.php?id=24130> 	Massachusetts Institute of
+Technology 	1978
+Shields, Thomas <id.php?id=43730> 	Rice University 	1978
+Shin, Kang <id.php?id=87103> 	Cornell University 	1978
+Shinnar, Meir <id.php?id=8348> 	Princeton University 	1978
+Shrobe, Howard <id.php?id=80257> 	Massachusetts Institute of
+Technology 	1978
+Shyashiow, Regina <id.php?id=20277> 	Auburn University 	1978
+Siegel, David <id.php?id=36569> 	Stanford University 	1978
+Simmes, Stephen <id.php?id=50954> 	Carnegie Mellon University 	1978
+Sinay, Leon <id.php?id=33133> 	New York University 	1978
+Sinay, Maria <id.php?id=35656> 	City University of New York 	1978
+Skedzeleski, Stephen <id.php?id=82713> 	University of
+Wisconsin-Madison 	1978
+Smalø, Sverre <id.php?id=36747> 	Brandeis University 	1978
+Smith, Cory <id.php?id=43129> 	University of California, San Diego 	1978
+Smith, David <id.php?id=43433> 	Oklahoma State University 	1978
+Smith, F. <id.php?id=63391> 	The University of North Carolina at Chapel
+Hill 	1978
+Smith, Penny <id.php?id=47125> 	Polytechnic University 	1978
+Smith, Thomas <id.php?id=50811> 	Texas Tech University 	1978
+Smith, William <id.php?id=20228> 	University of Utah 	1978
+Smock, Sue <id.php?id=111959> 	Wayne State University 	1978
+Snow, Morris <id.php?id=134641> 	Yeshiva University 	1978
+Snow, Robert <id.php?id=28040> 	University of Washington 	1978
+Snyder, Alan <id.php?id=86190> 	Massachusetts Institute of Technology 	1978
+Sobel, Joel <id.php?id=31743> 	University of California, Berkeley 	1978
+Socci, Patrick <id.php?id=24396> 	Polytechnic University 	1978
+Soleimani, David <id.php?id=126161> 	University of California,
+Berkeley 	1978
+Solomon, Isaac <id.php?id=41719> 	University of Wisconsin-Milwaukee 	1978
+Solow, Anita <id.php?id=38731> 	Dartmouth College 	1978
+Solow, Daniel <id.php?id=35353> 	Stanford University 	1978
+Soloway, Elliot <id.php?id=78224> 	University of Massachusetts Amherst 	1978
+Sonderman, David <id.php?id=144659> 	Yale University 	1978
+Song, Mansuk <id.php?id=7276> 	University of Michigan 	1978
+Soule, Malcolm <id.php?id=48907> 	University of California, Los
+Angeles 	1978
+Spector, Mitchell <id.php?id=48005> 	Massachusetts Institute of
+Technology 	1978
+Spector, Scott <id.php?id=64459> 	Carnegie Mellon University 	1978
+Spencer, Floyd <id.php?id=12248> 	Cornell University 	1978
+Sriburi, Songsiri <id.php?id=52543> 	North Carolina State University 	1978
+Stadelmaier, Michael <id.php?id=18489> 	North Carolina State
+University 	1978
+Staton, III, William <id.php?id=10294> 	University of Houston 	1978
+Steinhardt, Paul Joseph <id.php?id=182221> 	Harvard University 	1978
+Stengel, Donald <id.php?id=187620> 	Stanford University 	1978
+Stephenson, Andrew <id.php?id=116014> 	University of Michigan 	1978
+Stevens, Terrie <id.php?id=69662> 	Harvard University 	1978
+Stewart, Mark <id.php?id=155529> 	Rice University 	1978
+Stiff, Lee <id.php?id=52796> 	North Carolina State University 	1978
+Storer, James <id.php?id=82074> 	Princeton University 	1978
+Stoughton, John <id.php?id=3856> 	University of Tennessee - Knoxville 	1978
+Straubing, Howard <id.php?id=32410> 	University of California,
+Berkeley 	1978
+Straume, Eldar <id.php?id=31914> 	University of California, Berkeley 	1978
+Strauss, Leon <id.php?id=129189> 	The Johns Hopkins University 	1978
+Streit, Roy <id.php?id=3632> 	University of Rhode Island 	1978
+Streitmatter, Janice <id.php?id=69179> 	University of Arizona 	1978
+Strip, David <id.php?id=59423> 	Cornell University 	1978
+Subramaniam, Mangalam <id.php?id=41682> 	University of
+Wisconsin-Milwaukee 	1978
+Summers, Daniel <id.php?id=145580> 	Oregon State University 	1978
+Superville, Lennox <id.php?id=35595> 	City University of New York 	1978
+Suri, Rajan <id.php?id=81148> 	Harvard University 	1978
+Svendsen, Edward <id.php?id=3993> 	University of Illinois at
+Urbana-Champaign 	1978
+Swamy, Sowmitri <id.php?id=123207> 	Brown University 	1978
+Sweeney, Thomas <id.php?id=10960> 	Saint Louis University 	1978
+Swimme, Brian <id.php?id=12854> 	University of Oregon 	1978
+Symington, William <id.php?id=116287> 	California Institute of
+Technology 	1978
+Szeto, Mabel <id.php?id=30815> 	Polytechnic University 	1978
+Szeto, Roque <id.php?id=11827> 	California Institute of Technology 	1978
+Tai, Tony Chak Leung <id.php?id=42379> 	University of Michigan 	1978
+Takahahshi, Hajime <id.php?id=94023> 	Columbia University 	1978
+Talaga, Paul <id.php?id=12623> 	University of Colorado at Boulder 	1978
+Tamaki, Jeanne <id.php?id=64865> 	Massachusetts Institute of
+Technology 	1978
+Tan, Rudy <id.php?id=52544> 	North Carolina State University 	1978
+Tan, Soon <id.php?id=3027> 	Southern Illinois University at Carbondale 	1978
+Tang, Wang <id.php?id=141351> 	Iowa State University 	1978
+Tarabay, Ajaj <id.php?id=20182> 	University of Utah 	1978
+Tavoularis, Stavros <id.php?id=163233> 	The Johns Hopkins University 	1978
+Tee, Remigio <id.php?id=57856> 	University of Colorado at Boulder 	1978
+Teren, Fred <id.php?id=141102> 	Stanford University 	1978
+Terrell, Maria <id.php?id=15815> 	University of Virginia 	1978
+Terrell, Robert <id.php?id=15816> 	University of Virginia 	1978
+Thompson, Wesley <id.php?id=31471> 	University of California, Berkeley 	1978
+Thoresen, Lee <id.php?id=105441> 	Illinois Institute of Technology 	1978
+Timoney, Richard <id.php?id=47138> 	University of Illinois at
+Urbana-Champaign 	1978
+Tippett, James <id.php?id=6949> 	University of Kentucky 	1978
+Tisdale, Henry <id.php?id=38783> 	Dartmouth College 	1978
+Todorov, Gordana <id.php?id=36749> 	Brandeis University 	1978
+Tohline, Joel <id.php?id=147885> 	University of California, Santa Cruz 	1978
+Tolbert, Leslie <id.php?id=44080> 	Harvard University 	1978
+Tomer, Eugene <id.php?id=31602> 	University of California, Berkeley 	1978
+Tomhave, Bill <id.php?id=131559> 	Iowa State University 	1978
+Town, Donald <id.php?id=14511> 	Brown University 	1978
+Trabb Pardo, Luis <id.php?id=47194> 	Stanford University 	1978
+Traina, Charles <id.php?id=24397> 	Polytechnic University 	1978
+Travis, Betty <id.php?id=45502> 	University of Texas at Austin 	1978
+Triantaphyllou, Deborah <id.php?id=7850> 	Columbia University 	1978
+Trigoboff, Michael <id.php?id=70260> 	Rutgers University, New
+Brunswick 	1978
+Tsen, Fu-Shiang <id.php?id=14512> 	Brown University 	1978
+Tsong, Johnny <id.php?id=47474> 	The University of North Carolina at
+Chapel Hill 	1978
+Tucker, Richard <id.php?id=15801> 	University of Virginia 	1978
+Turkington, Bruce <id.php?id=38889> 	Stanford University 	1978
+Turner, John <id.php?id=82076> 	Princeton University 	1978
+Turner, Michael <id.php?id=175644> 	Stanford University 	1978
+Unell, Phillip <id.php?id=12564> 	Northwestern University 	1978
+Unger nee Buschlen, Elizabeth A. <id.php?id=172253> 	University of
+Kansas 	1978
+Uong, Juhn-Hsiong <id.php?id=11016> 	Washington State University 	1978
+Urrutia, Luis <id.php?id=167478> 	University of California, Los
+Angeles 	1978
+Utts, Jessica <id.php?id=99452> 	The Pennsylvania State University 	1978
+Vaidya, Hemant <id.php?id=75728> 	State University of New York at Stony
+Brook 	1978
+Valavani, Lena <id.php?id=110518> 	Yale University 	1978
+Valdes Ayesta, Jacabo <id.php?id=82096> 	Stanford University 	1978
+Verheiden, Eric <id.php?id=10426> 	California Institute of Technology 	1978
+Vernon, Carlos <id.php?id=95756> 	State University of New York at
+Buffalo 	1978
+Viana, Marlos <id.php?id=156648> 	Stanford University 	1978
+Vigfusson, Gudmundur <id.php?id=33218> 	New York University 	1978
+Vittitow, William <id.php?id=20178> 	University of Utah 	1978
+Vrem, Richard <id.php?id=12908> 	University of Oregon 	1978
+Vytopil, Jan <id.php?id=83788> 	Rensselaer Polytechnic Institute 	1978
+Wadcock, Alan <id.php?id=119987> 	California Institute of Technology 	1978
+Wadland, Kenneth <id.php?id=6711> 	University of New Hampshire 	1978
+Wald, Joseph <id.php?id=7293> 	University of Delaware 	1978
+Waldrop, Clay <id.php?id=3239> 	The Louisiana State University 	1978
+Wall, Jr., Joseph <id.php?id=155605> 	Massachusetts Institute of
+Technology 	1978
+Walters, Terry <id.php?id=8779> 	University of South Florida 	1978
+Waner, Stefan <id.php?id=9356> 	The University of Chicago 	1978
+Wang, Patrick <id.php?id=24532> 	Oregon State University 	1978
+Wang, Shinmin <id.php?id=9987> 	The Ohio State University 	1978
+Ward, Sophronia <id.php?id=91777> 	Virginia Polytechnic Institute and
+State University 	1978
+Wasserman, Ira <id.php?id=126607> 	Harvard University 	1978
+Waters, Richard <id.php?id=80259> 	Massachusetts Institute of
+Technology 	1978
+Watson, John <id.php?id=85301> 	Rensselaer Polytechnic Institute 	1978
+Watson, John <id.php?id=95091> 	Oklahoma State University 	1978
+Wayland, Paul <id.php?id=3240> 	The Louisiana State University 	1978
+Webber, Bonnie <id.php?id=98489> 	Harvard University 	1978
+Weber, Glenn <id.php?id=128325> 	Cornell University 	1978
+Weeks, Connie <id.php?id=8947> 	University of Southern California 	1978
+Weier, Dennis <id.php?id=115398> 	University of Missouri - Columbia 	1978
+Weiss, Marysia <id.php?id=35650> 	City University of New York 	1978
+Welcher, Peter <id.php?id=1349> 	Massachusetts Institute of Technology 	1978
+Wesley, Robert <id.php?id=83193> 	Stanford University 	1978
+West, Douglas <id.php?id=4840> 	Massachusetts Institute of Technology 	1978
+West, Michael <id.php?id=22237> 	Georgia Institute of Technology 	1978
+Wever, George <id.php?id=31814> 	University of California, Berkeley 	1978
+White, Percy <id.php?id=3473> 	University of Montana 	1978
+Whitehead, James <id.php?id=11157> 	Kent State University 	1978
+Whitehurst, Thomas <id.php?id=2905> 	Indiana University 	1978
+Wiggins, Gary <id.php?id=50824> 	Texas Tech University 	1978
+Wilcox, Lynn <id.php?id=43752> 	Rice University 	1978
+Wileden, Jack <id.php?id=110679> 	University of Michigan 	1978
+Wilensky, Robert <id.php?id=70735> 	Yale University 	1978
+Williams, Henry <id.php?id=2912> 	Washington University in St. Louis 	1978
+Williams, Randall <id.php?id=11828> 	California Institute of
+Technology 	1978
+Wilson, James <id.php?id=9632> 	University of Wisconsin-Madison 	1978
+Wilson, Ronald <id.php?id=3857> 	University of Tennessee - Knoxville 	1978
+Wilson, Theodore <id.php?id=5958> 	Rutgers University, New Brunswick 	1978
+Wimberly, Francis <id.php?id=87634> 	University of Pittsburgh 	1978
+Witten, Celia <id.php?id=18616> 	Stanford University 	1978
+Wolfe, David <id.php?id=8948> 	University of Southern California 	1978
+Wolfe, Michael <id.php?id=45512> 	University of Texas at Austin 	1978
+Wolfe, Robert <id.php?id=82236> 	Stanford University 	1978
+Wong, Peng-choon <id.php?id=33208> 	New York University 	1978
+Wong, Richard <id.php?id=61704> 	Massachusetts Institute of Technology 	1978
+Wongyai, Piyavadee <id.php?id=123345> 	Indiana University 	1978
+Wood, Houston <id.php?id=15581> 	University of Virginia 	1978
+Woolbright, David <id.php?id=20278> 	Auburn University 	1978
+Wright, Lynne <id.php?id=17449> 	University of Alabama-Tuscaloosa 	1978
+Wu, Angela <id.php?id=78861> 	University of Maryland College Park 	1978
+Wyatt, John <id.php?id=133576> 	University of California, Berkeley 	1978
+Wyckoff, James <id.php?id=12641> 	Missouri University of Science and
+Technology 	1978
+Yamamoto, Yutaka <id.php?id=1723> 	University of Florida 	1978
+Yang, Liow-Jing <id.php?id=9991> 	The Ohio State University 	1978
+Yang, Su-win <id.php?id=36762> 	Brandeis University 	1978
+Yannakakis, Mihalis <id.php?id=82072> 	Princeton University 	1978
+Yat-Sang, Kwong <id.php?id=82078> 	Princeton University 	1978
+Yee, Lone <id.php?id=2964> 	Washington University in St. Louis 	1978
+Yen, Albert <id.php?id=31769> 	University of California, Berkeley 	1978
+Yeow, Yew <id.php?id=138910> 	Virginia Polytechnic Institute and State
+University 	1978
+Yerion, Katherine <id.php?id=3472> 	University of Montana 	1978
+Yoder, Michael <id.php?id=11930> 	California Institute of Technology 	1978
+Yonezawa, Akinori <id.php?id=112631> 	Massachusetts Institute of
+Technology 	1978
+Young, Lai-Sang <id.php?id=31479> 	University of California, Berkeley 	1978
+Yu, Kai <id.php?id=41772> 	Columbia University 	1978
+Yucas, Joseph <id.php?id=1376> 	The Pennsylvania State University 	1978
+Zaman, Asad <id.php?id=114776> 	Stanford University 	1978
+Zeigler, Stephen <id.php?id=82715> 	University of Wisconsin-Madison 	1978
+Zemyan, Stephen <id.php?id=7483> 	University of Maryland College Park 	1978
+Zgonc, Timothy <id.php?id=44329> 	Case Western Reserve University 	1978
+Zubairy, Muhammad <id.php?id=107499> 	The University of Rochester 	1978
+
+  * Search <search.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+
+
+The Mathematics Genealogy Project is in need of funds to help pay for
+student help and other associated costs. If you would like to
+contribute, please donate online
+<https://epayment.ndus.nodak.edu/C22800_ustores/web/product_detail.jsp?PRODUCTID=2989&SINGLESTORE=true>
+using credit card or bank transfer or mail your tax-deductible
+contribution to:
+
+Mathematics Genealogy Project
+Department of Mathematics
+North Dakota State University
+P. O. Box 6050
+Fargo, North Dakota 58108-6050
+

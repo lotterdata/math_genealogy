@@ -1,0 +1,1128 @@
+Tree <index.php>
+
+
+  Mathematics Genealogy Project
+
+  * Home <index.php>
+  * Search <search.php>
+  * Extrema <extrema.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+  * Mirrors <mirrors.php>
+      o NDSU (main) <http://www.genealogy.math.ndsu.nodak.edu/>
+      o AMS <http://www.genealogy.ams.org/>
+      o Bielefeld <http://www.math.uni-bielefeld.de/genealogy>
+      o IMPA <http://genealogy.impa.br/>
+
+A service of the NDSU <http://www.ndsu.edu/> Department of Mathematics
+<http://www.math.ndsu.nodak.edu/>, in association with the American
+Mathematical Society <http://www.ams.org/>.
+
+Your search has found 911 records in our database.
+Display results in .
+
+Aase, Knut <id.php?id=34425> 	University of California, Berkeley 	1979
+Aashtiani, Hedayat <id.php?id=92256> 	Massachusetts Institute of
+Technology 	1979
+Abbott, III, John <id.php?id=67694> 	Massachusetts Institute of
+Technology 	1979
+Abeyaratne, Rohan <id.php?id=86675> 	California Institute of
+Technology 	1979
+Abeywickrama, Kamal <id.php?id=117852> 	University of California,
+Berkeley 	1979
+Abu Kazam, Hazar <id.php?id=17223> 	University of California, Santa
+Barbara 	1979
+Adelson, Edward <id.php?id=144827> 	University of Michigan 	1979
+Adler, Joel <id.php?id=88199> 	University of Pennsylvania 	1979
+Ahmed, Abdul-Hadi <id.php?id=1441> 	The Florida State University 	1979
+Ahrabi, Fereydoon <id.php?id=83206> 	Stanford University 	1979
+Ahuja, Narendra <id.php?id=41362> 	University of Maryland College Park 	1979
+Ajala, Samuel <id.php?id=32697> 	University of California, Berkeley 	1979
+Albert, James <id.php?id=6995> 	Purdue University 	1979
+Alexander, Donald <id.php?id=17475> 	University of Alabama-Tuscaloosa 	1979
+Alexander, Vadakepattaniyil <id.php?id=30762> 	Fordham University 	1979
+Alif, Metod <id.php?id=5592> 	University of Georgia 	1979
+Allen, O. Brian <id.php?id=73056> 	Cornell University 	1979
+Alligood, Katherine <id.php?id=24822> 	University of Maryland College
+Park 	1979
+Alpert, Louis <id.php?id=146431> 	Fairleigh Dickinson University 	1979
+Alps, Robert <id.php?id=13027> 	Northwestern University 	1979
+Alvarez, Orlando <id.php?id=105677> 	Harvard University 	1979
+Alward, Herbert <id.php?id=12481> 	University of Oregon 	1979
+Aminzadeh, Fereydoun <id.php?id=148527> 	University of Southern
+California 	1979
+Amshler (von Mayrhauser), Anna <id.php?id=87802> 	Duke University 	1979
+Anand, Indu Mati <id.php?id=33611> 	New York University 	1979
+Andersen, Neils <id.php?id=31396> 	University of California, Berkeley 	1979
+Anderson, David <id.php?id=1805> 	Lehigh University 	1979
+Anderson, Mary <id.php?id=3242> 	The Louisiana State University 	1979
+Anderson, Robert <id.php?id=36362> 	Massachusetts Institute of
+Technology 	1979
+Andler, Sten <id.php?id=50235> 	Carnegie Mellon University 	1979
+Andrianoff, Steven <id.php?id=25388> 	Syracuse University 	1979
+Andrilli, Stephen <id.php?id=5967> 	Rutgers University, New Brunswick 	1979
+Andujo Rolon, Carola <id.php?id=36821> 	Brandeis University 	1979
+Arlinghaus, William <id.php?id=6157> 	Wayne State University 	1979
+Arnold, Douglas <id.php?id=30215> 	The University of Chicago 	1979
+Arratia, Richard <id.php?id=9633> 	University of Wisconsin-Madison 	1979
+Arthur, Susan <id.php?id=35274> 	Princeton University 	1979
+Askin, Ronald <id.php?id=119893> 	Georgia Institute of Technology 	1979
+Assadi, Amir <id.php?id=9038> 	Princeton University 	1979
+Athanasopoulos, Ioannis <id.php?id=93513> 	University of Illinois at
+Chicago 	1979
+Athanasopoulos, John <id.php?id=64738> 	University of Illinois at
+Chicago 	1979
+Azoury, Katy <id.php?id=86167> 	University of California, Los Angeles 	1979
+Bain, James <id.php?id=6943> 	University of Kentucky 	1979
+Baker, Albert <id.php?id=93864> 	The Ohio State University 	1979
+Balbo, Gianfranco <id.php?id=81919> 	Purdue University 	1979
+Ballard, Bruce <id.php?id=113265> 	Duke University 	1979
+Barbanel, Julius <id.php?id=108172> 	State University of New York at
+Buffalo 	1979
+Bard, Jonathan <id.php?id=79065> 	The George Washington University 	1979
+Bar-David, ex-White, Tsvi, ex-Harold <id.php?id=32332> 	University of
+California, Berkeley 	1979
+Barker, Lawrence <id.php?id=1432> 	The Florida State University 	1979
+Barron, Beth <id.php?id=15450> 	Michigan State University 	1979
+Barton, John <id.php?id=32698> 	University of California, Berkeley 	1979
+Baruch, Marjory <id.php?id=23141> 	University of Pennsylvania 	1979
+Baskin, Arthur <id.php?id=41356> 	University of Illinois at
+Urbana-Champaign 	1979
+Basu, Rekha <id.php?id=12155> 	University of Houston 	1979
+Bates, Joseph <id.php?id=50061> 	Cornell University 	1979
+Batiz, Sergio <id.php?id=43747> 	Rice University 	1979
+Batson, Robert <id.php?id=28439> 	University of Alabama-Tuscaloosa 	1979
+Baumeyer, Joel <id.php?id=10963> 	Saint Louis University 	1979
+Baxter, David <id.php?id=28440> 	University of Alabama in Huntsville 	1979
+Baybars, Ilker <id.php?id=13738> 	Carnegie Mellon University 	1979
+Bayer, Paul <id.php?id=14144> 	Massachusetts Institute of Technology 	1979
+Bean, Steven <id.php?id=8780> 	University of South Florida 	1979
+Beaver, Olga <id.php?id=47353> 	University of Massachusetts Amherst 	1979
+Beck, Randal <id.php?id=12415> 	Northwestern University 	1979
+Becker, Howard <id.php?id=48786> 	University of California, Los
+Angeles 	1979
+Becker, Joanne <id.php?id=90841> 	University of Maryland College Park 	1979
+Becker, Leigh <id.php?id=3028> 	Southern Illinois University at
+Carbondale 	1979
+Beex, A. A. (Louis) <id.php?id=51474> 	Colorado State University 	1979
+Belbruno, Edward <id.php?id=33432> 	New York University 	1979
+Bell, John <id.php?id=59466> 	Cornell University 	1979
+Bellehsen, David <id.php?id=33104> 	New York University 	1979
+Benbury, Karen <id.php?id=8002> 	University of Massachusetts Amherst 	1979
+Benguria, Rafael <id.php?id=30852> 	Princeton University 	1979
+Ben Yattou, M. <id.php?id=90614> 	The Johns Hopkins University 	1979
+Berman, Francine <id.php?id=27993> 	University of Washington 	1979
+Bernanke, Ben <id.php?id=137443> 	Massachusetts Institute of
+Technology 	1979
+Berzins, Valdis <id.php?id=86191> 	Massachusetts Institute of
+Technology 	1979
+Bhattacharya, Kaustubha <id.php?id=101199> 	Columbia University 	1979
+Bhattacharyay, Biswanath <id.php?id=48093> 	Iowa State University 	1979
+Bingham, Ann <id.php?id=1860> 	Lehigh University 	1979
+Bivens, Irl <id.php?id=24870> 	The University of North Carolina at
+Chapel Hill 	1979
+Bjorklund, Carolyn <id.php?id=82079> 	Princeton University 	1979
+Boggess, IV, Albert <id.php?id=132136> 	Rice University 	1979
+Boisvert, Ronald <id.php?id=81921> 	Purdue University 	1979
+Bonvallet, Robert <id.php?id=4691> 	University of Illinois at
+Urbana-Champaign 	1979
+Boodt, M. Ione <id.php?id=122525> 	Indiana University 	1979
+Booth, Thomas <id.php?id=42518> 	University of California, Berkeley 	1979
+Border, James <id.php?id=43159> 	University of California, San Diego 	1979
+Borning, Alan <id.php?id=71770> 	Stanford University 	1979
+Boucherif, Abdelkader <id.php?id=14514> 	Brown University 	1979
+Bourgeois, Brian <id.php?id=93079> 	University of Texas at Austin 	1979
+Bouscher, Meyer <id.php?id=10437> 	Adelphi University 	1979
+Bowman, Bonita <id.php?id=9634> 	University of Wisconsin-Madison 	1979
+Boyer, Robert <id.php?id=30331> 	University of Pennsylvania 	1979
+Boynton, Nancy <id.php?id=8504> 	Western Michigan University 	1979
+Brandis, Henry <id.php?id=28065> 	University of Washington 	1979
+Brandtly, Michael <id.php?id=20157> 	Auburn University 	1979
+Brannan, James <id.php?id=30887> 	Rensselaer Polytechnic Institute 	1979
+Branson, Thomas <id.php?id=25149> 	Massachusetts Institute of
+Technology 	1979
+Brassard, Gilles <id.php?id=73123> 	Cornell University 	1979
+Brasseur, James <id.php?id=99079> 	Stanford University 	1979
+Brier, Stephen <id.php?id=59000> 	University of Minnesota-Minneapolis 	1979
+Brown, Johnny <id.php?id=7243> 	University of Michigan 	1979
+Brown, Walter <id.php?id=47004> 	Iowa State University 	1979
+Browning, Gerald <id.php?id=33261> 	New York University 	1979
+Browning, Wesley <id.php?id=77124> 	Cornell University 	1979
+Bruell, Peter <id.php?id=77020> 	University of Texas at Austin 	1979
+Bryant, Robert <id.php?id=22429> 	The University of North Carolina at
+Chapel Hill 	1979
+Buchanan, Virginia <id.php?id=8482> 	University of Mississippi 	1979
+Burgoa, Lydia <id.php?id=23879> 	University of Michigan 	1979
+Burman, David <id.php?id=33273> 	New York University 	1979
+Burnham, Gregory <id.php?id=6997> 	Northwestern University 	1979
+Burns, David <id.php?id=8506> 	Western Michigan University 	1979
+Buss, Robert <id.php?id=10964> 	Saint Louis University 	1979
+Byerly, Robert <id.php?id=144195> 	State University of New York at
+Buffalo 	1979
+Byrnes, Raymond <id.php?id=33782> 	New York University 	1979
+Cabannes, André <id.php?id=83205> 	Stanford University 	1979
+Cagan, Christopher <id.php?id=48651> 	University of California, Los
+Angeles 	1979
+Call, Frederick <id.php?id=3711> 	University of Nebraska-Lincoln 	1979
+Callias, Constantine <id.php?id=99404> 	Massachusetts Institute of
+Technology 	1979
+Campbell, Neville <id.php?id=10458> 	California Institute of
+Technology 	1979
+Campbell, Russell <id.php?id=26890> 	Stanford University 	1979
+Carbonell, Jaime <id.php?id=50062> 	Yale University 	1979
+Caruso, Jeffrey <id.php?id=9363> 	The University of Chicago 	1979
+Cary, John <id.php?id=88126> 	The George Washington University 	1979
+Cary, John <id.php?id=101166> 	University of California, Berkeley 	1979
+Cashing, Douglas <id.php?id=25234> 	Syracuse University 	1979
+Cathey, Frederick <id.php?id=28239> 	University of Washington 	1979
+Caves, Carlton <id.php?id=112856> 	California Institute of Technology 	1979
+Chambless, Lloyd <id.php?id=24871> 	The University of North Carolina at
+Chapel Hill 	1979
+Chand, Suresh <id.php?id=67624> 	Carnegie Mellon University 	1979
+Chandler, Eric <id.php?id=82344> 	North Carolina State University 	1979
+Chang, Kun <id.php?id=3712> 	University of Nebraska-Lincoln 	1979
+Channell, Dwayne <id.php?id=122181> 	The Ohio State University 	1979
+Chapman, John <id.php?id=45536> 	University of Texas at Austin 	1979
+Charpentier, Benito <id.php?id=11829> 	California Institute of
+Technology 	1979
+Chase, Gene <id.php?id=36428> 	Cornell University 	1979
+Chatterjee, Kalyan <id.php?id=74611> 	Harvard University 	1979
+Chein, Joseph <id.php?id=120504> 	The Pennsylvania State University 	1979
+Chen, Chun-Kuen <id.php?id=11691> 	Adelphi University 	1979
+Chen, Kuo-Chang <id.php?id=1927> 	The Florida State University 	1979
+Chen, Raymond <id.php?id=1726> 	University of Florida 	1979
+Cheng, Kuang-Fu <id.php?id=1433> 	The Florida State University 	1979
+Chess, Daniel <id.php?id=1342> 	Princeton University 	1979
+Chiang, Ching-Yuan <id.php?id=1939> 	Indiana University 	1979
+Chinchilli, Vernon <id.php?id=41801> 	The University of North Carolina
+at Chapel Hill 	1979
+Chiu, Bo-Yuan <id.php?id=1943> 	Washington University in St. Louis 	1979
+Chlamtac, Imrich <id.php?id=110891> 	University of
+Minnesota-Minneapolis 	1979
+Chollet, John <id.php?id=17165> 	University of California, Santa
+Barbara 	1979
+Chou, Tsu-Wu <id.php?id=82716> 	University of Wisconsin-Madison 	1979
+Chuan, Wai-Fong <id.php?id=17131> 	University of California, Santa
+Barbara 	1979
+Cirincione, Ross <id.php?id=95113> 	University of California, Berkeley 	1979
+Clancey, William <id.php?id=142167> 	Stanford University 	1979
+Clark, Robert <id.php?id=76519> 	Purdue University 	1979
+Cody, William <id.php?id=64772> 	State University of New York at
+Binghamton 	1979
+Cohn, Haldan <id.php?id=165707> 	Princeton University 	1979
+Coleman, Robert <id.php?id=32662> 	Princeton University 	1979
+Comella, James <id.php?id=95757> 	State University of New York at
+Buffalo 	1979
+Conlon, Mary <id.php?id=103688> 	Illinois Institute of Technology 	1979
+Conway, Delores <id.php?id=83204> 	Stanford University 	1979
+Cooley, Clifford <id.php?id=28039> 	University of Washington 	1979
+Cooprider, Lee <id.php?id=50238> 	Carnegie Mellon University 	1979
+Coppola, Alan <id.php?id=80998> 	State University of New York at
+Binghamton 	1979
+Corbitt, Mary <id.php?id=151265> 	University of Georgia 	1979
+Cowan, Linda <id.php?id=72869> 	The Johns Hopkins University 	1979
+Cox, Andrew <id.php?id=141069> 	Stanford University 	1979
+Cox, David <id.php?id=75556> 	The University of Rochester 	1979
+Cox III, Charles <id.php?id=150747> 	Massachusetts Institute of
+Technology 	1979
+Coxson, Pamela <id.php?id=8944> 	University of Southern California 	1979
+Crawford, Carol <id.php?id=22215> 	Georgetown University 	1979
+Cuoco, Albert <id.php?id=36785> 	Brandeis University 	1979
+Curtin, Daniel <id.php?id=7938> 	The University of North Carolina at
+Chapel Hill 	1979
+Daepp, Ulrich <id.php?id=15451> 	Michigan State University 	1979
+Dagys, Arunas <id.php?id=64742> 	University of Illinois at Chicago 	1979
+Dahm, Paul <id.php?id=48098> 	Iowa State University 	1979
+Darden, Thomas <id.php?id=34632> 	University of California, Berkeley 	1979
+Daston, Lorraine <id.php?id=154505> 	Harvard University 	1979
+Davis, Bernard <id.php?id=34290> 	University of California, Berkeley 	1979
+Davis, George <id.php?id=50865> 	University of New Mexico 	1979
+Davis, Richard <id.php?id=38846> 	University of California, San Diego 	1979
+Davis, Stephen <id.php?id=5968> 	Rutgers University, New Brunswick 	1979
+Davison, Mark <id.php?id=31761> 	University of California, Berkeley 	1979
+Dean, Alice <id.php?id=47321> 	University of Massachusetts Amherst 	1979
+Dean, Anthony <id.php?id=2006> 	Indiana University 	1979
+Deans, Christine <id.php?id=8781> 	University of South Florida 	1979
+de Aveliar, Cerino <id.php?id=14513> 	Brown University 	1979
+de Carvalho, Luiz <id.php?id=14515> 	Brown University 	1979
+DeJong, II, Gerald <id.php?id=41368> 	Yale University 	1979
+de Kleer, Johan <id.php?id=80256> 	Massachusetts Institute of
+Technology 	1979
+Deloff, Edward <id.php?id=5969> 	Rutgers University, New Brunswick 	1979
+Delp, III, Edward <id.php?id=80772> 	Purdue University 	1979
+Deogun, Jitender <id.php?id=103399> 	University of Illinois at
+Urbana-Champaign 	1979
+DeRooij, Alfred <id.php?id=47330> 	University of Massachusetts Amherst 	1979
+Deyo, Roderic <id.php?id=43175> 	University of California, San Diego 	1979
+Di Benedetto, Emmanuel <id.php?id=14851> 	University of Texas at
+Austin 	1979
+Djaferis, Theodore <id.php?id=39051> 	Massachusetts Institute of
+Technology 	1979
+Djuth, Frank <id.php?id=165035> 	Rice University 	1979
+Dorer, David <id.php?id=63855> 	Massachusetts Institute of Technology 	1979
+Doverspike, Robert <id.php?id=134234> 	Rensselaer Polytechnic
+Institute 	1979
+Dreachslin, Janice <id.php?id=111938> 	Wayne State University 	1979
+Drysdale, III, Robert <id.php?id=38705> 	Stanford University 	1979
+Duddy, III, John <id.php?id=37523> 	Columbia University 	1979
+Dufour, J. M. <id.php?id=151906> 	The University of Chicago 	1979
+DuRapau, Jr., Victor <id.php?id=45539> 	University of Texas at Austin 	1979
+Dyer, Charles <id.php?id=78864> 	University of Maryland College Park 	1979
+Eaker, Robert <id.php?id=4228> 	University of Illinois at
+Urbana-Champaign 	1979
+Echeverria, Pedro <id.php?id=33781> 	New York University 	1979
+Edwards, Shirley <id.php?id=28441> 	University of Alabama-Tuscaloosa 	1979
+Egger, Marlene <id.php?id=83203> 	Stanford University 	1979
+Ehr, Carolyn <id.php?id=151264> 	University of Georgia 	1979
+Eisenberg, Frank <id.php?id=1147> 	State University of New York at Stony
+Brook 	1979
+Elder, Ira <id.php?id=50772> 	Texas Tech University 	1979
+Ellerbroek, Brent <id.php?id=10514> 	California Institute of
+Technology 	1979
+Ellis, Carla <id.php?id=76737> 	University of Washington 	1979
+Elmendorf, Anthony <id.php?id=9355> 	The University of Chicago 	1979
+Elmer, Mark <id.php?id=46831> 	University of Massachusetts Amherst 	1979
+Emer, Joel <id.php?id=155972> 	University of Illinois at
+Urbana-Champaign 	1979
+Emerson, William <id.php?id=19935> 	University of Utah 	1979
+Engel, David <id.php?id=9171> 	Yale University 	1979
+Ephron, Mark <id.php?id=7284> 	University of Michigan 	1979
+Erdnener, Eren <id.php?id=148024> 	University of Pennsylvania 	1979
+Ergul, Faruk <id.php?id=130825> 	Polytechnic Institute of New York
+University 	1979
+Erkip, Albert <id.php?id=31603> 	University of California, Berkeley 	1979
+Erlinger, Michael <id.php?id=69958> 	University of California, Los
+Angeles 	1979
+Ermentrout, Jr., George <id.php?id=40763> 	The University of Chicago 	1979
+Etheridge, William <id.php?id=16866> 	Purdue University 	1979
+Eubank, Randall <id.php?id=48327> 	Texas A&M University 	1979
+Evans, Alan <id.php?id=15452> 	Michigan State University 	1979
+Evans, Bruce <id.php?id=23083> 	University of Pennsylvania 	1979
+Fagerstrom, Richard <id.php?id=1434> 	The Florida State University 	1979
+Fahy, Michael <id.php?id=17229> 	University of California, Santa
+Barbara 	1979
+Fang, Shu-Cherng <id.php?id=24912> 	Northwestern University 	1979
+Fatemi-Booshehri, Mostafa <id.php?id=103627> 	Purdue University 	1979
+Fathi, Yahya <id.php?id=52793> 	University of Michigan 	1979
+Faust, Don <id.php?id=40566> 	University of Hawaii 	1979
+Feingold, Alex <id.php?id=6776> 	Yale University 	1979
+Fenceroy, Emma <id.php?id=14583> 	University of Alabama-Tuscaloosa 	1979
+Fenimore, Charles <id.php?id=31560> 	University of California,
+Berkeley 	1979
+Fernandez, Sergio Hernan <id.php?id=33136> 	New York University 	1979
+Fernholz, Luisa <id.php?id=117557> 	Rutgers University, New Brunswick 	1979
+Fickett, James <id.php?id=74305> 	University of Colorado at Boulder 	1979
+Filman, Robert <id.php?id=69002> 	Stanford University 	1979
+Fischer, Thomas <id.php?id=46664> 	University of Massachusetts Amherst 	1979
+Fisher, Joseph <id.php?id=161915> 	New York University 	1979
+Fiskeaux, Charlie <id.php?id=131596> 	Clemson University 	1979
+Flanigan, James <id.php?id=48669> 	University of California, Los
+Angeles 	1979
+Flynn, Gerald <id.php?id=35657> 	City University of New York 	1979
+Foged, Leslie <id.php?id=2085> 	Washington University in St. Louis 	1979
+Fokas, Athanassios <id.php?id=11830> 	California Institute of
+Technology 	1979
+Foley, Robert <id.php?id=91332> 	University of Michigan 	1979
+Foley, Jr., Thomas <id.php?id=71339> 	Arizona State University 	1979
+Foregger, Marsha <id.php?id=9635> 	University of Wisconsin-Madison 	1979
+Forest, Mark <id.php?id=1591> 	University of Arizona 	1979
+Forgy, Lanny <id.php?id=50360> 	Carnegie Mellon University 	1979
+Frank, Paul <id.php?id=75304> 	University of Washington 	1979
+Fraser, Scott <id.php?id=77330> 	The Johns Hopkins University 	1979
+Freedman, Jeffrey <id.php?id=48878> 	University of California, Los
+Angeles 	1979
+Freedman, Michael <id.php?id=22201> 	Georgia Institute of Technology 	1979
+Freedman, Roy <id.php?id=18416> 	Polytechnic University 	1979
+Freeland, Mark <id.php?id=7544> 	Cornell University 	1979
+Fricker, Jon <id.php?id=67626> 	Carnegie Mellon University 	1979
+Fry, Robert <id.php?id=852> 	University of Illinois at
+Urbana-Champaign 	1979
+Gallo, Daniel <id.php?id=1152> 	State University of New York at Stony
+Brook 	1979
+Garcia-Hernandez, Francisco <id.php?id=46892> 	University of California,
+Riverside 	1979
+Garcia-Molina, Hector <id.php?id=70978> 	Stanford University 	1979
+Garg, Naresh <id.php?id=43737> 	Rice University 	1979
+Garst, Peter <id.php?id=9636> 	University of Wisconsin-Madison 	1979
+Gearhart, Thomas <id.php?id=9981> 	The Ohio State University 	1979
+Gehringer, Edward <id.php?id=81922> 	Purdue University 	1979
+Gehringer, Jr., Edward <id.php?id=60941> 	Purdue University 	1979
+Genesereth, Michael <id.php?id=71203> 	Harvard University 	1979
+Gerasoulis, Apostolos <id.php?id=70189> 	State University of New York at
+Stony Brook 	1979
+Gerber, Marlies <id.php?id=31700> 	University of California, Berkeley 	1979
+Geremia Jr, Raymond S <id.php?id=175018> 	Georgetown University 	1979
+Giarrusso, Dante <id.php?id=157351> 	Yale University 	1979
+Gibbons, Joel <id.php?id=524> 	The University of Chicago 	1979
+Gibson, Edward <id.php?id=2126> 	Indiana University 	1979
+Girse, Robert <id.php?id=11226> 	Kansas State University 	1979
+Glover, David <id.php?id=51915> 	University of Notre Dame 	1979
+Goecke, David <id.php?id=152854> 	The University of Oklahoma 	1979
+Gold, Bennett <id.php?id=47323> 	University of Massachusetts Amherst 	1979
+Goldstein, Norman <id.php?id=36325> 	Cornell University 	1979
+Gonek, Steven <id.php?id=7248> 	University of Michigan 	1979
+Gonzalez, Jorge <id.php?id=8782> 	University of South Florida 	1979
+Goodman, Frederick <id.php?id=15006> 	University of California,
+Berkeley 	1979
+Gordon, Carolyn <id.php?id=2139> 	Washington University in St. Louis 	1979
+Gordon, Warren <id.php?id=33134> 	New York University 	1979
+Gould, Ronald <id.php?id=8505> 	Western Michigan University 	1979
+Graham, George <id.php?id=12156> 	University of Houston 	1979
+Grasse, Kevin <id.php?id=3917> 	University of Illinois at
+Urbana-Champaign 	1979
+Greene, Robert <id.php?id=33290> 	New York University 	1979
+Greenhaw, Richard <id.php?id=91477> 	Oklahoma State University 	1979
+Greenwell, Raymond <id.php?id=15448> 	Michigan State University 	1979
+Greer, Richard <id.php?id=83202> 	Stanford University 	1979
+Gross, Louis <id.php?id=22745> 	Cornell University 	1979
+Grossman, William <id.php?id=120951> 	California Institute of
+Technology 	1979
+Gruber, Marvin <id.php?id=83027> 	The University of Rochester 	1979
+Guccione, Louis <id.php?id=11697> 	Adelphi University 	1979
+Guerrero-Guzman, Victor <id.php?id=114215> 	University of
+Wisconsin-Madison 	1979
+Gurjar, Rajendra <id.php?id=84430> 	The University of Chicago 	1979
+Gustafson, David <id.php?id=81022> 	University of Wisconsin-Madison 	1979
+Gustafson, Robert <id.php?id=99400> 	Yale University 	1979
+Gutierrez, Angel <id.php?id=2170> 	University of Minnesota-Minneapolis 	1979
+Guyton, Deborah <id.php?id=91781> 	Virginia Polytechnic Institute and
+State University 	1979
+Haack, Joel <id.php?id=22439> 	University of Iowa 	1979
+Haas, Roy <id.php?id=36106> 	Southern Methodist University 	1979
+Habib, Muhammad <id.php?id=47522> 	The University of North Carolina at
+Chapel Hill 	1979
+Hagan, Patrick <id.php?id=11831> 	California Institute of Technology 	1979
+Hagwood, Robert <id.php?id=7251> 	University of Michigan 	1979
+Hajek, Bruce <id.php?id=14723> 	University of California, Berkeley 	1979
+Hamer, Robert <id.php?id=41870> 	The University of North Carolina at
+Chapel Hill 	1979
+Hamilton, Kenneth <id.php?id=85303> 	Rensselaer Polytechnic Institute 	1979
+Hammons, Charles <id.php?id=43748> 	Rice University 	1979
+Hancock, Don <id.php?id=17109> 	University of California, Santa
+Barbara 	1979
+Hannick, Francis <id.php?id=10430> 	University of Montana 	1979
+Hannum, Jr., Robert <id.php?id=1435> 	The Florida State University 	1979
+Hardin, Clyde <id.php?id=16325> 	University of Virginia 	1979
+Harer, John <id.php?id=7909> 	University of California, Berkeley 	1979
+Harris, Anthony <id.php?id=41852> 	Virginia Commonwealth University 	1979
+Harris, Steven <id.php?id=41876> 	The University of Chicago 	1979
+Hasan, Tariq <id.php?id=34427> 	University of California, Berkeley 	1979
+Haslach, Jr., Henry <id.php?id=9637> 	University of Wisconsin-Madison 	1979
+Hassani, Sadri <id.php?id=131858> 	Princeton University 	1979
+Hastings, Robert <id.php?id=2195> 	University of Minnesota-Minneapolis 	1979
+Hausman, Mark <id.php?id=165842> 	Princeton University 	1979
+Hawthorn, Paula <id.php?id=80272> 	University of California, Berkeley 	1979
+Hayashi, Mikihiro <id.php?id=48685> 	University of California, Los
+Angeles 	1979
+Hayes, Jr., Kenneth <id.php?id=78863> 	University of Maryland College
+Park 	1979
+Hdeib, Hasan <id.php?id=116525> 	State University of New York at
+Buffalo 	1979
+Heaton, John <id.php?id=28133> 	University of Washington 	1979
+Hebda, James <id.php?id=12387> 	The University of Chicago 	1979
+Hedman, Bruce <id.php?id=27176> 	Princeton University 	1979
+Henderson, James <id.php?id=9638> 	University of Wisconsin-Madison 	1979
+Hennagin, Stephen <id.php?id=41429> 	University of California, Davis 	1979
+Henrick, Robert <id.php?id=85302> 	Rensselaer Polytechnic Institute 	1979
+Herman, Martin <id.php?id=78865> 	University of Maryland College Park 	1979
+Herron, Gary <id.php?id=20061> 	University of Utah 	1979
+Hevner, Alan <id.php?id=74029> 	Purdue University 	1979
+Hill, Larry <id.php?id=16273> 	University of Virginia 	1979
+Hill, Jr., Hoke <id.php?id=131595> 	Clemson University 	1979
+Hinkins, Susan <id.php?id=107743> 	Montana State University 	1979
+Hiscock, William <id.php?id=118638> 	University of Maryland College
+Park 	1979
+Hoang, Viet <id.php?id=63704> 	University of Maryland College Park 	1979
+Hochbaum, Dorit <id.php?id=36816> 	University of Pennsylvania 	1979
+Hoffman, Michael <id.php?id=32488> 	University of California, Berkeley 	1979
+Hoffman, Richard <id.php?id=993> 	University of Texas at Dallas 	1979
+Hoffmann, Raymond <id.php?id=49726> 	The Johns Hopkins University 	1979
+Hooper, Jr., Herbert <id.php?id=87557> 	University of Tennessee -
+Knoxville 	1979
+Howe, Sally <id.php?id=14516> 	Brown University 	1979
+Howorka, Edward <id.php?id=1727> 	University of Florida 	1979
+Hsiao, C.-T. <id.php?id=31289> 	Cornell University 	1979
+Hsu, Derbiau <id.php?id=7254> 	University of Michigan 	1979
+Hsu, Kai <id.php?id=133459> 	University of Texas at Austin 	1979
+Hu, Shou-Chen <id.php?id=84636> 	State University of New York at
+Buffalo 	1979
+Huang, Hai <id.php?id=14517> 	Brown University 	1979
+Huang, Tony <id.php?id=139957> 	University of New Mexico 	1979
+Hudes, Esther Sid <id.php?id=34291> 	University of California,
+Berkeley 	1979
+Huffman III, William <id.php?id=9980> 	The Ohio State University 	1979
+Hull, Richard <id.php?id=32636> 	University of California, Berkeley 	1979
+Hume, David <id.php?id=3858> 	University of Tennessee - Knoxville 	1979
+Hunt, Fern <id.php?id=33163> 	New York University 	1979
+Hunt, Walker <id.php?id=45538> 	University of Texas at Austin 	1979
+Hupert, Lillian <id.php?id=53428> 	The University of Chicago 	1979
+Hurwitz, Lillian <id.php?id=111942> 	Wayne State University 	1979
+Hutchison, David <id.php?id=15770> 	University of Kansas 	1979
+Hutton, James <id.php?id=107851> 	Cornell University 	1979
+Huynh, Hung <id.php?id=28047> 	University of Washington 	1979
+Hwang, Jew-Chen <id.php?id=35549> 	City University of New York 	1979
+Hwang, Jiunn <id.php?id=68617> 	Purdue University 	1979
+Hwang-Ma, Shu-Yin <id.php?id=4437> 	Brown University 	1979
+Ianculescu, George <id.php?id=88679> 	Carnegie Mellon University 	1979
+Isaacson, Eli <id.php?id=12976> 	New York University 	1979
+Isenberg, James <id.php?id=12931> 	University of Maryland College Park 	1979
+Jacob, William <id.php?id=4839> 	Princeton University 	1979
+Jaffe, Jeffrey <id.php?id=81226> 	Massachusetts Institute of
+Technology 	1979
+Jarrow, Robert <id.php?id=73492> 	Massachusetts Institute of
+Technology 	1979
+Jayne, John <id.php?id=63522> 	Massachusetts Institute of Technology 	1979
+Jea, Y. H. <id.php?id=14049> 	University of Texas at Austin 	1979
+Jeon, Jong Woo <id.php?id=1440> 	The Florida State University 	1979
+Jewell, Angelyn <id.php?id=32593> 	University of California, Berkeley 	1979
+John, David <id.php?id=43805> 	University of Missouri - Kansas City 	1979
+Johns, Ronald <id.php?id=2272> 	Indiana University 	1979
+Johnson, Kenneth <id.php?id=11017> 	Washington State University 	1979
+Johnson, Steven <id.php?id=17205> 	University of California, Santa
+Barbara 	1979
+Johnson, Wesley <id.php?id=31550> 	University of Minnesota-Minneapolis 	1979
+Johnston, Gordon <id.php?id=47272> 	The University of North Carolina at
+Chapel Hill 	1979
+Jones, Christopher <id.php?id=9639> 	University of Wisconsin-Madison 	1979
+Jory, Virginia <id.php?id=22202> 	Georgia Institute of Technology 	1979
+Joyce, David <id.php?id=23087> 	University of Pennsylvania 	1979
+Joyce, Peter <id.php?id=6944> 	University of Kentucky 	1979
+Kackar, Raghu <id.php?id=138570> 	Iowa State University 	1979
+Kadell, Kevin <id.php?id=27054> 	The Pennsylvania State University 	1979
+Kafadar, Karen <id.php?id=35276> 	Princeton University 	1979
+Kafker, Alan <id.php?id=23096> 	University of Pennsylvania 	1979
+Kahn, Beverly <id.php?id=78815> 	University of Michigan 	1979
+Kahn, Jeffry <id.php?id=9979> 	The Ohio State University 	1979
+Kahn, Kenneth <id.php?id=112630> 	Massachusetts Institute of
+Technology 	1979
+Kahn, Steven <id.php?id=24846> 	University of Maryland College Park 	1979
+Kamin, Samuel <id.php?id=41400> 	State University of New York at Stony
+Brook 	1979
+Kant, Rishi <id.php?id=107261> 	University of California, Berkeley 	1979
+Kaplan, Gail <id.php?id=1148> 	State University of New York at Stony
+Brook 	1979
+Kaplan, Jack <id.php?id=83282> 	The University of Rochester 	1979
+Karp, R. <id.php?id=19024> 	Stanford University 	1979
+Kashdan, Samuel <id.php?id=22794> 	The Pennsylvania State University 	1979
+Kaspi, Amiram <id.php?id=147605> 	Cornell University 	1979
+Kaspi, Haya <id.php?id=155649> 	Cornell University 	1979
+Kasube, Herb <id.php?id=3474> 	University of Montana 	1979
+Kato, Goro <id.php?id=167779> 	The University of Rochester 	1979
+Kaufman, William <id.php?id=12157> 	University of Houston 	1979
+Kaye, Stanley <id.php?id=98398> 	University of California, Los Angeles 	1979
+Kearns, J. Philip <id.php?id=7530> 	University of Virginia 	1979
+Keener, Robert <id.php?id=51111> 	Massachusetts Institute of
+Technology 	1979
+Kehoe, Timothy <id.php?id=66401> 	Yale University 	1979
+Kellermeier, John <id.php?id=90674> 	Bowling Green State University 	1979
+Kemmerer, Richard <id.php?id=69959> 	University of California, Los
+Angeles 	1979
+Kenney, Charles <id.php?id=179734> 	University of Maryland College
+Park 	1979
+Kent, Jacqueline <id.php?id=52479> 	North Carolina State University 	1979
+Keough, Gerard <id.php?id=2306> 	Indiana University 	1979
+Kerr, Jeanne <id.php?id=43194> 	University of California, San Diego 	1979
+Kerschen, Edward <id.php?id=69016> 	Stanford University 	1979
+Keys, Charles <id.php?id=29349> 	The University of Chicago 	1979
+Kierstead, David <id.php?id=9640> 	University of Wisconsin-Madison 	1979
+Kierstead, Henry <id.php?id=16391> 	University of California, San
+Diego 	1979
+Kim, Woo-Chul <id.php?id=94565> 	Purdue University 	1979
+King, Donald <id.php?id=64810> 	Massachusetts Institute of Technology 	1979
+Kirkland, Tom <id.php?id=14050> 	University of Texas at Austin 	1979
+Kirmayer, Greg <id.php?id=63849> 	Massachusetts Institute of
+Technology 	1979
+Kivelson, Steven <id.php?id=102427> 	Harvard University 	1979
+Klein, Vivian <id.php?id=28255> 	University of Washington 	1979
+Kleven, Donald <id.php?id=2317> 	University of Minnesota-Minneapolis 	1979
+Klincewicz, John <id.php?id=138466> 	Yale University 	1979
+Ko, Ker-I <id.php?id=80201> 	The Ohio State University 	1979
+Kohn, Robert <id.php?id=17379> 	Princeton University 	1979
+Kondepudi, Dilip <id.php?id=188551> 	University of Texas at Austin 	1979
+Korb, John <id.php?id=93965> 	University of Arizona 	1979
+Kormylo, John <id.php?id=147830> 	University of Southern California 	1979
+Krause, Gary <id.php?id=45537> 	University of Texas at Austin 	1979
+Kreuser, Jerome <id.php?id=82710> 	University of Wisconsin-Madison 	1979
+Krishna, Lala <id.php?id=11169> 	Kent State University 	1979
+Kroon, John <id.php?id=28193> 	University of Washington 	1979
+Krothapalli, Anjaneyulu <id.php?id=121066> 	Stanford University 	1979
+Krumme, David <id.php?id=31490> 	University of California, Berkeley 	1979
+Kuhn, Stephen <id.php?id=5590> 	University of Georgia 	1979
+Kukor, Jerome <id.php?id=116016> 	University of Michigan 	1979
+Kuo, Chi-Chin <id.php?id=17204> 	University of California, Santa
+Barbara 	1979
+Kuo, Morgan <id.php?id=48966> 	University of California, Santa Barbara 	1979
+Kupershmidt, Boris <id.php?id=7716> 	Massachusetts Institute of
+Technology 	1979
+Kurland, Henry <id.php?id=9641> 	University of Wisconsin-Madison 	1979
+Kushner, Mark <id.php?id=120952> 	California Institute of Technology 	1979
+Kustin, Andrew <id.php?id=4273> 	University of Illinois at
+Urbana-Champaign 	1979
+Kusunose, Kazuhiro <id.php?id=40859> 	University of California, Los
+Angeles 	1979
+Lacayo, Jr., Herbert <id.php?id=1438> 	The Florida State University 	1979
+Lachance, Michael <id.php?id=8783> 	University of South Florida 	1979
+Lake, George <id.php?id=165708> 	Princeton University 	1979
+Landsburg, Steven <id.php?id=1269> 	The University of Chicago 	1979
+Lang, Sheau-Dong <id.php?id=69300> 	The Pennsylvania State University 	1979
+Langley, Pat <id.php?id=70997> 	Carnegie Mellon University 	1979
+LaRiccia, Vincent <id.php?id=36045> 	Texas A&M University 	1979
+Latina, Michael <id.php?id=14518> 	Brown University 	1979
+Lauffenburger, Douglas <id.php?id=106482> 	University of
+Minnesota-Minneapolis 	1979
+Lawler, Gregory <id.php?id=35826> 	Princeton University 	1979
+Lawler, Robert <id.php?id=61070> 	Massachusetts Institute of
+Technology 	1979
+Lee, Hsuan-Pei <id.php?id=4438> 	Brown University 	1979
+Lee, TanYu <id.php?id=17089> 	University of California, Santa Barbara 	1979
+Lee, Ying-Da <id.php?id=50857> 	University of Wisconsin-Madison 	1979
+Lee, Yuh-Jia <id.php?id=117608> 	State University of New York at
+Buffalo 	1979
+Leisman, Gerald <id.php?id=102415> 	Union College 	1979
+Lengauer, Thomas <id.php?id=21698> 	Stanford University 	1979
+Leon, Ramon <id.php?id=1439> 	The Florida State University 	1979
+Lerner, Bao Ting Chen <id.php?id=27168> 	The George Washington
+University 	1979
+Levin, Leonid <id.php?id=17519> 	Massachusetts Institute of Technology 	1979
+Levine, Barry <id.php?id=24533> 	Oregon State University 	1979
+Levine, Marc <id.php?id=36826> 	Brandeis University 	1979
+Lewis, Ruth <id.php?id=3859> 	University of Tennessee - Knoxville 	1979
+Lewis, Timothy <id.php?id=14519> 	Brown University 	1979
+Li, Peter <id.php?id=31534> 	University of California, Berkeley 	1979
+Lidtke, Doris <id.php?id=117648> 	University of Oregon 	1979
+Lieberman, Gary <id.php?id=44466> 	Stanford University 	1979
+Lin, Karl <id.php?id=7547> 	University of Michigan 	1979
+Lin, Lawrence <id.php?id=50516> 	University of Iowa 	1979
+Lin, Shao-Shiung <id.php?id=31561> 	University of California, Berkeley 	1979
+Lindström, Ingrid <id.php?id=157297> 	Stanford University 	1979
+Ling, Wensor <id.php?id=83296> 	Princeton University 	1979
+Link, Carol <id.php?id=83201> 	Stanford University 	1979
+Littleford, Alan <id.php?id=18971> 	Columbia University 	1979
+Liu, Lishing <id.php?id=100796> 	Cornell University 	1979
+Lockhart, Richard <id.php?id=17949> 	University of California,
+Berkeley 	1979
+Lockhart, Robert <id.php?id=4883> 	University of Illinois at
+Urbana-Champaign 	1979
+Loerinc, Beatrice <id.php?id=46896> 	New York University 	1979
+Loka, Raghavendra <id.php?id=142644> 	Case Western Reserve University 	1979
+Londhe, Anil <id.php?id=60030> 	Iowa State University 	1979
+Long, John <id.php?id=9354> 	Princeton University 	1979
+Longsine, Dennis <id.php?id=53363> 	Colorado State University 	1979
+Louv, William <id.php?id=83611> 	University of Florida 	1979
+Lowe, George <id.php?id=92341> 	University of Maryland College Park 	1979
+Lozier, Daniel <id.php?id=107131> 	University of Maryland College Park 	1979
+Lubarda, Vlado <id.php?id=133210> 	Stanford University 	1979
+Lucas, Richard <id.php?id=64707> 	University of Illinois at Chicago 	1979
+Lue, Ping-Ching <id.php?id=1151> 	State University of New York at Stony
+Brook 	1979
+Lugo, Gabriel <id.php?id=32169> 	University of California, Berkeley 	1979
+Lutz, Peter <id.php?id=76680> 	State University of New York at Buffalo 	1979
+Lynch, Thomas <id.php?id=64821> 	Massachusetts Institute of Technology 	1979
+Mack, Michael <id.php?id=157335> 	Carnegie Mellon University 	1979
+MacKenzie, Ellen <id.php?id=49785> 	The Johns Hopkins University 	1979
+MacMillen, Donald <id.php?id=158331> 	The University of Rochester 	1979
+Maddy, Penelope <id.php?id=111426> 	Princeton University 	1979
+Magda, Constantine <id.php?id=40870> 	University of Illinois at
+Chicago 	1979
+Magnan, Jeronimo <id.php?id=11970> 	University of Miami 	1979
+Mahaffy, Joseph <id.php?id=14520> 	Brown University 	1979
+Mahoney, Michael <id.php?id=17172> 	University of California, Santa
+Barbara 	1979
+Malakian, Kourken <id.php?id=5591> 	University of Georgia 	1979
+Malek-Madani, Reza <id.php?id=14521> 	Brown University 	1979
+Malek-Shahmirzadi, M. <id.php?id=12158> 	University of Houston 	1979
+Malik, Saroj <id.php?id=2443> 	The Florida State University 	1979
+Manferdelli, John <id.php?id=31746> 	University of California,
+Berkeley 	1979
+Marchat, Françoise <id.php?id=34478> 	University of California,
+Berkeley 	1979
+Margolis, Stuart <id.php?id=15170> 	University of California, Berkeley 	1979
+Markowitz, Michael <id.php?id=32025> 	University of California,
+Berkeley 	1979
+Marrone, Pedro <id.php?id=23880> 	University of Michigan 	1979
+Marsh, III, Alfred <id.php?id=44342> 	The Johns Hopkins University 	1979
+Marver, James <id.php?id=2454> 	University of Minnesota-Minneapolis 	1979
+Marx, Lawrence <id.php?id=2455> 	University of Minnesota-Minneapolis 	1979
+Matthaeus, William <id.php?id=154619> 	The College of William and Mary 	1979
+Mayo, Anita <id.php?id=33106> 	New York University 	1979
+McCleary, John <id.php?id=5857> 	Temple University 	1979
+Mc Clish, Donna <id.php?id=47456> 	The University of North Carolina at
+Chapel Hill 	1979
+McCune, Brian <id.php?id=61944> 	Stanford University 	1979
+McDonough, Joseph <id.php?id=5966> 	Rutgers University, New Brunswick 	1979
+McFadden, Geoffrey <id.php?id=33639> 	New York University 	1979
+McFarland, Bentson <id.php?id=116387> 	University of Washington 	1979
+McKenty, Geoffrey <id.php?id=4074> 	University of Illinois at
+Urbana-Champaign 	1979
+McWilliams, Thomas <id.php?id=83200> 	Stanford University 	1979
+Meaney, Christopher <id.php?id=28219> 	University of Washington 	1979
+Medina, Emilio <id.php?id=45540> 	University of Texas at Austin 	1979
+Meister, James <id.php?id=64703> 	Cornell University 	1979
+Michael, Mark <id.php?id=3243> 	The Louisiana State University 	1979
+Midgarden, Bette <id.php?id=3713> 	University of Nebraska-Lincoln 	1979
+Mignone, Robert <id.php?id=29527> 	The Pennsylvania State University 	1979
+Mihalik, Michael <id.php?id=49191> 	State University of New York at
+Binghamton 	1979
+Mikkelson, Dennis <id.php?id=498> 	University of Wisconsin-Milwaukee 	1979
+Miller, Clayton <id.php?id=16262> 	University of Iowa 	1979
+Miller, David <id.php?id=6945> 	University of Kentucky 	1979
+Miller, James <id.php?id=81920> 	Purdue University 	1979
+Miller, Matthew <id.php?id=4274> 	University of Illinois at
+Urbana-Champaign 	1979
+Miller, Nicholas <id.php?id=45983> 	Cornell University 	1979
+Miller, William <id.php?id=7260> 	University of Michigan 	1979
+Miller, Zevi <id.php?id=7261> 	University of Michigan 	1979
+Milton, Donna <id.php?id=20312> 	Auburn University 	1979
+Minor, III, John <id.php?id=77019> 	University of Texas at Austin 	1979
+Mintz, Ronald <id.php?id=143690> 	Harvard University 	1979
+Miranda, Rick <id.php?id=29639> 	Massachusetts Institute of Technology 	1979
+Miranker, Glen <id.php?id=108873> 	Massachusetts Institute of
+Technology 	1979
+Mitani, Tohru <id.php?id=152482> 	University of California, San Diego 	1979
+Mitchell, Tom <id.php?id=50076> 	Stanford University 	1979
+Mladineo, Regina <id.php?id=5970> 	Rutgers University, New Brunswick 	1979
+Moak, Daniel <id.php?id=9642> 	University of Wisconsin-Madison 	1979
+Moen, Courtney <id.php?id=59129> 	The University of Chicago 	1979
+Monash, Curt <id.php?id=111602> 	Harvard University 	1979
+Month, Leslie <id.php?id=87828> 	Cornell University 	1979
+Moody, Michael <id.php?id=22848> 	The University of Chicago 	1979
+Moon, Ralph <id.php?id=110083> 	Purdue University 	1979
+Moore, Jeanne <id.php?id=107904> 	The University of Oklahoma 	1979
+Moore, Judith <id.php?id=9527> 	New Mexico State University 	1979
+Moore, Marva <id.php?id=47495> 	The University of North Carolina at
+Chapel Hill 	1979
+Moore, Polly <id.php?id=28054> 	University of Washington 	1979
+Moore, Robert <id.php?id=80254> 	Massachusetts Institute of Technology 	1979
+Moore, Vardeman <id.php?id=4026> 	University of Illinois at
+Urbana-Champaign 	1979
+Moore, III, Louis <id.php?id=47533> 	The University of North Carolina at
+Chapel Hill 	1979
+Moriyon, Roberto <id.php?id=132420> 	Princeton University 	1979
+Morrison, Tim <id.php?id=2505> 	The Florida State University 	1979
+Morrison, Jr., Philip <id.php?id=45702> 	University of California, San
+Diego 	1979
+Morrow, Gregory <id.php?id=131503> 	University of Illinois at
+Urbana-Champaign 	1979
+Morton, Richard <id.php?id=7285> 	University of Michigan 	1979
+Mosca, Vivian <id.php?id=26950> 	University of Vermont 	1979
+Moseley, James <id.php?id=16873> 	Purdue University 	1979
+Mosher, Melville <id.php?id=31771> 	University of California, Berkeley 	1979
+Moss, Kenneth <id.php?id=79186> 	Cornell University 	1979
+Mote, John <id.php?id=45790> 	University of Texas at Austin 	1979
+Moti, Behrouz <id.php?id=51142> 	University of California, Riverside 	1979
+Mueller, Carl <id.php?id=34589> 	University of California, Berkeley 	1979
+Mulindi, Henry <id.php?id=89745> 	Columbia University 	1979
+Mullins, Sarah <id.php?id=59263> 	Vanderbilt University 	1979
+Munson, David <id.php?id=84399> 	Princeton University 	1979
+Murio, Diego <id.php?id=11633> 	University of California, Berkeley 	1979
+Murphy, Angela <id.php?id=25125> 	University of California, Davis 	1979
+Nachtsheim, Christopher <id.php?id=100142> 	University of
+Minnesota-Minneapolis 	1979
+Nadler, David <id.php?id=31701> 	University of California, Berkeley 	1979
+Naik-Nimbalkar, Uttara <id.php?id=15453> 	Michigan State University 	1979
+Nassimi, David <id.php?id=120141> 	University of Minnesota-Minneapolis 	1979
+Nau, Dana <id.php?id=75703> 	Duke University 	1979
+Nechvatal, James <id.php?id=8945> 	University of Southern California 	1979
+Neimat, Marie Anne <id.php?id=148703> 	University of California,
+Berkeley 	1979
+Neitzel, Jr., George <id.php?id=101690> 	The Johns Hopkins University 	1979
+Newman, William <id.php?id=95713> 	Cornell University 	1979
+Newton, Mary <id.php?id=10961> 	Saint Louis University 	1979
+Nezhad, Hamid <id.php?id=148025> 	University of Pennsylvania 	1979
+Ng, Hock <id.php?id=24863> 	University of Maryland College Park 	1979
+Ngo, Maurici <id.php?id=31620> 	University of California, Berkeley 	1979
+Ni, Wei-Ming <id.php?id=11637> 	New York University 	1979
+Nicas, Andrew <id.php?id=32170> 	Princeton University 	1979
+Nicholson, James <id.php?id=31106> 	University of Virginia 	1979
+Nieh, William <id.php?id=86313> 	University of California, Los Angeles 	1979
+Nolting, David <id.php?id=3596> 	University of Missouri - Columbia 	1979
+Norwood, Frederick <id.php?id=75350> 	University of Louisiana at
+Lafayette 	1979
+Notestine, Ronald <id.php?id=9404> 	Washington State University 	1979
+Novic, Bradley <id.php?id=97867> 	Carnegie Mellon University 	1979
+Ntafos, Simeon <id.php?id=161626> 	Northwestern University 	1979
+Oakley, John <id.php?id=50153> 	Carnegie Mellon University 	1979
+Oberlander, Lewis <id.php?id=84922> 	University of Michigan 	1979
+Odynoki, Boris <id.php?id=148026> 	University of Pennsylvania 	1979
+O'Halloran, Joyce <id.php?id=28261> 	University of Washington 	1979
+O'Hare, Scott <id.php?id=1150> 	State University of New York at Stony
+Brook 	1979
+Ohta, Kaori <id.php?id=43206> 	University of California, San Diego 	1979
+Önder, Turgut <id.php?id=22844> 	University of California, Berkeley 	1979
+Ondrasik, John <id.php?id=83612> 	University of Florida 	1979
+Orgren, Paul <id.php?id=82717> 	University of Wisconsin-Madison 	1979
+Osborne, Martin <id.php?id=107129> 	Stanford University 	1979
+Osheroff, Neil <id.php?id=106882> 	Northwestern University 	1979
+Oshima, Kunio <id.php?id=12159> 	University of Houston 	1979
+Ottino, Julio <id.php?id=164037> 	University of Minnesota-Minneapolis 	1979
+Overton, Michael <id.php?id=46414> 	Stanford University 	1979
+Oxford, Stephen <id.php?id=48590> 	University of California, Los
+Angeles 	1979
+Ozekici, Suleyman <id.php?id=85904> 	Northwestern University 	1979
+Paige, Robert <id.php?id=69421> 	New York University 	1979
+Painter, Jeffrey <id.php?id=9643> 	University of Wisconsin-Madison 	1979
+Pakala, Jagannadham <id.php?id=3716> 	University of Nebraska-Lincoln 	1979
+Pannatoni, Ronald <id.php?id=65086> 	Massachusetts Institute of
+Technology 	1979
+Papavassilopoulos, George <id.php?id=125960> 	University of Illinois at
+Urbana-Champaign 	1979
+Park, Kyu <id.php?id=2568> 	Lehigh University 	1979
+Park, Seongil <id.php?id=34454> 	University of California, Berkeley 	1979
+Parrott, Mary <id.php?id=23236> 	The University of Memphis 	1979
+Patrick, William <id.php?id=127642> 	Massachusetts Institute of
+Technology 	1979
+Patterson, James <id.php?id=6940> 	University of Kentucky 	1979
+Pavon, Michele <id.php?id=6946> 	University of Kentucky 	1979
+Pearson, Nelda <id.php?id=48960> 	Southern Methodist University 	1979
+Peleg, Shmuel <id.php?id=78866> 	University of Maryland College Park 	1979
+Pendergast, Jane <id.php?id=109963> 	University of Iowa 	1979
+Peng, Chao-Ying <id.php?id=136827> 	University of Wisconsin-Madison 	1979
+Perez, Dorothy <id.php?id=12160> 	University of Houston 	1979
+Perkins, Edwin <id.php?id=4761> 	University of Illinois at
+Urbana-Champaign 	1979
+Perold, André <id.php?id=83512> 	Stanford University 	1979
+Peterson, Gary <id.php?id=77158> 	University of Washington 	1979
+Pettis, Ted <id.php?id=132009> 	The University of Oklahoma 	1979
+Pizarro, Antonio <id.php?id=107767> 	University of Iowa 	1979
+Plotnick, Steven <id.php?id=7268> 	University of Michigan 	1979
+Plumstead, Barton <id.php?id=1343> 	The University of Chicago 	1979
+Poggio, Eugene <id.php?id=34333> 	University of California, Berkeley 	1979
+Polk, Jr, John <id.php?id=119726> 	University of Delaware 	1979
+Pouquet-Barthez, Daniel <id.php?id=44539> 	Stanford University 	1979
+Powers, R. <id.php?id=170941> 	Memphis State University 	1979
+Prager, John <id.php?id=37190> 	University of Massachusetts Amherst 	1979
+Preston, Donald <id.php?id=3860> 	University of Tennessee - Knoxville 	1979
+Price, Roderick <id.php?id=9644> 	University of Wisconsin-Madison 	1979
+Przygocki, Antoni <id.php?id=43351> 	Tulane University 	1979
+Purcell, Frank <id.php?id=37498> 	Columbia University 	1979
+Purkayastha, Subir <id.php?id=84804> 	University of Michigan 	1979
+Quatieri, Jr., Thomas <id.php?id=91050> 	Massachusetts Institute of
+Technology 	1979
+Quigg, Jr., John <id.php?id=17277> 	Drexel University 	1979
+Ramshaw, Lyle <id.php?id=47195> 	Stanford University 	1979
+Rapidis, Petros <id.php?id=187712> 	Stanford University 	1979
+Raugh, Michael <id.php?id=44452> 	Stanford University 	1979
+Rawlings, Don <id.php?id=43145> 	University of California, San Diego 	1979
+Ray, Alak <id.php?id=175971> 	Columbia University 	1979
+Reed, David <id.php?id=105326> 	Massachusetts Institute of Technology 	1979
+Reid, Nancy <id.php?id=15889> 	Stanford University 	1979
+Reid, Russell <id.php?id=9645> 	University of Wisconsin-Madison 	1979
+Reinoza, Alfonso <id.php?id=82719> 	University of Wisconsin-Madison 	1979
+Relles, Nathan <id.php?id=82711> 	University of Wisconsin-Madison 	1979
+Renault, Jean <id.php?id=32438> 	University of California, Berkeley 	1979
+Reynolds, Barbara <id.php?id=10962> 	Saint Louis University 	1979
+Reynolds, Robert <id.php?id=51745> 	University of Michigan 	1979
+Reynolds, Jr., Paul <id.php?id=62107> 	University of Texas at Austin 	1979
+Rich, Elaine <id.php?id=78921> 	Carnegie Mellon University 	1979
+Richardson, Raymond <id.php?id=59269> 	Vanderbilt University 	1979
+Richardson, Thomas <id.php?id=32551> 	University of California,
+Berkeley 	1979
+Richoux, Anthony <id.php?id=53691> 	North Carolina State University 	1979
+Ries, Daniel <id.php?id=80281> 	University of California, Berkeley 	1979
+Rietz, Kenneth <id.php?id=7272> 	University of Michigan 	1979
+Rincon-Gallardo, Santiago <id.php?id=52480> 	North Carolina State
+University 	1979
+Rinne, Dan <id.php?id=17119> 	University of California, Santa Barbara 	1979
+Risch, Neil <id.php?id=105576> 	University of California, Los Angeles 	1979
+Rivera de Baez, Maria <id.php?id=117904> 	New York University 	1979
+Roberson, Paula <id.php?id=88191> 	University of Washington 	1979
+Roberts, George <id.php?id=106335> 	Texas A&M University 	1979
+Rocek, Martin <id.php?id=81636> 	Harvard University 	1979
+Roeder, Robert <id.php?id=47005> 	Iowa State University 	1979
+Rosenthal, Kimmo <id.php?id=84538> 	State University of New York at
+Buffalo 	1979
+Roth, Jr., Robert <id.php?id=9978> 	The Ohio State University 	1979
+Rothstein, Arthur <id.php?id=46893> 	The University of Chicago 	1979
+Ruas Filho, José <id.php?id=14522> 	Brown University 	1979
+Runkle, James <id.php?id=67457> 	Cornell University 	1979
+Rush, John <id.php?id=118400> 	Boston University Graduate School 	1979
+Rybakowski, Krzysztof <id.php?id=14523> 	Brown University 	1979
+Saab, Elias <id.php?id=4670> 	University of Illinois at
+Urbana-Champaign 	1979
+Saab, Paulette <id.php?id=4671> 	University of Illinois at
+Urbana-Champaign 	1979
+Sagan, Bruce <id.php?id=7786> 	Massachusetts Institute of Technology 	1979
+Salehi, Masoud <id.php?id=105823> 	Stanford University 	1979
+Sallas, William <id.php?id=156440> 	Iowa State University 	1979
+Salmassi, Mohammad <id.php?id=6947> 	University of Kentucky 	1979
+Sam, Toueg <id.php?id=82081> 	Princeton University 	1979
+Samowitz, Howard <id.php?id=35596> 	City University of New York 	1979
+Sampson, Paul <id.php?id=42378> 	University of Michigan 	1979
+Samuel, Arthur <id.php?id=155360> 	University of California, San Diego 	1979
+Sancaktar, Erol <id.php?id=138909> 	Virginia Polytechnic Institute and
+State University 	1979
+Sandford, David <id.php?id=70274> 	Rutgers University, New Brunswick 	1979
+Sankey, Otto <id.php?id=177040> 	Washington University in St. Louis 	1979
+Santos Filho, José <id.php?id=67715> 	Massachusetts Institute of
+Technology 	1979
+Saunders, Steven <id.php?id=50110> 	Carnegie Mellon University 	1979
+Savas, Omer <id.php?id=119985> 	California Institute of Technology 	1979
+Sawka, John <id.php?id=32956> 	Yale University 	1979
+Saylor, Annie <id.php?id=6941> 	University of Kentucky 	1979
+Schankerman, Mark <id.php?id=134740> 	Harvard University 	1979
+Schatz, James <id.php?id=25411> 	Syracuse University 	1979
+Schervish, Mark <id.php?id=4701> 	University of Illinois at
+Urbana-Champaign 	1979
+Schiess, James <id.php?id=41853> 	Virginia Commonwealth University 	1979
+Schilling, Mark <id.php?id=80911> 	University of California, Berkeley 	1979
+Schneck, Paul <id.php?id=136989> 	New York University 	1979
+Schreur, Barbara <id.php?id=2715> 	The Florida State University 	1979
+Schwartz, Michael <id.php?id=15847> 	Yeshiva University 	1979
+Schwarzchild, Michael <id.php?id=35275> 	Princeton University 	1979
+Scissors, Richard <id.php?id=2718> 	University of
+Minnesota-Minneapolis 	1979
+Sedcole, John <id.php?id=89307> 	Iowa State University 	1979
+Sedory, Stephen <id.php?id=43453> 	Oklahoma State University 	1979
+Sehra, Arun <id.php?id=129414> 	Massachusetts Institute of Technology 	1979
+Seidel, Steven <id.php?id=30341> 	University of Iowa 	1979
+Seifert, Benedict <id.php?id=32252> 	University of California,
+Berkeley 	1979
+Sen, Asok <id.php?id=87823> 	Cornell University 	1979
+SenGupta, Ashis <id.php?id=88910> 	The Ohio State University 	1979
+Shad, Saeed <id.php?id=11225> 	Kansas State University 	1979
+Shakiban, Chehrzad <id.php?id=4439> 	Brown University 	1979
+Shallon, Caroline <id.php?id=48594> 	University of California, Los
+Angeles 	1979
+Shamseldin, Adel <id.php?id=46891> 	University of California,
+Riverside 	1979
+Shapiro, Helene <id.php?id=11924> 	California Institute of Technology 	1979
+Shaw, Gary <id.php?id=175747> 	Georgia Institute of Technology 	1979
+Shayib, Mohammed <id.php?id=50807> 	Texas Tech University 	1979
+Shemanske, Thomas <id.php?id=25495> 	The University of Rochester 	1979
+Shen, Chao-Liang <id.php?id=23079> 	University of Pennsylvania 	1979
+Sherali, Hanif <id.php?id=110637> 	Georgia Institute of Technology 	1979
+Shibuya, Yhuji <id.php?id=15447> 	Michigan State University 	1979
+Shifrin, Theodore <id.php?id=5611> 	University of California, Berkeley 	1979
+Shin, Jung <id.php?id=103866> 	University of Pennsylvania 	1979
+Shine, Sabbas <id.php?id=107266> 	University of California, Berkeley 	1979
+Shoch, John <id.php?id=87271> 	Stanford University 	1979
+Shrader, Douglas <id.php?id=173319> 	University of Illinois at Chicago 	1979
+Sidner, Candace <id.php?id=108872> 	Massachusetts Institute of
+Technology 	1979
+Siegel, Paul <id.php?id=69212> 	Massachusetts Institute of Technology 	1979
+Siegrist, Kyle <id.php?id=11984> 	Georgia Institute of Technology 	1979
+Sigmon, Timothy <id.php?id=87787> 	Duke University 	1979
+Simen, David <id.php?id=7236> 	University of Michigan 	1979
+Simmons, Steven <id.php?id=91778> 	Virginia Polytechnic Institute and
+State University 	1979
+Simms, John <id.php?id=41895> 	The Rockefeller University 	1979
+Simon, Richard <id.php?id=81923> 	Purdue University 	1979
+Simoson, Andrew <id.php?id=141246> 	University of Wyoming 	1979
+Simpson, Henry <id.php?id=11832> 	California Institute of Technology 	1979
+Singkofer, Karen <id.php?id=8784> 	University of South Florida 	1979
+Sipe, Patricia <id.php?id=7804> 	Cornell University 	1979
+Skrzypek, Josef <id.php?id=70685> 	University of California, Berkeley 	1979
+Slonim, Jacob <id.php?id=13816> 	Kansas State University 	1979
+Smiley, Leonard <id.php?id=89435> 	University of Notre Dame 	1979
+Smith, Carl <id.php?id=80192> 	State University of New York at Buffalo 	1979
+Smith, Carol <id.php?id=45541> 	University of Texas at Austin 	1979
+Smith, Charles <id.php?id=52794> 	The University of Chicago 	1979
+Smith, Douglas <id.php?id=165202> 	Duke University 	1979
+Smith, Kay <id.php?id=115178> 	Yale University 	1979
+Smith, Raymond <id.php?id=57596> 	University of California, Irvine 	1979
+Smith, Richard <id.php?id=47222> 	Cornell University 	1979
+Smith, Rick <id.php?id=30482> 	The Pennsylvania State University 	1979
+Smith, Robert <id.php?id=1728> 	University of Florida 	1979
+Smith, Scott <id.php?id=121398> 	University of California, Riverside 	1979
+Smith, S. Diane <id.php?id=100835> 	Purdue University 	1979
+Smith, Stuart <id.php?id=30392> 	University of California, Berkeley 	1979
+Smolin, Lee <id.php?id=105751> 	Harvard University 	1979
+Snow, Dennis <id.php?id=1446> 	University of Notre Dame 	1979
+Snow, Joanne <id.php?id=46055> 	University of Notre Dame 	1979
+Sorensen, Dennis <id.php?id=45542> 	University of Texas at Austin 	1979
+Soroka, Barry <id.php?id=172482> 	University of Pennsylvania 	1979
+Southall, John <id.php?id=45543> 	University of Texas at Austin 	1979
+Souza, Geraldo <id.php?id=52579> 	North Carolina State University 	1979
+Squires, William <id.php?id=7277> 	University of Michigan 	1979
+Stablein, Donald <id.php?id=41854> 	Virginia Commonwealth University 	1979
+Stan, Peter <id.php?id=119794> 	Harvard University 	1979
+Stankovic, John <id.php?id=135124> 	Brown University 	1979
+Stauffer, Barbara <id.php?id=91780> 	Virginia Polytechnic Institute and
+State University 	1979
+Stein, Daniel <id.php?id=135607> 	Princeton University 	1979
+Stephenson, William <id.php?id=25311> 	The University of Connecticut 	1979
+Stevens, Kent <id.php?id=113363> 	Massachusetts Institute of
+Technology 	1979
+Stevens, William <id.php?id=14524> 	Brown University 	1979
+Stob, Michael <id.php?id=31287> 	The University of Chicago 	1979
+Stolfo, Salvatore <id.php?id=125122> 	New York University 	1979
+Stormes, James <id.php?id=4440> 	Brown University 	1979
+Stout, William <id.php?id=31105> 	University of Virginia 	1979
+Strait, Stewart <id.php?id=43188> 	University of California, San Diego 	1979
+Stroup, Walter <id.php?id=168043> 	University of Kentucky 	1979
+Strumolo, Gary <id.php?id=33135> 	New York University 	1979
+Su, Lo-Yung <id.php?id=17320> 	Texas A&M University 	1979
+Subrahmanyam, Pasupathi <id.php?id=122986> 	State University of New York
+at Stony Brook 	1979
+Suh, Sungwoo <id.php?id=88832> 	The University of Connecticut 	1979
+Summers, Stephen <id.php?id=41754> 	Harvard University 	1979
+Sutrick, Kenneth <id.php?id=34299> 	University of California, Berkeley 	1979
+Swank, Paul <id.php?id=143912> 	University of Northern Colorado 	1979
+Swartwout, Donald <id.php?id=7278> 	University of Michigan 	1979
+Sweetser, III, Theodore <id.php?id=43158> 	University of California, San
+Diego 	1979
+Taksar, Michael <id.php?id=79456> 	Cornell University 	1979
+Talati, Kiritkumar <id.php?id=8884> 	Texas Christian University 	1979
+Tan, Suan-Boon <id.php?id=157334> 	University of Pittsburgh 	1979
+Tansel, Barbaros <id.php?id=85972> 	University of Florida 	1979
+Tardo, Joseph <id.php?id=94764> 	University of California, Los Angeles 	1979
+Taylor, Richard <id.php?id=1149> 	State University of New York at Stony
+Brook 	1979
+Teixeira, José <id.php?id=119860> 	Stanford University 	1979
+Teneketzis, Demosthenis <id.php?id=102710> 	Massachusetts Institute of
+Technology 	1979
+Terada, Routo <id.php?id=82714> 	University of Wisconsin-Madison 	1979
+Terrana, Victor <id.php?id=103695> 	Illinois Institute of Technology 	1979
+Thompson, Donald <id.php?id=23558> 	University of Arizona 	1979
+Thompson, Richard <id.php?id=32206> 	University of California,
+Berkeley 	1979
+Thompson, Thomas <id.php?id=67421> 	University of California, Davis 	1979
+Thrall, Anthony <id.php?id=34424> 	University of California, Berkeley 	1979
+Thrift, Philip <id.php?id=14525> 	Brown University 	1979
+Ting, Bing-Yuan <id.php?id=43800> 	University of Missouri - Kansas
+City 	1979
+Torrejon, Ricardo <id.php?id=22287> 	University of Iowa 	1979
+Toueg, Sam <id.php?id=73551> 	Princeton University 	1979
+Tsai, Wen-Hsiang <id.php?id=108968> 	Purdue University 	1979
+Tse, Egbert <id.php?id=40860> 	University of California, Los Angeles 	1979
+Tsinakis, Constantine <id.php?id=32207> 	University of California,
+Berkeley 	1979
+Tucker, Carolyn <id.php?id=20229> 	University of Utah 	1979
+Tudor, David <id.php?id=88861> 	University of Iowa 	1979
+Tuler, Randolph <id.php?id=32749> 	University of California, Berkeley 	1979
+Turner, Timothy <id.php?id=119489> 	California Institute of Technology 	1979
+Tygel, Martin <id.php?id=44496> 	Stanford University 	1979
+Tyler, David <id.php?id=138237> 	Princeton University 	1979
+Unell, Alan <id.php?id=6875> 	Northwestern University 	1979
+Uprety, Basudev <id.php?id=34406> 	University of California, Berkeley 	1979
+Urwin, Ross <id.php?id=48606> 	University of California, Los Angeles 	1979
+Vahidi-Asl, Mohammad <id.php?id=12859> 	University of Oregon 	1979
+Valentini, Robert <id.php?id=9982> 	The Ohio State University 	1979
+Valenza, Robert <id.php?id=7851> 	Columbia University 	1979
+Vallenas, Jose <id.php?id=126050> 	University of California, Berkeley 	1979
+Valliere, III, Arthur <id.php?id=25453> 	The George Washington
+University 	1979
+Van Dam, James <id.php?id=148899> 	University of California, Los
+Angeles 	1979
+Van der Heyden, Ludo <id.php?id=85258> 	Yale University 	1979
+Van Horne, John <id.php?id=25380> 	Syracuse University 	1979
+Vargas, Luis <id.php?id=148027> 	University of Pennsylvania 	1979
+Vasak, Janet <id.php?id=4002> 	University of Illinois at
+Urbana-Champaign 	1979
+Verghese, George <id.php?id=90926> 	Stanford University 	1979
+Vinkler, Aharon <id.php?id=116867> 	California Institute of Technology 	1979
+Viwathanatepa, Suthipoul <id.php?id=126162> 	University of California,
+Berkeley 	1979
+Wadia, Spenta <id.php?id=149775> 	City University of New York 	1979
+Wah, Benjamin <id.php?id=41312> 	University of California, Berkeley 	1979
+Waiveris Jr., Charles <id.php?id=30513> 	Wesleyan University 	1979
+Wake, Robert <id.php?id=4441> 	Brown University 	1979
+Walrand, Jean <id.php?id=45829> 	University of California, Berkeley 	1979
+Wang, Paul <id.php?id=34335> 	University of California, Berkeley 	1979
+Ward, Michael <id.php?id=20221> 	University of Utah 	1979
+Warren, David <id.php?id=81492> 	University of Michigan 	1979
+Warshauer, Max <id.php?id=3241> 	The Louisiana State University 	1979
+Washburn, Jr., Robert <id.php?id=67726> 	Massachusetts Institute of
+Technology 	1979
+Watnick, Richard <id.php?id=5971> 	Rutgers University, New Brunswick 	1979
+Watts, Donna <id.php?id=47395> 	The University of North Carolina at
+Chapel Hill 	1979
+Waxman, Allen <id.php?id=62302> 	The University of Chicago 	1979
+Webb, R. I. <id.php?id=151907> 	The University of Chicago 	1979
+Weide, Bruce <id.php?id=79360> 	Carnegie Mellon University 	1979
+Weiss, Joan <id.php?id=154800> 	Idaho State University 	1979
+Weiss, John <id.php?id=33808> 	New York University 	1979
+Weisser, Daniel <id.php?id=32700> 	University of California, Berkeley 	1979
+Welsch, Lawrence <id.php?id=70332> 	Rutgers University, New Brunswick 	1979
+Wenger, John <id.php?id=106327> 	Illinois Institute of Technology 	1979
+Wenocur, Roberta <id.php?id=89890> 	Temple University 	1979
+West, Ronald <id.php?id=8885> 	Texas Christian University 	1979
+West, Stephen <id.php?id=45545> 	University of Texas at Austin 	1979
+Wetzell, David <id.php?id=3714> 	University of Nebraska-Lincoln 	1979
+Whitaker, Genevieve <id.php?id=5588> 	University of Georgia 	1979
+White, Robert <id.php?id=15449> 	Michigan State University 	1979
+Whittaker, William <id.php?id=96285> 	Carnegie Mellon University 	1979
+Wieselthier, Jeffrey <id.php?id=133569> 	University of Maryland College
+Park 	1979
+Williams, Dana <id.php?id=32439> 	University of California, Berkeley 	1979
+Williams, Sarah <id.php?id=17461> 	University of Alabama-Tuscaloosa 	1979
+Williamson, M. <id.php?id=113829> 	Michigan State University 	1979
+Willie, James <id.php?id=34426> 	University of California, Berkeley 	1979
+Wilson, James <id.php?id=67625> 	Purdue University 	1979
+Wiltse, Curtis <id.php?id=128295> 	University of Iowa 	1979
+Winslow, Alicia <id.php?id=1729> 	University of Florida 	1979
+Winslow, David <id.php?id=1730> 	University of Florida 	1979
+Winston, Kenneth <id.php?id=61710> 	Massachusetts Institute of
+Technology 	1979
+Wise, Jack <id.php?id=119553> 	California Institute of Technology 	1979
+Wittekind, Glen <id.php?id=11224> 	Kansas State University 	1979
+Wolff, Thomas <id.php?id=11949> 	University of California, Berkeley 	1979
+Wolfram, Stephen <id.php?id=114676> 	California Institute of
+Technology 	1979
+Woltermann, Michael <id.php?id=9977> 	The Ohio State University 	1979
+Wong, M. Anthony <id.php?id=35348> 	Yale University 	1979
+Wong, Suzanna <id.php?id=83199> 	Stanford University 	1979
+Woo, Jung-Soo <id.php?id=11018> 	Washington State University 	1979
+Woolford, Samuel <id.php?id=16726> 	Purdue University 	1979
+Wu, Huan-Ter <id.php?id=91779> 	Virginia Polytechnic Institute and State
+University 	1979
+Wyant, Timothy <id.php?id=49804> 	The Johns Hopkins University 	1979
+Yanik, Harry <id.php?id=6942> 	University of Kentucky 	1979
+Yasskin, Philip <id.php?id=122158> 	University of Maryland College
+Park 	1979
+Yemini, Yechiam <id.php?id=183213> 	University of California, Los
+Angeles 	1979
+Yen, Yu-Song <id.php?id=32475> 	University of California, Berkeley 	1979
+Yingst, David <id.php?id=137473> 	Rice University 	1979
+Young, David <id.php?id=57846> 	University of Colorado at Boulder 	1979
+Younis, Rahman <id.php?id=5589> 	University of Georgia 	1979
+Yun, Sang Un <id.php?id=83613> 	University of Florida 	1979
+Yurchak, Walter <id.php?id=41704> 	University of Wisconsin-Milwaukee 	1979
+Yuster, Thomas <id.php?id=9646> 	University of Wisconsin-Madison 	1979
+Zachos, Cosmas <id.php?id=129695> 	California Institute of Technology 	1979
+Zaks, Shmuel <id.php?id=102883> 	University of Illinois at
+Urbana-Champaign 	1979
+Zayed, Ahmed <id.php?id=41730> 	University of Wisconsin-Milwaukee 	1979
+Zimmerman, Charles <id.php?id=122191> 	The Ohio State University 	1979
+Zimmermann, Mark <id.php?id=141013> 	California Institute of
+Technology 	1979
+Zinsmeister, Alan <id.php?id=46534> 	The Florida State University 	1979
+Zippel, Richard <id.php?id=82993> 	Massachusetts Institute of
+Technology 	1979
+
+  * Search <search.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+
+
+The Mathematics Genealogy Project is in need of funds to help pay for
+student help and other associated costs. If you would like to
+contribute, please donate online
+<https://epayment.ndus.nodak.edu/C22800_ustores/web/product_detail.jsp?PRODUCTID=2989&SINGLESTORE=true>
+using credit card or bank transfer or mail your tax-deductible
+contribution to:
+
+Mathematics Genealogy Project
+Department of Mathematics
+North Dakota State University
+P. O. Box 6050
+Fargo, North Dakota 58108-6050
+

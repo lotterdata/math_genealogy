@@ -1,0 +1,1126 @@
+Tree <index.php>
+
+
+  Mathematics Genealogy Project
+
+  * Home <index.php>
+  * Search <search.php>
+  * Extrema <extrema.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+  * Mirrors <mirrors.php>
+      o NDSU (main) <http://www.genealogy.math.ndsu.nodak.edu/>
+      o AMS <http://www.genealogy.ams.org/>
+      o Bielefeld <http://www.math.uni-bielefeld.de/genealogy>
+      o IMPA <http://genealogy.impa.br/>
+
+A service of the NDSU <http://www.ndsu.edu/> Department of Mathematics
+<http://www.math.ndsu.nodak.edu/>, in association with the American
+Mathematical Society <http://www.ams.org/>.
+
+Your search has found 884 records in our database.
+Display results in .
+
+Abrahamson, David <id.php?id=14537> 	Brown University 	1981
+Abrams, Gene <id.php?id=12459> 	University of Oregon 	1981
+Abramson, Ian <id.php?id=34337> 	University of California, Berkeley 	1981
+Adams, Ernst <id.php?id=5986> 	Rutgers University, New Brunswick 	1981
+Adams, Jeffrey <id.php?id=30984> 	Yale University 	1981
+Addington, Susan <id.php?id=84668> 	State University of New York at
+Stony Brook 	1981
+Adegboye, Olawoye <id.php?id=61176> 	Bowling Green State University 	1981
+Adjemian, Betty <id.php?id=48639> 	University of California, Los
+Angeles 	1981
+Adkins, Gregory <id.php?id=106407> 	University of California, Los
+Angeles 	1981
+Aftabizadeh, Abdol <id.php?id=4639> 	University of Texas at Arlington 	1981
+Agrawala, Vishnu <id.php?id=133782> 	University of Pittsburgh 	1981
+Aguirre, Julian <id.php?id=1791> 	Washington University in St. Louis 	1981
+Akylas, Triantaphyllos <id.php?id=63453> 	Massachusetts Institute of
+Technology 	1981
+Albin, Susan <id.php?id=144658> 	Columbia University 	1981
+Albrecht, Ulrich <id.php?id=9529> 	New Mexico State University 	1981
+Al-Dukair, Fawzi <id.php?id=48702> 	University of California, Los
+Angeles 	1981
+Al-Rashed, Abdallah <id.php?id=111793> 	Colorado State University 	1981
+Amillo-Gil, June <id.php?id=36308> 	Virginia Polytechnic Institute and
+State University 	1981
+Amrine, Brian <id.php?id=17132> 	University of California, Santa
+Barbara 	1981
+Anderson, Michael <id.php?id=32072> 	University of California,
+Berkeley 	1981
+Anderson III, Claude <id.php?id=932> 	University of Illinois at
+Urbana-Champaign 	1981
+Andranik, Mirzaian <id.php?id=82087> 	Princeton University 	1981
+Angus, John <id.php?id=36565> 	University of California, Riverside 	1981
+Anker, David <id.php?id=7238> 	University of Michigan 	1981
+Ansari, Rashid <id.php?id=84376> 	Princeton University 	1981
+Arghami, Nasser <id.php?id=1418> 	The Florida State University 	1981
+Ariyaratna, Wijetunga <id.php?id=160735> 	Colorado State University 	1981
+Arnon, Dennis <id.php?id=82414> 	University of Wisconsin-Madison 	1981
+Aspvall, Bengt <id.php?id=87317> 	Stanford University 	1981
+Atalla Seif, Nabila <id.php?id=23919> 	Colorado State University 	1981
+Atkinson, Neely <id.php?id=43726> 	Rice University 	1981
+Avidor, Daniel <id.php?id=66390> 	University of California, Los
+Angeles 	1981
+Aviles, Patricio <id.php?id=16897> 	Purdue University 	1981
+Ayad, Nabila <id.php?id=111826> 	Colorado State University 	1981
+Babaoğlu, Özalp <id.php?id=77015> 	University of California, Berkeley 	1981
+Bailey, Craig <id.php?id=15460> 	Michigan State University 	1981
+Baker, Mark <id.php?id=62762> 	Massachusetts Institute of Technology 	1981
+Bani, Mohamed <id.php?id=3431> 	University of California, Riverside 	1981
+Bansal, Rajeev <id.php?id=66802> 	Harvard University 	1981
+Bapat, Ravindra <id.php?id=64634> 	University of Illinois at Chicago 	1981
+Baratz, Alan <id.php?id=98734> 	Massachusetts Institute of Technology 	1981
+Barel, Zeev <id.php?id=38929> 	Wesleyan University 	1981
+Barlow, Jesse <id.php?id=40264> 	Northwestern University 	1981
+Barnet, Frank <id.php?id=93524> 	University of Notre Dame 	1981
+Barshinger, Richard <id.php?id=87625> 	State University of New York at
+Binghamton 	1981
+Barsky, Brian <id.php?id=50070> 	University of Utah 	1981
+Barto, Rod <id.php?id=14052> 	University of Texas at Austin 	1981
+Barton, Gene <id.php?id=14053> 	University of Texas at Austin 	1981
+Barzegar, Amir <id.php?id=27172> 	The George Washington University 	1981
+Baulieu, Forrest <id.php?id=47346> 	University of Massachusetts
+Amherst 	1981
+Bean, Charles <id.php?id=169416> 	Massachusetts Institute of
+Technology 	1981
+Bean, James <id.php?id=7899> 	Stanford University 	1981
+Beasley, Craig <id.php?id=10817> 	University of North Texas 	1981
+Beck, K. <id.php?id=30584> 	University of Iowa 	1981
+Beck, Philip <id.php?id=45532> 	University of Texas at Austin 	1981
+Beder, Jay <id.php?id=41689> 	The George Washington University 	1981
+Beer, Walter <id.php?id=32442> 	University of California, Berkeley 	1981
+Beichl, Isabel <id.php?id=79187> 	Cornell University 	1981
+Beissinger, Janet <id.php?id=15213> 	University of Pennsylvania 	1981
+Bell, Cornelius <id.php?id=20269> 	Auburn University 	1981
+Bengston, Thomas <id.php?id=43201> 	University of California, San
+Diego 	1981
+Benham, James <id.php?id=10724> 	The Ohio State University 	1981
+Benjamini, Yoav <id.php?id=95555> 	Princeton University 	1981
+Benz, Stephen <id.php?id=30999> 	Clemson University 	1981
+Berele, Allan <id.php?id=37438> 	The University of Chicago 	1981
+Bergen, Jeffrey <id.php?id=37437> 	The University of Chicago 	1981
+Berger, Eric <id.php?id=79821> 	Harvard University 	1981
+Bergman, Clifford <id.php?id=241> 	University of California, Berkeley 	1981
+Bergum, James <id.php?id=102717> 	Montana State University 	1981
+Berman, Joseph <id.php?id=3629> 	University of Rhode Island 	1981
+Bernal, Luis <id.php?id=119852> 	California Institute of Technology 	1981
+Bernstein, Leslie <id.php?id=157480> 	University of Southern
+California 	1981
+Biegler, Lorenz <id.php?id=102705> 	University of Wisconsin-Madison 	1981
+Biggers, Ronald <id.php?id=75325> 	University of California, Irvine 	1981
+Bigonha, Roberto da Silva <id.php?id=147284> 	University of California,
+Los Angeles 	1981
+Birge, John <id.php?id=7902> 	Stanford University 	1981
+Birman, Kenneth <id.php?id=73698> 	University of California, Berkeley 	1981
+Birnir, Bjorn <id.php?id=16922> 	New York University 	1981
+Blair, William <id.php?id=115803> 	University of Michigan 	1981
+Blake, M. <id.php?id=113831> 	Michigan State University 	1981
+Blasius, Don <id.php?id=36679> 	Princeton University 	1981
+Bleiler, Steven <id.php?id=12864> 	University of Oregon 	1981
+Bloom, Steven <id.php?id=1862> 	Washington University in St. Louis 	1981
+Blum, Robert <id.php?id=87258> 	Stanford University 	1981
+Blume, Glendon <id.php?id=134172> 	University of Wisconsin-Madison 	1981
+Boley, Daniel <id.php?id=41750> 	Stanford University 	1981
+Boral, Haran <id.php?id=82415> 	University of Wisconsin-Madison 	1981
+Borden, J. <id.php?id=4742> 	University of Illinois at
+Urbana-Champaign 	1981
+Bozdogan, Hamparsum <id.php?id=64694> 	University of Illinois at
+Chicago 	1981
+Bracho, Javier <id.php?id=67473> 	Massachusetts Institute of
+Technology 	1981
+Bradley, Edward <id.php?id=11022> 	Washington State University 	1981
+Bradley, George <id.php?id=54249> 	University of Notre Dame 	1981
+Brady, John <id.php?id=125691> 	Stanford University 	1981
+Brady, Steve <id.php?id=30443> 	Cornell University 	1981
+Brattström, Gudrun <id.php?id=20323> 	Cornell University 	1981
+Bray, William <id.php?id=12647> 	Missouri University of Science and
+Technology 	1981
+Brickell, Ernest <id.php?id=10725> 	The Ohio State University 	1981
+Brocklebank, John <id.php?id=52545> 	North Carolina State University 	1981
+Brooks, Rodney <id.php?id=61090> 	Stanford University 	1981
+Brown, Charles <id.php?id=35299> 	The University of Chicago 	1981
+Brulois, Frederic <id.php?id=44444> 	Stanford University 	1981
+Bruss, Anna <id.php?id=98966> 	Massachusetts Institute of Technology 	1981
+Bryant, Randal <id.php?id=50060> 	Massachusetts Institute of
+Technology 	1981
+Buckles, Billy <id.php?id=40621> 	University of Alabama in Huntsville 	1981
+Buechler, Steven <id.php?id=9653> 	University of Maryland College Park 	1981
+Buerk, Dorothy <id.php?id=95759> 	State University of New York at
+Buffalo 	1981
+Bunch, Henry <id.php?id=3432> 	University of California, Riverside 	1981
+Burton, Catherine <id.php?id=47388> 	The University of North Carolina at
+Chapel Hill 	1981
+Burton, Dale <id.php?id=1891> 	The Florida State University 	1981
+Butner, Steven <id.php?id=86638> 	Stanford University 	1981
+Cabrera, Luis <id.php?id=31707> 	University of California, Berkeley 	1981
+Caglayan, Mehmet <id.php?id=133742> 	Northwestern University 	1981
+Calhoun, Carol <id.php?id=41767> 	University of South Carolina 	1981
+Campbell, Edward <id.php?id=70826> 	University of Illinois at
+Urbana-Champaign 	1981
+Cantaluppi, Laurent <id.php?id=85952> 	Stanford University 	1981
+Cantrell, Robert <id.php?id=19914> 	University of Utah 	1981
+Carfora, Mauro <id.php?id=51283> 	University of Texas at Dallas 	1981
+Carmichael, William <id.php?id=34575> 	University of California,
+Berkeley 	1981
+Carothers, David <id.php?id=16823> 	Purdue University 	1981
+Castellano, (Bruno) Michael <id.php?id=30572> 	Tulane University 	1981
+Chameau, Jean-Lou <id.php?id=78227> 	Stanford University 	1981
+Chan, Sherman <id.php?id=112460> 	Massachusetts Institute of
+Technology 	1981
+Chang, Der-Shin <id.php?id=80015> 	University of Wisconsin-Madison 	1981
+Chang, I-Chung <id.php?id=33072> 	New York University 	1981
+Chang, Tsang-Sung <id.php?id=66329> 	University of Iowa 	1981
+Chang, Tsu <id.php?id=15196> 	Harvard University 	1981
+Cheer, Angela <id.php?id=31563> 	University of California, Berkeley 	1981
+Chellappa, Ramalingam <id.php?id=89445> 	Purdue University 	1981
+Chen, Cheng <id.php?id=74315> 	The Florida State University 	1981
+Chen, Keh-Jian <id.php?id=80194> 	State University of New York at
+Buffalo 	1981
+Chen, Reynold <id.php?id=49975> 	The Johns Hopkins University 	1981
+Cheng, Unjeng <id.php?id=46579> 	University of Southern California 	1981
+Cheng, Yun-Chian <id.php?id=82416> 	University of Wisconsin-Madison 	1981
+Chew, Leslie <id.php?id=81914> 	Purdue University 	1981
+Chiang, Yi-Ling <id.php?id=70329> 	Rutgers University, New Brunswick 	1981
+Chock, Margaret <id.php?id=140988> 	University of California, Los
+Angeles 	1981
+Choe, Young-Han <id.php?id=64724> 	University of Illinois at Chicago 	1981
+Chou, Timothy <id.php?id=117180> 	University of Illinois at
+Urbana-Champaign 	1981
+Chou, Wu-Nan <id.php?id=48566> 	University of California, Los Angeles 	1981
+Chu, I-Ping <id.php?id=1158> 	State University of New York at Stony
+Brook 	1981
+Chu, Shuni <id.php?id=132517> 	Rice University 	1981
+Chuong, Cheng-Jen <id.php?id=183240> 	University of California, San
+Diego 	1981
+Clarke, Dale <id.php?id=33180> 	New York University 	1981
+Clemenson, Gregory <id.php?id=69194> 	Massachusetts Institute of
+Technology 	1981
+Clinger, William <id.php?id=69199> 	Massachusetts Institute of
+Technology 	1981
+Cogdell, James <id.php?id=30511> 	Yale University 	1981
+Cohen, Michael <id.php?id=83217> 	Stanford University 	1981
+Collins, Bruce <id.php?id=47247> 	The University of North Carolina at
+Chapel Hill 	1981
+Collins, Clyde <id.php?id=1960> 	Indiana University 	1981
+Collins, Welburn <id.php?id=12164> 	University of Houston 	1981
+Conklin, Joyce <id.php?id=43782> 	University of Missouri - Kansas City 	1981
+Constantine, Kenneth <id.php?id=79300> 	Purdue University 	1981
+Cook, Edith <id.php?id=63627> 	The University of Rochester 	1981
+Cozzens, Margaret <id.php?id=5979> 	Rutgers University, New Brunswick 	1981
+Craig, Walter <id.php?id=3333> 	New York University 	1981
+Crauder, Bruce <id.php?id=37524> 	Columbia University 	1981
+Crawford, Carl <id.php?id=103625> 	Purdue University 	1981
+Crawford, Melba <id.php?id=69876> 	The Ohio State University 	1981
+Crawley, Edward <id.php?id=116813> 	Massachusetts Institute of
+Technology 	1981
+Crew, Richard <id.php?id=87136> 	Princeton University 	1981
+Cusick, Larry <id.php?id=43119> 	University of California, San Diego 	1981
+D'Abadie, Catherine <id.php?id=1413> 	The Florida State University 	1981
+Daneshi, Tahereh <id.php?id=8887> 	Texas Christian University 	1981
+Darlow, Bruce <id.php?id=43736> 	Rice University 	1981
+Davidson, Jack <id.php?id=117854> 	University of Arizona 	1981
+Davis, James <id.php?id=12165> 	University of Houston 	1981
+Davis, Richard <id.php?id=37501> 	Columbia University 	1981
+Dawson, Sally <id.php?id=105722> 	Harvard University 	1981
+Deckhart, Robert <id.php?id=12865> 	University of Oregon 	1981
+Dekel, Eliezer <id.php?id=120142> 	University of Minnesota-Minneapolis 	1981
+Delaurentis, John <id.php?id=10726> 	The Ohio State University 	1981
+de Moraes, Luís Felipe <id.php?id=138238> 	University of California, Los
+Angeles 	1981
+Denman, Richard <id.php?id=45515> 	University of Texas at Austin 	1981
+Depassier, Maria <id.php?id=157699> 	Columbia University 	1981
+Deutsch, Leslie <id.php?id=10515> 	California Institute of Technology 	1981
+Deutz, Andre <id.php?id=47006> 	Wayne State University 	1981
+Dick, Wayne <id.php?id=43213> 	University of California, San Diego 	1981
+Dillard, David <id.php?id=134869> 	Virginia Polytechnic Institute and
+State University 	1981
+Dinse, Gregg <id.php?id=88519> 	Harvard University 	1981
+Divall, Robert <id.php?id=43547> 	Oklahoma State University 	1981
+Djafari-Rouhani, Behzad <id.php?id=9172> 	Yale University 	1981
+Dobson, Gregory <id.php?id=83497> 	Stanford University 	1981
+Dorronsoro, José <id.php?id=2030> 	Washington University in St. Louis 	1981
+Dossin, Steven <id.php?id=48961> 	Southern Methodist University 	1981
+Draper, David <id.php?id=34582> 	University of California, Berkeley 	1981
+Dray, Tevian <id.php?id=32477> 	University of California, Berkeley 	1981
+Drew, James <id.php?id=48101> 	Iowa State University 	1981
+Dubiner, Moshe <id.php?id=63524> 	Massachusetts Institute of
+Technology 	1981
+Dudziak, James <id.php?id=2040> 	Indiana University 	1981
+Dunbar, Steven <id.php?id=2041> 	University of Minnesota-Minneapolis 	1981
+Dunbar, William <id.php?id=85467> 	Princeton University 	1981
+Duranti, Alessandro <id.php?id=93392> 	University of Southern
+California 	1981
+Dutta, Amit <id.php?id=140857> 	Purdue University 	1981
+Dutta, Sankar <id.php?id=7048> 	University of Michigan 	1981
+Eastham, Jr., Jerome <id.php?id=3869> 	University of Tennessee -
+Knoxville 	1981
+Edwards, Donald <id.php?id=41526> 	The Ohio State University 	1981
+Effinger, Gove <id.php?id=14498> 	University of Massachusetts Amherst 	1981
+Egger, Alan <id.php?id=23907> 	Colorado State University 	1981
+Ein, Lawrence <id.php?id=31816> 	University of California, Berkeley 	1981
+Elenbogen, Bruce <id.php?id=102435> 	Northwestern University 	1981
+Ellis, David <id.php?id=32702> 	University of California, Berkeley 	1981
+Ellis, Steven <id.php?id=34429> 	University of California, Berkeley 	1981
+Emamy-Khansary, Mohamad <id.php?id=31383> 	University of California,
+Berkeley 	1981
+Embrechts, Mark <id.php?id=102328> 	Virginia Polytechnic Institute and
+State University 	1981
+Emerson, E. Allen <id.php?id=69873> 	Harvard University 	1981
+Ensor, J. Robert <id.php?id=105639> 	State University of New York at
+Stony Brook 	1981
+Erceg, Michael <id.php?id=32253> 	University of California, Berkeley 	1981
+Errecart, Michael <id.php?id=49976> 	The Johns Hopkins University 	1981
+Estrada Navas, Ricardo <id.php?id=90560> 	The Pennsylvania State
+University 	1981
+Evans, Anthony <id.php?id=11023> 	Washington State University 	1981
+Falbo, James <id.php?id=1523> 	University of California, Santa Cruz 	1981
+Faller, Newton <id.php?id=8754> 	University of California, Berkeley 	1981
+Farmer, J. <id.php?id=35199> 	University of California, Santa Cruz 	1981
+Farrand, Scott <id.php?id=43178> 	University of California, San Diego 	1981
+Farris, Frank <id.php?id=44391> 	Massachusetts Institute of Technology 	1981
+Fasanelli, Florence <id.php?id=81051> 	The American University 	1981
+Faticoni, Theodore <id.php?id=89035> 	The University of Connecticut 	1981
+Fedder, Richard <id.php?id=7049> 	University of Michigan 	1981
+Feighn, Mark <id.php?id=35989> 	Columbia University 	1981
+Fenelon, Mary <id.php?id=89370> 	Stanford University 	1981
+Ferm, Eric <id.php?id=9405> 	Washington State University 	1981
+Fernandez Jana, Claudio <id.php?id=51923> 	The University of Rochester 	1981
+Fesen, Robert <id.php?id=115805> 	University of Michigan 	1981
+Feun, Lindson <id.php?id=111939> 	Wayne State University 	1981
+Fickle, Clay <id.php?id=17168> 	University of California, Santa
+Barbara 	1981
+Finkelstein, Dianne <id.php?id=82230> 	University of Michigan 	1981
+Fishburn, John <id.php?id=82417> 	University of Wisconsin-Madison 	1981
+Fisher, Evan <id.php?id=4875> 	University of Illinois at
+Urbana-Champaign 	1981
+Fisher, Jr., Robert <id.php?id=47322> 	University of Massachusetts
+Amherst 	1981
+Fitzsimmons, Patrick <id.php?id=37243> 	Case Western Reserve
+University 	1981
+Fleming, Philip <id.php?id=7050> 	University of Michigan 	1981
+Fleri, Edward <id.php?id=14539> 	Brown University 	1981
+Flinn, Patrick <id.php?id=10727> 	The Ohio State University 	1981
+Floyd, Jr., Carey <id.php?id=40757> 	Duke University 	1981
+Fogel, Sergei <id.php?id=43751> 	Rice University 	1981
+Fogwell, Thomas <id.php?id=2086> 	Emory University 	1981
+Fotso, Laure <id.php?id=59634> 	Rensselaer Polytechnic Institute 	1981
+Fowler, Graeme <id.php?id=133978> 	California Institute of Technology 	1981
+Francel, Margaret <id.php?id=2089> 	Emory University 	1981
+Francioni, Joan <id.php?id=2090> 	The Florida State University 	1981
+Franco, John <id.php?id=70323> 	Rutgers University, New Brunswick 	1981
+Freiling, Christopher <id.php?id=46539> 	University of California, Los
+Angeles 	1981
+Freksa, Christian <id.php?id=87842> 	University of California,
+Berkeley 	1981
+Frenzen, C. <id.php?id=55215> 	University of Washington 	1981
+Friedland, Dina <id.php?id=82424> 	University of Wisconsin-Madison 	1981
+Friedman, Robert <id.php?id=37490> 	Harvard University 	1981
+Friedman, Shimon <id.php?id=34688> 	University of California, Berkeley 	1981
+Fudenberg, Drew <id.php?id=151145> 	Massachusetts Institute of
+Technology 	1981
+Fuhrman, Jed <id.php?id=103441> 	University of California, San Diego 	1981
+Gannaway, John <id.php?id=59282> 	Vanderbilt University 	1981
+Gardiner, Christopher <id.php?id=3918> 	University of Illinois at
+Urbana-Champaign 	1981
+Gardner, Carl <id.php?id=40766> 	Massachusetts Institute of Technology 	1981
+Garnett, Lucy <id.php?id=38765> 	Dartmouth College 	1981
+Gatsonis, Constantine <id.php?id=69345> 	Cornell University 	1981
+Gau, Yih-Nan <id.php?id=16592> 	Purdue University 	1981
+Gauss, Roger <id.php?id=179735> 	University of Maryland College Park 	1981
+Gazmuri, Pedro <id.php?id=106236> 	University of California, Berkeley 	1981
+Gebizlioglu, Omer <id.php?id=31878> 	Union College 	1981
+Geetha, Rangaswami <id.php?id=84181> 	Michigan State University 	1981
+George, Edward <id.php?id=83216> 	Stanford University 	1981
+George, Varghese <id.php?id=21646> 	University of Missouri - Columbia 	1981
+Gibbons, Robert <id.php?id=173389> 	The University of Chicago 	1981
+Gifford, David <id.php?id=76626> 	Stanford University 	1981
+Gilbert, John <id.php?id=57876> 	Stanford University 	1981
+Giles, C. Lee <id.php?id=92567> 	University of Arizona 	1981
+Giovannitti, Anthony <id.php?id=9528> 	New Mexico State University 	1981
+Glaser, Anton <id.php?id=74456> 	Temple University 	1981
+Glezer, Ari <id.php?id=119485> 	California Institute of Technology 	1981
+Glidewell, Samuel <id.php?id=22231> 	Georgia Institute of Technology 	1981
+Gluchoff, Alan <id.php?id=9672> 	University of Wisconsin-Madison 	1981
+Goberstein, Simon <id.php?id=83354> 	University of Arkansas 	1981
+Goldberg, Larry <id.php?id=4004> 	University of Illinois at
+Urbana-Champaign 	1981
+Goldsmith, Linda <id.php?id=44290> 	Case Western Reserve University 	1981
+Goldston, Daniel <id.php?id=32087> 	University of California, Berkeley 	1981
+Goodman, Douglas <id.php?id=2138> 	University of Minnesota-Minneapolis 	1981
+Goodstein, Harvey <id.php?id=1360> 	The American University 	1981
+Gordon, Melvin <id.php?id=63755> 	New York University 	1981
+Graham, Charles <id.php?id=8350> 	Princeton University 	1981
+Grassi, Peter <id.php?id=30814> 	Polytechnic University 	1981
+Grcar, Joseph <id.php?id=4865> 	University of Illinois at
+Urbana-Champaign 	1981
+Greenbaum, Anne <id.php?id=31589> 	University of California, Berkeley 	1981
+Greenleaf, Allan <id.php?id=8351> 	Princeton University 	1981
+Greenside, Henry <id.php?id=40785> 	Princeton University 	1981
+Greenspan, Bernard <id.php?id=52945> 	Cornell University 	1981
+Grosse, Eric <id.php?id=46417> 	Stanford University 	1981
+Groszek, Marcia <id.php?id=54237> 	Harvard University 	1981
+Grow, David <id.php?id=3718> 	University of Nebraska-Lincoln 	1981
+Guarino, Roberta <id.php?id=35277> 	Princeton University 	1981
+Gumpertz, Richard <id.php?id=50105> 	Carnegie Mellon University 	1981
+Gupta, Ranee <id.php?id=38673> 	Massachusetts Institute of Technology 	1981
+Haas, Andrew <id.php?id=1159> 	State University of New York at Stony
+Brook 	1981
+Hagelin, John <id.php?id=105729> 	Harvard University 	1981
+Hale, Margaret (Margie) <id.php?id=43971> 	Vanderbilt University 	1981
+Hall, Lawrence <id.php?id=105731> 	Harvard University 	1981
+Hallauer, David <id.php?id=3433> 	University of California, Riverside 	1981
+Halpern, Joseph <id.php?id=40889> 	Harvard University 	1981
+Halpin, Patrick <id.php?id=14133> 	The Pennsylvania State University 	1981
+Han, Chong <id.php?id=7283> 	University of Michigan 	1981
+Hanlon, Philip <id.php?id=7907> 	California Institute of Technology 	1981
+Hansen, Kristina <id.php?id=2186> 	University of Iowa 	1981
+Hardison, David <id.php?id=131548> 	The University of North Carolina at
+Chapel Hill 	1981
+Haring-Smith, Robert <id.php?id=934> 	University of Illinois at
+Urbana-Champaign 	1981
+Harris, Jr., Whitney <id.php?id=35668> 	City University of New York 	1981
+Hart, Jeffrey <id.php?id=48329> 	Southern Methodist University 	1981
+Hart, Laurie <id.php?id=69105> 	University of Wisconsin-Madison 	1981
+Hartman, James <id.php?id=15459> 	Michigan State University 	1981
+Hartman, Robert <id.php?id=57849> 	University of Colorado at Boulder 	1981
+Hass, Joel <id.php?id=23936> 	University of California, Berkeley 	1981
+Hastings, Kevin <id.php?id=12574> 	Northwestern University 	1981
+Hayes, III, Monson <id.php?id=78233> 	Massachusetts Institute of
+Technology 	1981
+Haymet, Anthony <id.php?id=61910> 	The University of Chicago 	1981
+Hecker, David <id.php?id=5978> 	Rutgers University, New Brunswick 	1981
+Heegard, Chris <id.php?id=38485> 	Stanford University 	1981
+Heffernan, Daniel <id.php?id=89543> 	Cornell University 	1981
+Heiman, Barbara <id.php?id=11220> 	Kansas State University 	1981
+Henderson, Johnny <id.php?id=3719> 	University of Nebraska-Lincoln 	1981
+Hernandez, Eugenio <id.php?id=2207> 	Washington University in St.
+Louis 	1981
+Hetherington, Thomas <id.php?id=34301> 	University of California,
+Berkeley 	1981
+Hickernell, Frederick <id.php?id=57571> 	Massachusetts Institute of
+Technology 	1981
+Hickey, Kevin <id.php?id=159> 	Iowa State University 	1981
+Higdon, Robert <id.php?id=44512> 	Stanford University 	1981
+Higgins, Michael <id.php?id=70991> 	Stanford University 	1981
+Hilfinger, Paul <id.php?id=50158> 	Carnegie Mellon University 	1981
+Hillis, William <id.php?id=61064> 	Massachusetts Institute of
+Technology 	1981
+Hingston, Nancy <id.php?id=79364> 	Harvard University 	1981
+Ho, Lop <id.php?id=9673> 	University of Wisconsin-Madison 	1981
+Hoefer, M. <id.php?id=35614> 	City University of New York 	1981
+Hoefer, Max <id.php?id=184569> 	City University of New York 	1981
+Hoffman, Lorrie <id.php?id=81098> 	University of Iowa 	1981
+Hoffman, Michael <id.php?id=22296> 	Massachusetts Institute of
+Technology 	1981
+Holdom, Bob <id.php?id=105679> 	Harvard University 	1981
+Holmes, David <id.php?id=3434> 	University of California, Riverside 	1981
+Holmes, Jr., Robert <id.php?id=34338> 	University of California,
+Berkeley 	1981
+Honargohar, Zorabi <id.php?id=111792> 	Colorado State University 	1981
+Hong, Young <id.php?id=13050> 	Northwestern University 	1981
+Honig, Michael <id.php?id=137304> 	University of California, Berkeley 	1981
+Hooper, Peter <id.php?id=4702> 	University of Illinois at
+Urbana-Champaign 	1981
+Hopkins, Laurie <id.php?id=91920> 	University of South Carolina 	1981
+Horn, Paul <id.php?id=35279> 	Princeton University 	1981
+Horton, Mark <id.php?id=120379> 	University of California, Berkeley 	1981
+Howell, Ina <id.php?id=8788> 	University of South Florida 	1981
+Hrabowski, Jan <id.php?id=37516> 	Columbia University 	1981
+Hsieh, Lienzu <id.php?id=1736> 	University of Florida 	1981
+Hsu, Lih-Hsing <id.php?id=1156> 	State University of New York at Stony
+Brook 	1981
+Hughes, C. Bruce <id.php?id=6933> 	University of Kentucky 	1981
+Hui, Chung-Yuen <id.php?id=167498> 	Harvard University 	1981
+Humphrey, Jackie <id.php?id=45520> 	University of Texas at Austin 	1981
+Hunter, John <id.php?id=25040> 	Stanford University 	1981
+Ikura, Yoshiro <id.php?id=128327> 	Cornell University 	1981
+Ingram, John <id.php?id=10818> 	University of North Texas 	1981
+Ingram, Jr., Paul <id.php?id=1157> 	State University of New York at
+Stony Brook 	1981
+Ingrassia, Michael <id.php?id=4624> 	University of Illinois at
+Urbana-Champaign 	1981
+Israel, Jr., Maximiano <id.php?id=8940> 	University of Southern
+California 	1981
+Iusem, Alfredo <id.php?id=58755> 	Stanford University 	1981
+Jaffe, Leon <id.php?id=45516> 	University of Texas at Austin 	1981
+James, Robert <id.php?id=127905> 	University of Texas at Austin 	1981
+Janeway, Billy <id.php?id=12166> 	University of Houston 	1981
+Jarrett, Elzbieta <id.php?id=79443> 	Western Michigan University 	1981
+Jayaraman, Bharat <id.php?id=86870> 	University of Utah 	1981
+Jenda, Overtoun <id.php?id=6936> 	University of Kentucky 	1981
+Jensen, Anna-Lise <id.php?id=64312> 	University of Illinois at Chicago 	1981
+Jensen, Richard <id.php?id=2264> 	Emory University 	1981
+Jeppson, Ron <id.php?id=107744> 	Montana State University 	1981
+Jepson, Allan <id.php?id=11836> 	California Institute of Technology 	1981
+Johannesson, Benedikt <id.php?id=1415> 	The Florida State University 	1981
+John, Thomas <id.php?id=31788> 	University of California, Berkeley 	1981
+Johnson, Corlis <id.php?id=2273> 	Emory University 	1981
+Johnson, Scott <id.php?id=77005> 	Cornell University 	1981
+Johnstone, Iain <id.php?id=40887> 	Cornell University 	1981
+Jordan, Bruce <id.php?id=22505> 	Harvard University 	1981
+Joseph, Deborah <id.php?id=11504> 	Purdue University 	1981
+Ju, Wilfred <id.php?id=14540> 	Brown University 	1981
+Juell, Paul <id.php?id=62434> 	The Ohio State University 	1981
+Kabamba, Pierre <id.php?id=164669> 	Columbia University 	1981
+Kadic-Galeb, Aida <id.php?id=77941> 	Lehigh University 	1981
+Kalk, John <id.php?id=101149> 	University of Colorado at Boulder 	1981
+Kalliongis, John <id.php?id=15015> 	The University of Connecticut 	1981
+Kamienny, Sheldon <id.php?id=22506> 	Harvard University 	1981
+Kampfner, Roberto <id.php?id=104163> 	University of Michigan 	1981
+Kao, Cheng-Yan <id.php?id=82420> 	University of Wisconsin-Madison 	1981
+Kareiva, Peter <id.php?id=67456> 	Cornell University 	1981
+Kastanas, Ilias <id.php?id=10491> 	California Institute of Technology 	1981
+Kath, William <id.php?id=11837> 	California Institute of Technology 	1981
+Katzenstein, Leo <id.php?id=53549> 	The University of Chicago 	1981
+Keeler, Stephen <id.php?id=28099> 	University of Washington 	1981
+Keller, Jr., Clayton <id.php?id=4448> 	Brown University 	1981
+Kelly, E. Gabrielle <id.php?id=83215> 	Stanford University 	1981
+Kemp, Marilyn <id.php?id=43783> 	University of Missouri - Kansas City 	1981
+Kennedy, Gary <id.php?id=37527> 	Columbia University 	1981
+Kent, Stephen <id.php?id=104737> 	Massachusetts Institute of
+Technology 	1981
+Kerayechian, Asghar <id.php?id=85345> 	Colorado State University 	1981
+Khadr, Amr <id.php?id=126981> 	Case Western Reserve University 	1981
+Kim, Dohan <id.php?id=62391> 	Rutgers University, New Brunswick 	1981
+Kim, Hai <id.php?id=11020> 	Washington State University 	1981
+Kim, Jong <id.php?id=14541> 	Brown University 	1981
+Kim, Kyung <id.php?id=16745> 	Purdue University 	1981
+King, James <id.php?id=9674> 	University of Wisconsin-Madison 	1981
+King, Jonathan <id.php?id=87256> 	Stanford University 	1981
+Kingsolver, Joel <id.php?id=88912> 	Stanford University 	1981
+Kirkpatrick, Theodore <id.php?id=114599> 	The Rockefeller University 	1981
+Kiruthi, George <id.php?id=63707> 	University of Maryland College Park 	1981
+Kitchens, Bruce <id.php?id=24872> 	The University of North Carolina at
+Chapel Hill 	1981
+Klein, David <id.php?id=96954> 	Cornell University 	1981
+Kleppe, Hans <id.php?id=38674> 	Massachusetts Institute of Technology 	1981
+Kline, Robert <id.php?id=2319> 	Washington University in St. Louis 	1981
+Kojima, Sadayoshi <id.php?id=37526> 	Columbia University 	1981
+Korevaar, Nicholas <id.php?id=20050> 	Stanford University 	1981
+Korman, Philip <id.php?id=33528> 	New York University 	1981
+Korth, Henry <id.php?id=82089> 	Princeton University 	1981
+Kourouklis, Stavros <id.php?id=83447> 	Rutgers University, New
+Brunswick 	1981
+Kraay, Julie <id.php?id=15461> 	Michigan State University 	1981
+Krafft, Dean <id.php?id=77004> 	Cornell University 	1981
+Krause, Gerianne <id.php?id=103690> 	Illinois Institute of Technology 	1981
+Krauter, William <id.php?id=3720> 	University of Nebraska-Lincoln 	1981
+Kress, Moshe <id.php?id=41347> 	University of Texas at Austin 	1981
+Krishnamurthy, Balakrishnan <id.php?id=81269> 	University of
+Massachusetts Amherst 	1981
+Krumm, R. J. <id.php?id=151913> 	The University of Chicago 	1981
+Krystinik, Katherine <id.php?id=35278> 	Princeton University 	1981
+Kubrusly, Ricardo <id.php?id=45517> 	University of Texas at Austin 	1981
+Kupferschmid, Michael <id.php?id=59635> 	Rensselaer Polytechnic
+Institute 	1981
+Kurtz, Stuart <id.php?id=4626> 	University of Illinois at
+Urbana-Champaign 	1981
+Kush, Satindra <id.php?id=35552> 	City University of New York 	1981
+Kushner Schnur, Alberto <id.php?id=36800> 	Brandeis University 	1981
+Kuttler, Kenneth <id.php?id=45518> 	University of Texas at Austin 	1981
+Kwatinetz, Michael <id.php?id=32209> 	University of California,
+Berkeley 	1981
+Lai, Kowk-woon <id.php?id=50152> 	Carnegie Mellon University 	1981
+Lalley, Steven <id.php?id=21271> 	Stanford University 	1981
+Lam, Yuk-Miu <id.php?id=91788> 	Virginia Polytechnic Institute and State
+University 	1981
+Lamm, Patricia <id.php?id=14538> 	Brown University 	1981
+Lancaster, Kirk <id.php?id=72823> 	Oregon State University 	1981
+Landois, Luis <id.php?id=52546> 	North Carolina State University 	1981
+Landy, Michael <id.php?id=104165> 	University of Michigan 	1981
+Lang, Jeffrey <id.php?id=16886> 	Purdue University 	1981
+Larson, Lee <id.php?id=15458> 	Michigan State University 	1981
+Laurence, Peter <id.php?id=9675> 	University of Wisconsin-Madison 	1981
+Lawniczak, Anna <id.php?id=3031> 	Southern Illinois University at
+Carbondale 	1981
+Lax, David <id.php?id=182080> 	Harvard University 	1981
+Leckband, Mark <id.php?id=16718> 	Purdue University 	1981
+Lee, Carl <id.php?id=6861> 	Cornell University 	1981
+Lee, Edward <id.php?id=48114> 	Iowa State University 	1981
+Lee, Hung-Mou <id.php?id=66803> 	Harvard University 	1981
+Lee, Hyunkoo <id.php?id=88828> 	The University of Connecticut 	1981
+Lee, Kyung <id.php?id=7051> 	University of Michigan 	1981
+Lee, Luen-Fure <id.php?id=91789> 	Virginia Polytechnic Institute and
+State University 	1981
+Lefante, Jr., John <id.php?id=12154> 	University of Alabama-Birmingham 	1981
+Le Gall, Didier <id.php?id=66392> 	University of California, Los
+Angeles 	1981
+Lehtomaki, Norman <id.php?id=112459> 	Massachusetts Institute of
+Technology 	1981
+Leighton, F. Thomson <id.php?id=37053> 	Massachusetts Institute of
+Technology 	1981
+Leiserson, Charles <id.php?id=50312> 	Carnegie Mellon University 	1981
+Leive, Gary <id.php?id=93739> 	Carnegie Mellon University 	1981
+Lenhart, Suzanne <id.php?id=6937> 	University of Kentucky 	1981
+Leuze, Michael <id.php?id=77189> 	Duke University 	1981
+Leverett, Bruce <id.php?id=50108> 	Carnegie Mellon University 	1981
+Levitt, Tod <id.php?id=89209> 	University of Minnesota-Minneapolis 	1981
+Levy, Bernard <id.php?id=64318> 	Stanford University 	1981
+Levy, Henry (Hank) <id.php?id=69000> 	University of Washington 	1981
+Lewis, Frank <id.php?id=98303> 	Georgia Institute of Technology 	1981
+Lewis, John <id.php?id=105314> 	Case Western Reserve University 	1981
+Li, Ker-Chau <id.php?id=34503> 	University of California, Berkeley 	1981
+Li, Tze <id.php?id=85680> 	Michigan State University 	1981
+Liaw, Mou-Jung <id.php?id=10819> 	University of North Texas 	1981
+Liestman, Arthur <id.php?id=72305> 	University of Illinois at
+Urbana-Champaign 	1981
+Lifson, Dale <id.php?id=52595> 	North Carolina State University 	1981
+Lin, Bing-Ying <id.php?id=64647> 	University of Illinois at Chicago 	1981
+Lin, Hong-Chuan <id.php?id=10428> 	California Institute of Technology 	1981
+Lin, Jer-Shyong <id.php?id=40282> 	The University of Chicago 	1981
+Lindquist, W. Brent <id.php?id=70739> 	Cornell University 	1981
+Lipscomb, James <id.php?id=63390> 	The University of North Carolina at
+Chapel Hill 	1981
+Littlejohn, Lance <id.php?id=22742> 	The Pennsylvania State University 	1981
+Litz, Owen <id.php?id=20321> 	Auburn University 	1981
+Liu, Chang-Huan <id.php?id=133461> 	University of Texas at Austin 	1981
+Livne, Ron <id.php?id=22507> 	Harvard University 	1981
+Lo, Shaw-Hwa <id.php?id=34532> 	University of California, Berkeley 	1981
+Lo, Sheng-Ping <id.php?id=57035> 	University of South Carolina 	1981
+Lobb, Wayne <id.php?id=4810> 	University of Illinois at
+Urbana-Champaign 	1981
+Lock, Patricia <id.php?id=8003> 	University of Massachusetts Amherst 	1981
+Lock, Robin <id.php?id=37050> 	University of Massachusetts Amherst 	1981
+Lopes-Troya, Josefa <id.php?id=34502> 	University of California,
+Berkeley 	1981
+Loyer, Milton <id.php?id=107942> 	Montana State University 	1981
+Lu, David <id.php?id=86637> 	Stanford University 	1981
+Lucantoni, David <id.php?id=48463> 	University of Delaware 	1981
+Lucier, Bradley <id.php?id=16917> 	The University of Chicago 	1981
+Lui, Jong-Chi <id.php?id=9878> 	University of Cincinnati 	1981
+Lui, Roger <id.php?id=58737> 	University of Minnesota-Minneapolis 	1981
+Ma, Fai <id.php?id=11838> 	California Institute of Technology 	1981
+Macpherson, Brian <id.php?id=48116> 	Iowa State University 	1981
+Mader, Eric <id.php?id=15832> 	University of Virginia 	1981
+Mahaney, Stephen <id.php?id=108534> 	Cornell University 	1981
+Mahdavi-Amiri, Nezameddin <id.php?id=50021> 	The Johns Hopkins
+University 	1981
+Mahjoob-Behrooz, Kooros <id.php?id=34407> 	University of California,
+Berkeley 	1981
+Maier, Helmut <id.php?id=2440> 	University of Minnesota-Minneapolis 	1981
+Maize, Earl <id.php?id=24321> 	Claremont Graduate University 	1981
+Makowski, Armand <id.php?id=6934> 	University of Kentucky 	1981
+Malafronte, Thomas <id.php?id=14542> 	Brown University 	1981
+Malik, Naveed <id.php?id=175032> 	Massachusetts Institute of
+Technology 	1981
+Manderscheid, David <id.php?id=30667> 	Yale University 	1981
+Mannion, Luke <id.php?id=14543> 	Brown University 	1981
+Marco, Jr, Virgil <id.php?id=985> 	University of Texas at Dallas 	1981
+Marsh, Marcus <id.php?id=12167> 	University of Houston 	1981
+Martin, David <id.php?id=11839> 	California Institute of Technology 	1981
+Martin, Joanne <id.php?id=43229> 	The Johns Hopkins University 	1981
+Martin, Jorge <id.php?id=20100> 	University of Utah 	1981
+Martin, Worthy <id.php?id=164750> 	University of Texas at Austin 	1981
+Martinez, Jorge <id.php?id=83063> 	Temple University 	1981
+Martinsek, Adam <id.php?id=4796> 	Columbia University 	1981
+Marvizi, Shahla <id.php?id=62546> 	Massachusetts Institute of
+Technology 	1981
+Mashburn, Joe <id.php?id=3435> 	University of California, Riverside 	1981
+Massey, William <id.php?id=30201> 	Stanford University 	1981
+Masterson, John <id.php?id=128211> 	Polytechnic Institute of New York
+University 	1981
+Matsudaira, Paul <id.php?id=116200> 	Dartmouth College 	1981
+Mauk, Cherry <id.php?id=45519> 	University of Texas at Austin 	1981
+Maymin, Zakhar <id.php?id=69195> 	Massachusetts Institute of
+Technology 	1981
+Mazaher, Shahrzade <id.php?id=69966> 	University of California, Los
+Angeles 	1981
+McConnell, Terry <id.php?id=4083> 	University of Illinois at
+Urbana-Champaign 	1981
+McCurley, Kevin <id.php?id=3992> 	University of Illinois at
+Urbana-Champaign 	1981
+McDonald, David <id.php?id=50251> 	Carnegie Mellon University 	1981
+McDowell, Edward <id.php?id=26485> 	Yale University 	1981
+McEntire, Mary <id.php?id=45521> 	University of Texas at Austin 	1981
+McKee, Thomas <id.php?id=14544> 	Brown University 	1981
+McKnight, Barbara <id.php?id=158694> 	University of Wisconsin-Madison 	1981
+McNerney, Gerald <id.php?id=102206> 	University of New Mexico 	1981
+McPherson, Jr., John <id.php?id=82421> 	University of
+Wisconsin-Madison 	1981
+McRae, Gregory <id.php?id=68417> 	California Institute of Technology 	1981
+Meacham, Christopher <id.php?id=116019> 	University of Michigan 	1981
+Meadows, Catherine <id.php?id=4242> 	University of Illinois at
+Urbana-Champaign 	1981
+Mee, Robert <id.php?id=89302> 	Iowa State University 	1981
+Meinel, Klaus <id.php?id=43337> 	Tulane University 	1981
+Meiron, Daniel <id.php?id=11979> 	Massachusetts Institute of
+Technology 	1981
+Melott, Adrian <id.php?id=24122> 	University of Texas at Austin 	1981
+Menasco, William <id.php?id=31991> 	University of California, Berkeley 	1981
+Mensch, Roy <id.php?id=78420> 	University of Minnesota-Minneapolis 	1981
+Menyuk, Curtis <id.php?id=148900> 	University of California, Los
+Angeles 	1981
+Merritt, David <id.php?id=165710> 	Princeton University 	1981
+Meurman, Arne <id.php?id=5985> 	Rutgers University, New Brunswick 	1981
+Meyer, Michael <id.php?id=59059> 	University of Minnesota-Minneapolis 	1981
+Meyerhoff, G. <id.php?id=15134> 	Princeton University 	1981
+Miksis, Michael <id.php?id=33411> 	New York University 	1981
+Miller, Andrew <id.php?id=89027> 	The University of Connecticut 	1981
+Miller, Anthony <id.php?id=133000> 	University of Maryland College
+Park 	1981
+Miller, David <id.php?id=31285> 	The University of Chicago 	1981
+Mitchell, Stephen <id.php?id=12027> 	University of Washington 	1981
+Miyashita, Junryo <id.php?id=8789> 	University of South Florida 	1981
+Mlodinow, Leonard <id.php?id=61994> 	University of California,
+Berkeley 	1981
+Moges, Tsegay <id.php?id=25356> 	Syracuse University 	1981
+Mohamed, Fouad <id.php?id=1417> 	The Florida State University 	1981
+Mohan, Mahalingam <id.php?id=75730> 	State University of New York at
+Stony Brook 	1981
+Molle, Mart <id.php?id=128673> 	University of California, Los Angeles 	1981
+Moon, Aeryung <id.php?id=10729> 	The Ohio State University 	1981
+Moore, Jeffrey <id.php?id=48653> 	University of California, Los
+Angeles 	1981
+Moore, Thomas A. <id.php?id=164300> 	Yale University 	1981
+Morgenthaler, David <id.php?id=78869> 	University of Maryland College
+Park 	1981
+Morse, Alan <id.php?id=36951> 	University of Massachusetts Amherst 	1981
+Morton, Blaise <id.php?id=32027> 	University of California, Berkeley 	1981
+Morton, Michael <id.php?id=48962> 	Southern Methodist University 	1981
+Moss, J. Eliot <id.php?id=86213> 	Massachusetts Institute of
+Technology 	1981
+Mostow, David <id.php?id=50280> 	Carnegie Mellon University 	1981
+Motro, Amihai <id.php?id=24480> 	University of Pennsylvania 	1981
+Mousa, Amany <id.php?id=1416> 	The Florida State University 	1981
+Mowers, Ronald <id.php?id=48122> 	Iowa State University 	1981
+Muhlbaier, Lawrence <id.php?id=131550> 	The University of North Carolina
+at Chapel Hill 	1981
+Mullen, Robert <id.php?id=144374> 	Northwestern University 	1981
+Munson, Beth <id.php?id=44368> 	Cornell University 	1981
+Murphree, Emily <id.php?id=47457> 	The University of North Carolina at
+Chapel Hill 	1981
+Mutchler, Carl <id.php?id=16681> 	Purdue University 	1981
+Myers, Jr., Eugene <id.php?id=91445> 	University of Colorado at
+Boulder 	1981
+Narayan, Prakash <id.php?id=72810> 	Washington University in St. Louis 	1981
+Natarajan, Venkataraman <id.php?id=70234> 	Rutgers University, New
+Brunswick 	1981
+Nau, Robert <id.php?id=102099> 	University of California, Berkeley 	1981
+Navy, Caryn <id.php?id=9676> 	University of Wisconsin-Madison 	1981
+Naylor, Bruce <id.php?id=980> 	University of Texas at Dallas 	1981
+Nedelman, Jerry <id.php?id=67452> 	Cornell University 	1981
+Neil, Charles <id.php?id=50797> 	Texas Tech University 	1981
+Nelson, Bruce <id.php?id=50146> 	Carnegie Mellon University 	1981
+Nett, Susan <id.php?id=118478> 	University of New Mexico 	1981
+Neuman, Rosalind <id.php?id=2531> 	Washington University in St. Louis 	1981
+Ng, Eugene <id.php?id=48569> 	University of California, Los Angeles 	1981
+Nguyen, Dung <id.php?id=31968> 	University of California, Berkeley 	1981
+Niederman, Derrick <id.php?id=25151> 	Massachusetts Institute of
+Technology 	1981
+Nigam, Anil <id.php?id=163266> 	The University of Rochester 	1981
+Nikolopoulos, Christos <id.php?id=42437> 	Colorado State University 	1981
+Niño-Salcedo, Jaime <id.php?id=30573> 	Tulane University 	1981
+Nour-Omid, Bahram <id.php?id=50853> 	University of California,
+Berkeley 	1981
+Nova, Lucimar <id.php?id=3477> 	University of Montana 	1981
+Novacky, George <id.php?id=96380> 	University of Pittsburgh 	1981
+Novak, Dan <id.php?id=88829> 	The University of Connecticut 	1981
+Nurlu, Zafer <id.php?id=26088> 	Clarkson University 	1981
+Oberguggenberger, Michael <id.php?id=98280> 	Duke University 	1981
+O'Brien, Gary <id.php?id=49190> 	State University of New York at
+Binghamton 	1981
+O'Connell, Michael <id.php?id=47350> 	University of Massachusetts
+Amherst 	1981
+Oden, Neal <id.php?id=116018> 	University of Michigan 	1981
+O'Donnell, Daniel <id.php?id=40565> 	University of Hawaii 	1981
+O'Dúnlaing, Colm <id.php?id=17102> 	University of California, Santa
+Barbara 	1981
+Oehlert, Gary <id.php?id=35350> 	Yale University 	1981
+Okada, Kanzo <id.php?id=145576> 	Oregon State University 	1981
+Olagunju, David <id.php?id=45287> 	Northwestern University 	1981
+Oren, Ishai <id.php?id=44516> 	Stanford University 	1981
+Orlin, James <id.php?id=68357> 	Stanford University 	1981
+Ortiz, Michael <id.php?id=112604> 	University of California, Berkeley 	1981
+Othmer, Bobbie Ann <id.php?id=70342> 	Rutgers University, New
+Brunswick 	1981
+Oudjit, Aissa <id.php?id=92742> 	Rensselaer Polytechnic Institute 	1981
+Ozekes, Hasan <id.php?id=1344> 	The American University 	1981
+Palachek, Albert <id.php?id=36068> 	Southern Methodist University 	1981
+Palfrey, III, Thomas <id.php?id=122222> 	California Institute of
+Technology 	1981
+Paolini, Paolo <id.php?id=69964> 	University of California, Los
+Angeles 	1981
+Paredes, Hector <id.php?id=52645> 	North Carolina State University 	1981
+Paris, Jehan-François <id.php?id=10792> 	University of California,
+Berkeley 	1981
+Parisi-Presicce, Francesco <id.php?id=89020> 	The University of
+Connecticut 	1981
+Patton, Jon <id.php?id=16868> 	Purdue University 	1981
+Paulson, Lawrence <id.php?id=25162> 	Stanford University 	1981
+Pavur, Robert <id.php?id=50799> 	Texas Tech University 	1981
+Pax, Steven <id.php?id=3868> 	University of Tennessee - Knoxville 	1981
+Penner, Robert <id.php?id=11754> 	Massachusetts Institute of
+Technology 	1981
+Perez-Arriaga, Ignacio <id.php?id=125376> 	Massachusetts Institute of
+Technology 	1981
+Perlis, Donald <id.php?id=33565> 	The University of Rochester 	1981
+Perry, Peter <id.php?id=6858> 	Princeton University 	1981
+Perry, Robert <id.php?id=31981> 	Union College 	1981
+Petro, John <id.php?id=20554> 	Temple University 	1981
+Phillips, Daniel <id.php?id=2602> 	University of Minnesota-Minneapolis 	1981
+Picard, Richard <id.php?id=89352> 	University of Minnesota-Minneapolis 	1981
+Pinsky, Peter <id.php?id=116943> 	University of California, Berkeley 	1981
+Plass, Michael <id.php?id=47210> 	Stanford University 	1981
+Pleban, Uwe <id.php?id=79878> 	University of Kansas 	1981
+Plumeri, Charles <id.php?id=14545> 	Brown University 	1981
+Polewczak, Jacek <id.php?id=17079> 	Virginia Polytechnic Institute and
+State University 	1981
+Pool, Robert <id.php?id=32995> 	Rice University 	1981
+Portier, Christopher <id.php?id=72754> 	The University of North Carolina
+at Chapel Hill 	1981
+Potter, Evelyn <id.php?id=160> 	Iowa State University 	1981
+Powell, Warren <id.php?id=110515> 	Massachusetts Institute of
+Technology 	1981
+Prelle, Myra Jean <id.php?id=75994> 	Rensselaer Polytechnic Institute 	1981
+Price, Geoffrey <id.php?id=23129> 	University of Pennsylvania 	1981
+Prioietti-Orlandi, Fernando <id.php?id=11167> 	Kent State University 	1981
+Privitera, John <id.php?id=77006> 	Cornell University 	1981
+Proctor, Robert <id.php?id=18030> 	Massachusetts Institute of
+Technology 	1981
+Przytycki, Jozef <id.php?id=24562> 	Columbia University 	1981
+Purcell, Robert <id.php?id=30800> 	Polytechnic University 	1981
+Putz, John <id.php?id=10966> 	Saint Louis University 	1981
+Pyper, Walter <id.php?id=122074> 	University of California, Riverside 	1981
+Rachlin, Sidney <id.php?id=151266> 	University of Georgia 	1981
+Rada, Roy <id.php?id=132123> 	University of Illinois at
+Urbana-Champaign 	1981
+Rai Choudhary, Ram <id.php?id=61643> 	University of Miami 	1981
+Rajagopalan, Meenakshi <id.php?id=170942> 	Memphis State University 	1981
+Ralescu, Stefan <id.php?id=2633> 	Indiana University 	1981
+Ramakrishna, Kamesh <id.php?id=50359> 	Carnegie Mellon University 	1981
+Ramamritham, Krithi <id.php?id=24601> 	University of Utah 	1981
+Ramanath, Munagala <id.php?id=82427> 	University of Wisconsin-Madison 	1981
+Ramey, Wade <id.php?id=9677> 	University of Wisconsin-Madison 	1981
+Ramos, Paulo <id.php?id=1419> 	The Florida State University 	1981
+Rao, Vidhyanath <id.php?id=73438> 	Case Western Reserve University 	1981
+Ray, Michael <id.php?id=45032> 	University of Texas at Arlington 	1981
+Rebolledo-Cortizo, Guillermo <id.php?id=83391> 	Stanford University 	1981
+Reid, John <id.php?id=146438> 	University of California, Irvine 	1981
+Reis, Sally <id.php?id=101623> 	The University of Connecticut 	1981
+Renka, Robert <id.php?id=45522> 	University of Texas at Austin 	1981
+Reynolds, David <id.php?id=20131> 	Carnegie Mellon University 	1981
+Reynolds, John <id.php?id=88801> 	North Carolina State University 	1981
+Rhaly, Jr., Henry (Crawford) <id.php?id=16313> 	University of Virginia 	1981
+Rhoads, Dennis <id.php?id=4203> 	University of Illinois at
+Urbana-Champaign 	1981
+Rich, Charles <id.php?id=80258> 	Massachusetts Institute of Technology 	1981
+Richert, Norman <id.php?id=24328> 	Claremont Graduate University 	1981
+Ries, John <id.php?id=42476> 	Princeton University 	1981
+Riley, William J. <id.php?id=175441> 	Texas A&M University 	1981
+Ritter, David <id.php?id=3245> 	The Louisiana State University 	1981
+Robson, Robert <id.php?id=30213> 	Stanford University 	1981
+Rodriguez, Rubi <id.php?id=20021> 	Columbia University 	1981
+Rosamond, Frances <id.php?id=41417> 	Cornell University 	1981
+Rosen, Julie <id.php?id=55092> 	University of Maryland College Park 	1981
+Rosenberg, Steven <id.php?id=32807> 	University of California,
+Berkeley 	1981
+Rosenthal, David <id.php?id=9678> 	University of Wisconsin-Madison 	1981
+Rousseau, John <id.php?id=45523> 	University of Texas at Austin 	1981
+Roytburd, Victor <id.php?id=19775> 	University of California, Berkeley 	1981
+Rubin, Karl <id.php?id=11709> 	Harvard University 	1981
+Ruge, John <id.php?id=53364> 	Colorado State University 	1981
+Ruina, Andy <id.php?id=154819> 	Brown University 	1981
+Rutkowski, Wallace <id.php?id=78870> 	University of Maryland College
+Park 	1981
+Ryczaj, Jerzy <id.php?id=96295> 	State University of New York at
+Albany 	1981
+Sacks, Paul <id.php?id=9679> 	University of Wisconsin-Madison 	1981
+Sahab, Salem <id.php?id=111794> 	Colorado State University 	1981
+Salane, Douglas <id.php?id=89249> 	State University of New York at Stony
+Brook 	1981
+Salihoglu, Selami <id.php?id=75729> 	State University of New York at
+Stony Brook 	1981
+Sanders, Richard <id.php?id=48814> 	University of California, Los
+Angeles 	1981
+Sands, Suzanne <id.php?id=96274> 	University of Maryland College Park 	1981
+Saniie, Jafar <id.php?id=124847> 	Purdue University 	1981
+Santanilla, M. <id.php?id=111812> 	Colorado State University 	1981
+Saphier, S. <id.php?id=63706> 	University of Maryland College Park 	1981
+Sarabudla, Narotham <id.php?id=141353> 	Iowa State University 	1981
+Sarkar, Debashish <id.php?id=155346> 	Massachusetts Institute of
+Technology 	1981
+Sastry, Akkapeddi <id.php?id=3721> 	University of Nebraska-Lincoln 	1981
+Sastry, S. Shankar <id.php?id=70150> 	University of California,
+Berkeley 	1981
+Savage, Jr., Richard <id.php?id=20227> 	University of Utah 	1981
+Scedrov, Andre <id.php?id=23207> 	State University of New York at
+Buffalo 	1981
+Schatzman, James <id.php?id=11840> 	California Institute of Technology 	1981
+Scheim, Jr., Charles <id.php?id=4449> 	Brown University 	1981
+Schilling, Kenneth <id.php?id=32729> 	University of California,
+Berkeley 	1981
+Schmidt, David <id.php?id=73694> 	Kansas State University 	1981
+Schoenfelder, John <id.php?id=47528> 	The University of North Carolina
+at Chapel Hill 	1981
+Schott, James <id.php?id=83606> 	University of Florida 	1981
+Schultz, Cherie <id.php?id=75723> 	State University of New York at Stony
+Brook 	1981
+Schwabe, Daniel <id.php?id=69965> 	University of California, Los
+Angeles 	1981
+Schwartz, Daniel <id.php?id=29884> 	Portland State University 	1981
+Schwarz, Martin <id.php?id=33277> 	New York University 	1981
+Schweppe, Charles <id.php?id=155524> 	Rice University 	1981
+Scott, Robert <id.php?id=141272> 	Clemson University 	1981
+Sebo, Don <id.php?id=3722> 	University of Nebraska-Lincoln 	1981
+Seddighi, Karim <id.php?id=2719> 	Indiana University 	1981
+Self, Steven <id.php?id=49237> 	University of Washington 	1981
+Sempolinski, Dorothy <id.php?id=155347> 	Massachusetts Institute of
+Technology 	1981
+Sen, Pradip <id.php?id=47437> 	The University of Chicago 	1981
+Sengupta, Saumyendra <id.php?id=11021> 	Washington State University 	1981
+Sepehri, Mehran <id.php?id=119862> 	Stanford University 	1981
+Serven, Robyn <id.php?id=12460> 	University of Oregon 	1981
+Servi, Leslie <id.php?id=78042> 	Harvard University 	1981
+Sexton, Harlan <id.php?id=44484> 	Stanford University 	1981
+Shani, Uri <id.php?id=122285> 	The University of Rochester 	1981
+Sharman, Robert <id.php?id=143670> 	University of California, Los
+Angeles 	1981
+Shaw, Mei-Chi <id.php?id=22628> 	Princeton University 	1981
+Shayman, Mark <id.php?id=22562> 	Harvard University 	1981
+Shell, Nancy <id.php?id=16314> 	University of Virginia 	1981
+Shen, Li-Chien <id.php?id=9680> 	University of Wisconsin-Madison 	1981
+Shen, Sheldon <id.php?id=140823> 	Purdue University 	1981
+Sherling, Dorothy <id.php?id=12168> 	University of Houston 	1981
+Shih, Weichung <id.php?id=89353> 	University of Minnesota-Minneapolis 	1981
+Shing, Man-Tak <id.php?id=96151> 	University of California, San Diego 	1981
+Shirali, Shailesh <id.php?id=113434> 	University of Texas at Dallas 	1981
+Shoaff, William <id.php?id=3030> 	Southern Illinois University at
+Carbondale 	1981
+Shueh, Chung-Ting <id.php?id=113435> 	University of Texas at Dallas 	1981
+Sideris, Thomas <id.php?id=2746> 	Indiana University 	1981
+Sim, Dalice <id.php?id=93068> 	University of Washington 	1981
+Simion, Rodica <id.php?id=15214> 	University of Pennsylvania 	1981
+Simmons, Forest <id.php?id=45524> 	University of Texas at Austin 	1981
+Simons, Barbara <id.php?id=106237> 	University of California, Berkeley 	1981
+Siow, A. <id.php?id=151914> 	The University of Chicago 	1981
+Siswadi,   <id.php?id=52481> 	North Carolina State University 	1981
+Slaman, Theodore <id.php?id=30966> 	Harvard University 	1981
+Sleator, Daniel <id.php?id=50085> 	Stanford University 	1981
+Slocum, Jonathan <id.php?id=78911> 	University of Texas at Austin 	1981
+Sloughter, Daniel <id.php?id=38752> 	Dartmouth College 	1981
+Smith, Charles <id.php?id=154620> 	The College of William and Mary 	1981
+Smith, Jeffrey <id.php?id=63605> 	Massachusetts Institute of
+Technology 	1981
+Smith, Kent <id.php?id=51140> 	University of California, Riverside 	1981
+Smith, Michael <id.php?id=76930> 	University of Texas at Austin 	1981
+Smock, Jr., Richard <id.php?id=45218> 	University of Arizona 	1981
+So, Ying <id.php?id=47475> 	The University of North Carolina at Chapel
+Hill 	1981
+Soares, José <id.php?id=80014> 	University of Wisconsin-Madison 	1981
+Sohrab, Siavash <id.php?id=152483> 	University of California, San
+Diego 	1981
+Sokal, Alan <id.php?id=33056> 	Princeton University 	1981
+Solel, Baruch <id.php?id=23113> 	University of Pennsylvania 	1981
+Solis, Francisco <id.php?id=6935> 	University of Kentucky 	1981
+Solomon, Frederick <id.php?id=48815> 	University of California, Los
+Angeles 	1981
+Soltani, Ahmad <id.php?id=85738> 	Michigan State University 	1981
+Song, Siang <id.php?id=50314> 	Carnegie Mellon University 	1981
+Soni,  Anil <id.php?id=25507> 	Bowling Green State University 	1981
+Sorace, Ronald <id.php?id=66391> 	University of California, Los
+Angeles 	1981
+Spearman, Blair <id.php?id=75285> 	The Pennsylvania State University 	1981
+Spector, Alfred <id.php?id=89889> 	Stanford University 	1981
+Spiro, Claudia <id.php?id=27036> 	University of Illinois at
+Urbana-Champaign 	1981
+Spirtes, Peter <id.php?id=99603> 	University of Pittsburgh 	1981
+Staab, Edward <id.php?id=63455> 	Massachusetts Institute of Technology 	1981
+Stabler, Jr., Edward <id.php?id=70479> 	Massachusetts Institute of
+Technology 	1981
+Stancil, Daniel <id.php?id=12242> 	Massachusetts Institute of
+Technology 	1981
+Stark, David <id.php?id=45525> 	University of Texas at Austin 	1981
+Steadman, James <id.php?id=87485> 	Stevens Institute of Technology 	1981
+Steen, Paul <id.php?id=101691> 	The Johns Hopkins University 	1981
+Stehle, Stephen <id.php?id=11123> 	Kent State University 	1981
+Steiger, Ulrich <id.php?id=135212> 	Georgia Institute of Technology 	1981
+Steihaug, Trond <id.php?id=51547> 	Yale University 	1981
+Stern, Lynnell <id.php?id=3630> 	University of Rhode Island 	1981
+Stevens, Glenn <id.php?id=6806> 	Harvard University 	1981
+Stewart, Donald Scott <id.php?id=142655> 	Cornell University 	1981
+Stewart, Lawrence <id.php?id=83392> 	Stanford University 	1981
+Stewart, Paul <id.php?id=48045> 	The University of North Carolina at
+Chapel Hill 	1981
+Stewart, Jr., William <id.php?id=97353> 	University of Maryland College
+Park 	1981
+Stone, Richard <id.php?id=83693> 	Stanford University 	1981
+Stover, Virginia <id.php?id=43220> 	University of California, San
+Diego 	1981
+Stredulinsky, Edward <id.php?id=2789> 	Indiana University 	1981
+Strominger, Andrew <id.php?id=99423> 	Massachusetts Institute of
+Technology 	1981
+Struppa, Daniele <id.php?id=45919> 	University of Maryland College
+Park 	1981
+Styer, Robert <id.php?id=32864> 	Massachusetts Institute of Technology 	1981
+Supowit, Kenneth <id.php?id=30167> 	University of Illinois at
+Urbana-Champaign 	1981
+Svoboda Allen, Linda <id.php?id=3867> 	University of Tennessee -
+Knoxville 	1981
+Swardson, Mary Anne <id.php?id=22618> 	Ohio University 	1981
+Swartout, William <id.php?id=131619> 	Massachusetts Institute of
+Technology 	1981
+Takigawa, Eric <id.php?id=14546> 	Brown University 	1981
+Talmage, Philip <id.php?id=9681> 	University of Wisconsin-Madison 	1981
+Tang, Dershuen <id.php?id=52621> 	North Carolina State University 	1981
+Tang, Jen <id.php?id=61175> 	Bowling Green State University 	1981
+Tangredi, Michael <id.php?id=9682> 	University of Wisconsin-Madison 	1981
+Tassoulas, John <id.php?id=45884> 	Massachusetts Institute of
+Technology 	1981
+Taylor, Herbert <id.php?id=46578> 	University of Southern California 	1981
+Teglas, Russell <id.php?id=9683> 	University of Wisconsin-Madison 	1981
+Tennant, Harry <id.php?id=132142> 	University of Illinois at
+Urbana-Champaign 	1981
+Tento, Scott <id.php?id=91322> 	Colorado State University 	1981
+Thaeler, John <id.php?id=113302> 	The Florida State University 	1981
+Tharinger, Deborah <id.php?id=45839> 	University of California,
+Berkeley 	1981
+Thizy, Jean-Michel <id.php?id=160301> 	Carnegie Mellon University 	1981
+Thomas, Benjamin <id.php?id=24873> 	The University of North Carolina at
+Chapel Hill 	1981
+Tien, Kuang-Fu <id.php?id=13030> 	Northwestern University 	1981
+Tirole, Jean <id.php?id=133333> 	Massachusetts Institute of Technology 	1981
+Tolopka, Stephen <id.php?id=81915> 	Purdue University 	1981
+Tovey, Craig <id.php?id=83519> 	Stanford University 	1981
+Trader, David <id.php?id=42504> 	Carnegie Mellon University 	1981
+Tranchina, Daniel <id.php?id=47913> 	The Rockefeller University 	1981
+Trias, ex Llopis, Regina <id.php?id=31491> 	University of California,
+Berkeley 	1981
+Trigo Baptista de Barros, Jose <id.php?id=5691> 	University of Texas at
+Dallas 	1981
+Troeger, Douglas <id.php?id=153814> 	Stevens Institute of Technology 	1981
+Tsai, Kao-Tai <id.php?id=43167> 	University of California, San Diego 	1981
+Tsao, Anna <id.php?id=7052> 	University of Michigan 	1981
+Tso, Chak <id.php?id=115626> 	Duke University 	1981
+Tubbs, Robert <id.php?id=78750> 	The Pennsylvania State University 	1981
+Turner, Jesse <id.php?id=118345> 	University of Idaho 	1981
+Tuvell, Jr., Walter <id.php?id=59130> 	The University of Chicago 	1981
+Twombly, Evan <id.php?id=91323> 	Colorado State University 	1981
+Tyson, William <id.php?id=77021> 	University of Texas at Austin 	1981
+Ullrich, David <id.php?id=9749> 	University of Wisconsin-Madison 	1981
+Uselton, Samuel <id.php?id=981> 	University of Texas at Dallas 	1981
+Vanderbei, Robert <id.php?id=51555> 	Cornell University 	1981
+Van Velsir, Gary <id.php?id=90838> 	University of Maryland College
+Park 	1981
+Vasek, William <id.php?id=12535> 	University of Oregon 	1981
+Vasudevan, Srinivas <id.php?id=34504> 	University of California,
+Berkeley 	1981
+Veeh, Jerry <id.php?id=95546> 	University of California, Irvine 	1981
+Vegas-Montaner, Jose <id.php?id=14547> 	Brown University 	1981
+Vernon, Philip <id.php?id=49163> 	University of California, Berkeley 	1981
+Vince, Andrew <id.php?id=7074> 	University of Michigan 	1981
+Vo, Kiem-Phong <id.php?id=43219> 	University of California, San Diego 	1981
+Vogel, Thomas <id.php?id=44454> 	Stanford University 	1981
+Vollmer, William <id.php?id=147766> 	University of Washington 	1981
+Vose, Michael <id.php?id=45526> 	University of Texas at Austin 	1981
+Walker, James <id.php?id=18031> 	Massachusetts Institute of Technology 	1981
+Walker, Robert <id.php?id=141104> 	Stanford University 	1981
+Wang, Ai-Nung <id.php?id=30394> 	University of California, Berkeley 	1981
+Wang, Derming <id.php?id=5594> 	University of Georgia 	1981
+Wang, Hsiao-lan <id.php?id=2880> 	Indiana University 	1981
+Wang, Jean <id.php?id=24322> 	Claremont Graduate University 	1981
+Warmuth, Manfred <id.php?id=101123> 	University of Colorado at Boulder 	1981
+Warren, John <id.php?id=52547> 	North Carolina State University 	1981
+Wassermann, Antony <id.php?id=23131> 	University of Pennsylvania 	1981
+Watson, Bernard <id.php?id=131551> 	The University of North Carolina at
+Chapel Hill 	1981
+Wazwaz, Abdul-Majid <id.php?id=64613> 	University of Illinois at
+Chicago 	1981
+Wegman, Mark <id.php?id=120380> 	University of California, Berkeley 	1981
+Wei, Anthony <id.php?id=107936> 	University of Illinois at
+Urbana-Champaign 	1981
+Weiss, Alan <id.php?id=33783> 	New York University 	1981
+Welch, Lawrence <id.php?id=4625> 	University of Illinois at
+Urbana-Champaign 	1981
+Weyant, Thomas <id.php?id=86316> 	University of California, Los
+Angeles 	1981
+White, Barbara <id.php?id=161512> 	Massachusetts Institute of
+Technology 	1981
+White, Joseph <id.php?id=140989> 	University of California, Los
+Angeles 	1981
+Wick, William <id.php?id=28290> 	University of Washington 	1981
+Wie, Bong <id.php?id=141106> 	Stanford University 	1981
+Wigton, Laurence <id.php?id=31909> 	University of California, Berkeley 	1981
+Wilkinson, William <id.php?id=82423> 	University of Wisconsin-Madison 	1981
+Wilks, Allan <id.php?id=106194> 	Princeton University 	1981
+Williams, Malcolm <id.php?id=101692> 	The Johns Hopkins University 	1981
+Williams, Mark <id.php?id=24988> 	Massachusetts Institute of
+Technology 	1981
+Williams, Susan <id.php?id=9173> 	Yale University 	1981
+Willits, Neil <id.php?id=83214> 	Stanford University 	1981
+Willson, Linda <id.php?id=23516> 	Oklahoma State University 	1981
+Wilson, James <id.php?id=48697> 	University of California, Los Angeles 	1981
+Winsor, James <id.php?id=116017> 	University of Michigan 	1981
+Winternitz, Robert <id.php?id=44486> 	Stanford University 	1981
+Wisdom, Jack <id.php?id=84647> 	California Institute of Technology 	1981
+Wittig, Timothy <id.php?id=84180> 	Michigan State University 	1981
+Wold, Diane <id.php?id=47512> 	The University of North Carolina at
+Chapel Hill 	1981
+Wolper, James <id.php?id=4450> 	Brown University 	1981
+Wong, Philip <id.php?id=37519> 	Columbia University 	1981
+Wong, William <id.php?id=37500> 	Columbia University 	1981
+Wong-Dzung, Baoswan <id.php?id=31969> 	University of California,
+Berkeley 	1981
+Woo, Alex <id.php?id=41528> 	Stanford University 	1981
+Woods, Donald <id.php?id=87405> 	Stanford University 	1981
+Yanasse, Horacio <id.php?id=98655> 	Massachusetts Institute of
+Technology 	1981
+Yandell, Brian <id.php?id=61786> 	University of California, Berkeley 	1981
+Yano, Candace <id.php?id=182258> 	Stanford University 	1981
+Yarman-Vural, Fatos <id.php?id=132753> 	Princeton University 	1981
+Yee, Steve <id.php?id=34300> 	University of California, Berkeley 	1981
+Yeh, Hon <id.php?id=36108> 	Southern Methodist University 	1981
+Yew, Pen-Chung <id.php?id=36940> 	University of Illinois at
+Urbana-Champaign 	1981
+Young, Dean <id.php?id=986> 	University of Texas at Dallas 	1981
+Young, Elmer <id.php?id=10728> 	The Ohio State University 	1981
+Young, William <id.php?id=113390> 	Massachusetts Institute of
+Technology 	1981
+Youvan, Douglas <id.php?id=115228> 	University of California, Berkeley 	1981
+Yuh, Yih-Shyh <id.php?id=83213> 	Stanford University 	1981
+Zacharia, Dan <id.php?id=27195> 	Brandeis University 	1981
+Zadrozny, Vladimir <id.php?id=25875> 	The Pennsylvania State
+University 	1981
+Zaman, Arif <id.php?id=51607> 	Stanford University 	1981
+Zelditch, Steven <id.php?id=32760> 	University of California, Berkeley 	1981
+Ziegler, Frederick <id.php?id=40861> 	University of California, Los
+Angeles 	1981
+Zorn, Paul <id.php?id=28259> 	University of Washington 	1981
+
+  * Search <search.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+
+
+The Mathematics Genealogy Project is in need of funds to help pay for
+student help and other associated costs. If you would like to
+contribute, please donate online
+<https://epayment.ndus.nodak.edu/C22800_ustores/web/product_detail.jsp?PRODUCTID=2989&SINGLESTORE=true>
+using credit card or bank transfer or mail your tax-deductible
+contribution to:
+
+Mathematics Genealogy Project
+Department of Mathematics
+North Dakota State University
+P. O. Box 6050
+Fargo, North Dakota 58108-6050
+

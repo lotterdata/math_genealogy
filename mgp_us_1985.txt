@@ -1,0 +1,1286 @@
+Tree <index.php>
+
+
+  Mathematics Genealogy Project
+
+  * Home <index.php>
+  * Search <search.php>
+  * Extrema <extrema.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+  * Mirrors <mirrors.php>
+      o NDSU (main) <http://www.genealogy.math.ndsu.nodak.edu/>
+      o AMS <http://www.genealogy.ams.org/>
+      o Bielefeld <http://www.math.uni-bielefeld.de/genealogy>
+      o IMPA <http://genealogy.impa.br/>
+
+A service of the NDSU <http://www.ndsu.edu/> Department of Mathematics
+<http://www.math.ndsu.nodak.edu/>, in association with the American
+Mathematical Society <http://www.ams.org/>.
+
+Your search has found 1028 records in our database.
+Display results in .
+
+Aaron, Kim <id.php?id=120955> 	California Institute of Technology 	1985
+Abdulali, Salman <id.php?id=1185> 	State University of New York at Stony
+Brook 	1985
+Abello, James <id.php?id=43212> 	University of California, San Diego 	1985
+Ache, Gerardo <id.php?id=78528> 	University of Wisconsin-Madison 	1985
+Adams, Warren <id.php?id=30742> 	Virginia Polytechnic Institute and
+State University 	1985
+Adjerid, Slimane <id.php?id=105306> 	Rensselaer Polytechnic Institute 	1985
+Afad, Rafiul <id.php?id=85130> 	University of Southern California 	1985
+Afsarmanesh, Hamideh <id.php?id=85129> 	University of Southern
+California 	1985
+Aggarwal, Alok <id.php?id=55238> 	The Johns Hopkins University 	1985
+Agha, Gul <id.php?id=41364> 	University of Michigan 	1985
+Agnarsson, Snorri <id.php?id=164693> 	Rensselaer Polytechnic Institute 	1985
+Ahamad, Mustaque <id.php?id=84513> 	State University of New York at
+Stony Brook 	1985
+Ahn, Sang-Hyung <id.php?id=160298> 	Carnegie Mellon University 	1985
+Ahn, Sang Moon <id.php?id=150552> 	University of Iowa 	1985
+Aidun, Cyrus <id.php?id=114181> 	Clarkson University 	1985
+Ajanapon, Pimon <id.php?id=16863> 	Purdue University 	1985
+Akdag, Fusun <id.php?id=126697> 	The Ohio State University 	1985
+Akman, Varol <id.php?id=68892> 	Rensselaer Polytechnic Institute 	1985
+Aladro, Gerardo <id.php?id=35773> 	The Pennsylvania State University 	1985
+Ali, Rosihan <id.php?id=7477> 	Texas Tech University 	1985
+Alijani-Koopaei, Ali <id.php?id=17111> 	University of California, Santa
+Barbara 	1985
+Allegria Ramirez, Carlos <id.php?id=50742> 	University of Notre Dame 	1985
+Allen, Peter <id.php?id=107596> 	University of Pennsylvania 	1985
+Allender, Eric <id.php?id=6192> 	Georgia Institute of Technology 	1985
+Allison, Dean <id.php?id=3603> 	University of Missouri - Columbia 	1985
+Alonzo, A. <id.php?id=151923> 	The University of Chicago 	1985
+Al-Saket, Amal <id.php?id=11030> 	Washington State University 	1985
+Altenberg, Lee <id.php?id=36563> 	Stanford University 	1985
+Al-Towaiq, Mohammad <id.php?id=88662> 	State University of New York at
+Stony Brook 	1985
+Alvarez, Carlos <id.php?id=118690> 	University of Miami 	1985
+Alves, Carlos <id.php?id=25865> 	The Pennsylvania State University 	1985
+Alwi, Nong <id.php?id=52489> 	North Carolina State University 	1985
+Aminzadeh, Mostafa <id.php?id=138121> 	Oregon State University 	1985
+Anderson, David <id.php?id=46707> 	University of Wisconsin-Madison 	1985
+Anderson, Joyce <id.php?id=14564> 	Brown University 	1985
+Anderson, Richard <id.php?id=71791> 	Stanford University 	1985
+Andreae, Peter <id.php?id=170699> 	Massachusetts Institute of
+Technology 	1985
+Andrews, Darry <id.php?id=32066> 	University of California, Berkeley 	1985
+Annaswamy, Anuradha <id.php?id=138879> 	Yale University 	1985
+Antaki, Paul <id.php?id=152485> 	Princeton University 	1985
+Appel, Andrew <id.php?id=42361> 	Carnegie Mellon University 	1985
+Arakaki, Gary <id.php?id=43085> 	University of Hawaii 	1985
+Arapura, Donu <id.php?id=22909> 	Columbia University 	1985
+Arena, Jr., Vincent <id.php?id=48288> 	University of Pittsburgh 	1985
+Arney, David <id.php?id=30916> 	Rensselaer Polytechnic Institute 	1985
+Arnold, Frances <id.php?id=121464> 	University of California, Berkeley 	1985
+Arnold, Friedemann <id.php?id=72289> 	Massachusetts Institute of
+Technology 	1985
+Arsenis, Spyros <id.php?id=67771> 	Massachusetts Institute of
+Technology 	1985
+Asaithambi, N. <id.php?id=78547> 	University of Wisconsin-Madison 	1985
+Asaro, Catherine <id.php?id=181970> 	Harvard University 	1985
+Ascenzi, Maria-Grazie <id.php?id=22647> 	Brandeis University 	1985
+Aslanis, James <id.php?id=67430> 	Case Western Reserve University 	1985
+Auerbach, Assa <id.php?id=184065> 	State University of New York at Stony
+Brook 	1985
+Avellaneda, Marco <id.php?id=1818> 	University of
+Minnesota-Minneapolis 	1985
+Avniel, Yehuda <id.php?id=170174> 	Massachusetts Institute of
+Technology 	1985
+Azarian, Mohammad <id.php?id=10970> 	Saint Louis University 	1985
+Bachman, Tovey <id.php?id=7055> 	University of Michigan 	1985
+Baeten, Josephus <id.php?id=1823> 	University of Minnesota-Minneapolis 	1985
+Baginski, Frank <id.php?id=29625> 	University of Massachusetts Amherst 	1985
+Baigorri, Rodolfo <id.php?id=1826> 	Washington University in St. Louis 	1985
+Balakrishnan, Anantaram <id.php?id=21580> 	Massachusetts Institute of
+Technology 	1985
+Baldursson, Fridrik <id.php?id=46398> 	Columbia University 	1985
+Baldwin, Douglas <id.php?id=190832> 	Yale University 	1985
+Ballarini, Roberto <id.php?id=175301> 	Northwestern University 	1985
+Ballerini, Rocco <id.php?id=106628> 	Colorado State University 	1985
+Banerjee, Prithviraj <id.php?id=41363> 	University of Illinois at
+Urbana-Champaign 	1985
+Banerjee, Uday <id.php?id=25468> 	University of Maryland College Park 	1985
+Bang, Hyunsoo <id.php?id=45566> 	University of Texas at Austin 	1985
+Barbara, Daniel <id.php?id=67630> 	Princeton University 	1985
+Barrett, Paul <id.php?id=103704> 	The Louisiana State University 	1985
+Barron, Andrew <id.php?id=38872> 	Stanford University 	1985
+Bar Yaacov, Daniel <id.php?id=30851> 	Yale University 	1985
+Bass, Jon <id.php?id=137702> 	University of Texas at Austin 	1985
+Bauldry, William <id.php?id=10696> 	The Ohio State University 	1985
+Baumann, William <id.php?id=106449> 	The Johns Hopkins University 	1985
+Baya'A, Nimer <id.php?id=1378> 	The American University 	1985
+Beard, David <id.php?id=105383> 	University of Michigan 	1985
+Beard, David <id.php?id=85031> 	University of Michigan 	1985
+Beaudoin, Robert <id.php?id=38718> 	Dartmouth College 	1985
+Beavis, William <id.php?id=95244> 	Iowa State University 	1985
+Bechtolsheim, Stephan <id.php?id=81896> 	Purdue University 	1985
+Beck, Michael <id.php?id=87420> 	University of Tennessee - Knoxville 	1985
+Becker, Betsy <id.php?id=82397> 	The University of Chicago 	1985
+Becker, Mark <id.php?id=47757> 	The Pennsylvania State University 	1985
+Becker, Jr., Arthur <id.php?id=49387> 	University of Maryland Baltimore
+County 	1985
+Beezley, Randall <id.php?id=3724> 	University of Nebraska-Lincoln 	1985
+Behr, Erazm (Eric) <id.php?id=43191> 	University of California, San
+Diego 	1985
+Bélair, Luc <id.php?id=98313> 	Yale University 	1985
+Benardete, Diego <id.php?id=35677> 	City University of New York 	1985
+Bender, Douglas <id.php?id=63585> 	University of California, Santa
+Barbara 	1985
+Bennett, Andrew <id.php?id=8352> 	Princeton University 	1985
+Benzaid, Zoubir <id.php?id=41683> 	University of Wisconsin-Milwaukee 	1985
+Berenson, Sarah <id.php?id=52797> 	The Florida State University 	1985
+Berg, Michael <id.php?id=14756> 	University of California, San Diego 	1985
+Berman, Piotr <id.php?id=69374> 	Massachusetts Institute of Technology 	1985
+Bernard, Douglas <id.php?id=141060> 	Stanford University 	1985
+Bernold, Leonhard <id.php?id=60798> 	Georgia Institute of Technology 	1985
+Bezuidenhout, Carol <id.php?id=1855> 	University of
+Minnesota-Minneapolis 	1985
+Bhasker, Jayaram <id.php?id=120149> 	University of
+Minnesota-Minneapolis 	1985
+Bienstock, Daniel <id.php?id=37990> 	Massachusetts Institute of
+Technology 	1985
+Bilardi, Gianfranco <id.php?id=179566> 	University of Illinois at
+Urbana-Champaign 	1985
+Blaine, Larry <id.php?id=15478> 	Michigan State University 	1985
+Blake, Geoffrey <id.php?id=153930> 	California Institute of Technology 	1985
+Blaum, Mario <id.php?id=11781> 	California Institute of Technology 	1985
+Blazquez, Camilo <id.php?id=14565> 	Brown University 	1985
+Bloch, Anthony <id.php?id=33933> 	Harvard University 	1985
+Boldrini, José <id.php?id=14566> 	Brown University 	1985
+Bone, Terrence <id.php?id=28137> 	University of Washington 	1985
+Booker, Thomas <id.php?id=1381> 	The American University 	1985
+Boone, Randall <id.php?id=117641> 	University of Oregon 	1985
+Booth, David <id.php?id=147285> 	University of California, Los Angeles 	1985
+Borasi, Raffaella <id.php?id=95762> 	State University of New York at
+Buffalo 	1985
+Borenstein, Nathaniel <id.php?id=50175> 	Carnegie Mellon University 	1985
+Borgers, Christoph <id.php?id=33110> 	New York University 	1985
+Borsari, Lucilia <id.php?id=6018> 	Rutgers University, New Brunswick 	1985
+Bottema, Murk <id.php?id=53698> 	Oregon State University 	1985
+Bouakiz, Mokrane <id.php?id=87877> 	Georgia Institute of Technology 	1985
+Bourdon, Paul <id.php?id=24971> 	The University of North Carolina at
+Chapel Hill 	1985
+Boyack, Stephen <id.php?id=69575> 	Massachusetts Institute of
+Technology 	1985
+Boyd, Stephen <id.php?id=68473> 	University of California, Berkeley 	1985
+Bozinovic, Radmilo <id.php?id=104453> 	State University of New York at
+Buffalo 	1985
+Bozorgui-Nesbat, Saied <id.php?id=86642> 	Stanford University 	1985
+Brackebusch, Ruth <id.php?id=10690> 	The Ohio State University 	1985
+Brauner, Marygail <id.php?id=86160> 	University of California, Los
+Angeles 	1985
+Bray, Una <id.php?id=55549> 	Polytechnic University 	1985
+Bretherton, Christopher <id.php?id=50102> 	Massachusetts Institute of
+Technology 	1985
+Broder, Andrei <id.php?id=47202> 	Stanford University 	1985
+Brown, Donald <id.php?id=131124> 	University of Michigan 	1985
+Brown, Elliot <id.php?id=153932> 	California Institute of Technology 	1985
+Brown, M. Bryson <id.php?id=116703> 	University of Pittsburgh 	1985
+Bruegge, Bernd <id.php?id=50398> 	Carnegie Mellon University 	1985
+Bruni, Anthony <id.php?id=12177> 	University of Houston 	1985
+Bueno, Vanderlei <id.php?id=105482> 	University of Pittsburgh 	1985
+Buffo, Alberto <id.php?id=32597> 	University of California, Berkeley 	1985
+Bugaghis, Mohamed <id.php?id=33319> 	Kansas State University 	1985
+Burdick, Bruce <id.php?id=10692> 	The Ohio State University 	1985
+Burgess, Clifford <id.php?id=105683> 	University of Texas at Austin 	1985
+Burnham, James N. <id.php?id=185926> 	Illinois State University 	1985
+Burns, John <id.php?id=22710> 	University of Notre Dame 	1985
+Burr-Doss, Deborah <id.php?id=83239> 	Stanford University 	1985
+Buss, Samuel <id.php?id=12696> 	Princeton University 	1985
+Butts, Eric <id.php?id=10695> 	The Ohio State University 	1985
+Byrd, James <id.php?id=1894> 	The Florida State University 	1985
+Cabrera Garcia, Sergio <id.php?id=112246> 	Rice University 	1985
+Calvin, James <id.php?id=48381> 	Colorado State University 	1985
+Campbell, Charles <id.php?id=97995> 	California Institute of
+Technology 	1985
+Cap, Daniel <id.php?id=44268> 	Case Western Reserve University 	1985
+Carey, Doris <id.php?id=117448> 	University of Oregon 	1985
+Carey, Regan <id.php?id=91977> 	University of Oregon 	1985
+Carlson, James <id.php?id=16510> 	Purdue University 	1985
+Carpenter, Susan <id.php?id=31735> 	University of Massachusetts
+Amherst 	1985
+Carpentier, Michel <id.php?id=1905> 	University of
+Minnesota-Minneapolis 	1985
+Carson, Richard <id.php?id=142102> 	University of California, Berkeley 	1985
+Caticha Alfonso, Nestor <id.php?id=49319> 	California Institute of
+Technology 	1985
+Cayco, Maria <id.php?id=65309> 	Carnegie Mellon University 	1985
+Celis Avalos, Maria <id.php?id=29576> 	Rice University 	1985
+Cervantes-Perez, Francisco <id.php?id=36844> 	University of
+Massachusetts Amherst 	1985
+Chacon, Rene <id.php?id=28005> 	University of Washington 	1985
+Chakravarthy, Upen <id.php?id=87934> 	University of Maryland College
+Park 	1985
+Chakravarthy, U. Sharma <id.php?id=127077> 	University of Maryland
+College Park 	1985
+Chan, Joseph <id.php?id=64726> 	University of Illinois at Chicago 	1985
+Chan, Ngai <id.php?id=55093> 	University of Maryland College Park 	1985
+Chan, Raymond <id.php?id=20007> 	New York University 	1985
+Chan, Wai Tat <id.php?id=80851> 	The Florida State University 	1985
+Chan, Whei-Ching <id.php?id=15477> 	Michigan State University 	1985
+Chang, Chien-Cheng <id.php?id=31569> 	University of California,
+Berkeley 	1985
+Chang, Chih <id.php?id=99111> 	Cornell University 	1985
+Chang, Ching <id.php?id=65306> 	Carnegie Mellon University 	1985
+Chang, Jen-Tseh <id.php?id=44607> 	Harvard University 	1985
+Chang, Li Fung <id.php?id=4744> 	University of Illinois at
+Urbana-Champaign 	1985
+Chapman, Phillip <id.php?id=89361> 	University of
+Minnesota-Minneapolis 	1985
+Char, Shobha <id.php?id=10684> 	The Ohio State University 	1985
+Chaudhry, Sohail <id.php?id=104610> 	Columbia University 	1985
+Chen, Hai-Hsien <id.php?id=82437> 	University of Wisconsin-Madison 	1985
+Chen, Hung <id.php?id=34682> 	University of California, Berkeley 	1985
+Chen, Ten-Ging <id.php?id=32832> 	University of California, Berkeley 	1985
+Chen, Wen <id.php?id=79861> 	Brown University 	1985
+Chen, Yi-Chao <id.php?id=17069> 	University of Minnesota-Minneapolis 	1985
+Chen, Yi-Ying <id.php?id=47343> 	University of Massachusetts Amherst 	1985
+Chen, Y. R. <id.php?id=99785> 	State University of New York at Stony
+Brook 	1985
+Cheng, Kam-Hoi <id.php?id=120148> 	University of Minnesota-Minneapolis 	1985
+Cherri, Mona <id.php?id=43541> 	Oklahoma State University 	1985
+Cheung, Albert <id.php?id=49913> 	The Johns Hopkins University 	1985
+Cheung, Wing-Sum <id.php?id=141488> 	Harvard University 	1985
+Chia, Tien <id.php?id=84508> 	Case Western Reserve University 	1985
+Chihara, Laura <id.php?id=1941> 	University of Minnesota-Minneapolis 	1985
+Childress, Nancy <id.php?id=10698> 	The Ohio State University 	1985
+Chin, William <id.php?id=9951> 	University of Wisconsin-Madison 	1985
+Cho, Chong-Man <id.php?id=10693> 	The Ohio State University 	1985
+Cho, Koji <id.php?id=175683> 	Harvard University 	1985
+Choi, Sul-Young <id.php?id=10694> 	The Ohio State University 	1985
+Chor, Ben-Zion <id.php?id=98735> 	Massachusetts Institute of
+Technology 	1985
+Chou, Mo-hung <id.php?id=33109> 	New York University 	1985
+Chou, Shang-Ching <id.php?id=45600> 	University of Texas at Austin 	1985
+Chou, So-Hsiang <id.php?id=7000> 	University of Pittsburgh 	1985
+Choudhury, Dipa <id.php?id=6735> 	The Johns Hopkins University 	1985
+Choudhury, S. Roy <id.php?id=40753> 	Cornell University 	1985
+Chow, Ching <id.php?id=131636> 	University of Texas at Austin 	1985
+Christensen, Søren <id.php?id=47257> 	The University of North Carolina
+at Chapel Hill 	1985
+Chu, Larry <id.php?id=11134> 	Kent State University 	1985
+Chung, Jain <id.php?id=91806> 	Virginia Polytechnic Institute and State
+University 	1985
+Chung, Kun-Jen <id.php?id=87879> 	Georgia Institute of Technology 	1985
+Chyan, Chuan Jen <id.php?id=13464> 	Vanderbilt University 	1985
+Cina, Jeffrey <id.php?id=95688> 	University of California, Berkeley 	1985
+Clark, Charles <id.php?id=48652> 	University of California, Los
+Angeles 	1985
+Clarkson, Eric <id.php?id=16387> 	Arizona State University 	1985
+Clem, Ted <id.php?id=52657> 	North Carolina State University 	1985
+Cohen, Sara <id.php?id=13572> 	Northwestern University 	1985
+Cole, Donald <id.php?id=8458> 	University of Mississippi 	1985
+Coley, Raymond <id.php?id=41985> 	Massachusetts Institute of
+Technology 	1985
+Collins, Eleanor <id.php?id=90902> 	University of Maryland College
+Park 	1985
+Colonna, Flavia <id.php?id=95667> 	University of Maryland College Park 	1985
+Conaway, Mark <id.php?id=32158> 	University of Minnesota-Minneapolis 	1985
+Connor, Jeffery <id.php?id=11135> 	Kent State University 	1985
+Cooper, Gregory <id.php?id=48273> 	Stanford University 	1985
+Corbett, Robert <id.php?id=120385> 	University of California, Berkeley 	1985
+Cordaro, Paulo <id.php?id=6019> 	Rutgers University, New Brunswick 	1985
+Cordon, Amos <id.php?id=82108> 	Princeton University 	1985
+Cosmadakis, Stavros <id.php?id=81225> 	Massachusetts Institute of
+Technology 	1985
+Costenoble, Steven <id.php?id=9368> 	The University of Chicago 	1985
+Cottrell, Garrison <id.php?id=128147> 	The University of Rochester 	1985
+Coullard, Collette <id.php?id=67628> 	Northwestern University 	1985
+Cowley, Steven <id.php?id=158677> 	Princeton University 	1985
+Craig, Catherine <id.php?id=67455> 	Cornell University 	1985
+Crane, Louis <id.php?id=79108> 	The University of Chicago 	1985
+Crawshaw, Mark <id.php?id=10492> 	California Institute of Technology 	1985
+Cross, Charles <id.php?id=181203> 	University of Pittsburgh 	1985
+Curtis, Susan <id.php?id=91046> 	Massachusetts Institute of Technology 	1985
+Cutkosky, Mark <id.php?id=122831> 	Carnegie Mellon University 	1985
+Cutkosky, Steven <id.php?id=36823> 	Brandeis University 	1985
+Dagg, Michael <id.php?id=89018> 	Virginia Polytechnic Institute and
+State University 	1985
+Dahlburg, Jill <id.php?id=154622> 	The College of William and Mary 	1985
+Dahlburg, Russell <id.php?id=154623> 	The College of William and Mary 	1985
+Dahm, Werner <id.php?id=106132> 	California Institute of Technology 	1985
+Danielson, John <id.php?id=41650> 	University of Wisconsin-Milwaukee 	1985
+Dare, Adrienne <id.php?id=9534> 	New Mexico State University 	1985
+Daripa, Prabir <id.php?id=58807> 	Brown University 	1985
+Datar, Srikant <id.php?id=126662> 	Stanford University 	1985
+Datti, Pampanna <id.php?id=33802> 	New York University 	1985
+Davis, IV, Nathaniel <id.php?id=100840> 	Purdue University 	1985
+Dean, Edward <id.php?id=29577> 	Rice University 	1985
+Dechter, Rina <id.php?id=70641> 	University of California, Los Angeles 	1985
+DeGaston, Raymond <id.php?id=182670> 	University of Southern
+California 	1985
+Dehnad, Khosrow <id.php?id=83238> 	Stanford University 	1985
+del Carmen Jorge y Jorge, Maria <id.php?id=118476> 	University of New
+Mexico 	1985
+DeLillo, Thomas <id.php?id=33615> 	New York University 	1985
+Delos Reyes, Josefina <id.php?id=44273> 	Case Western Reserve
+University 	1985
+Demers, Michel <id.php?id=95005> 	The Johns Hopkins University 	1985
+de Rezende, Ketty <id.php?id=13577> 	Northwestern University 	1985
+Derezinski, Jan <id.php?id=61023> 	Virginia Polytechnic Institute and
+State University 	1985
+DeRose, Anthony <id.php?id=33763> 	University of California, Berkeley 	1985
+Devinatz, Ethan <id.php?id=28300> 	Massachusetts Institute of
+Technology 	1985
+De Weintraub, Marisa <id.php?id=34660> 	University of California,
+Berkeley 	1985
+Dietterich, Thomas <id.php?id=71702> 	Stanford University 	1985
+Dinkins, Preston <id.php?id=136756> 	The Louisiana State University 	1985
+Diny, Debra <id.php?id=30254> 	Bowling Green State University 	1985
+Dippe, Mark <id.php?id=82962> 	University of California, Berkeley 	1985
+Dixon-Krauss, Lisbeth <id.php?id=101617> 	University of Florida 	1985
+Doering, Charles <id.php?id=33042> 	University of Texas at Austin 	1985
+Dokken, Douglas <id.php?id=2027> 	University of Minnesota-Minneapolis 	1985
+Dominijanni, Roberto <id.php?id=51925> 	The University of Rochester 	1985
+Don, Hon-Son <id.php?id=81468> 	Purdue University 	1985
+Dornseif, Bruce <id.php?id=41862> 	Virginia Commonwealth University 	1985
+Dougherty, Randall <id.php?id=14967> 	University of California,
+Berkeley 	1985
+Driscoll, Michael <id.php?id=122959> 	State University of New York at
+Stony Brook 	1985
+Du, Ding-Zhu <id.php?id=17103> 	University of California, Santa
+Barbara 	1985
+Dugan, Michael <id.php?id=105724> 	Harvard University 	1985
+Dunn, Stanley <id.php?id=78959> 	University of Maryland College Park 	1985
+Dupuis, Paul <id.php?id=14567> 	Brown University 	1985
+Duran, Nadina <id.php?id=45608> 	University of Texas at Austin 	1985
+Dutt, Pravir <id.php?id=48812> 	University of California, Los Angeles 	1985
+Dykes, Helen <id.php?id=90903> 	University of Maryland College Park 	1985
+Easton, George <id.php?id=35284> 	Princeton University 	1985
+Ebel, David <id.php?id=9952> 	University of Wisconsin-Madison 	1985
+Ech-cherif, Ahmed <id.php?id=59637> 	Rensselaer Polytechnic Institute 	1985
+Edenbrandt, Anders <id.php?id=87408> 	Cornell University 	1985
+Eggan, Peter <id.php?id=48706> 	University of California, Los Angeles 	1985
+Eick, Stephen <id.php?id=78424> 	University of Minnesota-Minneapolis 	1985
+El-Din, Mohammed <id.php?id=57518> 	Clarkson University 	1985
+Ellis, Will <id.php?id=174661> 	University of California, Berkeley 	1985
+Elmagarmid, Ahmed <id.php?id=96256> 	The Ohio State University 	1985
+Elswick, Jr., Ronald <id.php?id=41838> 	Virginia Commonwealth
+University 	1985
+Engelhard, George <id.php?id=161942> 	The University of Chicago 	1985
+Estrin, Deborah <id.php?id=79441> 	Massachusetts Institute of
+Technology 	1985
+Ettlich, Sheryl <id.php?id=12517> 	University of Oregon 	1985
+Everhart, Craig <id.php?id=89900> 	Carnegie Mellon University 	1985
+Exel, Ruy <id.php?id=32445> 	University of California, Berkeley 	1985
+Farris, Steven <id.php?id=11033> 	Washington State University 	1985
+Fehribach, Joseph <id.php?id=49952> 	Duke University 	1985
+Feijoo, Bernardo <id.php?id=78556> 	University of Wisconsin-Madison 	1985
+Feit, Paul <id.php?id=85025> 	Princeton University 	1985
+Feldman, Alexander <id.php?id=9953> 	University of Wisconsin-Madison 	1985
+Fellows, Michael <id.php?id=72015> 	University of California, San
+Diego 	1985
+Fiagbedzi, Yawvi <id.php?id=14568> 	Brown University 	1985
+Fier, Jeffrey <id.php?id=11856> 	California Institute of Technology 	1985
+Finman, Jeffrey <id.php?id=41835> 	Virginia Commonwealth University 	1985
+Fisher, David <id.php?id=50890> 	University of Maryland College Park 	1985
+Fisher, Matthew <id.php?id=129598> 	University of Illinois at
+Urbana-Champaign 	1985
+Flaminio, Livio <id.php?id=44514> 	Stanford University 	1985
+Flinn, Kelton <id.php?id=142653> 	University of Virginia 	1985
+Flores, Alfinio <id.php?id=122183> 	The Ohio State University 	1985
+Flynn, Thomas <id.php?id=83398> 	Stanford University 	1985
+Foley, Margaret <id.php?id=90901> 	University of Maryland College Park 	1985
+Fonseca, Irene <id.php?id=5604> 	University of Minnesota-Minneapolis 	1985
+Foreman, David <id.php?id=3252> 	The Louisiana State University 	1985
+Forman, Robin <id.php?id=26916> 	Harvard University 	1985
+Forrest, Stephanie <id.php?id=104153> 	University of Michigan 	1985
+Forstneric, Franc <id.php?id=11494> 	University of Washington 	1985
+Fortmann, Charles <id.php?id=70744> 	Stanford University 	1985
+Fountain, Robert <id.php?id=78125> 	University of New Mexico 	1985
+Fowler, Robert <id.php?id=75308> 	University of Washington 	1985
+Frank, Edward <id.php?id=50142> 	Carnegie Mellon University 	1985
+Frank, George <id.php?id=13573> 	Northwestern University 	1985
+Frankel, Sidney <id.php?id=175686> 	Stanford University 	1985
+Franzblau, Deborah <id.php?id=12897> 	Massachusetts Institute of
+Technology 	1985
+Freed, Daniel <id.php?id=32562> 	University of California, Berkeley 	1985
+French, Donald <id.php?id=88252> 	Cornell University 	1985
+Freytag, Johann <id.php?id=128485> 	Massachusetts Institute of
+Technology 	1985
+From, Steven <id.php?id=3725> 	University of Nebraska-Lincoln 	1985
+Fuchs, Wesley <id.php?id=41389> 	University of Illinois at
+Urbana-Champaign 	1985
+Fuhrman, Michael <id.php?id=141406> 	Carnegie Mellon University 	1985
+Fulk, Mark <id.php?id=80196> 	State University of New York at Buffalo 	1985
+Fusco, Giorgio <id.php?id=14569> 	Brown University 	1985
+Gadbois, Steven <id.php?id=15479> 	Michigan State University 	1985
+Gallopoulos, Efstratios <id.php?id=57742> 	University of Illinois at
+Urbana-Champaign 	1985
+Gan, Fah <id.php?id=83072> 	Iowa State University 	1985
+Garcia, Maria <id.php?id=49290> 	State University of New York at Stony
+Brook 	1985
+Gartenberg, Philip <id.php?id=48611> 	University of California, Los
+Angeles 	1985
+Gasarch, William <id.php?id=39665> 	Harvard University 	1985
+Gea-Banacloche, Julio <id.php?id=114543> 	University of New Mexico 	1985
+Gee, Henry <id.php?id=15481> 	Michigan State University 	1985
+Georghiades, Costas <id.php?id=181072> 	Washington University in St.
+Louis 	1985
+Gertz, Jeffrey <id.php?id=129834> 	Massachusetts Institute of
+Technology 	1985
+Ghafoor, Arif <id.php?id=67573> 	Columbia University 	1985
+Giles, Michael <id.php?id=133769> 	Massachusetts Institute of
+Technology 	1985
+Gill, Andrew <id.php?id=107653> 	Washington State University 	1985
+Gillies, Andrew <id.php?id=104157> 	University of Michigan 	1985
+Gilman, Michael <id.php?id=112030> 	New York University 	1985
+Girela, Daniel <id.php?id=2132> 	Washington University in St. Louis 	1985
+Givler, John <id.php?id=136336> 	State University of New York at Stony
+Brook 	1985
+Glasby, Marion <id.php?id=90904> 	University of Maryland College Park 	1985
+Glinert, Ephraim <id.php?id=174914> 	University of Washington 	1985
+Golany, Boaz <id.php?id=41896> 	University of Texas at Austin 	1985
+Golitzin, George <id.php?id=26476> 	Yale University 	1985
+Gordon, Aaron <id.php?id=163315> 	University of Wisconsin-Madison 	1985
+Goswami, Alok <id.php?id=4762> 	University of Illinois at
+Urbana-Champaign 	1985
+Gottron, Stephen <id.php?id=7056> 	University of Michigan 	1985
+Grandine, Thomas <id.php?id=29596> 	University of Wisconsin-Madison 	1985
+Grant, David <id.php?id=29608> 	Massachusetts Institute of Technology 	1985
+Green, John <id.php?id=333> 	Texas A&M University 	1985
+Green, Peter <id.php?id=57796> 	Cornell University 	1985
+Greenbaum, Neil <id.php?id=6013> 	Rutgers University, New Brunswick 	1985
+Greenbaun, Nicholas <id.php?id=127968> 	Rutgers University, New
+Brunswick 	1985
+Gregg, Mary <id.php?id=41839> 	Virginia Commonwealth University 	1985
+Greiner, Russell <id.php?id=146303> 	Stanford University 	1985
+Greschak, John <id.php?id=91127> 	Massachusetts Institute of
+Technology 	1985
+Grossman, Robert <id.php?id=8354> 	Princeton University 	1985
+Grosso, Paul <id.php?id=104159> 	University of Michigan 	1985
+Guan, Puhua <id.php?id=10685> 	The Ohio State University 	1985
+Guenette, Gerald <id.php?id=129835> 	Massachusetts Institute of
+Technology 	1985
+Guglielmi, Josephine <id.php?id=18240> 	North Carolina State
+University 	1985
+Gündem, Taflan <id.php?id=121311> 	Oregon State University 	1985
+Gunter, Carl <id.php?id=9954> 	University of Wisconsin-Madison 	1985
+Guo, Benqi <id.php?id=132843> 	University of Maryland College Park 	1985
+Gupta, Anoop <id.php?id=50356> 	Carnegie Mellon University 	1985
+Gupta, Nilama <id.php?id=11031> 	Washington State University 	1985
+Guzmán, Fernando <id.php?id=24946> 	Syracuse University 	1985
+Haimovich, Mordecai <id.php?id=79725> 	Massachusetts Institute of
+Technology 	1985
+Hall, Steven <id.php?id=110619> 	Massachusetts Institute of Technology 	1985
+Hamins, Anthony <id.php?id=159943> 	University of California, San
+Diego 	1985
+Hammond, Janice <id.php?id=68498> 	Massachusetts Institute of
+Technology 	1985
+Han, Jiawei <id.php?id=72247> 	University of Wisconsin-Madison 	1985
+Hanrahan, Patrick <id.php?id=70976> 	University of Wisconsin-Madison 	1985
+Hardin, Douglas <id.php?id=22160> 	Georgia Institute of Technology 	1985
+Harlow, Lisa <id.php?id=79567> 	University of California, Los Angeles 	1985
+Harper, Jr., Robert <id.php?id=50068> 	Cornell University 	1985
+Harris, John <id.php?id=9367> 	The University of Chicago 	1985
+Harrison, Thomas <id.php?id=43086> 	University of Hawaii 	1985
+Hartley, Ralph <id.php?id=78880> 	University of Maryland College Park 	1985
+Haught, Christine <id.php?id=13993> 	Cornell University 	1985
+Hayashi, Takao <id.php?id=13675> 	Brown University 	1985
+Healey, Timothy <id.php?id=28464> 	University of Illinois at
+Urbana-Champaign 	1985
+Heath, Lenwood <id.php?id=157221> 	The University of North Carolina at
+Chapel Hill 	1985
+Hefez, Abramo <id.php?id=38675> 	Massachusetts Institute of Technology 	1985
+Heitjan, Daniel <id.php?id=80089> 	The University of Chicago 	1985
+Henderson, Michael <id.php?id=11857> 	California Institute of
+Technology 	1985
+Henrion, Claudia <id.php?id=38719> 	Dartmouth College 	1985
+Henshaw, William <id.php?id=11858> 	California Institute of Technology 	1985
+Hensley, Harvey <id.php?id=1187> 	State University of New York at Stony
+Brook 	1985
+Hermanson, James <id.php?id=116735> 	California Institute of
+Technology 	1985
+Herndon, John <id.php?id=22163> 	Georgia Institute of Technology 	1985
+Hernquist, Lars <id.php?id=163304> 	California Institute of Technology 	1985
+Herrmann, Joseph <id.php?id=2209> 	Indiana University 	1985
+Hettling, Karl <id.php?id=3253> 	The Louisiana State University 	1985
+Heumos, Michael <id.php?id=32809> 	University of California, Berkeley 	1985
+Higle, Julia <id.php?id=106042> 	University of Michigan 	1985
+Hilow, Hisham <id.php?id=91807> 	Virginia Polytechnic Institute and
+State University 	1985
+Himonas, Alexandros <id.php?id=16678> 	Purdue University 	1985
+Hinson, Edward <id.php?id=13574> 	Northwestern University 	1985
+Hisgen, Andrew <id.php?id=50299> 	Carnegie Mellon University 	1985
+Hitt, Daniel <id.php?id=44519> 	Stanford University 	1985
+Hlynka, Myron <id.php?id=48507> 	The Pennsylvania State University 	1985
+Ho, Darwin <id.php?id=158678> 	Princeton University 	1985
+Hoang, Bao <id.php?id=47964> 	University of California, Los Angeles 	1985
+Hobbs, Stephen <id.php?id=43172> 	University of California, San Diego 	1985
+Hobby, John <id.php?id=47203> 	Stanford University 	1985
+Hodges, James <id.php?id=89359> 	University of Minnesota-Minneapolis 	1985
+Hoffman, Peter <id.php?id=78801> 	Carnegie Mellon University 	1985
+Hoke, Kathy <id.php?id=24972> 	The University of North Carolina at
+Chapel Hill 	1985
+Holdridge, Richard <id.php?id=141079> 	Stanford University 	1985
+Holmes, Richard <id.php?id=159385> 	University of Maryland College
+Park 	1985
+Hong, Chia-Jon <id.php?id=48673> 	University of California, Los
+Angeles 	1985
+Hong, YooPyo <id.php?id=17805> 	The Johns Hopkins University 	1985
+Horwitz, Susan <id.php?id=82273> 	Cornell University 	1985
+Howard, Mark <id.php?id=32555> 	University of California, Berkeley 	1985
+Hoyle, Stephen <id.php?id=89372> 	Stanford University 	1985
+Hsieh, Jian-tu <id.php?id=82438> 	University of Wisconsin-Madison 	1985
+Hsu, Chang-Wang <id.php?id=7057> 	University of Michigan 	1985
+Hsu, Huang <id.php?id=83237> 	Stanford University 	1985
+Hsu, Ray <id.php?id=180392> 	State University of New York at Buffalo 	1985
+Hu, Shaing <id.php?id=16663> 	Purdue University 	1985
+Huang, Shing-Tsaan <id.php?id=87210> 	University of Maryland College
+Park 	1985
+Huang, Tayuan <id.php?id=10697> 	The Ohio State University 	1985
+Huber, William <id.php?id=37520> 	Columbia University 	1985
+Hucke, Hans <id.php?id=47258> 	The University of North Carolina at
+Chapel Hill 	1985
+Huh, Y. <id.php?id=19017> 	Stanford University 	1985
+Hunt, Jr., Warren <id.php?id=69890> 	University of Texas at Austin 	1985
+Hurvich, Clifford <id.php?id=35283> 	Princeton University 	1985
+Huster, William <id.php?id=49702> 	The Johns Hopkins University 	1985
+Hutson, H. <id.php?id=6014> 	Rutgers University, New Brunswick 	1985
+Hvidsten, Michael <id.php?id=4725> 	University of Illinois at
+Urbana-Champaign 	1985
+Hwang, Suk <id.php?id=9955> 	University of Wisconsin-Madison 	1985
+Hwang, Yeou-Huei <id.php?id=81897> 	Purdue University 	1985
+Hymowech, Marvin <id.php?id=32316> 	University of California, Berkeley 	1985
+Ihaka, Ross <id.php?id=34433> 	University of California, Berkeley 	1985
+Indurkhya, Bipin <id.php?id=37183> 	University of Massachusetts
+Amherst 	1985
+Intissar, Ahmed <id.php?id=62543> 	Massachusetts Institute of
+Technology 	1985
+Ip, Chi-Ming <id.php?id=59382> 	Cornell University 	1985
+Islam, Muhammed <id.php?id=3036> 	Southern Illinois University at
+Carbondale 	1985
+Jackson, Dennis <id.php?id=51131> 	University of California, Riverside 	1985
+Jackson, Jay <id.php?id=2255> 	The Florida State University 	1985
+Jackson, Thomas <id.php?id=100268> 	Rensselaer Polytechnic Institute 	1985
+Jacobs, Dean <id.php?id=76346> 	Cornell University 	1985
+Jacobs, Jonathan <id.php?id=9956> 	University of Wisconsin-Madison 	1985
+Jacquotte, O. P. <id.php?id=137723> 	University of Texas at Austin 	1985
+Jagadish, Hosagrahar <id.php?id=104888> 	Stanford University 	1985
+Jaillet, Patrick <id.php?id=102759> 	Massachusetts Institute of
+Technology 	1985
+Jaisingh, Lloyd <id.php?id=114405> 	Texas Tech University 	1985
+Jalote, Pankaj <id.php?id=107912> 	University of Illinois at
+Urbana-Champaign 	1985
+Jayasumana, Anura <id.php?id=135052> 	Michigan State University 	1985
+Jee, J. Rodney <id.php?id=43760> 	Rice University 	1985
+Jensen, David <id.php?id=36289> 	Cornell University 	1985
+Jensen, Søren <id.php?id=43109> 	University of Maryland College Park 	1985
+Jeske, Daniel <id.php?id=123912> 	Iowa State University 	1985
+Jha, Niraj <id.php?id=93058> 	University of Illinois at
+Urbana-Champaign 	1985
+Jhori, Pravin <id.php?id=99786> 	State University of New York at Stony
+Brook 	1985
+Jhun, Myoungschic <id.php?id=34304> 	University of California,
+Berkeley 	1985
+Joglekar, G. <id.php?id=36029> 	University of Delaware 	1985
+John, John <id.php?id=78534> 	University of Wisconsin-Madison 	1985
+Johnson, James <id.php?id=89203> 	University of Minnesota-Minneapolis 	1985
+Johnson, Robert <id.php?id=81000> 	State University of New York at
+Binghamton 	1985
+Johnson, Stewart <id.php?id=44470> 	Stanford University 	1985
+Jones, Alexander <id.php?id=13676> 	Brown University 	1985
+Jordan, Michael <id.php?id=87388> 	University of California, San Diego 	1985
+Jordan, Michael <id.php?id=20069> 	University of Utah 	1985
+Jover, Juan <id.php?id=183205> 	Stanford University 	1985
+Juhlin, Kenton <id.php?id=4703> 	University of Illinois at
+Urbana-Champaign 	1985
+Kahn, Ronald <id.php?id=74905> 	Harvard University 	1985
+Kaiser, Gail <id.php?id=50228> 	Carnegie Mellon University 	1985
+Kale, Laxmikant <id.php?id=41341> 	State University of New York at Stony
+Brook 	1985
+Kandle, Douglas <id.php?id=11032> 	Washington State University 	1985
+Kantabutra, Vitit <id.php?id=175395> 	The Johns Hopkins University 	1985
+Kapauan, Alejandro <id.php?id=81893> 	Purdue University 	1985
+Kaplan, David <id.php?id=105732> 	Harvard University 	1985
+Karloff, Howard <id.php?id=106242> 	University of California, Berkeley 	1985
+Karrison, Theodore <id.php?id=35301> 	The University of Chicago 	1985
+Karunamuni, Rohana <id.php?id=44773> 	Michigan State University 	1985
+Kasai, Kazuhiko <id.php?id=126157> 	University of California, Berkeley 	1985
+Kasif, Simon <id.php?id=75389> 	University of Maryland College Park 	1985
+Katsaggelos, Aggelos <id.php?id=175676> 	Georgia Institute of
+Technology 	1985
+Kaufman, Sanda <id.php?id=99995> 	Carnegie Mellon University 	1985
+Keinert, Fritz <id.php?id=262> 	Oregon State University 	1985
+Keller, Arthur <id.php?id=87259> 	Stanford University 	1985
+Keller, Catherine <id.php?id=187167> 	University of Illinois at
+Urbana-Champaign 	1985
+Kelly, Michael <id.php?id=49188> 	State University of New York at
+Binghamton 	1985
+Kelly, Van <id.php?id=70311> 	Rutgers University, New Brunswick 	1985
+Kent, Jack <id.php?id=82109> 	Princeton University 	1985
+Kerbaugh, Gary <id.php?id=1188> 	State University of New York at Stony
+Brook 	1985
+Kerkhoven, Thomas <id.php?id=41419> 	Yale University 	1985
+Kerola, Teemu <id.php?id=81898> 	Purdue University 	1985
+Khattree, Ravindra <id.php?id=47929> 	University of Pittsburgh 	1985
+Khorasani, Khashayar <id.php?id=102015> 	University of Illinois at
+Urbana-Champaign 	1985
+Kim, Dong <id.php?id=69371> 	Massachusetts Institute of Technology 	1985
+Kim, Hong <id.php?id=32031> 	University of California, Berkeley 	1985
+Kim, KyungMann <id.php?id=82785> 	University of Wisconsin-Madison 	1985
+Kim, Myung-Hwan <id.php?id=10689> 	The Ohio State University 	1985
+Kim, Seong-Ju <id.php?id=34459> 	University of California, Berkeley 	1985
+Kim, S. J. <id.php?id=137719> 	University of Texas at Austin 	1985
+Kim, Tae-Sung <id.php?id=69017> 	Oregon State University 	1985
+Kim, Yoobong <id.php?id=9886> 	University of Cincinnati 	1985
+King, Richard <id.php?id=70388> 	Rutgers University, New Brunswick 	1985
+Kjell, Bradley <id.php?id=78989> 	University of Wisconsin-Madison 	1985
+Klemes, Ivo <id.php?id=11950> 	California Institute of Technology 	1985
+Ko, Daijin <id.php?id=26394> 	University of Washington 	1985
+Kohs, Werner <id.php?id=43087> 	University of Hawaii 	1985
+Kolinek, Martin <id.php?id=28149> 	University of Washington 	1985
+Kolitsch, Louis <id.php?id=27057> 	The Pennsylvania State University 	1985
+Koo, Ja Kyung <id.php?id=171741> 	The Johns Hopkins University 	1985
+Kostelich, Eric <id.php?id=17283> 	University of Maryland College Park 	1985
+Kostlan, Eric <id.php?id=32598> 	University of California, Berkeley 	1985
+Koyak, Robert <id.php?id=34408> 	University of California, Berkeley 	1985
+Kranjc, Marko <id.php?id=48657> 	University of California, Los Angeles 	1985
+Kress, Michael <id.php?id=33258> 	New York University 	1985
+Kruse, Harold <id.php?id=166738> 	Stevens Institute of Technology 	1985
+Kuhn, Robert <id.php?id=22513> 	Harvard University 	1985
+Kulich, James <id.php?id=13575> 	Northwestern University 	1985
+Kulkarni, Devadatta <id.php?id=16797> 	Purdue University 	1985
+Kumara, Soundar <id.php?id=112048> 	Purdue University 	1985
+Kundu, Amlan <id.php?id=104572> 	University of California, Santa
+Barbara 	1985
+Kupeli, Demir <id.php?id=1186> 	State University of New York at Stony
+Brook 	1985
+Lagnado, Ronald <id.php?id=104369> 	California Institute of Technology 	1985
+Lai, Pan-Yu <id.php?id=83588> 	University of Florida 	1985
+Laks, Mitchell <id.php?id=54231> 	Harvard University 	1985
+Lan, Lance <id.php?id=117032> 	University of California, Los Angeles 	1985
+Landau-Treisner, Laurellen <id.php?id=7295> 	University of Delaware 	1985
+Lander, Julian <id.php?id=17390> 	Massachusetts Institute of
+Technology 	1985
+Lane, Thomas <id.php?id=67772> 	Massachusetts Institute of Technology 	1985
+Lang, Patrick <id.php?id=38612> 	Colorado State University 	1985
+Lange, Nicholas <id.php?id=129003> 	Harvard University 	1985
+Laskey, Kathryn <id.php?id=42485> 	Carnegie Mellon University 	1985
+Laubenbacher, Reinhard <id.php?id=13576> 	Northwestern University 	1985
+Lawrence, Gregory <id.php?id=25102> 	University of California,
+Berkeley 	1985
+Lawson, John <id.php?id=91978> 	University of Oregon 	1985
+Leary, Christopher <id.php?id=7058> 	University of Michigan 	1985
+Lee, David <id.php?id=5870> 	Columbia University 	1985
+Lee, Jongsoo <id.php?id=122401> 	Virginia Polytechnic Institute and
+State University 	1985
+Lee, Kay-O <id.php?id=52598> 	North Carolina State University 	1985
+Lee, Pil <id.php?id=66397> 	University of California, Los Angeles 	1985
+Lee, Sang-Bum <id.php?id=65760> 	Columbia University 	1985
+Lee, Seung <id.php?id=13843> 	California Institute of Technology 	1985
+Lee, Seung-Hee <id.php?id=130726> 	Massachusetts Institute of
+Technology 	1985
+Lee, Shih <id.php?id=122402> 	Virginia Polytechnic Institute and State
+University 	1985
+Lee, Tzao-Lin <id.php?id=42503> 	Carnegie Mellon University 	1985
+Lee, Yann-Hang <id.php?id=1302> 	University of Michigan 	1985
+Leeney, Mark <id.php?id=11120> 	Kent State University 	1985
+Legrand, Mark <id.php?id=30486> 	The Pennsylvania State University 	1985
+Lehto, Mark <id.php?id=67571> 	University of Michigan 	1985
+Leighton, David <id.php?id=144216> 	Stanford University 	1985
+Lejarraga, Pablo <id.php?id=36857> 	Brandeis University 	1985
+Lele, Sanjiva <id.php?id=140921> 	Cornell University 	1985
+Lenbury, Yongwimon <id.php?id=59278> 	Vanderbilt University 	1985
+Leue, Cathleen <id.php?id=107654> 	Washington State University 	1985
+Leung, Kin <id.php?id=116838> 	University of California, Los Angeles 	1985
+Levenick, James <id.php?id=104167> 	University of Michigan 	1985
+Levitt, David <id.php?id=61075> 	Massachusetts Institute of Technology 	1985
+Levy, Silvio <id.php?id=31299> 	Princeton University 	1985
+Lewin, Renato <id.php?id=62620> 	University of Colorado at Boulder 	1985
+Lewy, Michael <id.php?id=11935> 	California Institute of Technology 	1985
+Li, Guojie <id.php?id=159704> 	Purdue University 	1985
+Li, Ke-Zheng <id.php?id=32317> 	University of California, Berkeley 	1985
+Li, Lide <id.php?id=98963> 	University of Arkansas 	1985
+Li, Ming <id.php?id=94793> 	Cornell University 	1985
+Liang, Shen-Min <id.php?id=68846> 	University of Arizona 	1985
+Liao, Guojun <id.php?id=32517> 	University of California, Berkeley 	1985
+Liao, Ming <id.php?id=44424> 	Stanford University 	1985
+Lin, Fang-Hua <id.php?id=2400> 	University of Minnesota-Minneapolis 	1985
+Lin, Frank <id.php?id=188208> 	University of Utah 	1985
+Lin, Kwei-Jay <id.php?id=41338> 	University of Maryland College Park 	1985
+Lin, T. L. <id.php?id=137724> 	University of Texas at Austin 	1985
+Lin, Xiao-Biao <id.php?id=14570> 	Brown University 	1985
+Lin Lee, Meei-Yow <id.php?id=92284> 	University of Pittsburgh 	1985
+Liou, Koujuch <id.php?id=82436> 	University of Wisconsin-Madison 	1985
+Lo Faso, Anthony <id.php?id=68341> 	Massachusetts Institute of
+Technology 	1985
+Loganantharaj, Rasaiah <id.php?id=80724> 	Colorado State University 	1985
+Long, Betty <id.php?id=31296> 	University of Tennessee - Knoxville 	1985
+Loper, Kenneth <id.php?id=9957> 	University of Wisconsin-Madison 	1985
+Lopez-Permouth, Sergio <id.php?id=30643> 	North Carolina State
+University 	1985
+Lotfi, Vahid <id.php?id=136645> 	University of Texas at Austin 	1985
+Lott, Carolyn <id.php?id=99018> 	University of Montana 	1985
+Low, Stephen <id.php?id=163765> 	University of Texas at Austin 	1985
+Lowe, David <id.php?id=72121> 	Stanford University 	1985
+Lu, Hong Jun <id.php?id=68683> 	University of Wisconsin-Madison 	1985
+Lubecke, Andre <id.php?id=35964> 	University of South Carolina 	1985
+Lue, Yuang-Tswong <id.php?id=165913> 	University of Georgia 	1985
+Luecke, John <id.php?id=13153> 	University of Texas at Austin 	1985
+Lunine, Jonathan <id.php?id=45308> 	California Institute of Technology 	1985
+Luo, Zhaohua <id.php?id=36828> 	Brandeis University 	1985
+Lustgarten, Paul <id.php?id=78517> 	University of Wisconsin-Madison 	1985
+Lynch, Mark <id.php?id=3254> 	The Louisiana State University 	1985
+Ma, Howard <id.php?id=130828> 	University of Massachusetts Amherst 	1985
+Mabry, Richard <id.php?id=8798> 	University of South Florida 	1985
+MacKinlay, A. C. <id.php?id=151925> 	The University of Chicago 	1985
+Madduri, Hari <id.php?id=81751> 	University of Wisconsin-Madison 	1985
+Magurn, Katherine <id.php?id=44370> 	Cornell University 	1985
+Mailath, George <id.php?id=146057> 	Princeton University 	1985
+Maleki, Amir <id.php?id=25440> 	The George Washington University 	1985
+Malik, Davender <id.php?id=2442> 	Ohio University 	1985
+Mar, Gary <id.php?id=95310> 	University of California, Los Angeles 	1985
+Maragos, Petros <id.php?id=18840> 	Georgia Institute of Technology 	1985
+Marhoul, Joseph <id.php?id=83236> 	Stanford University 	1985
+Markshoe, Pramote <id.php?id=45607> 	University of Texas at Austin 	1985
+Marroquin, José <id.php?id=109782> 	Massachusetts Institute of
+Technology 	1985
+Marsalli, Michael <id.php?id=7059> 	University of Michigan 	1985
+Martin, Gary <id.php?id=6015> 	Rutgers University, New Brunswick 	1985
+Martin, Gaven <id.php?id=7311> 	University of Michigan 	1985
+Masri, Mahmud <id.php?id=35238> 	The University of North Carolina at
+Chapel Hill 	1985
+Matsubara, Yo <id.php?id=46540> 	University of California, Los Angeles 	1985
+Maung, Khin <id.php?id=143307> 	Kent State University 	1985
+Maxwell, Gregory <id.php?id=65185> 	Purdue University 	1985
+Mayans, Robert <id.php?id=7061> 	University of Michigan 	1985
+Mayer, Laura <id.php?id=31322> 	Yale University 	1985
+McCardle, Kevin <id.php?id=86305> 	University of California, Los
+Angeles 	1985
+Mc Cardle, Kevin <id.php?id=48676> 	University of California, Los
+Angeles 	1985
+McClurg, Patricia <id.php?id=117649> 	University of Oregon 	1985
+McCord, Robert <id.php?id=139342> 	University of California, Berkeley 	1985
+McCulloch, Robert <id.php?id=89360> 	University of
+Minnesota-Minneapolis 	1985
+McCutchan, Barbara <id.php?id=52549> 	North Carolina State University 	1985
+McDaniel, Andrew <id.php?id=36727> 	Brandeis University 	1985
+McDaniel, John <id.php?id=81017> 	Kansas State University 	1985
+McEwan, Lee <id.php?id=37533> 	Columbia University 	1985
+McGee, Vann <id.php?id=31546> 	University of California, Berkeley 	1985
+McGuire, Paul <id.php?id=2470> 	Indiana University 	1985
+McIntire, Roland <id.php?id=29597> 	Brown University 	1985
+McIvor, Alan <id.php?id=129972> 	Harvard University 	1985
+McKemie, M. Jean <id.php?id=45614> 	University of Texas at Austin 	1985
+McKnight, Karl <id.php?id=116022> 	University of Michigan 	1985
+McMullen, Curtis <id.php?id=12029> 	Harvard University 	1985
+McWilliams, Joseph <id.php?id=32932> 	Southern Methodist University 	1985
+Messer, Karen <id.php?id=43187> 	University of California, San Diego 	1985
+Messner, Richard <id.php?id=83433> 	Clarkson University 	1985
+Milito, Rodolfo <id.php?id=125959> 	University of Illinois at
+Urbana-Champaign 	1985
+Millard, Steven <id.php?id=78574> 	University of Washington 	1985
+Miller, David <id.php?id=116303> 	Yale University 	1985
+Miller, Russ <id.php?id=75281> 	State University of New York at
+Binghamton 	1985
+Miller, Valerie <id.php?id=59060> 	University of South Carolina 	1985
+Milne, Ronald <id.php?id=119688> 	Indiana University 	1985
+Milton, Graeme <id.php?id=67446> 	Cornell University 	1985
+Mimmack, Gillian <id.php?id=1396> 	The Florida State University 	1985
+Miri, Abderrahim <id.php?id=58850> 	Northeastern University 	1985
+Mirollo, Renato <id.php?id=49102> 	Harvard University 	1985
+Mischaikow, Konstantin <id.php?id=9958> 	University of
+Wisconsin-Madison 	1985
+Mishra, Bhubaneswar <id.php?id=50264> 	Carnegie Mellon University 	1985
+Mishra, Prateek <id.php?id=59164> 	University of Utah 	1985
+Miu, Denny <id.php?id=107265> 	University of California, Berkeley 	1985
+Molloy, Charles <id.php?id=11859> 	California Institute of Technology 	1985
+Monn, David <id.php?id=24974> 	The University of North Carolina at
+Chapel Hill 	1985
+Moore, Dirk <id.php?id=48220> 	University of Washington 	1985
+Moore, Gregory <id.php?id=124625> 	Harvard University 	1985
+Moore, Leslie <id.php?id=93091> 	University of Texas at Austin 	1985
+Morris, David <id.php?id=86598> 	The University of Chicago 	1985
+Moser, Barry <id.php?id=36974> 	Purdue University 	1985
+Moses, Yoram <id.php?id=81294> 	Stanford University 	1985
+Moulton, B. R. <id.php?id=151926> 	The University of Chicago 	1985
+Movaghar, Ali <id.php?id=66404> 	University of Michigan 	1985
+Mulcahy, Colm <id.php?id=29672> 	Cornell University 	1985
+Mullenix, Paul <id.php?id=83589> 	University of Florida 	1985
+Mulmuley, Ketan <id.php?id=50370> 	Carnegie Mellon University 	1985
+Mummy, Mark <id.php?id=43215> 	University of California, San Diego 	1985
+Muoneke, N'Ekwainfe <id.php?id=12178> 	University of Houston 	1985
+Murgolo, Francis <id.php?id=100879> 	University of California, Irvine 	1985
+Murphy, Marguerite <id.php?id=80273> 	University of California,
+Berkeley 	1985
+Mustafa, Ibrahim <id.php?id=17120> 	University of California, Santa
+Barbara 	1985
+Muthuvel, Kandasamy <id.php?id=41640> 	University of
+Wisconsin-Milwaukee 	1985
+Mytilinaios, Michael <id.php?id=86430> 	The University of Chicago 	1985
+Nadler, Edmond <id.php?id=14572> 	Brown University 	1985
+Naik, Dayanand <id.php?id=49008> 	University of Pittsburgh 	1985
+Naini, Majid <id.php?id=103994> 	University of Pennsylvania 	1985
+Najarian, John <id.php?id=46429> 	City University of New York 	1985
+Nakos, George <id.php?id=43231> 	The Johns Hopkins University 	1985
+Narang, Kamal <id.php?id=10688> 	The Ohio State University 	1985
+Nash, John <id.php?id=6016> 	Rutgers University, New Brunswick 	1985
+Neal, Daniel <id.php?id=121070> 	Stanford University 	1985
+Neal, Jeannette <id.php?id=91291> 	State University of New York at
+Buffalo 	1985
+Negron, Pablo <id.php?id=97024> 	University of Maryland College Park 	1985
+Neidhardt, Wayne <id.php?id=9959> 	University of Wisconsin-Madison 	1985
+Nejadsedeghi, Nourallah <id.php?id=11214> 	Kansas State University 	1985
+Nelan, Cornelius <id.php?id=43230> 	The Johns Hopkins University 	1985
+Nemchenok, Jacob <id.php?id=36577> 	Massachusetts Institute of
+Technology 	1985
+Nesin, Huseyin <id.php?id=41480> 	Yale University 	1985
+Neves, Vitor <id.php?id=2532> 	University of Iowa 	1985
+Ngan, Clifton <id.php?id=141650> 	University of Pennsylvania 	1985
+Nguyen, Bao <id.php?id=48654> 	University of California, Los Angeles 	1985
+Nguyen, Hung <id.php?id=32497> 	University of California, Berkeley 	1985
+Nguyen, Van <id.php?id=76623> 	Cornell University 	1985
+Nickerson, David <id.php?id=83590> 	University of Florida 	1985
+Nicol, David <id.php?id=73778> 	University of Virginia 	1985
+Noble, Steven <id.php?id=28046> 	University of Washington 	1985
+Nolder, Craig <id.php?id=7062> 	University of Michigan 	1985
+Noren, Richard <id.php?id=19437> 	Virginia Polytechnic Institute and
+State University 	1985
+Notturno, Mark <id.php?id=61402> 	Columbia University 	1985
+Ntantu, Ibula <id.php?id=93192> 	Virginia Polytechnic Institute and
+State University 	1985
+O'Connor, Denjoe <id.php?id=115509> 	University of Maryland College
+Park 	1985
+O'Connor, Mary <id.php?id=64851> 	Massachusetts Institute of
+Technology 	1985
+Ogier, Richard <id.php?id=134064> 	University of Illinois at
+Urbana-Champaign 	1985
+Oliveira, Fernando <id.php?id=24975> 	The University of North Carolina
+at Chapel Hill 	1985
+Omohundro, Steven <id.php?id=101169> 	University of California,
+Berkeley 	1985
+O'Neil, Kevin <id.php?id=34274> 	University of Illinois at
+Urbana-Champaign 	1985
+O'Regan, Daniel <id.php?id=130398> 	Oregon State University 	1985
+Orlicki, David <id.php?id=121454> 	Massachusetts Institute of
+Technology 	1985
+Orloff, Jeremy <id.php?id=53286> 	Massachusetts Institute of
+Technology 	1985
+Orr, Kent <id.php?id=6021> 	Rutgers University, New Brunswick 	1985
+Ortaçgil, Ercüment <id.php?id=90613> 	The Johns Hopkins University 	1985
+Ospina-Botero, David <id.php?id=140307> 	University of Wyoming 	1985
+Ostaszewski, Krzysztof <id.php?id=28284> 	University of Washington 	1985
+Ostendorf, Mari <id.php?id=83397> 	Stanford University 	1985
+Oulds-Rouis, Hamid <id.php?id=97205> 	Tufts University 	1985
+Paden, Bradley <id.php?id=107159> 	University of California, Berkeley 	1985
+Padua, Roberto <id.php?id=116996> 	Clemson University 	1985
+Palis, Michael <id.php?id=99772> 	University of Minnesota-Minneapolis 	1985
+Panetta, Jairo <id.php?id=81894> 	Purdue University 	1985
+Pantazis, Stefanos <id.php?id=89991> 	Harvard University 	1985
+Pardalos, Panayote <id.php?id=17015> 	University of
+Minnesota-Minneapolis 	1985
+Parish, James <id.php?id=86594> 	The University of Chicago 	1985
+Parks, Theresa <id.php?id=29578> 	Rice University 	1985
+Patching, David <id.php?id=59279> 	Vanderbilt University 	1985
+Pati, Vishwambhar <id.php?id=79850> 	Princeton University 	1985
+Paturi, Ramamohan <id.php?id=145834> 	The Pennsylvania State
+University 	1985
+Paul, Deirdre <id.php?id=32751> 	University of California, Berkeley 	1985
+Paulik, George <id.php?id=2579> 	Indiana University 	1985
+Pavlin, Jasmina <id.php?id=110029> 	University of Massachusetts
+Amherst 	1985
+Pearlman, Austin <id.php?id=26999> 	University of Washington 	1985
+Pease, Craig <id.php?id=45781> 	The University of Chicago 	1985
+Pederson, Shane <id.php?id=89362> 	University of Minnesota-Minneapolis 	1985
+Pedroso, Moacir <id.php?id=59638> 	Rensselaer Polytechnic Institute 	1985
+Penas, Linda <id.php?id=21998> 	Missouri University of Science and
+Technology 	1985
+Peralta, Rene <id.php?id=152521> 	University of California, Berkeley 	1985
+Pereira, Clifford <id.php?id=131896> 	Oregon State University 	1985
+Perez-Abreu, Victor <id.php?id=47259> 	The University of North Carolina
+at Chapel Hill 	1985
+Perez-Segui, Maria <id.php?id=826> 	University of Illinois at
+Urbana-Champaign 	1985
+Peterson, Larry <id.php?id=81899> 	Purdue University 	1985
+Peterson, Stephen <id.php?id=84915> 	University of Notre Dame 	1985
+Peterson, William <id.php?id=79522> 	Stanford University 	1985
+Pfenning, Nancy <id.php?id=64460> 	Carnegie Mellon University 	1985
+Pheidas, Thanases <id.php?id=16652> 	Purdue University 	1985
+Piazza, Barry <id.php?id=49490> 	Clemson University 	1985
+Picoult, Darri <id.php?id=47337> 	University of Massachusetts Amherst 	1985
+Piepel, Gregory <id.php?id=83591> 	University of Florida 	1985
+Pigeon, Joseph <id.php?id=143374> 	Temple University 	1985
+Pipher, Jill <id.php?id=25304> 	University of California, Los Angeles 	1985
+Pitman, Eric <id.php?id=38639> 	Duke University 	1985
+Pitt, Leonard <id.php?id=40996> 	Yale University 	1985
+Poon, Yiu-Tung <id.php?id=48661> 	University of California, Los
+Angeles 	1985
+Porta Nova, Acacio <id.php?id=127202> 	University of Texas at Austin 	1985
+Poulo, Richard <id.php?id=70262> 	Rutgers University, New Brunswick 	1985
+Powers, Victoria <id.php?id=30562> 	Cornell University 	1985
+Pringle, Thomas <id.php?id=12910> 	University of Oregon 	1985
+Proskin, Howard <id.php?id=108154> 	Rutgers University, Newark 	1985
+Pulte, Michael <id.php?id=20183> 	University of Utah 	1985
+Putnam, Ian <id.php?id=25121> 	University of California, Berkeley 	1985
+Qu, Yaoshuang <id.php?id=82440> 	University of Wisconsin-Madison 	1985
+Quinn, Declan <id.php?id=9960> 	University of Wisconsin-Madison 	1985
+Rajappa, A. <id.php?id=11121> 	Kent State University 	1985
+Rajgopal, Jayant <id.php?id=66332> 	University of Iowa 	1985
+Rammaha, Mohammad <id.php?id=2636> 	Indiana University 	1985
+Rangel, Roger <id.php?id=162109> 	University of California, Berkeley 	1985
+Rassai, Rassa <id.php?id=63711> 	University of Maryland College Park 	1985
+Rauber, Joel <id.php?id=167384> 	The University of North Carolina at
+Chapel Hill 	1985
+Rawlings, James <id.php?id=110232> 	University of Wisconsin-Madison 	1985
+Rawlings, James <id.php?id=110232> 	Brown University 	1985
+Ray, Gary <id.php?id=28166> 	University of Washington 	1985
+Raychaudhuri, Arundhati <id.php?id=6017> 	Rutgers University, New
+Brunswick 	1985
+Rego, Vernon <id.php?id=10777> 	Michigan State University 	1985
+Rehm, Ronald <id.php?id=62635> 	Massachusetts Institute of Technology 	1985
+Reineck, James <id.php?id=9961> 	University of Wisconsin-Madison 	1985
+Rescorla, Kim <id.php?id=79350> 	University of Utah 	1985
+Reys, Barbara <id.php?id=109498> 	University of Missouri - Columbia 	1985
+Rhoads, Carolyn <id.php?id=90836> 	University of Maryland College Park 	1985
+Richter, Reed <id.php?id=173320> 	University of California, Irvine 	1985
+Ricketts, Richard <id.php?id=117650> 	University of Oregon 	1985
+Riedel, Kurt <id.php?id=33257> 	New York University 	1985
+Rigdon, Steven <id.php?id=115396> 	University of Missouri - Columbia 	1985
+Rimlinger, Francis <id.php?id=32648> 	University of California,
+Berkeley 	1985
+Ritz, Mordechai <id.php?id=130829> 	University of Massachusetts
+Amherst 	1985
+Rizzardi, Frances <id.php?id=34661> 	University of California,
+Berkeley 	1985
+Roberts, Stephen <id.php?id=31549> 	University of California, Berkeley 	1985
+Rocha, Carlos <id.php?id=14573> 	Brown University 	1985
+Rochon, James <id.php?id=46732> 	The University of North Carolina at
+Chapel Hill 	1985
+Rodeheffer, Thomas <id.php?id=50300> 	Carnegie Mellon University 	1985
+Rojo, Hector <id.php?id=9535> 	New Mexico State University 	1985
+Romans, Larry <id.php?id=173199> 	California Institute of Technology 	1985
+Roppo, Michael <id.php?id=101696> 	Northwestern University 	1985
+Rose, Christopher <id.php?id=125305> 	Massachusetts Institute of
+Technology 	1985
+Rosen, Linda <id.php?id=90834> 	University of Maryland College Park 	1985
+Rosner, Gary <id.php?id=109605> 	Harvard University 	1985
+Ross, David <id.php?id=33642> 	New York University 	1985
+Ross, II, Shepley <id.php?id=45305> 	The University of Rochester 	1985
+Rozenblit, Jerzy <id.php?id=173730> 	Wayne State University 	1985
+Rubinstein, Jacob <id.php?id=33193> 	New York University 	1985
+Rulla, James <id.php?id=45609> 	University of Texas at Austin 	1985
+Russo, David <id.php?id=17104> 	University of California, Santa
+Barbara 	1985
+Saad-Eldin, Mohamed <id.php?id=128444> 	Iowa State University 	1985
+Saccucci, Michael <id.php?id=36007> 	University of Delaware 	1985
+Sachdev, Subir <id.php?id=117677> 	Harvard University 	1985
+Sade, Martin <id.php?id=44886> 	University of Arizona 	1985
+Sahi, Siddhartha <id.php?id=30983> 	Yale University 	1985
+Sahner, Robin <id.php?id=87109> 	Duke University 	1985
+Saleh, Fahoum <id.php?id=160744> 	Colorado State University 	1985
+Salehi, Ebrahim <id.php?id=28196> 	University of Washington 	1985
+Salvino, Robert <id.php?id=170952> 	University of Washington 	1985
+Samara, Basil <id.php?id=83592> 	University of Florida 	1985
+Samhan, Marouf <id.php?id=27238> 	University of Illinois at Chicago 	1985
+Sanders, Beverly <id.php?id=81155> 	Harvard University 	1985
+Saridakis, Yiannis <id.php?id=87247> 	Clarkson University 	1985
+Satten, Glen <id.php?id=46814> 	Harvard University 	1985
+Saulnier, Gary <id.php?id=77644> 	Rensselaer Polytechnic Institute 	1985
+Saw, Sutaip <id.php?id=157340> 	University of Pennsylvania 	1985
+Sawilowsky, Shlomo <id.php?id=85370> 	University of South Florida 	1985
+Saxe, James <id.php?id=50400> 	Carnegie Mellon University 	1985
+Sayler, John <id.php?id=105386> 	University of Michigan 	1985
+Scattone, Francesco <id.php?id=37495> 	Columbia University 	1985
+Schenker, Nathaniel <id.php?id=106753> 	The University of Chicago 	1985
+Schiff, Steven <id.php?id=114231> 	Duke University 	1985
+Schlesinger, Tuviah <id.php?id=187271> 	California Institute of
+Technology 	1985
+Schneck, Marjorie <id.php?id=90835> 	University of Maryland College
+Park 	1985
+Schoen, Carl <id.php?id=76677> 	University of Wyoming 	1985
+Schulte, Thomas <id.php?id=17170> 	University of California, Santa
+Barbara 	1985
+Schumaker, Bonny <id.php?id=141018> 	California Institute of
+Technology 	1985
+Scofield, Jeremy <id.php?id=9962> 	University of Wisconsin-Madison 	1985
+Scott, Bruce <id.php?id=158852> 	University of Maryland College Park 	1985
+Scott, Dan <id.php?id=83516> 	Stanford University 	1985
+Scott, Michael <id.php?id=78526> 	University of Wisconsin-Madison 	1985
+Scrimshaw, Nevin <id.php?id=63851> 	Massachusetts Institute of
+Technology 	1985
+Seban, Robert <id.php?id=100841> 	Purdue University 	1985
+Seiler, Larry <id.php?id=106957> 	Massachusetts Institute of
+Technology 	1985
+Sen, David <id.php?id=52577> 	North Carolina State University 	1985
+Seneff, Stephanie <id.php?id=144833> 	Massachusetts Institute of
+Technology 	1985
+Seress, Ákos <id.php?id=10687> 	The Ohio State University 	1985
+Serrano-García, Fernando <id.php?id=22646> 	Brandeis University 	1985
+Sha, Lui <id.php?id=91897> 	Carnegie Mellon University 	1985
+Shaffer, Matthew <id.php?id=2728> 	Lehigh University 	1985
+Shaio, Jack <id.php?id=31399> 	University of California, Berkeley 	1985
+Shannon, Kathleen <id.php?id=14574> 	Brown University 	1985
+Shapiro, Jacob <id.php?id=32214> 	University of California, Berkeley 	1985
+Shastri, Lokendra <id.php?id=163270> 	The University of Rochester 	1985
+Shelley, Michael <id.php?id=1595> 	University of Arizona 	1985
+Shen, Tsung-Chen <id.php?id=115286> 	University of Maryland College
+Park 	1985
+Shepard, Allen <id.php?id=4469> 	Brown University 	1985
+Sheppard, Patrick <id.php?id=79458> 	Cornell University 	1985
+Sheth, Amit <id.php?id=70205> 	The Ohio State University 	1985
+Sheu, Albert <id.php?id=32447> 	University of California, Berkeley 	1985
+Shiau, Jyh-Jen <id.php?id=32979> 	University of Wisconsin-Madison 	1985
+Shih, Ke-Gang <id.php?id=179737> 	University of Maryland College Park 	1985
+Shor, Peter <id.php?id=69573> 	Massachusetts Institute of Technology 	1985
+Simanca Perez, Santiago <id.php?id=62544> 	Massachusetts Institute of
+Technology 	1985
+Simon, C. J. <id.php?id=151927> 	The University of Chicago 	1985
+Simpson, Douglas <id.php?id=40920> 	The University of North Carolina at
+Chapel Hill 	1985
+Simpson, Mark <id.php?id=14040> 	Cornell University 	1985
+Singer, Phyllis <id.php?id=10691> 	The Ohio State University 	1985
+Singh, Harpreet <id.php?id=15838> 	University of Virginia 	1985
+Siskakis, Aristomenis <id.php?id=3998> 	University of Illinois at
+Urbana-Champaign 	1985
+Sitharam, Dinkar <id.php?id=78539> 	University of Wisconsin-Madison 	1985
+Skalski, John <id.php?id=63942> 	Cornell University 	1985
+Smith, Bradley <id.php?id=100839> 	Purdue University 	1985
+Smith, Cheryl <id.php?id=20172> 	Auburn University 	1985
+Smith, Daphne <id.php?id=69568> 	Massachusetts Institute of Technology 	1985
+Smith, David <id.php?id=45592> 	University of Texas at Austin 	1985
+Smith, Duane <id.php?id=146199> 	California Institute of Technology 	1985
+Smith, Ken <id.php?id=79468> 	Colorado State University 	1985
+Smith, Marian E. Smith <id.php?id=184628> 	Stanford University 	1985
+Smith, Richard <id.php?id=170> 	Iowa State University 	1985
+Smith, Warren <id.php?id=122136> 	University of Arizona 	1985
+Smolinsky, Lawrence <id.php?id=25505> 	Brandeis University 	1985
+Smolka, Scott <id.php?id=169716> 	Brown University 	1985
+Snyder, Patricia <id.php?id=149872> 	North Carolina State University 	1985
+Sochacki, James <id.php?id=3374> 	University of Wyoming 	1985
+Sogge, Christopher <id.php?id=8353> 	Princeton University 	1985
+Sohi, Gurindar <id.php?id=82238> 	University of Illinois at
+Urbana-Champaign 	1985
+Solheid, Ernie <id.php?id=9963> 	University of Wisconsin-Madison 	1985
+Solinas, Jerome <id.php?id=7063> 	University of Michigan 	1985
+Sollins, Karen <id.php?id=144834> 	Massachusetts Institute of
+Technology 	1985
+Solomon, Wiremu <id.php?id=9964> 	University of Wisconsin-Madison 	1985
+Somer, Lawrence <id.php?id=4857> 	University of Illinois at
+Urbana-Champaign 	1985
+Sommer, Thomas <id.php?id=141431> 	Carnegie Mellon University 	1985
+Song, Hi <id.php?id=10686> 	The Ohio State University 	1985
+Soofi, Ehsanolah <id.php?id=49948> 	University of California,
+Riverside 	1985
+Sousa, Michael <id.php?id=1745> 	University of Florida 	1985
+Soyer, Refik <id.php?id=61478> 	The George Washington University 	1985
+Spergel, David <id.php?id=74904> 	Harvard University 	1985
+Spielberg, John <id.php?id=17279> 	University of California, Berkeley 	1985
+Spivakovsky, Mark <id.php?id=18842> 	Harvard University 	1985
+Squeff, Maria Christina <id.php?id=51738> 	The University of Chicago 	1985
+Srinivasan, M. <id.php?id=85889> 	Northwestern University 	1985
+Stafford, Max <id.php?id=7036> 	Air Force Institute of Technology 	1985
+Staniswalis, Joan <id.php?id=41869> 	University of California, San
+Diego 	1985
+Stanley, Elizabeth <id.php?id=11860> 	California Institute of
+Technology 	1985
+Stansifer, Ryan <id.php?id=77003> 	Cornell University 	1985
+Steger, Tim <id.php?id=2782> 	Washington University in St. Louis 	1985
+Stembridge, John <id.php?id=7928> 	Massachusetts Institute of
+Technology 	1985
+Stensønes, Berit <id.php?id=7929> 	Princeton University 	1985
+Sterge, Andrew <id.php?id=99107> 	Cornell University 	1985
+Sterling, Ivan <id.php?id=31917> 	University of California, Berkeley 	1985
+Sternberg, Natalia <id.php?id=14575> 	Brown University 	1985
+Stotts, Jr., P. <id.php?id=149762> 	University of Virginia 	1985
+Strohl, David <id.php?id=32564> 	University of California, Berkeley 	1985
+Strouse, Elizabeth <id.php?id=31430> 	University of California,
+Berkeley 	1985
+Stueckle, Samuel <id.php?id=49491> 	Clemson University 	1985
+Subramanian, Pudukkotai <id.php?id=78523> 	University of
+Wisconsin-Madison 	1985
+Sueiro Bal, Juan <id.php?id=9965> 	University of Wisconsin-Madison 	1985
+Suen, Wai-Mo <id.php?id=114029> 	California Institute of Technology 	1985
+Sun, Hsiao-lan <id.php?id=16654> 	Purdue University 	1985
+Sundar, Padmanabhan <id.php?id=85283> 	Purdue University 	1985
+Sunger, Engin <id.php?id=42502> 	Carnegie Mellon University 	1985
+Svirsky, Roman <id.php?id=31327> 	The Johns Hopkins University 	1985
+Swart, Garret <id.php?id=75309> 	University of Washington 	1985
+Talcott, Carolyn <id.php?id=61945> 	Stanford University 	1985
+Tamir, Yuval <id.php?id=70592> 	University of California, Berkeley 	1985
+Tang, Christopher <id.php?id=88292> 	Yale University 	1985
+Tang, Dei-In <id.php?id=48571> 	University of California, Los Angeles 	1985
+Tatsuoka, Kay <id.php?id=9966> 	University of Wisconsin-Madison 	1985
+Tattil, Raphel <id.php?id=142154> 	Virginia Polytechnic Institute and
+State University 	1985
+Taylor, Kevin <id.php?id=17112> 	University of California, Santa
+Barbara 	1985
+Taylor, Stephen <id.php?id=119581> 	California Institute of Technology 	1985
+Testerman, Donna <id.php?id=12483> 	University of Oregon 	1985
+Thattil, Raphel <id.php?id=91803> 	Virginia Polytechnic Institute and
+State University 	1985
+Thomann, Enrique <id.php?id=32161> 	University of California, Berkeley 	1985
+Thombs, Lori <id.php?id=36071> 	Southern Methodist University 	1985
+Thompson, Gerard <id.php?id=22430> 	The University of North Carolina at
+Chapel Hill 	1985
+Thompson, Sandra <id.php?id=44200> 	University of Missouri - Kansas
+City 	1985
+Thron, Christopher <id.php?id=9967> 	University of Wisconsin-Madison 	1985
+Tibshirani, Robert <id.php?id=15880> 	Stanford University 	1985
+Tomita, Masaru <id.php?id=50279> 	Carnegie Mellon University 	1985
+Tonellato, Peter <id.php?id=1596> 	University of Arizona 	1985
+Topiwala, Pankaj <id.php?id=7064> 	University of Michigan 	1985
+Torczon, Linda <id.php?id=129580> 	Rice University 	1985
+Torop, Robert <id.php?id=157310> 	Yale University 	1985
+Treisman, Philip <id.php?id=45584> 	University of California, Berkeley 	1985
+Trembinska, Antoinette <id.php?id=13578> 	Northwestern University 	1985
+Trickey, Howard <id.php?id=100753> 	Stanford University 	1985
+Trow, Paul <id.php?id=24976> 	The University of North Carolina at Chapel
+Hill 	1985
+Truong, Young Kinh-Nhue <id.php?id=34683> 	University of California,
+Berkeley 	1985
+Tsai, Yuh-Dong <id.php?id=6020> 	Rutgers University, New Brunswick 	1985
+Tsao, Chieh <id.php?id=83394> 	Stanford University 	1985
+Tsitsiklis, John <id.php?id=64491> 	Massachusetts Institute of
+Technology 	1985
+Turner, James <id.php?id=78802> 	Carnegie Mellon University 	1985
+Tzavaras, Athanassios <id.php?id=14576> 	Brown University 	1985
+Ueda, Minoru <id.php?id=11034> 	Washington State University 	1985
+Ullman, Daniel <id.php?id=31704> 	University of California, Berkeley 	1985
+Uno, Katsuhiro <id.php?id=4176> 	University of Illinois at
+Urbana-Champaign 	1985
+Upstill, Steven <id.php?id=82961> 	University of California, Berkeley 	1985
+Vafa, Cumrun <id.php?id=18845> 	Princeton University 	1985
+Vaidya, Hina <id.php?id=49009> 	University of Pittsburgh 	1985
+Valente, Kenneth <id.php?id=12516> 	University of Oregon 	1985
+Vande Vate, John <id.php?id=85157> 	Massachusetts Institute of
+Technology 	1985
+Van Gucht, Dirk <id.php?id=117848> 	Vanderbilt University 	1985
+van Schaik, Jan <id.php?id=83076> 	Iowa State University 	1985
+Vaughn, John <id.php?id=27237> 	University of Illinois at Chicago 	1985
+Veidenbaum, Alexander <id.php?id=40823> 	University of Illinois at
+Urbana-Champaign 	1985
+Velling, John <id.php?id=44352> 	Stanford University 	1985
+Vernon, Michael <id.php?id=15480> 	Michigan State University 	1985
+Verosky, John <id.php?id=99633> 	Tulane University 	1985
+Viau, Elizabeth <id.php?id=91979> 	University of Oregon 	1985
+Vijitha-Kumara, Kanaka <id.php?id=171> 	Iowa State University 	1985
+Vohra, Rakesh <id.php?id=84753> 	University of Maryland College Park 	1985
+Waggoner, Daniel <id.php?id=6928> 	University of Kentucky 	1985
+Wakugawa, Jason <id.php?id=133973> 	California Institute of Technology 	1985
+Walus, Wlodzimierz <id.php?id=17043> 	Virginia Polytechnic Institute and
+State University 	1985
+Wang, Charles <id.php?id=66398> 	University of California, Los Angeles 	1985
+Wang, Chien-Tu <id.php?id=2878> 	Indiana University 	1985
+Wang, Ching-An <id.php?id=44997> 	State University of New York at
+Buffalo 	1985
+Wang, Jin-Der <id.php?id=162627> 	North Carolina State University 	1985
+Wang, Kwang <id.php?id=29532> 	University of Arizona 	1985
+Wang, Mei-Cheng <id.php?id=34498> 	University of California, Berkeley 	1985
+Wang, Richard <id.php?id=87442> 	University of California, Davis 	1985
+Wang, Ting-hua <id.php?id=151488> 	University of Colorado at Boulder 	1985
+Wang, Xiaolu <id.php?id=32448> 	University of California, Berkeley 	1985
+Wardrop, Daniel <id.php?id=91804> 	Virginia Polytechnic Institute and
+State University 	1985
+Weeks, Jeffrey <id.php?id=83465> 	Princeton University 	1985
+Weinreb, Abraham <id.php?id=141105> 	Stanford University 	1985
+Wender, Abraham <id.php?id=99547> 	State University of New York at
+Binghamton 	1985
+Wendt, Peter <id.php?id=135344> 	Princeton University 	1985
+Wenzl, Hans <id.php?id=23111> 	University of Pennsylvania 	1985
+West, James <id.php?id=124488> 	University of Texas at Austin 	1985
+West, Karen <id.php?id=83438> 	University of Arizona 	1985
+Wetzel, Keith <id.php?id=117656> 	University of Oregon 	1985
+Wey, Albert <id.php?id=176317> 	State University of New York at Stony
+Brook 	1985
+Wheeler, Richard <id.php?id=138877> 	Yale University 	1985
+White, Jacob <id.php?id=69660> 	University of California, Berkeley 	1985
+Wickerhauser, Mladen <id.php?id=9209> 	Yale University 	1985
+Wiggins, Stephen <id.php?id=11962> 	Cornell University 	1985
+Wilber, Robert <id.php?id=50341> 	Carnegie Mellon University 	1985
+Wilhelms, Jane <id.php?id=82964> 	University of California, Berkeley 	1985
+Williamson, Calvin <id.php?id=7065> 	University of Michigan 	1985
+Willis, Barton <id.php?id=105862> 	Virginia Polytechnic Institute and
+State University 	1985
+Wilson, Joseph <id.php?id=184285> 	University of Virginia 	1985
+Wisniewski, Dennis <id.php?id=111964> 	Wayne State University 	1985
+Wojcicka, Ewa <id.php?id=180105> 	University of South Carolina 	1985
+Wolansky, Gershon <id.php?id=33580> 	New York University 	1985
+Wolf, Alexander <id.php?id=168408> 	University of Massachusetts
+Amherst 	1985
+Wolff, C. C. P. <id.php?id=152309> 	The University of Chicago 	1985
+Won, EunSang <id.php?id=50034> 	The Johns Hopkins University 	1985
+Wongkew, Richard <id.php?id=32010> 	University of California, Berkeley 	1985
+Woods, Daniel <id.php?id=29579> 	Rice University 	1985
+Wu, Eleanor <id.php?id=63912> 	Massachusetts Institute of Technology 	1985
+Wuu, Gene <id.php?id=105641> 	State University of New York at Stony
+Brook 	1985
+Wyneken, Matthew <id.php?id=7066> 	University of Michigan 	1985
+Xue, Pring <id.php?id=84416> 	Princeton University 	1985
+Yadlin de Weintraub, Marisa <id.php?id=80912> 	University of California,
+Berkeley 	1985
+Yagle, Andrew <id.php?id=7932> 	Massachusetts Institute of Technology 	1985
+Yang, Don-Lin <id.php?id=78947> 	University of Virginia 	1985
+Yeh, Yeong-Nan <id.php?id=80056> 	State University of New York at
+Buffalo 	1985
+Yin, Zhong <id.php?id=16335> 	University of Virginia 	1985
+You, Jia-Huai <id.php?id=72391> 	University of Utah 	1985
+Young, Barbara <id.php?id=1403> 	The Florida State University 	1985
+Young, Gerald <id.php?id=101695> 	Northwestern University 	1985
+Young, Honesty <id.php?id=78537> 	University of Wisconsin-Madison 	1985
+Yu, Tze-Jie <id.php?id=81895> 	Purdue University 	1985
+Yuan, Li-Yan <id.php?id=79378> 	Case Western Reserve University 	1985
+Zabinsky, Zelda <id.php?id=131125> 	University of Michigan 	1985
+Zakeri, Gholam-Ali <id.php?id=11215> 	Kansas State University 	1985
+Zamar, Ruben <id.php?id=26393> 	University of Washington 	1985
+Zazi, George <id.php?id=101816> 	Illinois Institute of Technology 	1985
+Zeng, Xianwu <id.php?id=12179> 	University of Houston 	1985
+Zhang, Bao-Huan <id.php?id=9408> 	Washington State University 	1985
+Zhang, Nien-fan <id.php?id=91805> 	Virginia Polytechnic Institute and
+State University 	1985
+Zhang, Yixin <id.php?id=23986> 	Drexel University 	1985
+Zia, Lee <id.php?id=14577> 	Brown University 	1985
+Zielinski, Michael <id.php?id=9968> 	University of Wisconsin-Madison 	1985
+Zierau, Roger <id.php?id=32255> 	University of California, Berkeley 	1985
+Zimmer, Robert <id.php?id=46805> 	Columbia University 	1985
+Zimmermann, Karl <id.php?id=4470> 	Brown University 	1985
+Živaljević, Rade <id.php?id=9969> 	University of Wisconsin-Madison 	1985
+Zizza, Jr., Frank <id.php?id=32742> 	University of California,
+Berkeley 	1985
+Zoeller, Martha <id.php?id=2996> 	The Florida State University 	1985
+Zou, Hung <id.php?id=8512> 	Western Michigan University 	1985
+Zukerman, Moshe <id.php?id=102180> 	University of California, Los
+Angeles 	1985
+Zureick, Abdul-Hamid <id.php?id=134157> 	University of Illinois at
+Urbana-Champaign 	1985
+Zwaenepoel, Willy <id.php?id=50889> 	Stanford University 	1985
+Zweibel, John <id.php?id=37521> 	Columbia University 	1985
+
+  * Search <search.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+
+
+The Mathematics Genealogy Project is in need of funds to help pay for
+student help and other associated costs. If you would like to
+contribute, please donate online
+<https://epayment.ndus.nodak.edu/C22800_ustores/web/product_detail.jsp?PRODUCTID=2989&SINGLESTORE=true>
+using credit card or bank transfer or mail your tax-deductible
+contribution to:
+
+Mathematics Genealogy Project
+Department of Mathematics
+North Dakota State University
+P. O. Box 6050
+Fargo, North Dakota 58108-6050
+

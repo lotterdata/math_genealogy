@@ -1,0 +1,1203 @@
+Tree <index.php>
+
+
+  Mathematics Genealogy Project
+
+  * Home <index.php>
+  * Search <search.php>
+  * Extrema <extrema.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+  * Mirrors <mirrors.php>
+      o NDSU (main) <http://www.genealogy.math.ndsu.nodak.edu/>
+      o AMS <http://www.genealogy.ams.org/>
+      o Bielefeld <http://www.math.uni-bielefeld.de/genealogy>
+      o IMPA <http://genealogy.impa.br/>
+
+A service of the NDSU <http://www.ndsu.edu/> Department of Mathematics
+<http://www.math.ndsu.nodak.edu/>, in association with the American
+Mathematical Society <http://www.ams.org/>.
+
+Your search has found 959 records in our database.
+Display results in .
+
+Abed, Eyad <id.php?id=91540> 	University of California, Berkeley 	1982
+Abiteboul, Serge <id.php?id=84626> 	University of Southern California 	1982
+Adams, Malcolm <id.php?id=5612> 	Massachusetts Institute of Technology 	1982
+Aeyels, Dirk <id.php?id=137302> 	University of Washington 	1982
+Aguilar, Lorenzo <id.php?id=111913> 	The Ohio State University 	1982
+Aguirre-Torres, Victor <id.php?id=52581> 	North Carolina State
+University 	1982
+Aikens III, Charles <id.php?id=116329> 	University of Tennessee -
+Knoxville 	1982
+Alexander, Kenneth <id.php?id=69275> 	Massachusetts Institute of
+Technology 	1982
+Al-Halabi, Yahia <id.php?id=119149> 	Clarkson University 	1982
+Almeida, Jorge <id.php?id=81055> 	The Pennsylvania State University 	1982
+Alred, John <id.php?id=161778> 	Baylor University 	1982
+Alterman, Richard <id.php?id=78918> 	University of Texas at Austin 	1982
+Amemiya, Yasuo <id.php?id=40624> 	Iowa State University 	1982
+Ammons, Jane <id.php?id=97371> 	Georgia Institute of Technology 	1982
+Anderson, Keaven <id.php?id=83225> 	Stanford University 	1982
+Anderson, Stuart <id.php?id=32879> 	The University of Oklahoma 	1982
+Andes, David <id.php?id=122070> 	University of California, Riverside 	1982
+Andrews, Donald <id.php?id=113480> 	University of California, Berkeley 	1982
+Angelos, James <id.php?id=23237> 	Montana State University 	1982
+Antonios, Medhat <id.php?id=3870> 	University of Tennessee - Knoxville 	1982
+Arbab, Farhad <id.php?id=93578> 	University of California, Los Angeles 	1982
+Arce, Gonzalo <id.php?id=66443> 	Purdue University 	1982
+Aref, Susanne <id.php?id=41361> 	Cornell University 	1982
+Arnold, Jonathan <id.php?id=52240> 	Yale University 	1982
+Arwini, Ali <id.php?id=25159> 	The George Washington University 	1982
+Arya, Arun <id.php?id=163267> 	The University of Rochester 	1982
+Asher, Nicholas <id.php?id=45886> 	Yale University 	1982
+Assiff, Thomas <id.php?id=15467> 	Michigan State University 	1982
+Aston, Martha <id.php?id=91317> 	Colorado State University 	1982
+Atallah, Mikhail <id.php?id=47076> 	The Johns Hopkins University 	1982
+Atwa, Mahmoud <id.php?id=11137> 	Kent State University 	1982
+Augenbaum, Jeffrey <id.php?id=33107> 	New York University 	1982
+Aunuddin,   <id.php?id=52646> 	North Carolina State University 	1982
+Avrin, Joel <id.php?id=31541> 	University of California, Berkeley 	1982
+Ayers, Kathleen <id.php?id=118346> 	University of Idaho 	1982
+Back, Kerry <id.php?id=65329> 	University of Kentucky 	1982
+Balasubramaniam, R. <id.php?id=142625> 	Case Western Reserve
+University 	1982
+Balson, William <id.php?id=153060> 	Stanford University 	1982
+Bandyoadhyay, Amit <id.php?id=122271> 	The University of Rochester 	1982
+Barab, Jacqueline <id.php?id=1833> 	Indiana University 	1982
+Barber, Gerald <id.php?id=112518> 	Massachusetts Institute of
+Technology 	1982
+Barker, John <id.php?id=11841> 	California Institute of Technology 	1982
+Barrett, David <id.php?id=7571> 	The University of Chicago 	1982
+Bartmann, Flavio <id.php?id=106188> 	Princeton University 	1982
+Bashir, Mohommed <id.php?id=145573> 	Oregon State University 	1982
+Bassein, David <id.php?id=33241> 	New York University 	1982
+Bauman, Patricia <id.php?id=1842> 	University of Minnesota-Minneapolis 	1982
+Bayer, David <id.php?id=48251> 	Harvard University 	1982
+Beattie, Christopher <id.php?id=49932> 	The Johns Hopkins University 	1982
+Becerra, Linda <id.php?id=12169> 	University of Houston 	1982
+Belbahri, Kamel <id.php?id=58788> 	Stevens Institute of Technology 	1982
+Beltrão, Kaizo <id.php?id=106189> 	Princeton University 	1982
+Bent, Samuel <id.php?id=82435> 	Stanford University 	1982
+Bercovici, Hari <id.php?id=7075> 	University of Michigan 	1982
+Berger, Marsha <id.php?id=50897> 	Stanford University 	1982
+Berman, Robert <id.php?id=61531> 	University of Maryland College Park 	1982
+Bernhard, Robert <id.php?id=52276> 	Iowa State University 	1982
+Bernier, Robert <id.php?id=97994> 	California Institute of Technology 	1982
+Bernstein, David <id.php?id=51179> 	University of Maryland College
+Park 	1982
+Bernstein, Dennis <id.php?id=7901> 	University of Michigan 	1982
+Berwick, Robert <id.php?id=85458> 	Massachusetts Institute of
+Technology 	1982
+Beylkin, Gregory <id.php?id=33690> 	New York University 	1982
+Bhattacharya, Dipendra <id.php?id=119066> 	State University of New York
+at Buffalo 	1982
+Bhuyan, Laxminarayan <id.php?id=49159> 	Wayne State University 	1982
+Biagioli, Anthony <id.php?id=9750> 	University of Wisconsin-Madison 	1982
+Bick, Richard <id.php?id=75755> 	University of Toledo 	1982
+Bieterman, Michael <id.php?id=46529> 	University of Maryland College
+Park 	1982
+Binenbaum, Nurit <id.php?id=33242> 	New York University 	1982
+Bixler, James <id.php?id=15774> 	University of Kansas 	1982
+Bland, John <id.php?id=48626> 	University of California, Los Angeles 	1982
+Blum, Dorothee <id.php?id=143602> 	Virginia Polytechnic Institute and
+State University 	1982
+Blumer, Anselm <id.php?id=4743> 	University of Illinois at
+Urbana-Champaign 	1982
+Boe, Brian <id.php?id=30985> 	Yale University 	1982
+Boehm, Hans-J. <id.php?id=100797> 	Cornell University 	1982
+Bohorquez, Jaime <id.php?id=30444> 	Cornell University 	1982
+Boisvert, Robert <id.php?id=64793> 	Georgia Institute of Technology 	1982
+Bolstad, John <id.php?id=50896> 	Stanford University 	1982
+Bonan, Stanford <id.php?id=10723> 	The Ohio State University 	1982
+Booker, Lashon <id.php?id=104146> 	University of Michigan 	1982
+Bosmia, Natwarlal <id.php?id=36069> 	Southern Methodist University 	1982
+Boulanger, Michele <id.php?id=3663> 	University of Rhode Island 	1982
+Bowers, Kenneth <id.php?id=13063> 	Colorado State University 	1982
+Bowles, John <id.php?id=70317> 	Rutgers University, New Brunswick 	1982
+Branton, Michael <id.php?id=22291> 	The University of North Carolina at
+Chapel Hill 	1982
+Breban, Michael <id.php?id=170078> 	New York University 	1982
+Breen, Stephen <id.php?id=5991> 	Rutgers University, New Brunswick 	1982
+Brega, Alfredo <id.php?id=1874> 	Washington University in St. Louis 	1982
+Brenken, Berndt <id.php?id=23114> 	University of Pennsylvania 	1982
+Brenner, Gary <id.php?id=107451> 	University of Colorado at Boulder 	1982
+Bressan, Alberto <id.php?id=44360> 	University of Colorado at Boulder 	1982
+Brindley, Dennis <id.php?id=1409> 	The Florida State University 	1982
+Brooks, Peter <id.php?id=44442> 	Stanford University 	1982
+Brosius, J. <id.php?id=23140> 	University of Pennsylvania 	1982
+Brown, David <id.php?id=11842> 	California Institute of Technology 	1982
+Brown, David <id.php?id=51732> 	The University of Chicago 	1982
+Brumfield, Jeffrey <id.php?id=81908> 	Purdue University 	1982
+Brunson, Barry <id.php?id=1883> 	Indiana University 	1982
+Budde, Paul <id.php?id=32491> 	University of California, Berkeley 	1982
+Bulterman, Dick <id.php?id=135122> 	Brown University 	1982
+Bump, Daniel <id.php?id=36902> 	The University of Chicago 	1982
+Buonaccorsi, John <id.php?id=39147> 	Colorado State University 	1982
+Burke, John <id.php?id=11024> 	Washington State University 	1982
+Burman, Prabir <id.php?id=34302> 	University of California, Berkeley 	1982
+Burt, Earl <id.php?id=25425> 	Syracuse University 	1982
+Butler, Adger <id.php?id=111936> 	Wayne State University 	1982
+Buys, Mutiara <id.php?id=33154> 	New York University 	1982
+Canjar, R. Michael <id.php?id=7076> 	University of Michigan 	1982
+Cantrell, Rayford <id.php?id=52853> 	North Carolina State University 	1982
+Cappello, Peter <id.php?id=82090> 	Princeton University 	1982
+Carbery, Anthony <id.php?id=48689> 	University of California, Los
+Angeles 	1982
+Carlson, Lauri <id.php?id=111250> 	Massachusetts Institute of
+Technology 	1982
+Carlson, Mark <id.php?id=1904> 	Indiana University 	1982
+Carothers, Neal <id.php?id=10722> 	The Ohio State University 	1982
+Carrington, Walter <id.php?id=1908> 	Washington University in St.
+Louis 	1982
+Carro, Anthony <id.php?id=40192> 	Polytechnic University 	1982
+Carter, J. Scott <id.php?id=30992> 	Yale University 	1982
+Cassandras, Christos <id.php?id=81153> 	Harvard University 	1982
+Castellana, John <id.php?id=47513> 	The University of North Carolina at
+Chapel Hill 	1982
+Catherasoo, Christopher <id.php?id=119682> 	California Institute of
+Technology 	1982
+Cazes, Albert <id.php?id=25267> 	Polytechnic University 	1982
+Cemen, Pam <id.php?id=119938> 	Indiana University 	1982
+Ceresa, Giuseppe <id.php?id=19916> 	University of Utah 	1982
+Cerrito, Patricia <id.php?id=9879> 	University of Cincinnati 	1982
+Cetegen, Baki <id.php?id=116732> 	California Institute of Technology 	1982
+Cha, Anna <id.php?id=92283> 	University of Pittsburgh 	1982
+Chaganty, N. Rao <id.php?id=1410> 	The Florida State University 	1982
+Chai, Herzl <id.php?id=116494> 	California Institute of Technology 	1982
+Chaloner, Kathryn <id.php?id=47813> 	Carnegie Mellon University 	1982
+Chambers, Raymond <id.php?id=49794> 	The Johns Hopkins University 	1982
+Chammaa, Nasser <id.php?id=86163> 	University of California, Los
+Angeles 	1982
+Chandhru, Vijaya <id.php?id=66419> 	Massachusetts Institute of
+Technology 	1982
+Chandru, Vijaya <id.php?id=13433> 	Massachusetts Institute of
+Technology 	1982
+Chang, Cheng-Tao <id.php?id=91792> 	Virginia Polytechnic Institute and
+State University 	1982
+Chang, Chin <id.php?id=16674> 	Purdue University 	1982
+Chang, Dar-Jen <id.php?id=7077> 	University of Michigan 	1982
+Chang, Gerard <id.php?id=128328> 	Cornell University 	1982
+Chang, Mei-Chu <id.php?id=31817> 	University of California, Berkeley 	1982
+Chari, Bhagya <id.php?id=25268> 	Polytechnic University 	1982
+Chase-Klapper, Andrew <id.php?id=4451> 	Brown University 	1982
+Chaudhuri, Ranjan <id.php?id=8790> 	University of South Florida 	1982
+Chaum, David <id.php?id=118579> 	University of California, Berkeley 	1982
+Chen, Bor-Sen <id.php?id=182667> 	University of Southern California 	1982
+Chen, Chen-Hsin <id.php?id=83224> 	Stanford University 	1982
+Chen, Kim-Joan <id.php?id=89200> 	State University of New York at Stony
+Brook 	1982
+Chen, Matthew <id.php?id=32536> 	University of California, Berkeley 	1982
+Chen, Pinyuen <id.php?id=39415> 	University of California, Santa
+Barbara 	1982
+Chen, So-Cheng <id.php?id=80232> 	The Pennsylvania State University 	1982
+Chen, Young-Ming <id.php?id=43137> 	University of California, San
+Diego 	1982
+Cheney, Margaret <id.php?id=1934> 	Indiana University 	1982
+Cheng, Fuhua <id.php?id=10718> 	The Ohio State University 	1982
+Chew, Robert <id.php?id=107728> 	Montana State University 	1982
+Chima, Javed <id.php?id=11219> 	Kansas State University 	1982
+Chizeck, Howard <id.php?id=84509> 	Massachusetts Institute of
+Technology 	1982
+Choate, David <id.php?id=29624> 	University of Louisiana at Lafayette 	1982
+Choi, Hyeong <id.php?id=32830> 	University of California, Berkeley 	1982
+Chou, Arthur <id.php?id=1164> 	State University of New York at Stony
+Brook 	1982
+Chow, Kuang-Yu <id.php?id=86168> 	University of California, Los
+Angeles 	1982
+Christ, F. Michael <id.php?id=9337> 	The University of Chicago 	1982
+Chu, Moody <id.php?id=15463> 	Michigan State University 	1982
+Chuang, Chen-Lian <id.php?id=48664> 	University of California, Los
+Angeles 	1982
+Cimini, Leonard <id.php?id=129975> 	University of Pennsylvania 	1982
+Clarke, Thomas <id.php?id=65731> 	University of Miami 	1982
+Clements, Mark <id.php?id=78214> 	Massachusetts Institute of
+Technology 	1982
+Clifford, James <id.php?id=178295> 	State University of New York at
+Stony Brook 	1982
+Cochran, Thomas (Tim) <id.php?id=18770> 	University of California,
+Berkeley 	1982
+Cohen, Gerald <id.php?id=9338> 	The University of Chicago 	1982
+Cohn, Stephen <id.php?id=33577> 	New York University 	1982
+Cohoon, James <id.php?id=120144> 	University of Minnesota-Minneapolis 	1982
+Cole, Richard <id.php?id=105414> 	Cornell University 	1982
+Cole, Susan <id.php?id=19592> 	University of California, Los Angeles 	1982
+Coleman, William <id.php?id=131913> 	University of Illinois at
+Urbana-Champaign 	1982
+Collenback, Loyce <id.php?id=45613> 	University of Texas at Austin 	1982
+Colzani, Leonardo <id.php?id=1962> 	Washington University in St. Louis 	1982
+Conerly, Michael <id.php?id=40750> 	Southern Methodist University 	1982
+Conlon, Michael <id.php?id=99266> 	University of Florida 	1982
+Connolly, Jeremy <id.php?id=133975> 	California Institute of
+Technology 	1982
+Cooil, Bruce <id.php?id=106002> 	University of Pennsylvania 	1982
+Coombes, Kevin <id.php?id=20958> 	The University of Chicago 	1982
+Costello, Patrick <id.php?id=10715> 	The Ohio State University 	1982
+Countryman, William <id.php?id=141185> 	University of Texas at
+Arlington 	1982
+Courcoubetis, Constantin (Costas) <id.php?id=183232> 	University of
+California, Berkeley 	1982
+Cown, Barry <id.php?id=135213> 	Georgia Institute of Technology 	1982
+Coyle, Edward <id.php?id=67656> 	Princeton University 	1982
+Crager, Michael <id.php?id=83223> 	Stanford University 	1982
+Cromer, Tom <id.php?id=3479> 	University of Montana 	1982
+Crowder, Harlan <id.php?id=46427> 	City University of New York 	1982
+Crowley, James <id.php?id=14548> 	Brown University 	1982
+Culkin, Joseph <id.php?id=101693> 	Northwestern University 	1982
+Cyphert, Daniel <id.php?id=59230> 	Vanderbilt University 	1982
+Czochor, Ronald <id.php?id=52538> 	North Carolina State University 	1982
+Dabrowski, André <id.php?id=68205> 	University of Illinois at
+Urbana-Champaign 	1982
+Dahlberg, Randall <id.php?id=17828> 	The University of Oklahoma 	1982
+Danial, Edward <id.php?id=22001> 	Missouri University of Science and
+Technology 	1982
+Dannenberg, Roger <id.php?id=50301> 	Carnegie Mellon University 	1982
+Darken, Joanne <id.php?id=5988> 	Rutgers University, New Brunswick 	1982
+Dat, Nguyen <id.php?id=84170> 	The University of North Carolina at
+Chapel Hill 	1982
+Dattero, Ronald <id.php?id=79095> 	Purdue University 	1982
+David, Nancy <id.php?id=99682> 	University of Maryland College Park 	1982
+Davidson, Susan <id.php?id=82091> 	Princeton University 	1982
+Davila, Norbil <id.php?id=44199> 	University of Missouri - Kansas City 	1982
+Davis, Barry <id.php?id=14549> 	Brown University 	1982
+Davis, James <id.php?id=9926> 	Stanford University 	1982
+Dearden, Bruce <id.php?id=11025> 	Washington State University 	1982
+De Laubenfels, Ralph <id.php?id=31542> 	University of California,
+Berkeley 	1982
+Delcambre, Lois <id.php?id=80712> 	University of Louisiana at
+Lafayette 	1982
+Delchamps, David <id.php?id=74092> 	Harvard University 	1982
+Delgado, Alberto <id.php?id=31747> 	University of California, Berkeley 	1982
+DeLong, Richard <id.php?id=2012> 	University of Minnesota-Minneapolis 	1982
+Devine, Terence <id.php?id=147288> 	University of California, Los
+Angeles 	1982
+Dhompongsa, Sompong <id.php?id=126077> 	University of Illinois at
+Urbana-Champaign 	1982
+Diaz, Steven <id.php?id=4452> 	Brown University 	1982
+Dickey, Edwin <id.php?id=113977> 	University of South Carolina 	1982
+Dittert, Eric <id.php?id=81909> 	Purdue University 	1982
+Doan, Hai <id.php?id=15466> 	Michigan State University 	1982
+Dodd, Steven <id.php?id=137026> 	North Carolina State University 	1982
+Dohse, Lothar <id.php?id=52539> 	North Carolina State University 	1982
+Donoghue, Michael <id.php?id=61145> 	Harvard University 	1982
+Dordal, Peter <id.php?id=120832> 	Harvard University 	1982
+Dorr, Milo <id.php?id=121987> 	University of Maryland College Park 	1982
+Doss, Hani <id.php?id=51682> 	Stanford University 	1982
+Dotto, Oclide <id.php?id=75557> 	The University of Rochester 	1982
+Doty, Stephen <id.php?id=36339> 	University of Notre Dame 	1982
+Dougherty, Jr., Daniel <id.php?id=38868> 	University of Maryland College
+Park 	1982
+Douglas, Craig <id.php?id=68476> 	Yale University 	1982
+Dow, Stephen <id.php?id=1739> 	University of Florida 	1982
+Dowlen, Mary <id.php?id=2033> 	The Florida State University 	1982
+Doyle, Peter <id.php?id=38050> 	Dartmouth College 	1982
+Dreussi, Joseph <id.php?id=78917> 	University of Texas at Austin 	1982
+Du, Sen-Wo <id.php?id=173099> 	University of Texas at Austin 	1982
+Duchon, Nicholas <id.php?id=51180> 	University of Maryland College
+Park 	1982
+Duffuaa, Salih <id.php?id=19079> 	University of Texas at Austin 	1982
+Duncan, Melody <id.php?id=3437> 	University of California, Riverside 	1982
+Dunn, Mark <id.php?id=98862> 	Texas A&M University 	1982
+Durumeric, Oguz <id.php?id=1167> 	State University of New York at Stony
+Brook 	1982
+Dyer, Michael <id.php?id=70503> 	Yale University 	1982
+Dyksen, Wayne <id.php?id=16613> 	Purdue University 	1982
+Eakle, Jan <id.php?id=127670> 	University of Texas at Austin 	1982
+Edahl, Richard <id.php?id=98218> 	Carnegie Mellon University 	1982
+Edmiston, Richard <id.php?id=78915> 	University of Texas at Austin 	1982
+Egbelu, Pius <id.php?id=136216> 	Virginia Polytechnic Institute and
+State University 	1982
+Ellison, John <id.php?id=91078> 	University of Pittsburgh 	1982
+Ellner, Stephen <id.php?id=14970> 	Cornell University 	1982
+Elman, Howard <id.php?id=37605> 	Yale University 	1982
+Elsanadidi, Mohamad <id.php?id=116879> 	University of California, Los
+Angeles 	1982
+Ely, Richard <id.php?id=44359> 	University of Colorado at Boulder 	1982
+Enas, Gregory <id.php?id=41831> 	Virginia Commonwealth University 	1982
+Epstein, Robert <id.php?id=80282> 	University of California, Berkeley 	1982
+Esham, Jr., Benjamin <id.php?id=108227> 	University of Delaware 	1982
+Eslami, Esfandiar <id.php?id=161> 	Iowa State University 	1982
+Etchemendy, John <id.php?id=102706> 	Stanford University 	1982
+Euler, Russell <id.php?id=71142> 	University of Missouri - Kansas City 	1982
+Eydeland, Alexander <id.php?id=33612> 	New York University 	1982
+Fahrenholtz, Steven <id.php?id=86417> 	Iowa State University 	1982
+Farber, Martin <id.php?id=5989> 	Rutgers University, New Brunswick 	1982
+Federer, Leslie <id.php?id=14653> 	Princeton University 	1982
+Feiler, Peter <id.php?id=50231> 	Carnegie Mellon University 	1982
+Fenton, William <id.php?id=16609> 	Purdue University 	1982
+Fernandes, Vincent <id.php?id=131631> 	University of Texas at Austin 	1982
+Ferres, Graham <id.php?id=91974> 	University of Oregon 	1982
+Fettes, Susan <id.php?id=46832> 	University of Massachusetts Amherst 	1982
+Fich, Faith <id.php?id=67145> 	University of California, Berkeley 	1982
+Fife, James <id.php?id=24096> 	Yale University 	1982
+Fink, John <id.php?id=8507> 	Western Michigan University 	1982
+Finkel, Alan <id.php?id=33155> 	New York University 	1982
+Finn, Jim <id.php?id=17025> 	Princeton University 	1982
+Flammang, Richard <id.php?id=141014> 	California Institute of
+Technology 	1982
+Fleming, Graham <id.php?id=116469> 	California Institute of Technology 	1982
+Flournoy, Nancy <id.php?id=46734> 	University of Washington 	1982
+Fogelson, Aaron <id.php?id=24915> 	New York University 	1982
+Foster, John <id.php?id=83395> 	Stanford University 	1982
+Francfort, Gilles <id.php?id=10778> 	Stanford University 	1982
+Franklin, Melissa <id.php?id=176254> 	Stanford University 	1982
+Frankowski, Elaine <id.php?id=99773> 	University of
+Minnesota-Minneapolis 	1982
+Fraughnaugh, Kathryn <id.php?id=29997> 	University of Houston 	1982
+French, James <id.php?id=78946> 	University of Virginia 	1982
+French, Roger <id.php?id=12536> 	University of Oregon 	1982
+Friedberg, Solomon <id.php?id=11337> 	The University of Chicago 	1982
+Friedman, Mark <id.php?id=148811> 	Cornell University 	1982
+Fries, Arthur <id.php?id=87612> 	University of Wisconsin-Madison 	1982
+Friske, Joyce <id.php?id=45597> 	University of Texas at Austin 	1982
+Frost, Victor <id.php?id=24086> 	University of Kansas 	1982
+Gafni, Eliezer <id.php?id=70500> 	Massachusetts Institute of
+Technology 	1982
+Galfond, Glenn <id.php?id=83222> 	Stanford University 	1982
+Gallant, John <id.php?id=82092> 	Princeton University 	1982
+Gallo, Paul <id.php?id=47273> 	The University of North Carolina at
+Chapel Hill 	1982
+Galperin, Hana <id.php?id=82093> 	Princeton University 	1982
+Garfinkle, Devra <id.php?id=57563> 	Massachusetts Institute of
+Technology 	1982
+Garner, Richard <id.php?id=87153> 	University of Washington 	1982
+Garofalo, Joseph <id.php?id=90408> 	Indiana University 	1982
+Gerlach, James <id.php?id=140842> 	Purdue University 	1982
+Gerlach, Jurgen <id.php?id=145574> 	Oregon State University 	1982
+Gerr, Neil <id.php?id=47523> 	The University of North Carolina at Chapel
+Hill 	1982
+Gersonowicz, Jorge <id.php?id=5990> 	Rutgers University, New Brunswick 	1982
+Gethner, Robert <id.php?id=9751> 	University of Wisconsin-Madison 	1982
+Ghiaseddin, Nasir <id.php?id=140860> 	Purdue University 	1982
+Ghosh, Nilotpal <id.php?id=88254> 	Cornell University 	1982
+Gigley, Helen <id.php?id=35914> 	University of Massachusetts Amherst 	1982
+Gilbert, Erik <id.php?id=87255> 	Stanford University 	1982
+Gillespie, John <id.php?id=106007> 	Temple University 	1982
+Gindi, Gene <id.php?id=125852> 	University of Arizona 	1982
+Glaser, Mary <id.php?id=38726> 	Dartmouth College 	1982
+Glynn, Peter <id.php?id=39913> 	Stanford University 	1982
+Gmitro, Arthur <id.php?id=107397> 	University of Arizona 	1982
+Goggins, Robert <id.php?id=15834> 	University of Virginia 	1982
+Goldberg, Miriam <id.php?id=106191> 	Princeton University 	1982
+Goldberg, Robert <id.php?id=70344> 	Rutgers University, New Brunswick 	1982
+Golding, Joshua <id.php?id=116702> 	University of Pittsburgh 	1982
+Goldstein, Billie <id.php?id=100903> 	State University of New York at
+Stony Brook 	1982
+Gong, Gail <id.php?id=83221> 	Stanford University 	1982
+Goodwillie, Thomas <id.php?id=11357> 	Princeton University 	1982
+Gorkin, Pamela <id.php?id=15462> 	Michigan State University 	1982
+Gowda, Muddappa <id.php?id=9752> 	University of Wisconsin-Madison 	1982
+Grace, Thomas <id.php?id=64595> 	University of Illinois at Chicago 	1982
+Graham, Ross <id.php?id=13732> 	Princeton University 	1982
+Grantham, Stephen <id.php?id=85016> 	University of Colorado at Boulder 	1982
+Greenberg, Peter <id.php?id=57567> 	Massachusetts Institute of
+Technology 	1982
+Greenwell, Catherine <id.php?id=6931> 	University of Kentucky 	1982
+Griffin, Phillip <id.php?id=2158> 	University of Minnesota-Minneapolis 	1982
+Gropp, William <id.php?id=50895> 	Stanford University 	1982
+Gross, Daniel <id.php?id=36327> 	University of Notre Dame 	1982
+Grosvenor, John <id.php?id=16306> 	University of Virginia 	1982
+Grubaugh, S. G. <id.php?id=151915> 	The University of Chicago 	1982
+Gruendler, Joseph <id.php?id=24958> 	The University of North Carolina at
+Chapel Hill 	1982
+Guerrieri, Bruno <id.php?id=2164> 	The Florida State University 	1982
+Guichard, David <id.php?id=9753> 	University of Wisconsin-Madison 	1982
+Guillen, Michael <id.php?id=89544> 	Cornell University 	1982
+Gunther, Nickolas <id.php?id=129968> 	Harvard University 	1982
+Gupta, Satish <id.php?id=50145> 	Carnegie Mellon University 	1982
+Gürsel, Yekta <id.php?id=141015> 	California Institute of Technology 	1982
+Gustafson, John <id.php?id=162> 	Iowa State University 	1982
+Gutierrez, Jose <id.php?id=45602> 	University of Texas at Austin 	1982
+Haass, Jon <id.php?id=57569> 	Massachusetts Institute of Technology 	1982
+Haghighi, Mahmood <id.php?id=35553> 	City University of New York 	1982
+Halabi, Yahia <id.php?id=44628> 	Clarkson University 	1982
+Hale, Michael <id.php?id=19125> 	Iowa State University 	1982
+Hall, Glen <id.php?id=2181> 	University of Minnesota-Minneapolis 	1982
+Hall, Randolph <id.php?id=126507> 	University of California, Berkeley 	1982
+Hambrusch, Susanne <id.php?id=81696> 	The Pennsylvania State
+University 	1982
+Handler, Barbara <id.php?id=87362> 	University of Tennessee -
+Knoxville 	1982
+Hansman, Jr., Robert <id.php?id=78230> 	Massachusetts Institute of
+Technology 	1982
+Hanson, Bruce <id.php?id=9754> 	University of Wisconsin-Madison 	1982
+Harbourne, Brian <id.php?id=14998> 	Massachusetts Institute of
+Technology 	1982
+Harrod, William <id.php?id=3871> 	University of Tennessee - Knoxville 	1982
+Harter, Jr., Paul <id.php?id=105646> 	State University of New York at
+Stony Brook 	1982
+Hartzler, Stanley <id.php?id=22682> 	University of Texas at Austin 	1982
+Haskell, Peter <id.php?id=4453> 	Brown University 	1982
+Haussler, David <id.php?id=101103> 	University of Colorado at Boulder 	1982
+Hawkins, Jr., William <id.php?id=7078> 	University of Michigan 	1982
+Haynes, Chris <id.php?id=30338> 	University of Iowa 	1982
+Hayslip, Iris <id.php?id=1163> 	State University of New York at Stony
+Brook 	1982
+Heckman, Nancy <id.php?id=7079> 	University of Michigan 	1982
+Hedlund, Kye <id.php?id=87288> 	Purdue University 	1982
+Heeg, Richard <id.php?id=9880> 	University of Cincinnati 	1982
+Heifetz, Daniel <id.php?id=37508> 	Columbia University 	1982
+Heiligman, Mark <id.php?id=36694> 	Princeton University 	1982
+Heim, Irene <id.php?id=154431> 	University of Massachusetts Amherst 	1982
+Heimbigner, Dennis <id.php?id=85132> 	University of Southern
+California 	1982
+Heisler, Julia <id.php?id=165712> 	Princeton University 	1982
+Hernandez-Llamas, Hector <id.php?id=49798> 	The Johns Hopkins
+University 	1982
+Hesaaraki, Mahmoud <id.php?id=7080> 	University of Michigan 	1982
+Higgins, William <id.php?id=36337> 	University of Notre Dame 	1982
+Hilgert, Joachim <id.php?id=30575> 	Tulane University 	1982
+Hoffman, Woodward <id.php?id=38742> 	Dartmouth College 	1982
+Hofmann, Marc <id.php?id=6701> 	University of New Hampshire 	1982
+Holliday, Robert <id.php?id=3032> 	Southern Illinois University at
+Carbondale 	1982
+Hong, TsaiHong <id.php?id=78873> 	University of Maryland College Park 	1982
+Hoppe, Jens <id.php?id=152973> 	Massachusetts Institute of Technology 	1982
+Horowitz, Tony <id.php?id=4454> 	Brown University 	1982
+Hoste, Jim <id.php?id=20062> 	University of Utah 	1982
+Howard, Ralph <id.php?id=10466> 	California Institute of Technology 	1982
+Hrusa, William <id.php?id=14550> 	Brown University 	1982
+Hsiao, Ching-Chih <id.php?id=87289> 	Purdue University 	1982
+Hsieh, Ying-Hen <id.php?id=169481> 	Carnegie Mellon University 	1982
+Hsiung, Jaw Huan <id.php?id=34292> 	University of California, Berkeley 	1982
+Hsu, Yea-Tsai <id.php?id=52689> 	North Carolina State University 	1982
+Hu, Yu Hen <id.php?id=112138> 	University of Southern California 	1982
+Huang, Wei-Min <id.php?id=53345> 	The University of Rochester 	1982
+Huang, Yih-Fang <id.php?id=129700> 	Princeton University 	1982
+Hudak, Paul <id.php?id=69444> 	University of Utah 	1982
+Huffer, Fred <id.php?id=70710> 	Stanford University 	1982
+Huffman, Mark <id.php?id=17214> 	University of California, Santa
+Barbara 	1982
+Hughes, John <id.php?id=31993> 	University of California, Berkeley 	1982
+Hull, David <id.php?id=64695> 	University of Illinois at Chicago 	1982
+Hunter, John <id.php?id=43205> 	University of California, San Diego 	1982
+Hurley, Paul <id.php?id=116836> 	University of California, Los Angeles 	1982
+Huston, Michael <id.php?id=116020> 	University of Michigan 	1982
+Hwang, Huey-Luen <id.php?id=64645> 	University of Illinois at Chicago 	1982
+Ierley, Glenn <id.php?id=63745> 	Massachusetts Institute of Technology 	1982
+Ikenaga, Bruce <id.php?id=79188> 	Cornell University 	1982
+Imam, Ibrahim <id.php?id=20317> 	Auburn University 	1982
+Impagliazzo, John <id.php?id=11693> 	Adelphi University 	1982
+Indik, Robert <id.php?id=47060> 	Princeton University 	1982
+In-Suk, Wee <id.php?id=2250> 	University of Minnesota-Minneapolis 	1982
+Ioannou, Petros <id.php?id=102021> 	University of Illinois at
+Urbana-Champaign 	1982
+Iroz, Juana <id.php?id=3438> 	University of California, Riverside 	1982
+Itokawa, Yoe <id.php?id=1165> 	State University of New York at Stony
+Brook 	1982
+Iyengar, Satish <id.php?id=48238> 	Stanford University 	1982
+Jalili, Fahimeh <id.php?id=103992> 	University of Pennsylvania 	1982
+Janke, Steven <id.php?id=32235> 	University of California, Berkeley 	1982
+Jarupskin, Benjamin <id.php?id=34430> 	University of California,
+Berkeley 	1982
+Javier, Walfredo <id.php?id=61177> 	Bowling Green State University 	1982
+Jayasuriya, Suhada <id.php?id=117990> 	Wayne State University 	1982
+Jea, Kang <id.php?id=45561> 	University of Texas at Austin 	1982
+Jennings, Dennis <id.php?id=89356> 	University of
+Minnesota-Minneapolis 	1982
+Jennings, Linda <id.php?id=1003> 	University of Texas at Dallas 	1982
+Jennison, Christopher <id.php?id=95268> 	Cornell University 	1982
+Jiang, Tsung-Shann <id.php?id=65649> 	Northwestern University 	1982
+Joffe, Peter <id.php?id=35623> 	City University of New York 	1982
+Jog, Chanda <id.php?id=162924> 	State University of New York at Stony
+Brook 	1982
+Johnson, Gene <id.php?id=2274> 	University of Minnesota-Minneapolis 	1982
+Johnson, Howard <id.php?id=132519> 	Rice University 	1982
+Johnson, Rubin <id.php?id=106238> 	University of California, Berkeley 	1982
+Johnson, Sandra <id.php?id=10719> 	The Ohio State University 	1982
+Johnson, Steven <id.php?id=2278> 	University of Minnesota-Minneapolis 	1982
+Johnson, Thomas <id.php?id=72751> 	North Carolina State University 	1982
+Johnston, Georgeann <id.php?id=45560> 	University of Texas at Austin 	1982
+Jolayemi, Emmanuel <id.php?id=35374> 	University of Michigan 	1982
+Jou, Jong-Jhy <id.php?id=2286> 	The Florida State University 	1982
+Jung, Robert <id.php?id=38941> 	Wesleyan University 	1982
+Kachitvichyanukul, Voratas <id.php?id=79102> 	Purdue University 	1982
+Kadas, Zsuzsanna <id.php?id=5994> 	Rutgers University, New Brunswick 	1982
+Kaiser, Ray <id.php?id=3247> 	The Louisiana State University 	1982
+Kalish, Shlomo <id.php?id=57574> 	Massachusetts Institute of
+Technology 	1982
+Kaltofen, Erich <id.php?id=51370> 	Rensselaer Polytechnic Institute 	1982
+Kaneda, Masaharu <id.php?id=12482> 	University of Oregon 	1982
+Kanellakis, Paris <id.php?id=62351> 	Massachusetts Institute of
+Technology 	1982
+Kang, Chunghyuk <id.php?id=1162> 	State University of New York at Stony
+Brook 	1982
+Karagozian, Ann <id.php?id=116470> 	California Institute of Technology 	1982
+Karp, Larry <id.php?id=78632> 	University of California, Davis 	1982
+Kasturi, Rangachar <id.php?id=41411> 	Texas Tech University 	1982
+Katz, Daniel <id.php?id=35933> 	University of Texas at Austin 	1982
+Katz, Talbot <id.php?id=81481> 	The Rockefeller University 	1982
+Kavanagh, John <id.php?id=80999> 	State University of New York at
+Binghamton 	1982
+Kazemi-Dehkordi, Mohammad-Ali <id.php?id=7081> 	University of Michigan 	1982
+Kazez, William <id.php?id=30982> 	Cornell University 	1982
+Kenoyer, David <id.php?id=1738> 	University of Florida 	1982
+Khoshgoftaar, Taghi <id.php?id=91790> 	Virginia Polytechnic Institute
+and State University 	1982
+Kim, Hong <id.php?id=9755> 	University of Wisconsin-Madison 	1982
+Kim, Jee <id.php?id=89425> 	The Florida State University 	1982
+Kim, Jee Soo <id.php?id=1408> 	The Florida State University 	1982
+Kim, Yongmin <id.php?id=71765> 	University of Wisconsin-Madison 	1982
+King, Roger <id.php?id=85133> 	University of Southern California 	1982
+Kirkman, Thomas <id.php?id=130070> 	University of Wisconsin-Madison 	1982
+Kirkwood, James <id.php?id=16333> 	University of Virginia 	1982
+Kirschenbaum, Marc <id.php?id=10717> 	The Ohio State University 	1982
+Kitchen, Leslie <id.php?id=78874> 	University of Maryland College Park 	1982
+Kittaneh, Fuad <id.php?id=2316> 	Indiana University 	1982
+Klein, Peter <id.php?id=37511> 	Columbia University 	1982
+Klotz, Richard <id.php?id=44554> 	Stanford University 	1982
+Koh, Showlong <id.php?id=156189> 	Columbia University 	1982
+Kolstad, Robert <id.php?id=107911> 	University of Illinois at
+Urbana-Champaign 	1982
+Kopriva, David <id.php?id=78735> 	University of Arizona 	1982
+Kornfeld, William <id.php?id=112521> 	Massachusetts Institute of
+Technology 	1982
+Kosciuk, Steven <id.php?id=9756> 	University of Wisconsin-Madison 	1982
+Koslov, Judith <id.php?id=124630> 	University of Colorado at Boulder 	1982
+Kossowski, Marek <id.php?id=24953> 	The University of North Carolina at
+Chapel Hill 	1982
+Kouba, Duane <id.php?id=41444> 	Colorado State University 	1982
+Krikeles, Basil <id.php?id=9206> 	Yale University 	1982
+Krishangkura, Yati <id.php?id=7082> 	University of Michigan 	1982
+Krogh, Bruce <id.php?id=102016> 	University of Illinois at
+Urbana-Champaign 	1982
+Kuk, Anthony <id.php?id=83220> 	Stanford University 	1982
+Kumar, Vipin <id.php?id=23912> 	University of Maryland College Park 	1982
+Kumaresan, Ramdas <id.php?id=79568> 	University of Rhode Island 	1982
+Kurkjian, Andrew <id.php?id=91048> 	Massachusetts Institute of
+Technology 	1982
+Kushner, Todd <id.php?id=78871> 	University of Maryland College Park 	1982
+Kutter, Mary <id.php?id=2340> 	The Florida State University 	1982
+Kwak, Jin <id.php?id=2341> 	Indiana University 	1982
+Lai, Ten-Hwang <id.php?id=120145> 	University of Minnesota-Minneapolis 	1982
+Lakdawala, Sunil <id.php?id=143257> 	Yale University 	1982
+Lambert, John <id.php?id=24324> 	Claremont Graduate University 	1982
+Langlois, Jean-Pierre <id.php?id=32594> 	University of California,
+Berkeley 	1982
+Langsam, Joseph <id.php?id=7083> 	University of Michigan 	1982
+Laquer, H. Turner <id.php?id=95095> 	Harvard University 	1982
+Lara y Zavala, Rolando <id.php?id=36488> 	University of Massachusetts
+Amherst 	1982
+Larkin, Thomas <id.php?id=9531> 	New Mexico State University 	1982
+Law, Kincho <id.php?id=25068> 	Carnegie Mellon University 	1982
+Law, Kouok-Kouong <id.php?id=28194> 	University of Washington 	1982
+Lazerson, Earl <id.php?id=12007> 	University of Michigan 	1982
+LeBlanc, Thomas <id.php?id=82433> 	University of Wisconsin-Madison 	1982
+Lee, John <id.php?id=28313> 	Massachusetts Institute of Technology 	1982
+Lee, Tsao Yuan <id.php?id=171471> 	Harvard University 	1982
+Leland, Will <id.php?id=82425> 	University of Wisconsin-Madison 	1982
+Lenard, Anthony <id.php?id=103691> 	Illinois Institute of Technology 	1982
+Lenski, Richard <id.php?id=122048> 	The University of North Carolina at
+Chapel Hill 	1982
+LeVeque, Randall <id.php?id=44513> 	Stanford University 	1982
+Leverenz, Christine <id.php?id=6932> 	University of Kentucky 	1982
+Levermore, Charles <id.php?id=5635> 	New York University 	1982
+Levy, Martin <id.php?id=38649> 	Kansas State University 	1982
+Lewinter, Martin <id.php?id=35547> 	City University of New York 	1982
+Lewis, Steve <id.php?id=132319> 	University of Maryland College Park 	1982
+Liang, Kung-Yee <id.php?id=47066> 	University of Washington 	1982
+Lieth, Heinrich <id.php?id=52540> 	North Carolina State University 	1982
+Lin, Ching-Her <id.php?id=2399> 	University of Minnesota-Minneapolis 	1982
+Lin, En-Bing <id.php?id=48082> 	The Johns Hopkins University 	1982
+Lin, James <id.php?id=142642> 	Case Western Reserve University 	1982
+Lin, Tzu-Chu <id.php?id=2404> 	University of Iowa 	1982
+Lin, Yih-Yih <id.php?id=82426> 	University of Wisconsin-Madison 	1982
+Lindner, Douglas <id.php?id=125976> 	University of Illinois at
+Urbana-Champaign 	1982
+Liso, Yu-Chung <id.php?id=4455> 	Brown University 	1982
+Lissauer, Jack <id.php?id=32544> 	University of California, Berkeley 	1982
+Liu, Chung-Tsong <id.php?id=43716> 	Rice University 	1982
+Livingston, Ellen <id.php?id=2418> 	Washington University in St. Louis 	1982
+Loeffler, Charles <id.php?id=132518> 	Rice University 	1982
+Loh, Wei-Yin <id.php?id=34576> 	University of California, Berkeley 	1982
+Lohrasbpour, Esfandiar <id.php?id=86310> 	University of California, Los
+Angeles 	1982
+Loomis, Irene <id.php?id=117947> 	The University of Memphis 	1982
+Lopez-Alvarez, Ma. Teresa <id.php?id=52564> 	North Carolina State
+University 	1982
+Lui, Kung-Jong <id.php?id=10765> 	University of California, Los
+Angeles 	1982
+Lykken, Joseph <id.php?id=99418> 	Massachusetts Institute of
+Technology 	1982
+MacKay, Robert <id.php?id=75694> 	Princeton University 	1982
+Magalhães, Luis <id.php?id=14551> 	Brown University 	1982
+Magel, Rhonda <id.php?id=21996> 	Missouri University of Science and
+Technology 	1982
+Mahmassani, Hani <id.php?id=104846> 	Massachusetts Institute of
+Technology 	1982
+Mahmoud, Mohammad <id.php?id=28444> 	University of Alabama-Tuscaloosa 	1982
+Main, Michael <id.php?id=134445> 	Washington State University 	1982
+Mamer, John <id.php?id=48552> 	University of California, Berkeley 	1982
+Manasse, Mark <id.php?id=9757> 	University of Wisconsin-Madison 	1982
+Manber, Rachel <id.php?id=28152> 	University of Washington 	1982
+Manber, Udi <id.php?id=75307> 	University of Washington 	1982
+Manheim, Daniel <id.php?id=126047> 	University of California, Berkeley 	1982
+Manicke, Robert <id.php?id=181054> 	University of Maryland College
+Park 	1982
+Mansouri, Seyed <id.php?id=41456> 	Massachusetts Institute of
+Technology 	1982
+Manzoli Neto, Oziride <id.php?id=36810> 	Brandeis University 	1982
+Marcal, Michael <id.php?id=33640> 	New York University 	1982
+Marcucci, Mark <id.php?id=91791> 	Virginia Polytechnic Institute and
+State University 	1982
+Marino, Riccardo <id.php?id=19115> 	Washington University in St. Louis 	1982
+Marivani, Syrous <id.php?id=45559> 	University of Texas at Austin 	1982
+Marks, Scott <id.php?id=43729> 	Rice University 	1982
+Marron, James <id.php?id=47436> 	University of California, Los Angeles 	1982
+Martino, Robert <id.php?id=63708> 	University of Maryland College Park 	1982
+Mason, Matthew <id.php?id=50075> 	Massachusetts Institute of
+Technology 	1982
+Matovsky, John-Anton <id.php?id=45558> 	University of Texas at Austin 	1982
+Maurer, Peter <id.php?id=74031> 	Iowa State University 	1982
+Mayer, John <id.php?id=1737> 	University of Florida 	1982
+McCalla, Linda <id.php?id=113426> 	University of Texas at Dallas 	1982
+McCanless Grimes, Imogene <id.php?id=131549> 	The University of North
+Carolina at Chapel Hill 	1982
+McCartin, Brian <id.php?id=33073> 	New York University 	1982
+McDaniel, Jr., James <id.php?id=121067> 	Stanford University 	1982
+McDonald, John <id.php?id=18727> 	Stanford University 	1982
+McDonald, John <id.php?id=83219> 	Stanford University 	1982
+McGlynn, Thomas <id.php?id=165711> 	Princeton University 	1982
+McGuinness, Francis <id.php?id=4456> 	Brown University 	1982
+McKendry, Martin <id.php?id=106989> 	University of Illinois at
+Urbana-Champaign 	1982
+McKeown, Kathleen <id.php?id=106579> 	University of Pennsylvania 	1982
+McLennan, Andrew <id.php?id=105620> 	Princeton University 	1982
+McMahon, Elizabeth <id.php?id=24954> 	The University of North Carolina
+at Chapel Hill 	1982
+McMillen, Robert <id.php?id=100836> 	Purdue University 	1982
+McMullin, Paul <id.php?id=103309> 	University of Maryland College Park 	1982
+McNichols, Diane <id.php?id=35963> 	University of South Carolina 	1982
+McNulty, Nieves <id.php?id=136269> 	University of South Carolina 	1982
+Medina-Mora, Raul <id.php?id=50232> 	Carnegie Mellon University 	1982
+Metcalf, Scott <id.php?id=6930> 	University of Kentucky 	1982
+Michaelis, Kai <id.php?id=99113> 	Cornell University 	1982
+Migliore, Edward <id.php?id=1526> 	University of California, Santa
+Cruz 	1982
+Miller, Keith <id.php?id=49317> 	Princeton University 	1982
+Miller, Len <id.php?id=116529> 	Virginia Polytechnic Institute and State
+University 	1982
+Mills, Ann <id.php?id=121475> 	University of California, Riverside 	1982
+Minden, Gary <id.php?id=105346> 	University of Kansas 	1982
+Misra, Gadadhar <id.php?id=1166> 	State University of New York at Stony
+Brook 	1982
+Misra, Kailash <id.php?id=5993> 	Rutgers University, New Brunswick 	1982
+Missel, Colin <id.php?id=90553> 	University of California, Davis 	1982
+Mitchell, John <id.php?id=1160> 	State University of New York at Stony
+Brook 	1982
+Mohrherr, Jean-Leah <id.php?id=64723> 	University of Illinois at
+Chicago 	1982
+Mokole, Eric <id.php?id=22238> 	Georgia Institute of Technology 	1982
+Molelekoa, Moshe <id.php?id=27974> 	University of Washington 	1982
+Monroe, Ted <id.php?id=93492> 	University of South Carolina 	1982
+Montes de Oca, Ana <id.php?id=61820> 	University of Miami 	1982
+Montes de Oca, Francisco <id.php?id=122363> 	University of Miami 	1982
+Montreuil, Benoit <id.php?id=67608> 	Georgia Institute of Technology 	1982
+Morgan, Richard <id.php?id=46531> 	University of Maryland College Park 	1982
+Morris, Walter <id.php?id=9758> 	University of Wisconsin-Madison 	1982
+Morshedi, Christine <id.php?id=33742> 	New York University 	1982
+Motte, David <id.php?id=3436> 	University of California, Riverside 	1982
+Moy, Allen <id.php?id=7917> 	The University of Chicago 	1982
+Mueller, James <id.php?id=11843> 	California Institute of Technology 	1982
+Mukerji, Jishnu <id.php?id=136333> 	State University of New York at
+Stony Brook 	1982
+Mulay, Shashikant <id.php?id=16798> 	Purdue University 	1982
+Mulgaonkar, Prasanna <id.php?id=105358> 	Virginia Polytechnic Institute
+and State University 	1982
+Mulvey, Irene <id.php?id=38894> 	Wesleyan University 	1982
+Mungal, Mark <id.php?id=116737> 	California Institute of Technology 	1982
+Murthy, Narayan <id.php?id=3628> 	University of Rhode Island 	1982
+Murty, Vijaya <id.php?id=15882> 	Harvard University 	1982
+Musicus, Bruce <id.php?id=174581> 	Massachusetts Institute of
+Technology 	1982
+Myers, Gary <id.php?id=30255> 	Bowling Green State University 	1982
+Nahamoo, David <id.php?id=103629> 	Purdue University 	1982
+Naiman, Daniel <id.php?id=4017> 	University of Illinois at
+Urbana-Champaign 	1982
+Namboodiri, Unni <id.php?id=9365> 	The University of Chicago 	1982
+Nanda, Tara <id.php?id=33649> 	New York University 	1982
+Naroditsky, Vladimir <id.php?id=85175> 	University of Denver 	1982
+Nash, Peter <id.php?id=31781> 	University of California, Berkeley 	1982
+Nash, Stephen <id.php?id=89371> 	Stanford University 	1982
+Nawab, S. Hamid <id.php?id=91049> 	Massachusetts Institute of
+Technology 	1982
+Ndakbo, Victor <id.php?id=28106> 	University of Washington 	1982
+Neill, James <id.php?id=47033> 	Kansas State University 	1982
+Nelson, Randolph <id.php?id=8688> 	University of California, Los
+Angeles 	1982
+Nelson, Jr., Abraham <id.php?id=45557> 	University of Texas at Austin 	1982
+Nepomechie, Rafael <id.php?id=189105> 	The University of Chicago 	1982
+Nerurkar, Mahesh <id.php?id=2530> 	University of Minnesota-Minneapolis 	1982
+Newman, Kathie <id.php?id=105114> 	University of Washington 	1982
+Ng, Ho <id.php?id=32537> 	University of California, Berkeley 	1982
+Ng, Sze-Kui <id.php?id=49383> 	University of Maryland Baltimore County 	1982
+Nguyen, Truc <id.php?id=7012> 	University of Pittsburgh 	1982
+Nguyen, Tung <id.php?id=12171> 	University of Houston 	1982
+Niedzwecki, Gregory <id.php?id=38936> 	Wesleyan University 	1982
+Niknian, Minoo <id.php?id=83075> 	Iowa State University 	1982
+Nisnevich, Yevsey <id.php?id=18827> 	Harvard University 	1982
+Nolan, John <id.php?id=16326> 	University of Virginia 	1982
+Noorbaloochi, Siamak <id.php?id=79405> 	Iowa State University 	1982
+Norton, Olin <id.php?id=116471> 	California Institute of Technology 	1982
+Nosenchuck, Daniel <id.php?id=119488> 	California Institute of
+Technology 	1982
+O'Cinneide, Colm <id.php?id=67392> 	University of Kentucky 	1982
+O'Donnell, Mark <id.php?id=97209> 	University of California, Davis 	1982
+O'Farrell, John <id.php?id=30977> 	Auburn University 	1982
+Oh, Jae <id.php?id=10820> 	University of North Texas 	1982
+Ojha, Murari Prasad <id.php?id=145575> 	Oregon State University 	1982
+Oklobdzija, Vojin <id.php?id=136605> 	University of California, Los
+Angeles 	1982
+Oles, Frank J. <id.php?id=186557> 	Syracuse University 	1982
+Oommen, B. John <id.php?id=72725> 	Purdue University 	1982
+Oprea, John <id.php?id=10716> 	The Ohio State University 	1982
+Ortmeyer, William <id.php?id=2550> 	University of Iowa 	1982
+O'Sullivan, Timothy <id.php?id=133977> 	California Institute of
+Technology 	1982
+Ozguler, Bulent <id.php?id=129763> 	University of Florida 	1982
+Ozluk, Ali <id.php?id=7084> 	University of Michigan 	1982
+Pacala, Stephen <id.php?id=99804> 	Stanford University 	1982
+Packard, Norman <id.php?id=144461> 	University of California, Santa
+Cruz 	1982
+Packer, Judith <id.php?id=23369> 	Harvard University 	1982
+Page, Michael <id.php?id=142982> 	State University of New York at
+Buffalo 	1982
+Palacios, Jose <id.php?id=31385> 	University of California, Berkeley 	1982
+Pantoja-Marcari, Jose <id.php?id=2445> 	University of Iowa 	1982
+Pantula, Sastry <id.php?id=48037> 	Iowa State University 	1982
+Pappas, Peter <id.php?id=30484> 	The Pennsylvania State University 	1982
+Pardis, ex Agahi, Jason, ex Massoud <id.php?id=32363> 	University of
+California, Berkeley 	1982
+Park, Dong Ho <id.php?id=22852> 	The Florida State University 	1982
+Parks, Alan <id.php?id=9759> 	University of Wisconsin-Madison 	1982
+Parshall, Karen <id.php?id=16348> 	The University of Chicago 	1982
+Pasha, Einollah <id.php?id=84182> 	Michigan State University 	1982
+Patera, Anthony <id.php?id=57585> 	Massachusetts Institute of
+Technology 	1982
+Patil, Ramesh <id.php?id=83081> 	Massachusetts Institute of Technology 	1982
+Patterson, Samuel <id.php?id=24955> 	The University of North Carolina at
+Chapel Hill 	1982
+Pego, Robert <id.php?id=32159> 	University of California, Berkeley 	1982
+Peixoto, Julio <id.php?id=138327> 	Iowa State University 	1982
+Pennell, Stephen <id.php?id=14552> 	Brown University 	1982
+Pentland, Alex <id.php?id=78226> 	Massachusetts Institute of
+Technology 	1982
+Peponides, George <id.php?id=102451> 	University of Illinois at
+Urbana-Champaign 	1982
+Perelson, Alan <id.php?id=49082> 	University of California, Berkeley 	1982
+Perlin, Mark <id.php?id=35610> 	City University of New York 	1982
+Perunko, Marie <id.php?id=90906> 	University of Maryland College Park 	1982
+Peters, Thomas <id.php?id=24602> 	Wesleyan University 	1982
+Pfiefer, Richard <id.php?id=15023> 	University of California, Davis 	1982
+Phillips, Robert <id.php?id=45556> 	University of Texas at Austin 	1982
+Piantadosi, Steven <id.php?id=49830> 	University of Alabama-Birmingham 	1982
+Pickens, Gary <id.php?id=94446> 	University of Pennsylvania 	1982
+Pierce, John <id.php?id=1525> 	University of California, Santa Cruz 	1982
+Pilant, Michael <id.php?id=23443> 	New York University 	1982
+Pinsky, Ross <id.php?id=33784> 	New York University 	1982
+Pinter, Ron <id.php?id=98728> 	Massachusetts Institute of Technology 	1982
+Planchart, Enrique <id.php?id=32761> 	University of California,
+Berkeley 	1982
+Plantholt, Michael <id.php?id=7085> 	University of Michigan 	1982
+Pleszkun, Andrew <id.php?id=82439> 	University of Illinois at
+Urbana-Champaign 	1982
+Ponce, Gustavo <id.php?id=16933> 	New York University 	1982
+Popyack, Jeffrey <id.php?id=41503> 	University of Virginia 	1982
+Porat, Boaz <id.php?id=16947> 	Stanford University 	1982
+Porcar, Juan <id.php?id=148704> 	University of California, Berkeley 	1982
+Potempa, Thom <id.php?id=43735> 	Rice University 	1982
+Poulsen, Neil <id.php?id=163853> 	Oregon State University 	1982
+Powell, Thomas <id.php?id=3599> 	University of Missouri - Columbia 	1982
+Prakash, Chetan <id.php?id=106879> 	Cornell University 	1982
+Proctor, Paul <id.php?id=45223> 	University of Arizona 	1982
+Prue, Howard <id.php?id=48827> 	University of California, Los Angeles 	1982
+Psomopoulos, Evagelos <id.php?id=17224> 	University of California, Santa
+Barbara 	1982
+Quirk, Maureen <id.php?id=84404> 	Princeton University 	1982
+Raghavan, Raghunath <id.php?id=120143> 	University of
+Minnesota-Minneapolis 	1982
+Raghavendra, Cauligi <id.php?id=92876> 	University of California, Los
+Angeles 	1982
+Ramanujachari, Narasimhan <id.php?id=16796> 	Purdue University 	1982
+Rambally, Gerard <id.php?id=91971> 	University of Oregon 	1982
+Ramey, Daniel <id.php?id=35351> 	Yale University 	1982
+Ran, Ginosar <id.php?id=82094> 	Princeton University 	1982
+Rands, Bruce <id.php?id=11937> 	California Institute of Technology 	1982
+Rangachari, Lakshmi <id.php?id=128449> 	Iowa State University 	1982
+Raphael, Marc <id.php?id=2638> 	Indiana University 	1982
+Ravi-Chandar, Krishaswamy <id.php?id=160557> 	California Institute of
+Technology 	1982
+Reeves, Jaxk <id.php?id=34691> 	University of California, Berkeley 	1982
+Reichman, Jack <id.php?id=84537> 	State University of New York at
+Buffalo 	1982
+Reiss, David <id.php?id=139344> 	California Institute of Technology 	1982
+Reps, Thomas <id.php?id=82248> 	Cornell University 	1982
+Resnicoff, Gita <id.php?id=20018> 	Columbia University 	1982
+Reynaud, G. <id.php?id=156206> 	University of Pittsburgh 	1982
+Richards, Mark <id.php?id=175677> 	Georgia Institute of Technology 	1982
+Richters, Stephen <id.php?id=4457> 	Brown University 	1982
+Riddle, Lawrence <id.php?id=4674> 	University of Illinois at
+Urbana-Champaign 	1982
+Riley, Bruce <id.php?id=396> 	Montana State University 	1982
+Rin, Hadas <id.php?id=45587> 	University of California, Berkeley 	1982
+Risko, Kenneth <id.php?id=47458> 	The University of North Carolina at
+Chapel Hill 	1982
+Ritchken, Peter <id.php?id=41482> 	Case Western Reserve University 	1982
+Robel, Gregory <id.php?id=7086> 	University of Michigan 	1982
+Robertson, Alastair <id.php?id=50027> 	The Johns Hopkins University 	1982
+Robinson, John <id.php?id=50313> 	Carnegie Mellon University 	1982
+Robinson, Jr., Cecil <id.php?id=20318> 	Auburn University 	1982
+Roccaforte, Raymond <id.php?id=1524> 	University of California, Santa
+Cruz 	1982
+Rockey, Steven <id.php?id=14553> 	Brown University 	1982
+Rodriguez, Jose <id.php?id=43171> 	University of California, San Diego 	1982
+Rogers, Jean <id.php?id=91973> 	University of Oregon 	1982
+Rohler, David <id.php?id=126982> 	Case Western Reserve University 	1982
+Rohrs, Charles <id.php?id=112461> 	Massachusetts Institute of
+Technology 	1982
+Romero, Louis <id.php?id=11844> 	California Institute of Technology 	1982
+Rooney, Phyllis <id.php?id=31545> 	University of California, Berkeley 	1982
+Rosakis, Ares <id.php?id=127749> 	Brown University 	1982
+Rosen, Jerry <id.php?id=47359> 	University of Massachusetts Amherst 	1982
+Rosen, Mary <id.php?id=47360> 	University of Massachusetts Amherst 	1982
+Rosengaus, Eliezer <id.php?id=101394> 	Princeton University 	1982
+Ross, Kenneth <id.php?id=87356> 	University of Tennessee - Knoxville 	1982
+Rothan,Sister, Adele <id.php?id=3478> 	University of Montana 	1982
+Ruberman, Daniel <id.php?id=31994> 	University of California, Berkeley 	1982
+Rudolph, Lawrence <id.php?id=105496> 	New York University 	1982
+Runger, George <id.php?id=89355> 	University of Minnesota-Minneapolis 	1982
+Ryan, Dennis <id.php?id=64721> 	University of Illinois at Chicago 	1982
+Ryder, Barbara <id.php?id=70193> 	Rutgers University, New Brunswick 	1982
+Sabbah, Daniel <id.php?id=163268> 	The University of Rochester 	1982
+Said, Said <id.php?id=52575> 	North Carolina State University 	1982
+Saksena, Vikram <id.php?id=125961> 	University of Illinois at
+Urbana-Champaign 	1982
+Saltzman, Jeffrey <id.php?id=33369> 	New York University 	1982
+Salvati Manni, Riccardo <id.php?id=178930> 	The Johns Hopkins
+University 	1982
+Sanders, David <id.php?id=162925> 	State University of New York at Stony
+Brook 	1982
+Sands, Jonathan <id.php?id=36575> 	University of California, San Diego 	1982
+Saremi, Shoeleh <id.php?id=185081> 	University of California, Los
+Angeles 	1982
+Sargent, William <id.php?id=116504> 	California Institute of
+Technology 	1982
+Sarmiento, Jorge <id.php?id=74931> 	University of Miami 	1982
+Sauer, Timothy <id.php?id=31818> 	University of California, Berkeley 	1982
+Scales, William <id.php?id=43134> 	University of California, San Diego 	1982
+Scarborough, Stephen <id.php?id=120925> 	Oregon State University 	1982
+Schachter, Paul <id.php?id=5992> 	Rutgers University, New Brunswick 	1982
+Schafer, Daniel <id.php?id=35300> 	The University of Chicago 	1982
+Schaffer, Steve <id.php?id=53365> 	Colorado State University 	1982
+Schaffert, Justin <id.php?id=86219> 	Massachusetts Institute of
+Technology 	1982
+Scheid, Robert <id.php?id=11845> 	California Institute of Technology 	1982
+Schielack, Jr., Vincent <id.php?id=45554> 	University of Texas at
+Austin 	1982
+Schilling, Randolph <id.php?id=1592> 	University of Arizona 	1982
+Schimpf, Karl <id.php?id=103991> 	University of Pennsylvania 	1982
+Schleiniger, Gilberto <id.php?id=30990> 	University of California, Los
+Angeles 	1982
+Schlichting, Richard <id.php?id=152994> 	Cornell University 	1982
+Schmitt, Lorenz <id.php?id=82428> 	University of Wisconsin-Madison 	1982
+Schmitt, Paul <id.php?id=103694> 	Illinois Institute of Technology 	1982
+Schneider, Michael <id.php?id=10967> 	Saint Louis University 	1982
+Schoen, Chadmark <id.php?id=41509> 	The University of Chicago 	1982
+Schovanec, Lawrence <id.php?id=2714> 	Indiana University 	1982
+Schramm, Michael <id.php?id=8331> 	Syracuse University 	1982
+Schrieber, Leonard <id.php?id=30445> 	Cornell University 	1982
+Schudy, Robert <id.php?id=122286> 	The University of Rochester 	1982
+Schultz, Carl <id.php?id=158676> 	Princeton University 	1982
+Schultz, William <id.php?id=89557> 	Northwestern University 	1982
+Schwan, Karsten <id.php?id=78262> 	University of Pittsburgh 	1982
+Schwanke, Robert <id.php?id=50233> 	Carnegie Mellon University 	1982
+Schwartau, Phillip <id.php?id=22642> 	Brandeis University 	1982
+Schwarz, Steven <id.php?id=31284> 	The University of Chicago 	1982
+Schweitzer, Robin <id.php?id=48967> 	University of California, Santa
+Barbara 	1982
+Scott, Mark <id.php?id=3246> 	The Louisiana State University 	1982
+Scranton, John <id.php?id=17027> 	Princeton University 	1982
+Seaman, Walter <id.php?id=22557> 	University of Massachusetts Amherst 	1982
+Sedlacek, Steven <id.php?id=13051> 	Northwestern University 	1982
+Selfridge, Peter <id.php?id=102246> 	The University of Rochester 	1982
+Sen, Suvrajeet <id.php?id=87572> 	Virginia Polytechnic Institute and
+State University 	1982
+Senger, Steven <id.php?id=16603> 	Purdue University 	1982
+Service, Philip <id.php?id=122047> 	The University of North Carolina at
+Chapel Hill 	1982
+Sethian, James <id.php?id=31564> 	University of California, Berkeley 	1982
+Shachter, Ross <id.php?id=40895> 	University of California, Berkeley 	1982
+Shan, Chin-Chi <id.php?id=10721> 	The Ohio State University 	1982
+Shankar, Udaya <id.php?id=90492> 	University of Texas at Austin 	1982
+Shapiro, Ehud <id.php?id=18999> 	Yale University 	1982
+Shaw, Richard <id.php?id=2733> 	University of Minnesota-Minneapolis 	1982
+Sheard III, Alec <id.php?id=32616> 	University of California, Berkeley 	1982
+Shearn, Elizabeth <id.php?id=90907> 	University of Maryland College
+Park 	1982
+Shebalin, John <id.php?id=154591> 	The College of William and Mary 	1982
+Shehadah, Adel <id.php?id=16662> 	Purdue University 	1982
+Shelton, Brad <id.php?id=12913> 	University of Washington 	1982
+Shelton, John <id.php?id=83604> 	University of Florida 	1982
+Shen, Nien-Tsu <id.php?id=16646> 	Purdue University 	1982
+Shershin, Carmen <id.php?id=122366> 	University of Miami 	1982
+Shih, Ching-Hsien <id.php?id=10720> 	The Ohio State University 	1982
+Shimamoto, Don <id.php?id=24062> 	Brandeis University 	1982
+Shiue, Wei-Kei <id.php?id=21999> 	Missouri University of Science and
+Technology 	1982
+Shiva, Mostafa <id.php?id=161015> 	University of Southern California 	1982
+Shokranian, Salahoddin <id.php?id=32516> 	University of California,
+Berkeley 	1982
+Shortt, Rae Michael <id.php?id=28361> 	Massachusetts Institute of
+Technology 	1982
+Shultis, Jonathan <id.php?id=136334> 	State University of New York at
+Stony Brook 	1982
+Shute, Gary <id.php?id=15465> 	Michigan State University 	1982
+Shyy, Wei <id.php?id=130403> 	University of Michigan 	1982
+Sikorski, Krzysztof <id.php?id=20223> 	University of Utah 	1982
+Silverman, Joseph <id.php?id=4597> 	Harvard University 	1982
+Simmons, John <id.php?id=2747> 	Indiana University 	1982
+Simo, Juan <id.php?id=170482> 	University of California, Berkeley 	1982
+Simon, Horst <id.php?id=32334> 	University of California, Berkeley 	1982
+Sinclair, Dennis <id.php?id=1411> 	The Florida State University 	1982
+Sindhu, Pradeep <id.php?id=50144> 	Carnegie Mellon University 	1982
+Skeen, Marion <id.php?id=80274> 	University of California, Berkeley 	1982
+Smith, Brian <id.php?id=186063> 	Massachusetts Institute of Technology 	1982
+Smith, Bryan <id.php?id=41366> 	University of Idaho 	1982
+Smith, Donald <id.php?id=70343> 	Rutgers University, New Brunswick 	1982
+Smith, Eric <id.php?id=91874> 	University of Washington 	1982
+Smith, Howard <id.php?id=78914> 	University of Texas at Austin 	1982
+Smith, James <id.php?id=9406> 	Washington State University 	1982
+Smith, Marc <id.php?id=101694> 	Northwestern University 	1982
+Smith, Robert <id.php?id=93515> 	University of Delaware 	1982
+Smith, William <id.php?id=2757> 	University of Iowa 	1982
+Smolarski, Dennis <id.php?id=64995> 	University of Illinois at
+Urbana-Champaign 	1982
+Snader, Jon <id.php?id=3974> 	University of Illinois at
+Urbana-Champaign 	1982
+Snively, John <id.php?id=42475> 	Princeton University 	1982
+Snodgrass, Richard <id.php?id=50104> 	Carnegie Mellon University 	1982
+Solomon, Bruce <id.php?id=17381> 	Princeton University 	1982
+Sonnabend, Thomas <id.php?id=90908> 	University of Maryland College
+Park 	1982
+Spalart, Phillipe <id.php?id=121068> 	Stanford University 	1982
+Spector, Philip <id.php?id=46045> 	Texas A&M University 	1982
+Spinrad, Jeremy <id.php?id=41548> 	Princeton University 	1982
+Spirakis, Paul <id.php?id=95980> 	Harvard University 	1982
+Srinivas, Vasudevan <id.php?id=53489> 	The University of Chicago 	1982
+Sriranganathan, Rukmini <id.php?id=9407> 	Washington State University 	1982
+Sritharan, Sivaguru <id.php?id=83435> 	University of Arizona 	1982
+Srivas, Mandayram <id.php?id=82940> 	Massachusetts Institute of
+Technology 	1982
+Stachetti, Ennio <id.php?id=81416> 	University of Wisconsin-Madison 	1982
+Stallmann, Matthias <id.php?id=13867> 	University of Colorado at
+Boulder 	1982
+Stanek, Gary <id.php?id=11160> 	Kent State University 	1982
+Stanton, Charles <id.php?id=9760> 	University of Wisconsin-Madison 	1982
+Stark, Christopher <id.php?id=7087> 	University of Michigan 	1982
+Stark, Wayne <id.php?id=181984> 	University of Illinois at
+Urbana-Champaign 	1982
+Stelzer, Joerg <id.php?id=9530> 	New Mexico State University 	1982
+Stepoway, Stephen <id.php?id=977> 	University of Texas at Dallas 	1982
+Sterman, John <id.php?id=95714> 	Massachusetts Institute of Technology 	1982
+Stevens, Peter <id.php?id=74094> 	Harvard University 	1982
+Stine, Robert <id.php?id=106192> 	Princeton University 	1982
+Stoffer, David <id.php?id=65905> 	University of California, Davis 	1982
+Stout, David <id.php?id=122187> 	The Ohio State University 	1982
+Stroud, Eric <id.php?id=12515> 	University of Oregon 	1982
+Suen, Chung <id.php?id=47389> 	The University of North Carolina at
+Chapel Hill 	1982
+Suissa, Samy <id.php?id=83605> 	University of Florida 	1982
+Sulsky, Deborah <id.php?id=33811> 	New York University 	1982
+Sunderland, Jr., Benjamin <id.php?id=64925> 	The Pennsylvania State
+University 	1982
+Susskind, Perry <id.php?id=1161> 	State University of New York at Stony
+Brook 	1982
+Swain, James <id.php?id=79093> 	Purdue University 	1982
+Swaszek, Peter <id.php?id=129702> 	Princeton University 	1982
+Sweeder, James <id.php?id=7034> 	Air Force Institute of Technology 	1982
+Syrcos, George <id.php?id=102538> 	Rutgers University, New Brunswick 	1982
+Szymczak, William <id.php?id=46530> 	University of Maryland College
+Park 	1982
+Tabak, Barbara <id.php?id=4458> 	Brown University 	1982
+Taha, Thiab <id.php?id=130360> 	Clarkson University 	1982
+Takahashi, Joji <id.php?id=2811> 	University of Minnesota-Minneapolis 	1982
+Takemura, Akimichi <id.php?id=83218> 	Stanford University 	1982
+Talley, Lynne <id.php?id=135751> 	Massachusetts Institute of
+Technology/Woods Hole Oceanographic Institution 	1982
+Tam, Audrey <id.php?id=31762> 	University of California, Berkeley 	1982
+Tanner, Martin <id.php?id=62931> 	The University of Chicago 	1982
+Tantawi, Asser <id.php?id=70316> 	Rutgers University, New Brunswick 	1982
+Tanzini, Joseph <id.php?id=2813> 	Lehigh University 	1982
+Taylor, Derek <id.php?id=32335> 	University of California, Berkeley 	1982
+Tenny, Theodore <id.php?id=44629> 	Clarkson University 	1982
+Terwilliger, Paul <id.php?id=4682> 	University of Illinois at
+Urbana-Champaign 	1982
+Thomas, Mark <id.php?id=4011> 	University of Illinois at
+Urbana-Champaign 	1982
+Thompson, Bruce <id.php?id=49790> 	The Johns Hopkins University 	1982
+Thompson, Charles <id.php?id=101992> 	Massachusetts Institute of
+Technology 	1982
+Thompson, Patrick <id.php?id=117613> 	University of Georgia 	1982
+Thompson, Peter <id.php?id=112462> 	Massachusetts Institute of
+Technology 	1982
+Thompson, Steven <id.php?id=48143> 	Oregon State University 	1982
+Thompson, Tommy <id.php?id=45553> 	University of Texas at Austin 	1982
+Thurmond, Mark <id.php?id=100719> 	University of Florida 	1982
+Tingley, Daryl <id.php?id=15464> 	Michigan State University 	1982
+Toledo Manzur, Juan <id.php?id=1740> 	University of Florida 	1982
+Toliver, Peggy <id.php?id=45548> 	University of Texas at Austin 	1982
+Tomei, Carlos <id.php?id=33650> 	New York University 	1982
+Townsend, Michael <id.php?id=7088> 	University of Michigan 	1982
+Trebitz, Bernd <id.php?id=119270> 	California Institute of Technology 	1982
+Trefethen, Lloyd <id.php?id=25178> 	Stanford University 	1982
+Trenholme, Alice <id.php?id=78450> 	University of Maryland College
+Park 	1982
+Tsai, Wei-Yann <id.php?id=70741> 	University of Wisconsin-Madison 	1982
+Tsay, Ruey <id.php?id=86608> 	University of Wisconsin-Madison 	1982
+Ture, Tahsin <id.php?id=34442> 	University of California, Berkeley 	1982
+Turull Crexells, Alexandre <id.php?id=44646> 	The University of
+Chicago 	1982
+Tyler, Douglas <id.php?id=27082> 	University of California, Los
+Angeles 	1982
+Uribe-Ahumada, Alejandro <id.php?id=15873> 	Massachusetts Institute of
+Technology 	1982
+Vaidyanathan, P. <id.php?id=116122> 	University of California, Santa
+Barbara 	1982
+Van Eerdewegh, Paul <id.php?id=2854> 	Washington University in St.
+Louis 	1982
+van Liere, Mark <id.php?id=31782> 	University of California, Berkeley 	1982
+Vardi, Ilan <id.php?id=57726> 	Massachusetts Institute of Technology 	1982
+Vasas, Martin <id.php?id=37528> 	Columbia University 	1982
+Vastola, Kenneth <id.php?id=106596> 	University of Illinois at
+Urbana-Champaign 	1982
+Venakides, Stephanos <id.php?id=24993> 	New York University 	1982
+Verchota, Gregory <id.php?id=2859> 	University of
+Minnesota-Minneapolis 	1982
+Verducci, Joseph <id.php?id=48085> 	Stanford University 	1982
+Vianu, Victor <id.php?id=84634> 	University of Southern California 	1982
+Vicknair, Paul <id.php?id=3248> 	The Louisiana State University 	1982
+Vidaurrazaga, Julio <id.php?id=1168> 	State University of New York at
+Stony Brook 	1982
+Vivaldi, Lucio <id.php?id=52565> 	North Carolina State University 	1982
+Volz, Rudolf <id.php?id=24296> 	Claremont Graduate University 	1982
+Voorhees, Peter <id.php?id=153739> 	Rensselaer Polytechnic Institute 	1982
+Waddle, Vance <id.php?id=81912> 	Purdue University 	1982
+Wadsworth, Catherine <id.php?id=15833> 	University of Virginia 	1982
+Wagner, Bruce <id.php?id=31397> 	University of California, Berkeley 	1982
+Walker, James <id.php?id=64743> 	University of Illinois at Chicago 	1982
+Walker, Janice <id.php?id=7089> 	University of Michigan 	1982
+Wallace (Andreoli), Dorothy <id.php?id=43207> 	University of California,
+San Diego 	1982
+Wang, Jane-Ling <id.php?id=34533> 	University of California, Berkeley 	1982
+Wang, Pe-Cheng <id.php?id=89354> 	University of Minnesota-Minneapolis 	1982
+Wardi, Yorai <id.php?id=99184> 	University of California, Berkeley 	1982
+Ward, Jr., William <id.php?id=81913> 	Purdue University 	1982
+Warrack, Anthony <id.php?id=88241> 	University of Iowa 	1982
+Wason, Harvinder <id.php?id=102537> 	Rutgers University, New Brunswick 	1982
+Wathen, Judith <id.php?id=168037> 	The University of Rochester 	1982
+Watkins, III, Joseph <id.php?id=9761> 	University of Wisconsin-Madison 	1982
+Watro, Ronald <id.php?id=69147> 	State University of New York at
+Buffalo 	1982
+Wayne, C. Eugene <id.php?id=41963> 	Harvard University 	1982
+Wedig, Robert <id.php?id=138470> 	Stanford University 	1982
+Wee, Insuk <id.php?id=89208> 	University of Minnesota-Minneapolis 	1982
+Weinberger, Shmuel <id.php?id=15218> 	New York University 	1982
+Weinstein, Michael <id.php?id=33191> 	New York University 	1982
+Weissfeld, Lisa <id.php?id=48239> 	University of Pittsburgh 	1982
+Wells, III, Benjamin <id.php?id=32676> 	University of California,
+Berkeley 	1982
+Welsh, David <id.php?id=147154> 	University of Notre Dame 	1982
+Welstead, Stephen <id.php?id=16856> 	Purdue University 	1982
+Wendelberger, James <id.php?id=32976> 	University of Wisconsin-Madison 	1982
+White, Brian <id.php?id=17380> 	Princeton University 	1982
+Whitebread, Kenneth <id.php?id=82429> 	University of Wisconsin-Madison 	1982
+Whitehead, Karen <id.php?id=33060> 	University of
+Minnesota-Minneapolis 	1982
+Whitney, Roger <id.php?id=43147> 	University of California, San Diego 	1982
+Wiest, Mary <id.php?id=9382> 	Washington State University 	1982
+Wiid, Frans <id.php?id=10516> 	California Institute of Technology 	1982
+Wijesinha, Alexander <id.php?id=1741> 	University of Florida 	1982
+Williams, Steven <id.php?id=13031> 	Northwestern University 	1982
+Williams, Thomas <id.php?id=63389> 	The University of North Carolina at
+Chapel Hill 	1982
+Wilson, David <id.php?id=11145> 	Kent State University 	1982
+Wilson, Donna <id.php?id=58336> 	State University of New York at Stony
+Brook 	1982
+Wilson, George <id.php?id=36751> 	Brandeis University 	1982
+Wilson, John <id.php?id=42481> 	Carnegie Mellon University 	1982
+Wilson, Patricia <id.php?id=69104> 	The Ohio State University 	1982
+Wimmers, Edward <id.php?id=9762> 	University of Wisconsin-Madison 	1982
+Wingler, Eric <id.php?id=3997> 	University of Illinois at
+Urbana-Champaign 	1982
+Winter, C. Larrabee (Larry) <id.php?id=1593> 	University of Arizona 	1982
+Wiskott, Bettina <id.php?id=41527> 	Stanford University 	1982
+Witkowski, Joseph C. <id.php?id=185927> 	Illinois State University 	1982
+Wolfskill, John <id.php?id=112208> 	California Institute of Technology 	1982
+Wolfson, Jon <id.php?id=31538> 	University of California, Berkeley 	1982
+Wolper, Pierre <id.php?id=108324> 	Stanford University 	1982
+Wood, Jay <id.php?id=32028> 	University of California, Berkeley 	1982
+Wood, Thomas <id.php?id=16327> 	University of Virginia 	1982
+Woods, Steven <id.php?id=87826> 	Cornell University 	1982
+Wright, David <id.php?id=22508> 	Harvard University 	1982
+Wu, Tiee-Jin <id.php?id=2942> 	Indiana University 	1982
+Wu, Yihren <id.php?id=69375> 	Massachusetts Institute of Technology 	1982
+Yamasaki, Masayuki <id.php?id=24005> 	Virginia Polytechnic Institute and
+State University 	1982
+Yamini, Amir <id.php?id=17225> 	University of California, Santa
+Barbara 	1982
+Yang, Hwa-Sheng <id.php?id=51138> 	University of California, Riverside 	1982
+Yang, Kichoon <id.php?id=2956> 	Washington University in St. Louis 	1982
+Yao, Yi-Ching <id.php?id=121143> 	Massachusetts Institute of
+Technology 	1982
+Yau, Mann-May <id.php?id=104452> 	State University of New York at
+Buffalo 	1982
+Young, Robert <id.php?id=78912> 	University of Texas at Austin 	1982
+Yukich, Joseph <id.php?id=22621> 	Massachusetts Institute of
+Technology 	1982
+Zaare-Nahandi, Rahim <id.php?id=2972> 	University of
+Minnesota-Minneapolis 	1982
+Zabala Salelles, Ignacio <id.php?id=47199> 	Stanford University 	1982
+Zahedi-Jasbi, Hassan <id.php?id=51139> 	University of California,
+Riverside 	1982
+Zahn, Robert <id.php?id=10968> 	Saint Louis University 	1982
+Zamfir, Maria <id.php?id=94766> 	University of California, Los Angeles 	1982
+Zeger, Scott <id.php?id=47067> 	Princeton University 	1982
+Zielke, Donald <id.php?id=45547> 	University of Texas at Austin 	1982
+Zu'bi, Fawaz <id.php?id=130405> 	Duke University 	1982
+
+  * Search <search.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+
+
+The Mathematics Genealogy Project is in need of funds to help pay for
+student help and other associated costs. If you would like to
+contribute, please donate online
+<https://epayment.ndus.nodak.edu/C22800_ustores/web/product_detail.jsp?PRODUCTID=2989&SINGLESTORE=true>
+using credit card or bank transfer or mail your tax-deductible
+contribution to:
+
+Mathematics Genealogy Project
+Department of Mathematics
+North Dakota State University
+P. O. Box 6050
+Fargo, North Dakota 58108-6050
+

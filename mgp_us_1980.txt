@@ -1,0 +1,1136 @@
+Tree <index.php>
+
+
+  Mathematics Genealogy Project
+
+  * Home <index.php>
+  * Search <search.php>
+  * Extrema <extrema.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+  * Mirrors <mirrors.php>
+      o NDSU (main) <http://www.genealogy.math.ndsu.nodak.edu/>
+      o AMS <http://www.genealogy.ams.org/>
+      o Bielefeld <http://www.math.uni-bielefeld.de/genealogy>
+      o IMPA <http://genealogy.impa.br/>
+
+A service of the NDSU <http://www.ndsu.edu/> Department of Mathematics
+<http://www.math.ndsu.nodak.edu/>, in association with the American
+Mathematical Society <http://www.ams.org/>.
+
+Your search has found 926 records in our database.
+Display results in .
+
+Abdel-Moneim, Atef <id.php?id=46535> 	The Florida State University 	1980
+Abdoshshah, Karim <id.php?id=140987> 	University of California, Los
+Angeles 	1980
+Abrahamson, Karl <id.php?id=78097> 	University of Washington 	1980
+Adjaero, Isabelle <id.php?id=88833> 	The University of Connecticut 	1980
+Aeppli, Dorothee <id.php?id=78419> 	University of
+Minnesota-Minneapolis 	1980
+Agar, David <id.php?id=127078> 	University of Houston 	1980
+Agler, Jim <id.php?id=1789> 	Indiana University 	1980
+Akin, Kaan <id.php?id=36763> 	Brandeis University 	1980
+Alexander-Yemini, Shaula <id.php?id=69963> 	University of California,
+Los Angeles 	1980
+Ali, Agha <id.php?id=39053> 	Southern Methodist University 	1980
+Al-Jarrah, Radwan <id.php?id=10730> 	The Ohio State University 	1980
+Almes, Guy <id.php?id=50106> 	Carnegie Mellon University 	1980
+Alvis, Dean <id.php?id=12473> 	University of Oregon 	1980
+Ames, Karen <id.php?id=59467> 	Cornell University 	1980
+Amsler, Robert <id.php?id=78910> 	University of Texas at Austin 	1980
+Anand, Kailash <id.php?id=33364> 	New York University 	1980
+Anderson, Greg <id.php?id=9432> 	Princeton University 	1980
+Anderson, Stephen <id.php?id=4442> 	Brown University 	1980
+Anderson-Inmann, Lynne <id.php?id=117434> 	University of
+Minnesota-Minneapolis 	1980
+Andjel, Enrique <id.php?id=24621> 	University of California, Los
+Angeles 	1980
+Andrews, Kevin <id.php?id=4673> 	University of Illinois at
+Urbana-Champaign 	1980
+Andriamanalimanana, Bruno <id.php?id=1808> 	Lehigh University 	1980
+Angel, Yves <id.php?id=107251> 	University of California, Berkeley 	1980
+Anick, David <id.php?id=37061> 	Massachusetts Institute of Technology 	1980
+Anstee, Richard <id.php?id=11896> 	California Institute of Technology 	1980
+Archdeacon, Dan <id.php?id=9972> 	The Ohio State University 	1980
+Aref, Hassan <id.php?id=157454> 	Cornell University 	1980
+Aryanezhad, Mir-Bahador <id.php?id=86181> 	University of California, Los
+Angeles 	1980
+Ashbaugh, Mark <id.php?id=49316> 	Princeton University 	1980
+Ashkenazi, Arie <id.php?id=141057> 	Stanford University 	1980
+Atkins, David <id.php?id=15772> 	University of Kansas 	1980
+Atkinson, Bruce <id.php?id=43148> 	University of California, San Diego 	1980
+Atkinson, Russel <id.php?id=86196> 	Massachusetts Institute of
+Technology 	1980
+Aulicino, Daniel <id.php?id=35550> 	City University of New York 	1980
+Austin, Beverly <id.php?id=32412> 	University of California, Berkeley 	1980
+Avitzour, Daniel <id.php?id=32440> 	University of California, Berkeley 	1980
+Avramovic, Bozidar <id.php?id=102447> 	University of Illinois at
+Urbana-Champaign 	1980
+Awartani, Marwan <id.php?id=1819> 	Lehigh University 	1980
+Awoniyi, Samuel <id.php?id=59358> 	Cornell University 	1980
+Ayoub, Ayoub <id.php?id=26963> 	Temple University 	1980
+Azzam, Abdul <id.php?id=163852> 	North Carolina State University 	1980
+Badawi, Faris <id.php?id=6939> 	University of Kentucky 	1980
+Baica, Malvina <id.php?id=105422> 	University of Houston 	1980
+Bakre, Mahadeo <id.php?id=28050> 	University of Washington 	1980
+Balas, Andrew <id.php?id=32026> 	University of California, Berkeley 	1980
+Baldwin, Stewart <id.php?id=20306> 	University of Colorado at Boulder 	1980
+Ball, Clifford <id.php?id=139958> 	University of New Mexico 	1980
+Barber, Steven <id.php?id=17324> 	Texas A&M University 	1980
+Barefoot, Curtis <id.php?id=148601> 	University of New Mexico 	1980
+Barge, Marcy <id.php?id=13076> 	University of Colorado at Boulder 	1980
+Bateman, Mark <id.php?id=84377> 	Princeton University 	1980
+Bates, Richard <id.php?id=14526> 	Brown University 	1980
+Beals, R. Michael <id.php?id=6176> 	Princeton University 	1980
+Beaver, John <id.php?id=48842> 	University of California, Los Angeles 	1980
+Bedient, Richard <id.php?id=7239> 	University of Michigan 	1980
+Begun, Janet <id.php?id=58921> 	The University of Rochester 	1980
+Belbas, Stavros <id.php?id=14527> 	Brown University 	1980
+Belding, David <id.php?id=38784> 	Dartmouth College 	1980
+Bell, Robert <id.php?id=83212> 	Stanford University 	1980
+Bell, Steven <id.php?id=16461> 	Massachusetts Institute of Technology 	1980
+Benander, Alan <id.php?id=11153> 	Kent State University 	1980
+Benander, Barbara <id.php?id=11154> 	Kent State University 	1980
+Berger, Steven <id.php?id=94784> 	University of Iowa 	1980
+Bergstrand, Deborah <id.php?id=64594> 	University of Illinois at
+Chicago 	1980
+Bergstrom, Roy <id.php?id=4737> 	University of Illinois at
+Urbana-Champaign 	1980
+Berliner, L. Mark <id.php?id=50097> 	Purdue University 	1980
+Berman, Nancy <id.php?id=6613> 	The American University 	1980
+Bernal, Javier <id.php?id=174395> 	The Catholic University of America 	1980
+Bernstein, Debra <id.php?id=112849> 	State University of New York at
+Buffalo 	1980
+Bessendorf, Misha <id.php?id=151000> 	Brown University 	1980
+Bhattacharjee, Amitava <id.php?id=118193> 	Princeton University 	1980
+Biedenweg, Frederick <id.php?id=99303> 	Stanford University 	1980
+Bienenstock, Elie <id.php?id=14528> 	Brown University 	1980
+Binkley, Doris <id.php?id=91783> 	Virginia Polytechnic Institute and
+State University 	1980
+Bixler, Harry <id.php?id=23930> 	New York University 	1980
+Bjørstad, Petter <id.php?id=46415> 	Stanford University 	1980
+Blair, Howard <id.php?id=39416> 	Syracuse University 	1980
+Blair, R. Clifford <id.php?id=85369> 	University of South Florida 	1980
+Blank, Brian <id.php?id=9691> 	Cornell University 	1980
+Boas, Harold <id.php?id=6180> 	Massachusetts Institute of Technology 	1980
+Borkar, Vivek <id.php?id=96818> 	University of California, Berkeley 	1980
+Borror, Jeffry <id.php?id=37536> 	Columbia University 	1980
+Bose, Bella <id.php?id=39696> 	Southern Methodist University 	1980
+Bossi, Joseph <id.php?id=141063> 	Stanford University 	1980
+Bowser, Stephen <id.php?id=106013> 	Drexel University 	1980
+Bowyer, Kevin <id.php?id=74036> 	Duke University 	1980
+Boyce, Richard <id.php?id=12474> 	University of Oregon 	1980
+Boyles, Stephanie <id.php?id=1731> 	University of Florida 	1980
+Bozeman, Sylvia <id.php?id=1869> 	Emory University 	1980
+Braisted, David <id.php?id=97992> 	California Institute of Technology 	1980
+Brandenburg, Joseph <id.php?id=12861> 	University of Oregon 	1980
+Bravo, Jaime <id.php?id=32490> 	University of California, Berkeley 	1980
+Breakwell, John <id.php?id=141064> 	Stanford University 	1980
+Brookmeyer, Ronald <id.php?id=49693> 	University of Wisconsin-Madison 	1980
+Brooks, Martin <id.php?id=94748> 	Stanford University 	1980
+Brown, Kevin <id.php?id=167706> 	Carnegie Mellon University 	1980
+Brown, Richard <id.php?id=80253> 	Massachusetts Institute of
+Technology 	1980
+Browning, Sally <id.php?id=131045> 	California Institute of Technology 	1980
+Brownlow, James <id.php?id=49963> 	University of California, Riverside 	1980
+Buchanan, James <id.php?id=30980> 	University of Delaware 	1980
+Buchanan, Samual <id.php?id=45531> 	University of Texas at Austin 	1980
+Buckingham, Mark <id.php?id=45964> 	New York University 	1980
+Budd, Timothy <id.php?id=71726> 	Yale University 	1980
+Bugdayci, Nur <id.php?id=107253> 	University of California, Berkeley 	1980
+Bullers, William <id.php?id=140852> 	Purdue University 	1980
+Burguete, Jose <id.php?id=52580> 	North Carolina State University 	1980
+Burns, James <id.php?id=81241> 	Georgia Institute of Technology 	1980
+Burns, John <id.php?id=35733> 	Temple University 	1980
+Calderbank, Robert <id.php?id=10427> 	California Institute of
+Technology 	1980
+Cameron, Edna <id.php?id=28132> 	University of Washington 	1980
+Carlbom, Ingrid <id.php?id=135123> 	Brown University 	1980
+Carlson, David <id.php?id=123201> 	Brown University 	1980
+Carr, Meg <id.php?id=1906> 	The Florida State University 	1980
+Carroll, John <id.php?id=3715> 	University of Nebraska-Lincoln 	1980
+Carson, William <id.php?id=57994> 	University of Texas at Austin 	1980
+Carter, III, Jack <id.php?id=45529> 	University of Texas at Austin 	1980
+Cass, Daniel <id.php?id=1155> 	State University of New York at Stony
+Brook 	1980
+Caton, Gerald <id.php?id=3476> 	University of Montana 	1980
+Cavalcante, Jairo <id.php?id=33276> 	New York University 	1980
+Chaiken, Seth <id.php?id=53221> 	Massachusetts Institute of Technology 	1980
+Chan, Kenneth <id.php?id=43228> 	The Johns Hopkins University 	1980
+Chan, Tat-Hung <id.php?id=77007> 	Cornell University 	1980
+Chandler, Leon <id.php?id=95221> 	University of New Mexico 	1980
+Chang, Pao <id.php?id=28066> 	University of Washington 	1980
+Chang, Yueh <id.php?id=50517> 	University of Iowa 	1980
+Chanillo, Sagun <id.php?id=16744> 	Purdue University 	1980
+Chaparro, Luis <id.php?id=99183> 	University of California, Berkeley 	1980
+Chapman, Kerrith <id.php?id=11223> 	Kansas State University 	1980
+Chazelle, Bernard <id.php?id=52303> 	Yale University 	1980
+Chen, Jin-Tzu <id.php?id=44445> 	Stanford University 	1980
+Chen, Neng-Hsin <id.php?id=34530> 	University of California, Berkeley 	1980
+Chen, Patrick <id.php?id=82082> 	Princeton University 	1980
+Chen, Pin <id.php?id=28442> 	University of Alabama-Tuscaloosa 	1980
+Chen, Tsann-Hoa <id.php?id=5593> 	University of Georgia 	1980
+Chen, Yuan <id.php?id=1420> 	The Florida State University 	1980
+Cheng, Errguang <id.php?id=1424> 	The Florida State University 	1980
+Chinburg, Theodore <id.php?id=23196> 	Harvard University 	1980
+Chiu, Dah-Ming <id.php?id=81150> 	Harvard University 	1980
+Choi, Bong <id.php?id=9971> 	The Ohio State University 	1980
+Chou, Youn-Min <id.php?id=36107> 	Southern Methodist University 	1980
+Chow, Anita <id.php?id=179565> 	University of Illinois at
+Urbana-Champaign 	1980
+Chow, Yun-shyong <id.php?id=14529> 	Brown University 	1980
+Christie, Jr., Theodore <id.php?id=31400> 	Temple University 	1980
+Chuang-Stein, Christy <id.php?id=89351> 	University of
+Minnesota-Minneapolis 	1980
+Chung, Huann-Ming <id.php?id=16749> 	Purdue University 	1980
+Chung, Jae <id.php?id=88835> 	The University of Connecticut 	1980
+Ciesielski, Victor <id.php?id=70341> 	Rutgers University, New
+Brunswick 	1980
+Cipra, Barry <id.php?id=62304> 	University of Maryland College Park 	1980
+Clancy, Michael <id.php?id=25128> 	University of Notre Dame 	1980
+Clark, Lane <id.php?id=143449> 	University of New Mexico 	1980
+Clarke, Judith <id.php?id=140201> 	University of California, Davis 	1980
+Clifton, Joseph <id.php?id=158> 	Iowa State University 	1980
+Cohen, Donald <id.php?id=50252> 	Carnegie Mellon University 	1980
+Cohen, Norman <id.php?id=78664> 	Harvard University 	1980
+Collier, Manning <id.php?id=59229> 	Vanderbilt University 	1980
+Compton, Kevin <id.php?id=9647> 	University of Wisconsin-Madison 	1980
+Condry, Michael <id.php?id=41360> 	Yale University 	1980
+Confrey, Jere <id.php?id=84846> 	Cornell University 	1980
+Conrey, J. Brian <id.php?id=7245> 	University of Michigan 	1980
+Conway, Bruce <id.php?id=173447> 	Stanford University 	1980
+Cooper, Paul <id.php?id=1425> 	The Florida State University 	1980
+Cope, Jr., Davis <id.php?id=59250> 	Vanderbilt University 	1980
+Corral, Ada <id.php?id=52643> 	North Carolina State University 	1980
+Cortzen, Barbara <id.php?id=43192> 	University of California, San
+Diego 	1980
+Cossec, François <id.php?id=49085> 	Yale University 	1980
+Coughran, Jr., William <id.php?id=50894> 	Stanford University 	1980
+Coutsias, Evangelos <id.php?id=11833> 	California Institute of
+Technology 	1980
+Cox, Dennis <id.php?id=28045> 	University of Washington 	1980
+Craig, Suzanne <id.php?id=8941> 	University of Southern California 	1980
+Cranston, Michael <id.php?id=1980> 	University of
+Minnesota-Minneapolis 	1980
+Creekmore, III, Joseph <id.php?id=11124> 	Kent State University 	1980
+Cripps, Alfred <id.php?id=3861> 	University of Tennessee - Knoxville 	1980
+Cubillos, Pedro <id.php?id=16263> 	University of Iowa 	1980
+Cupples, L. Adrienne <id.php?id=69733> 	Boston University Graduate
+School 	1980
+Dalcher, Amnon <id.php?id=33274> 	New York University 	1980
+Damiano, David <id.php?id=4443> 	Brown University 	1980
+Dankel, II, Douglas <id.php?id=132124> 	University of Illinois at
+Urbana-Champaign 	1980
+Davis, Glenn <id.php?id=32701> 	University of California, Berkeley 	1980
+Davis, Ronald <id.php?id=44430> 	Stanford University 	1980
+Davis, Ronald <id.php?id=90839> 	University of Maryland College Park 	1980
+Davis, Stephen <id.php?id=88671> 	Rensselaer Polytechnic Institute 	1980
+Davis, Thomas <id.php?id=44509> 	Stanford University 	1980
+Dawson, Clive <id.php?id=86737> 	University of Texas at Austin 	1980
+Dayhoff, Judith <id.php?id=15212> 	University of Pennsylvania 	1980
+Dean, Arnold <id.php?id=34161> 	Vanderbilt University 	1980
+DeAngelis, William <id.php?id=115023> 	The University of Rochester 	1980
+Deaton, Michael <id.php?id=91782> 	Virginia Polytechnic Institute and
+State University 	1980
+DeBaun, David <id.php?id=23075> 	University of Pennsylvania 	1980
+de Carvalho, Carlos Alberto <id.php?id=130362> 	Princeton University 	1980
+Delzell, Charles <id.php?id=22639> 	Stanford University 	1980
+DeMeo, Jr., Roy <id.php?id=6105> 	Princeton University 	1980
+Deneen, Linda <id.php?id=15456> 	Michigan State University 	1980
+Dennis, T. <id.php?id=81918> 	Purdue University 	1980
+Dersin, Pierre <id.php?id=112458> 	Massachusetts Institute of
+Technology 	1980
+De Souza, Geraldo <id.php?id=8362> 	State University of New York at
+Albany 	1980
+DeTurck, Dennis <id.php?id=23121> 	University of Pennsylvania 	1980
+Devlin, Denis <id.php?id=38717> 	Dartmouth College 	1980
+Dey, Dipak <id.php?id=43997> 	Purdue University 	1980
+Dias Carneiro, Mario <id.php?id=103136> 	Princeton University 	1980
+Dickerson, Charles <id.php?id=16865> 	Purdue University 	1980
+Diefenderfer, Caren <id.php?id=17199> 	University of California, Santa
+Barbara 	1980
+Dilks, Anne <id.php?id=43311> 	Tulane University 	1980
+Dimopoulos, Nikitas <id.php?id=63705> 	University of Maryland College
+Park 	1980
+Dinitz, Jeffrey <id.php?id=10731> 	The Ohio State University 	1980
+Djang, Arthur <id.php?id=83678> 	Stanford University 	1980
+Domanski, Bernard <id.php?id=46425> 	City University of New York 	1980
+Donald, Matthew <id.php?id=142730> 	Cornell University 	1980
+Dongarra, Jack <id.php?id=14931> 	University of New Mexico 	1980
+DonVito, Marc <id.php?id=129974> 	University of Pennsylvania 	1980
+Doraiswamy, Ida <id.php?id=17827> 	The University of Oklahoma 	1980
+Dorsey, John <id.php?id=99185> 	Michigan State University 	1980
+Doyle, Jon <id.php?id=60870> 	Massachusetts Institute of Technology 	1980
+Duan, Naihua <id.php?id=83211> 	Stanford University 	1980
+Duflot, Jeanne <id.php?id=62770> 	Massachusetts Institute of
+Technology 	1980
+Duignan, Wendy <id.php?id=25383> 	Syracuse University 	1980
+Dummit, David <id.php?id=170245> 	Princeton University 	1980
+Dungan, Dona <id.php?id=30340> 	University of Iowa 	1980
+Dunlap, Diane <id.php?id=117433> 	University of Oregon 	1980
+Durst, Mark <id.php?id=69196> 	Massachusetts Institute of Technology 	1980
+Ebrahimi, Yaghoob <id.php?id=50428> 	University of Washington 	1980
+Eck, David <id.php?id=35872> 	Brandeis University 	1980
+Edelman, Paul <id.php?id=18029> 	Massachusetts Institute of Technology 	1980
+Edwards, Kathleen <id.php?id=63629> 	The University of Chicago 	1980
+Egawa, Yoshimi <id.php?id=9975> 	The Ohio State University 	1980
+Eilbert, James <id.php?id=52619> 	North Carolina State University 	1980
+Elko, David <id.php?id=80186> 	University of Notre Dame 	1980
+El-Mandouh, Mohamed <id.php?id=15457> 	Michigan State University 	1980
+Elmasri, Ramez <id.php?id=87265> 	Stanford University 	1980
+Eloe, Paul <id.php?id=12645> 	Missouri University of Science and
+Technology 	1980
+El-Sayed, Mohamed <id.php?id=127001> 	Case Western Reserve University 	1980
+Ennis, Christopher <id.php?id=32372> 	University of California,
+Berkeley 	1980
+Epperson, James <id.php?id=52908> 	Carnegie Mellon University 	1980
+Ercolani, Nicholas <id.php?id=18850> 	University of California,
+Berkeley 	1980
+Erickson, Roger <id.php?id=12860> 	University of Oregon 	1980
+Evans, Ward <id.php?id=43715> 	University of Maryland College Park 	1980
+Exoo, Geoffrey <id.php?id=7246> 	University of Michigan 	1980
+Eyler, Mehmet <id.php?id=81183> 	Harvard University 	1980
+Fagan, Lawrence <id.php?id=117979> 	Stanford University 	1980
+Fan, Peng <id.php?id=2069> 	Indiana University 	1980
+Farris, Mark <id.php?id=137475> 	Rice University 	1980
+Fasel III, Joseph <id.php?id=81917> 	Purdue University 	1980
+Fass, Leona <id.php?id=90622> 	University of Pennsylvania 	1980
+Feig, Ephraim <id.php?id=35523> 	City University of New York 	1980
+Feil, Todd <id.php?id=22274> 	Bowling Green State University 	1980
+Fejer, Peter <id.php?id=31286> 	The University of Chicago 	1980
+Ferguson, David <id.php?id=45590> 	University of California, Berkeley 	1980
+Ferrari, Leonard <id.php?id=40760> 	University of California, Irvine 	1980
+Ferrer Santos, Walter <id.php?id=31906> 	University of California,
+Berkeley 	1980
+Ferrini-Mundy, Joan <id.php?id=21332> 	University of New Hampshire 	1980
+Filar, Jerzy <id.php?id=6730> 	University of Illinois at Chicago 	1980
+Fill, James <id.php?id=6749> 	The University of Chicago 	1980
+Finin, Timothy <id.php?id=91509> 	University of Illinois at
+Urbana-Champaign 	1980
+Fitzgerald, Robert <id.php?id=22715> 	University of California, Los
+Angeles 	1980
+Fitzpatrick, Simon <id.php?id=28203> 	University of Washington 	1980
+(Flajnik) Ashton, Barbara <id.php?id=103750> 	Virginia Polytechnic
+Institute and State University 	1980
+Fok, Simon <id.php?id=31562> 	University of California, Berkeley 	1980
+Foo, Chen-Hui <id.php?id=83210> 	Stanford University 	1980
+Foody, Walter <id.php?id=64682> 	University of Illinois at Chicago 	1980
+Ford, Timothy <id.php?id=42435> 	Colorado State University 	1980
+Foreman, Matthew <id.php?id=12403> 	University of California, Berkeley 	1980
+Forman, Susan <id.php?id=133500> 	Columbia University 	1980
+Fourer, Robert <id.php?id=83500> 	Stanford University 	1980
+Fournier, Alain <id.php?id=978> 	University of Texas at Dallas 	1980
+Frederick, William <id.php?id=16773> 	Purdue University 	1980
+Freeman, James <id.php?id=170804> 	University of Notre Dame 	1980
+Frenkel, Igor <id.php?id=14975> 	Yale University 	1980
+Freund, Robert <id.php?id=68472> 	Stanford University 	1980
+Fritzen, Frederick <id.php?id=8942> 	University of Southern California 	1980
+Fry, Michael <id.php?id=920> 	University of Illinois at
+Urbana-Champaign 	1980
+Fu, Hung-Lin <id.php?id=20280> 	Auburn University 	1980
+Fuente, Maria <id.php?id=50775> 	Texas Tech University 	1980
+Fuller, Luther <id.php?id=18128> 	Auburn University 	1980
+Furst, Merrick <id.php?id=40765> 	Cornell University 	1980
+Fussell, Donald <id.php?id=979> 	University of Texas at Dallas 	1980
+Gabai, David <id.php?id=11750> 	Princeton University 	1980
+Gagle, Michael <id.php?id=140822> 	Purdue University 	1980
+Gale, James <id.php?id=42505> 	Carnegie Mellon University 	1980
+Games, Richard <id.php?id=10732> 	The Ohio State University 	1980
+Ganapathi, Mahadevan <id.php?id=82419> 	University of
+Wisconsin-Madison 	1980
+Garity, Dennis <id.php?id=9648> 	University of Wisconsin-Madison 	1980
+Gartland, Jr., Eugene <id.php?id=16761> 	Purdue University 	1980
+Geanakoplos, D. John <id.php?id=108527> 	Harvard University 	1980
+Geitz, Robert <id.php?id=4672> 	University of Illinois at
+Urbana-Champaign 	1980
+Geller, Jacob <id.php?id=46426> 	City University of New York 	1980
+Gennery, Donald <id.php?id=103364> 	Stanford University 	1980
+Gerlach, Walter <id.php?id=6938> 	University of Kentucky 	1980
+German, S. <id.php?id=15210> 	Stanford University 	1980
+Gibbons, M. R. <id.php?id=151908> 	The University of Chicago 	1980
+Giller, Cole <id.php?id=31988> 	University of California, Berkeley 	1980
+Gillick, Laurence <id.php?id=67773> 	Massachusetts Institute of
+Technology 	1980
+Gilstein, Craig <id.php?id=48670> 	University of California, Los
+Angeles 	1980
+Goel, V. <id.php?id=110021> 	Ohio University 	1980
+Goldman, William <id.php?id=14983> 	University of California, Berkeley 	1980
+Goodman, James <id.php?id=82255> 	University of California, Berkeley 	1980
+Gordon, Nahida <id.php?id=44286> 	Case Western Reserve University 	1980
+Gorin, Allen <id.php?id=35567> 	City University of New York 	1980
+Gorman, Arthur <id.php?id=34148> 	The Pennsylvania State University 	1980
+Grabinsky, Guillermo <id.php?id=31702> 	University of California,
+Berkeley 	1980
+Grabner, Gary <id.php?id=2146> 	Ohio University 	1980
+Grambsch, Patricia <id.php?id=89350> 	University of
+Minnesota-Minneapolis 	1980
+Gray, Charles <id.php?id=32552> 	University of California, Berkeley 	1980
+Grefenstette, John <id.php?id=77186> 	University of Pittsburgh 	1980
+Griffith, William <id.php?id=152511> 	Virginia Polytechnic Institute and
+State University 	1980
+Griffor, Edward <id.php?id=57966> 	Massachusetts Institute of
+Technology 	1980
+Grimson, William <id.php?id=69206> 	Massachusetts Institute of
+Technology 	1980
+Grivet, Cyril <id.php?id=116405> 	Stanford University 	1980
+Gronbaek, Niels <id.php?id=48644> 	University of California, Los
+Angeles 	1980
+Gusfield, Daniel <id.php?id=106235> 	University of California,
+Berkeley 	1980
+Guttorp, Peter <id.php?id=22270> 	University of California, Berkeley 	1980
+Ha, Cu <id.php?id=14095> 	University of Wisconsin-Madison 	1980
+Haagen, Antonius <id.php?id=3029> 	Southern Illinois University at
+Carbondale 	1980
+Haar, Robert <id.php?id=78867> 	University of Maryland College Park 	1980
+Hadden, George <id.php?id=132135> 	University of Illinois at
+Urbana-Champaign 	1980
+Hafner, James <id.php?id=4003> 	University of Illinois at
+Urbana-Champaign 	1980
+Hailpern, Brent <id.php?id=41433> 	Stanford University 	1980
+Hain, Richard <id.php?id=4137> 	University of Illinois at
+Urbana-Champaign 	1980
+Halcomb, Robert <id.php?id=160501> 	University of Wyoming 	1980
+Halteman, William <id.php?id=116388> 	University of Washington 	1980
+Han, Shean-Teh <id.php?id=151486> 	University of Colorado at Boulder 	1980
+Haney, Michael <id.php?id=91972> 	University of Oregon 	1980
+Hankins, Judith <id.php?id=12644> 	Missouri University of Science and
+Technology 	1980
+Hansen, Johan <id.php?id=4444> 	Brown University 	1980
+Hanson, Stephen <id.php?id=70222> 	Arizona State University 	1980
+Harbison, Samuel <id.php?id=50107> 	Carnegie Mellon University 	1980
+Harel, Dov <id.php?id=100878> 	University of California, Irvine 	1980
+Hariharan, S. I. <id.php?id=92391> 	Carnegie Mellon University 	1980
+Harman, Jonathan <id.php?id=32055> 	University of California, Berkeley 	1980
+Hart, David <id.php?id=32373> 	University of California, Berkeley 	1980
+Hassner, Martin <id.php?id=66388> 	University of California, Los
+Angeles 	1980
+Hauser, Carl <id.php?id=77008> 	Cornell University 	1980
+Hayes, David <id.php?id=76765> 	University of California, Davis 	1980
+Hazekamp, Donald <id.php?id=122522> 	Indiana University 	1980
+Heavlin, William <id.php?id=83209> 	Stanford University 	1980
+Hedges, Larry <id.php?id=82396> 	Stanford University 	1980
+Helfman, Richard <id.php?id=3475> 	University of Montana 	1980
+Hemler, Michael <id.php?id=2204> 	Washington University in St. Louis 	1980
+Henderson, Thomas <id.php?id=78955> 	University of Texas at Austin 	1980
+Hertzberg, Vicki <id.php?id=116389> 	University of Washington 	1980
+Heym (Mintz), Robyn <id.php?id=116704> 	University of Pittsburgh 	1980
+Hibbits, David <id.php?id=116835> 	University of California, Los
+Angeles 	1980
+Hickerson, Dean <id.php?id=31450> 	University of California, Berkeley 	1980
+Hickey, Patricia <id.php?id=45534> 	University of Texas at Austin 	1980
+Hijab, Omar <id.php?id=32050> 	University of California, Berkeley 	1980
+Hikyu, Lee <id.php?id=82080> 	Princeton University 	1980
+Hillery, Mark <id.php?id=126533> 	University of California, Berkeley 	1980
+Holder, Earnest <id.php?id=175192> 	Duke University 	1980
+Holm, John <id.php?id=76619> 	Cornell University 	1980
+Holmström, Lasse <id.php?id=104039> 	Clarkson University 	1980
+Holtzman, Golde <id.php?id=52537> 	North Carolina State University 	1980
+Honeyman, Peter <id.php?id=82084> 	Princeton University 	1980
+Horowitz, Gary <id.php?id=140103> 	The University of Chicago 	1980
+Houtman, Anne <id.php?id=150108> 	Princeton University 	1980
+Hoyos Guerrero, Jos <id.php?id=31030> 	The University of Chicago 	1980
+Hsiao, Jean-Tsung <id.php?id=130508> 	The Pennsylvania State
+University 	1980
+Hsu, Wen-Lian <id.php?id=128326> 	Cornell University 	1980
+Huang, Baosheng <id.php?id=132120> 	The University of North Carolina at
+Chapel Hill 	1980
+Hubbard, Elaine <id.php?id=22182> 	Georgia Institute of Technology 	1980
+Huffman, Michael <id.php?id=11774> 	California Institute of Technology 	1980
+Hughes, Kimball <id.php?id=48710> 	University of California, Los
+Angeles 	1980
+Hui, Yer <id.php?id=91784> 	Virginia Polytechnic Institute and State
+University 	1980
+Hummel, Robert <id.php?id=2245> 	University of Minnesota-Minneapolis 	1980
+Humphries, Michael <id.php?id=12646> 	Missouri University of Science and
+Technology 	1980
+Hurder, Steven <id.php?id=4766> 	University of Illinois at
+Urbana-Champaign 	1980
+Hurley, Michael <id.php?id=13048> 	Northwestern University 	1980
+Hwang, E-Bin <id.php?id=50779> 	Texas Tech University 	1980
+Iachan, Ronaldo <id.php?id=34336> 	University of California, Berkeley 	1980
+Idnani, Ashok <id.php?id=76957> 	City University of New York 	1980
+Ilic, Marija <id.php?id=176052> 	Washington University in St. Louis 	1980
+Imbrie, John <id.php?id=18749> 	Harvard University 	1980
+Immerman, Neil <id.php?id=30442> 	Cornell University 	1980
+Ingle, Richard <id.php?id=136215> 	Georgia Institute of Technology 	1980
+Isaacson, Dan <id.php?id=117646> 	University of Oregon 	1980
+Jackson, David <id.php?id=66389> 	University of California, Los
+Angeles 	1980
+Jackson, Peter <id.php?id=83503> 	Stanford University 	1980
+Jacobson, Michael <id.php?id=2257> 	Emory University 	1980
+Jacoby, Carol <id.php?id=15708> 	University of California, Irvine 	1980
+Jamshidian, Farshid <id.php?id=69038> 	Harvard University 	1980
+Jasiulek, Joachim <id.php?id=64322> 	University of California, Davis 	1980
+Jefferson, David <id.php?id=50109> 	Carnegie Mellon University 	1980
+Jelisavcic, Gordana <id.php?id=117905> 	New York University 	1980
+Jerison, David <id.php?id=8349> 	Princeton University 	1980
+Johnson, Carolyn <id.php?id=1732> 	University of Florida 	1980
+Johnson, Gregory <id.php?id=20268> 	Auburn University 	1980
+Johnson, Keith <id.php?id=36758> 	Brandeis University 	1980
+Johnson, Kenneth <id.php?id=64294> 	University of Colorado at Boulder 	1980
+Johnston, Katherine <id.php?id=59239> 	Vanderbilt University 	1980
+Jones, Lester <id.php?id=30563> 	Tulane University 	1980
+Jónsson, Þórður <id.php?id=73852> 	Harvard University 	1980
+Jordan, Kirk <id.php?id=119727> 	University of Delaware 	1980
+Joshi, Ragini <id.php?id=37499> 	Columbia University 	1980
+Jou, Jiann <id.php?id=155883> 	The Pennsylvania State University 	1980
+Kabell, Jerald <id.php?id=7255> 	University of Michigan 	1980
+Kadekawa, Shigemitsu <id.php?id=2289> 	Indiana University 	1980
+Kahn, Steven <id.php?id=27171> 	The George Washington University 	1980
+Kalman, Daniel <id.php?id=9657> 	University of Wisconsin-Madison 	1980
+Kamangar, Farhad <id.php?id=60703> 	University of Texas at Arlington 	1980
+Kane, Jonathan <id.php?id=9658> 	University of Wisconsin-Madison 	1980
+Kannan, Ravindran <id.php?id=50099> 	Cornell University 	1980
+Kannatey-Asibu, Jr., Elijah <id.php?id=90343> 	University of California,
+Berkeley 	1980
+Kant, Krishna <id.php?id=995> 	University of Texas at Dallas 	1980
+Kapur, Deepak <id.php?id=41415> 	Massachusetts Institute of Technology 	1980
+Karatzas, Ioannis <id.php?id=41413> 	Columbia University 	1980
+Karney, Dennis <id.php?id=4808> 	University of Illinois at
+Urbana-Champaign 	1980
+Kass, Robert <id.php?id=84682> 	The University of Chicago 	1980
+Katehakis, Michael <id.php?id=62032> 	Columbia University 	1980
+Katz, Randy <id.php?id=70077> 	University of California, Berkeley 	1980
+Katz, Sheldon <id.php?id=35941> 	Princeton University 	1980
+Kay, Steven <id.php?id=175678> 	Georgia Institute of Technology 	1980
+Kays, James <id.php?id=85304> 	Rensselaer Polytechnic Institute 	1980
+Keating, Jerome <id.php?id=169843> 	University of Texas at Arlington 	1980
+Keef, Patrick <id.php?id=187100> 	Princeton University 	1980
+Keenan, Daniel <id.php?id=15909> 	The University of Chicago 	1980
+Keepin, William <id.php?id=72936> 	University of Arizona 	1980
+Kell, III, James <id.php?id=61819> 	University of Miami 	1980
+Kender, John <id.php?id=50321> 	Carnegie Mellon University 	1980
+Kersey, Donald <id.php?id=93387> 	Yale University 	1980
+Khalessi, Sadreddin <id.php?id=42377> 	University of Michigan 	1980
+Khamis, Harry <id.php?id=91786> 	Virginia Polytechnic Institute and
+State University 	1980
+Khan, Mohammad <id.php?id=62198> 	Case Western Reserve University 	1980
+Kikuchi, David <id.php?id=47496> 	The University of North Carolina at
+Chapel Hill 	1980
+Kim, Byung <id.php?id=130826> 	University of Massachusetts Amherst 	1980
+Kim, Jong-Chul <id.php?id=145577> 	Oregon State University 	1980
+King, Kimberly <id.php?id=41777> 	University of California, Berkeley 	1980
+King, Walter <id.php?id=51855> 	The University of Rochester 	1980
+Kirsch, Kenneth <id.php?id=85899> 	Northwestern University 	1980
+Kitchin, John <id.php?id=1427> 	The Florida State University 	1980
+Klein, John <id.php?id=50999> 	University of Missouri - Columbia 	1980
+Kleinerman, Samuel <id.php?id=13049> 	Northwestern University 	1980
+Ko, Cheng-Shung <id.php?id=5972> 	Rutgers University, New Brunswick 	1980
+Kocak, Huseyin <id.php?id=1522> 	University of California, Santa Cruz 	1980
+Koch, William <id.php?id=61099> 	University of Missouri - Columbia 	1980
+Kochhax, Ram <id.php?id=3597> 	University of Missouri - Columbia 	1980
+Kodama, Yuji <id.php?id=13001> 	Clarkson University 	1980
+Kon, Mark <id.php?id=25150> 	Massachusetts Institute of Technology 	1980
+Kopec, Gary <id.php?id=107012> 	Massachusetts Institute of Technology 	1980
+Koppel, Moshe <id.php?id=33570> 	New York University 	1980
+Kosaki, Hideki <id.php?id=48917> 	University of California, Los
+Angeles 	1980
+Kosler, Karl <id.php?id=34247> 	University of Wisconsin-Milwaukee 	1980
+Kosmala, Witold <id.php?id=8785> 	University of South Florida 	1980
+Krainak, Joseph <id.php?id=133460> 	University of Texas at Austin 	1980
+Kramer, Robert <id.php?id=3244> 	The Louisiana State University 	1980
+Kranakis, Evangelos <id.php?id=2329> 	University of
+Minnesota-Minneapolis 	1980
+Kroll, Ove <id.php?id=53430> 	The University of Chicago 	1980
+Kubelka, Richard <id.php?id=44422> 	Stanford University 	1980
+Kuczek, Thomas <id.php?id=61218> 	Purdue University 	1980
+Kuhn, Nicholas <id.php?id=9364> 	The University of Chicago 	1980
+Kulkarni, Vidyadhar <id.php?id=109966> 	Cornell University 	1980
+Kumjian, Alexander <id.php?id=32441> 	University of California,
+Berkeley 	1980
+Kunoff, Sharon <id.php?id=11657> 	Adelphi University 	1980
+Kuo, Lynn <id.php?id=48674> 	University of California, Los Angeles 	1980
+Kuo, Ren-Tai <id.php?id=3598> 	University of Missouri - Columbia 	1980
+Kupferman, Peter <id.php?id=130981> 	University of Michigan 	1980
+Kupiainen, Antti <id.php?id=6185> 	Princeton University 	1980
+Kushner, Howard <id.php?id=116594> 	Yeshiva University 	1980
+Kyriakides, Stelios <id.php?id=116493> 	California Institute of
+Technology 	1980
+Ladwig, John <id.php?id=12862> 	University of Oregon 	1980
+Lambe, Larry <id.php?id=64759> 	University of Illinois at Chicago 	1980
+Landaw, Elliot <id.php?id=81762> 	University of California, Los
+Angeles 	1980
+Lane, Diane <id.php?id=20289> 	Auburn University 	1980
+Lane, Keith <id.php?id=18182> 	Auburn University 	1980
+Lane, Kenneth <id.php?id=95606> 	Idaho State University 	1980
+Langer, Joel <id.php?id=1521> 	University of California, Santa Cruz 	1980
+Lantz, Keith <id.php?id=163263> 	The University of Rochester 	1980
+LaPaugh, Andrea <id.php?id=82106> 	Massachusetts Institute of
+Technology 	1980
+Lau, William <id.php?id=41649> 	University of Wisconsin-Milwaukee 	1980
+Lawrence, C. <id.php?id=151909> 	The University of Chicago 	1980
+Lay, Terry <id.php?id=3862> 	University of Tennessee - Knoxville 	1980
+Layton, William <id.php?id=3863> 	University of Tennessee - Knoxville 	1980
+Lazarsfeld, Robert <id.php?id=4445> 	Brown University 	1980
+Lee, Dah <id.php?id=98217> 	Carnegie Mellon University 	1980
+Lee, George <id.php?id=9659> 	University of Wisconsin-Madison 	1980
+Lee, Ja <id.php?id=148987> 	University of Southern California 	1980
+Lee, Ronald <id.php?id=45757> 	University of Pennsylvania 	1980
+Leep, David <id.php?id=6859> 	University of Michigan 	1980
+Leonard, Douglas <id.php?id=10733> 	The Ohio State University 	1980
+Le Tallec, Patrick <id.php?id=64193> 	University of Texas at Austin 	1980
+Levasseur, Kenneth <id.php?id=3631> 	University of Rhode Island 	1980
+Leveson, Nancy <id.php?id=69960> 	University of California, Los
+Angeles 	1980
+Levin, Gary <id.php?id=22789> 	Cornell University 	1980
+Levin, Steven <id.php?id=49315> 	Princeton University 	1980
+Levy, Yonatan <id.php?id=50037> 	The Johns Hopkins University 	1980
+Li, Hu-Hsiung <id.php?id=30759> 	Fordham University 	1980
+Lichtenstein, David <id.php?id=62299> 	University of California,
+Berkeley 	1980
+Liechti, Kenneth <id.php?id=160558> 	California Institute of
+Technology 	1980
+Lin, Chin-Chieng <id.php?id=50787> 	Texas Tech University 	1980
+Lin, Kun-Chou <id.php?id=9660> 	University of Wisconsin-Madison 	1980
+Lin, Paul <id.php?id=100320> 	Wayne State University 	1980
+Lin, Pei-Kee <id.php?id=10734> 	The Ohio State University 	1980
+Lionikis, Nemo <id.php?id=103692> 	Illinois Institute of Technology 	1980
+Little, John <id.php?id=47007> 	Yale University 	1980
+Littlejohn, Robert <id.php?id=94626> 	University of California,
+Berkeley 	1980
+Liu, Wing Kam <id.php?id=165109> 	California Institute of Technology 	1980
+Livadas, Panos <id.php?id=1735> 	University of Florida 	1980
+Livingston, Charles <id.php?id=22697> 	University of California,
+Berkeley 	1980
+Lloyd, Errol <id.php?id=98736> 	Massachusetts Institute of Technology 	1980
+Lo, Martin <id.php?id=125529> 	Cornell University 	1980
+Lockhart, Jody <id.php?id=4027> 	University of Illinois at
+Urbana-Champaign 	1980
+Lodwick, Weldon <id.php?id=22732> 	Oregon State University 	1980
+Lomax, Richard <id.php?id=136467> 	University of Pittsburgh 	1980
+Loomis, Peter <id.php?id=30270> 	University of California, Davis 	1980
+Lorentz, Richard <id.php?id=88158> 	Washington State University 	1980
+Loui, Michael <id.php?id=41460> 	Massachusetts Institute of Technology 	1980
+Louie, Donald <id.php?id=3865> 	University of Tennessee - Knoxville 	1980
+Lovejoy, Stephen <id.php?id=67409> 	Utah State University 	1980
+Lozano-Pérez, Tomás <id.php?id=63756> 	Massachusetts Institute of
+Technology 	1980
+Luh, Peter <id.php?id=81152> 	Harvard University 	1980
+Luniewski, Allen <id.php?id=104739> 	Massachusetts Institute of
+Technology 	1980
+Lyons, William <id.php?id=14530> 	Brown University 	1980
+Mahop, Crepin <id.php?id=118474> 	University of New Mexico 	1980
+Majda, George <id.php?id=13679> 	New York University 	1980
+Malone, Thomas <id.php?id=80000> 	Stanford University 	1980
+Man, Chi-Sing <id.php?id=43821> 	The Johns Hopkins University 	1980
+Marasinghe, Mervin <id.php?id=40634> 	Kansas State University 	1980
+Marconi, Diego <id.php?id=116705> 	University of Pittsburgh 	1980
+Margush, Tim <id.php?id=30256> 	Bowling Green State University 	1980
+Martin, R. Kipp <id.php?id=91233> 	University of Cincinnati 	1980
+Martinez-Morales, Manuel <id.php?id=50790> 	Texas Tech University 	1980
+Martinich, Joseph <id.php?id=55769> 	Northwestern University 	1980
+Mashitz, Isaac <id.php?id=33239> 	New York University 	1980
+Mashitz, Issac <id.php?id=23932> 	New York University 	1980
+Massatt, Paul <id.php?id=14531> 	Brown University 	1980
+Mathis, Darrell <id.php?id=4636> 	University of Illinois at
+Urbana-Champaign 	1980
+Mathur, Kamlesh <id.php?id=87067> 	Case Western Reserve University 	1980
+Matsumoto, Steve <id.php?id=84396> 	Princeton University 	1980
+Matthews, Manton <id.php?id=80012> 	University of South Carolina 	1980
+Maulucci, Ruth <id.php?id=37181> 	University of Massachusetts Amherst 	1980
+Mawby, William <id.php?id=52620> 	North Carolina State University 	1980
+Mawyer, Farley <id.php?id=35551> 	City University of New York 	1980
+McAfee, Preston <id.php?id=140875> 	Purdue University 	1980
+McAllister, Paul <id.php?id=82582> 	Temple University 	1980
+McBride, Richard <id.php?id=172386> 	Kansas State University 	1980
+McClurg, Philip <id.php?id=1520> 	University of California, Santa Cruz 	1980
+McCord, Richard <id.php?id=83687> 	Stanford University 	1980
+McCulloch, Charles <id.php?id=73490> 	Cornell University 	1980
+McCurdy, Allan <id.php?id=32333> 	University of California, Berkeley 	1980
+McDonald, David <id.php?id=96396> 	Massachusetts Institute of
+Technology 	1980
+McGovern, Kathy <id.php?id=12475> 	University of Oregon 	1980
+McKeague, Ian <id.php?id=51900> 	The University of North Carolina at
+Chapel Hill 	1980
+McKinney, Jacqueline <id.php?id=50038> 	The Johns Hopkins University 	1980
+McKissick, Burnell <id.php?id=33275> 	New York University 	1980
+McLarty, Colin <id.php?id=151858> 	Case Western Reserve University 	1980
+McLean, John <id.php?id=11834> 	California Institute of Technology 	1980
+McNertney, Louise <id.php?id=4446> 	Brown University 	1980
+McSweeney, David <id.php?id=15771> 	University of Kansas 	1980
+Mead, George <id.php?id=8786> 	University of South Florida 	1980
+Mease, Kenneth <id.php?id=38232> 	University of Southern California 	1980
+Medhin, Negash <id.php?id=93878> 	Purdue University 	1980
+Meiss, James <id.php?id=38605> 	University of California, Berkeley 	1980
+Melton, Austin <id.php?id=11222> 	Kansas State University 	1980
+Melville, R. <id.php?id=22790> 	Cornell University 	1980
+Mendelzon, Alberto <id.php?id=67139> 	Princeton University 	1980
+Mendoza, Gerardo <id.php?id=47728> 	Massachusetts Institute of
+Technology 	1980
+Mercer, Ray <id.php?id=14051> 	University of Texas at Austin 	1980
+Mercer, Richard <id.php?id=28288> 	University of Washington 	1980
+Merryfield, Kent <id.php?id=9336> 	The University of Chicago 	1980
+Merzel, Jonathan <id.php?id=32056> 	University of California, Berkeley 	1980
+Meuser, Diane <id.php?id=111122> 	The Johns Hopkins University 	1980
+Mhaskar, Hrushikesh <id.php?id=9976> 	The Ohio State University 	1980
+Michaud, Marion <id.php?id=14532> 	Brown University 	1980
+Miller, James <id.php?id=7033> 	Air Force Institute of Technology 	1980
+Milman, Mark <id.php?id=8943> 	University of Southern California 	1980
+Minoura, Toshimi <id.php?id=87267> 	Stanford University 	1980
+Mirie, Rida <id.php?id=14533> 	Brown University 	1980
+Misherghi, Shakib <id.php?id=69961> 	University of California, Los
+Angeles 	1980
+Mitchell, Keith <id.php?id=1335> 	The American University 	1980
+Mitchell, Kevin <id.php?id=4447> 	Brown University 	1980
+Mitiche, Amar <id.php?id=78956> 	University of Texas at Austin 	1980
+Mo, Xiaokong <id.php?id=24333> 	Stanford University 	1980
+Moazzam, Mohammad <id.php?id=175342> 	The Catholic University of
+America 	1980
+Moebes, Travis <id.php?id=12161> 	University of Houston 	1980
+Moeckel, Richard <id.php?id=9661> 	University of Wisconsin-Madison 	1980
+Mohammadian, Alireza <id.php?id=103218> 	University of Michigan 	1980
+Mohammed, Ali <id.php?id=52488> 	North Carolina State University 	1980
+Mok, Ngaiming <id.php?id=44547> 	Stanford University 	1980
+Mombiela-Muruzabal, Francisco <id.php?id=52644> 	North Carolina State
+University 	1980
+Monach, William <id.php?id=7262> 	University of Michigan 	1980
+Montejano Peimbert, Luis <id.php?id=20217> 	University of Utah 	1980
+Moore, Kenneth <id.php?id=17166> 	University of California, Santa
+Barbara 	1980
+Morales, Claudio <id.php?id=22282> 	University of Iowa 	1980
+Morgan, Nelson <id.php?id=70074> 	University of California, Berkeley 	1980
+Morgan, Ronald <id.php?id=8886> 	Texas Christian University 	1980
+Morley, David <id.php?id=20108> 	University of Utah 	1980
+Morris, Stephen <id.php?id=92733> 	The Johns Hopkins University 	1980
+Morrison, David <id.php?id=41459> 	Harvard University 	1980
+Morse, Peter <id.php?id=20109> 	University of Utah 	1980
+Moskol, Ann <id.php?id=90840> 	University of Maryland College Park 	1980
+Moura, Arnaldo <id.php?id=143210> 	University of California, Berkeley 	1980
+Mulry, Philip <id.php?id=84536> 	State University of New York at Stony
+Brook 	1980
+Muñoz, Alvaro <id.php?id=83208> 	Stanford University 	1980
+Murphy, Lea <id.php?id=41475> 	Carnegie Mellon University 	1980
+Murray, Leigh <id.php?id=91787> 	Virginia Polytechnic Institute and
+State University 	1980
+Murty, M. Ram <id.php?id=30592> 	Massachusetts Institute of Technology 	1980
+Myers, Thomas <id.php?id=24479> 	University of Pennsylvania 	1980
+Nachman, Adrian <id.php?id=35979> 	Princeton University 	1980
+Nag, Subhashis <id.php?id=13840> 	Cornell University 	1980
+Nagaraja, H. N. <id.php?id=86107> 	Iowa State University 	1980
+Nakai, Yuri <id.php?id=52444> 	State University of New York at Stony
+Brook 	1980
+Natarajan, Balakrisch <id.php?id=28443> 	University of
+Alabama-Tuscaloosa 	1980
+Nath, Ravinder <id.php?id=50796> 	Texas Tech University 	1980
+Nehs, Robert <id.php?id=12162> 	University of Houston 	1980
+Neitzke, John <id.php?id=15454> 	Michigan State University 	1980
+Nelson, C. Gregory <id.php?id=87404> 	Stanford University 	1980
+Nestlerode, William <id.php?id=9662> 	University of Wisconsin-Madison 	1980
+Newhall, Bruce <id.php?id=85305> 	Rensselaer Polytechnic Institute 	1980
+Newhart, Donald <id.php?id=16305> 	University of Virginia 	1980
+Nezames, Donna <id.php?id=43721> 	Rice University 	1980
+Nguyen, Tanh <id.php?id=97993> 	California Institute of Technology 	1980
+Niedringhaus, William <id.php?id=82085> 	Princeton University 	1980
+Niemeyer, Michael <id.php?id=1154> 	State University of New York at
+Stony Brook 	1980
+Niess, Margaret <id.php?id=100328> 	Oregon State University 	1980
+Nitao, John <id.php?id=31505> 	University of California, Berkeley 	1980
+Ni (倪明選), Lionel <id.php?id=133874> 	Purdue University 	1980
+Nogueira, Arnaldo <id.php?id=51854> 	The University of Rochester 	1980
+Norman, Michael <id.php?id=50747> 	University of California, Davis 	1980
+Norris, Larry <id.php?id=22452> 	North Carolina State University 	1980
+Noss, Richard <id.php?id=116989> 	Massachusetts Institute of
+Technology 	1980
+Novillo, Jorge <id.php?id=2540> 	Lehigh University 	1980
+Ocone, Daniel <id.php?id=47879> 	Massachusetts Institute of Technology 	1980
+Oertel, Ulrich <id.php?id=30328> 	University of California, Los
+Angeles 	1980
+Offen, Walter <id.php?id=83607> 	University of Florida 	1980
+Oh, Hae <id.php?id=7264> 	University of Michigan 	1980
+Oler, James <id.php?id=65182> 	Purdue University 	1980
+Ormsby, Ellen <id.php?id=112717> 	University of Notre Dame 	1980
+Osgood, Brad <id.php?id=7265> 	University of Michigan 	1980
+Osteen, Robert <id.php?id=1733> 	University of Florida 	1980
+Ousterhout, John <id.php?id=50236> 	Carnegie Mellon University 	1980
+Padua, David <id.php?id=41019> 	University of Illinois at
+Urbana-Champaign 	1980
+Palenz, Diana <id.php?id=9663> 	University of Wisconsin-Madison 	1980
+Panangaden, Prakash <id.php?id=73401> 	University of
+Wisconsin-Milwaukee 	1980
+Paneitz, Stephen <id.php?id=24560> 	Massachusetts Institute of
+Technology 	1980
+Papadoupolos, N <id.php?id=81151> 	Harvard University 	1980
+Park, Kyewon <id.php?id=6971> 	Stanford University 	1980
+Parker, Jeffrey <id.php?id=9664> 	University of Wisconsin-Madison 	1980
+Parker, Thomas <id.php?id=15208> 	Stanford University 	1980
+Parsaye, Kamran <id.php?id=94763> 	University of California, Los
+Angeles 	1980
+Parsons, Gregory <id.php?id=140808> 	Purdue University 	1980
+Paulling, John <id.php?id=90604> 	North Carolina State University 	1980
+Pearce, John <id.php?id=45780> 	Purdue University 	1980
+Pearce, Jon <id.php?id=31787> 	University of California, Berkeley 	1980
+Pearce, Kent <id.php?id=28332> 	State University of New York at Albany 	1980
+Pearson, Larry <id.php?id=44802> 	University of Minnesota-Minneapolis 	1980
+Pei, Gabriel <id.php?id=42506> 	Carnegie Mellon University 	1980
+Pelletier, William <id.php?id=4915> 	University of Georgia 	1980
+Penedo, Maria <id.php?id=69962> 	University of California, Los Angeles 	1980
+Pengelley, David <id.php?id=12028> 	University of Washington 	1980
+Pereira, Carlos <id.php?id=70805> 	The Florida State University 	1980
+Pérez-Mercader, Juan <id.php?id=138403> 	City University of New York 	1980
+Pericak-Spector, Kathleen <id.php?id=64456> 	Carnegie Mellon
+University 	1980
+Perozzi, David <id.php?id=11835> 	California Institute of Technology 	1980
+Peskin, Barbara <id.php?id=64474> 	Massachusetts Institute of
+Technology 	1980
+Pestien, Jr., Victor <id.php?id=31651> 	University of California,
+Berkeley 	1980
+Peterson, James <id.php?id=48310> 	Colorado State University 	1980
+Peterson, James <id.php?id=141352> 	Iowa State University 	1980
+Peterson, Janet <id.php?id=3866> 	University of Tennessee - Knoxville 	1980
+Phillips, Randolph <id.php?id=102452> 	University of Illinois at
+Urbana-Champaign 	1980
+Phillis, Yannis <id.php?id=151172> 	University of California, Los
+Angeles 	1980
+Pierrehumbert, Raymond <id.php?id=18863> 	Massachusetts Institute of
+Technology 	1980
+Pincus, Steven <id.php?id=24558> 	Massachusetts Institute of
+Technology 	1980
+Plante, Robert <id.php?id=31876> 	University of Georgia 	1980
+Plaster, John <id.php?id=7297> 	Texas Tech University 	1980
+Plohr, Bradley <id.php?id=48013> 	Princeton University 	1980
+Polak, W. <id.php?id=19023> 	Stanford University 	1980
+Polchinski, Joseph <id.php?id=45758> 	University of California,
+Berkeley 	1980
+Pollner, Jessica <id.php?id=112850> 	State University of New York at
+Buffalo 	1980
+Potter, Richard <id.php?id=122004> 	Brown University 	1980
+Powell, Charles <id.php?id=3864> 	University of Tennessee - Knoxville 	1980
+Powell, Michael <id.php?id=92878> 	Stanford University 	1980
+Preskill, John <id.php?id=105681> 	Harvard University 	1980
+Proudfit, Linda <id.php?id=119654> 	Indiana University 	1980
+Quintero, Ana <id.php?id=69216> 	Massachusetts Institute of Technology 	1980
+Rabie, Mohamed <id.php?id=99115> 	Cornell University 	1980
+Radin, Lon <id.php?id=32553> 	University of California, Berkeley 	1980
+Ralescu, Dan <id.php?id=2632> 	Indiana University 	1980
+Ramakrishnan, Dinakar <id.php?id=11898> 	Columbia University 	1980
+Ramos, Juan <id.php?id=80992> 	Princeton University 	1980
+Rankin, John <id.php?id=12163> 	University of Houston 	1980
+Raper, John <id.php?id=44478> 	Stanford University 	1980
+Rashid, Richard <id.php?id=50079> 	The University of Rochester 	1980
+Ratiu, Tudor <id.php?id=11699> 	University of California, Berkeley 	1980
+Ravishankar, Krishnamurthi <id.php?id=126386> 	Yeshiva University 	1980
+Rawsthorne, Daniel <id.php?id=4202> 	University of Illinois at
+Urbana-Champaign 	1980
+Redman, Thomas <id.php?id=1428> 	The Florida State University 	1980
+Rees, Howard <id.php?id=7271> 	University of Michigan 	1980
+Reich, Alfred <id.php?id=50803> 	Texas Tech University 	1980
+Reid, Brian <id.php?id=50147> 	Carnegie Mellon University 	1980
+Reid, Loretta <id.php?id=50234> 	Carnegie Mellon University 	1980
+Reiner, David <id.php?id=82718> 	University of Wisconsin-Madison 	1980
+Reynolds, R. A. <id.php?id=151910> 	The University of Chicago 	1980
+Riccardi, Gregory <id.php?id=20112> 	State University of New York at
+Buffalo 	1980
+Richards, Joan <id.php?id=154506> 	Harvard University 	1980
+Richards, Winston <id.php?id=128450> 	Iowa State University 	1980
+Richman, David <id.php?id=31451> 	University of California, Berkeley 	1980
+Riley, Jr., John <id.php?id=88831> 	The University of Connecticut 	1980
+Ring, Clarice <id.php?id=116390> 	University of Washington 	1980
+Ringland, James <id.php?id=4858> 	University of Illinois at
+Urbana-Champaign 	1980
+Roach, Michael <id.php?id=1519> 	University of California, Santa Cruz 	1980
+Robbin, Ira <id.php?id=5973> 	Rutgers University, New Brunswick 	1980
+Robinson, James <id.php?id=43269> 	The University of Memphis 	1980
+Robinson, Michael <id.php?id=7273> 	University of Michigan 	1980
+Roby, Donald <id.php?id=58308> 	State University of New York at Albany 	1980
+Rodriguez, Jesus <id.php?id=18248> 	University of Maryland College
+Park 	1980
+Rogawski, Jonathan <id.php?id=36700> 	Princeton University 	1980
+Rose, Henry <id.php?id=25199> 	Vanderbilt University 	1980
+Rose, Julian <id.php?id=37507> 	Columbia University 	1980
+Rosen, I. Gary <id.php?id=11483> 	Brown University 	1980
+Rosen, Ned <id.php?id=7274> 	University of Michigan 	1980
+Rosenbaum, Paul <id.php?id=48236> 	Harvard University 	1980
+Rosentrater, C. Ray <id.php?id=2668> 	Indiana University 	1980
+Ross, Jeffrey <id.php?id=9665> 	University of Wisconsin-Madison 	1980
+Rossi, John <id.php?id=40564> 	University of Hawaii 	1980
+Roth, Paul <id.php?id=9877> 	University of Cincinnati 	1980
+Rubin, Paul <id.php?id=15455> 	Michigan State University 	1980
+Rusnak, Joseph <id.php?id=87784> 	Duke University 	1980
+Russell, Thomas <id.php?id=15030> 	The University of Chicago 	1980
+Russo, Ralph <id.php?id=60649> 	State University of New York at
+Binghamton 	1980
+Ruth, Edward <id.php?id=116738> 	California Institute of Technology 	1980
+Saadawi, Tarek <id.php?id=133572> 	University of Maryland College Park 	1980
+Sachs, Robert <id.php?id=33433> 	New York University 	1980
+Sadowsky, John <id.php?id=49106> 	University of Maryland College Park 	1980
+Sadri, Fereidoon <id.php?id=82083> 	Princeton University 	1980
+Saikia, Promode <id.php?id=9666> 	University of Wisconsin-Madison 	1980
+Saks, Michael <id.php?id=6186> 	Massachusetts Institute of Technology 	1980
+Salazar, Jorge <id.php?id=43414> 	Oklahoma State University 	1980
+Samiei, Mahmood <id.php?id=83207> 	Stanford University 	1980
+Samotij, Krzysztof <id.php?id=76960> 	State University of New York at
+Albany 	1980
+Samueli, Henry <id.php?id=70638> 	University of California, Los
+Angeles 	1980
+Sandifer, C. Edward <id.php?id=18928> 	University of Massachusetts
+Amherst 	1980
+Santosa, Fadil <id.php?id=36054> 	University of Illinois at
+Urbana-Champaign 	1980
+Sarnak, Peter <id.php?id=8361> 	Stanford University 	1980
+Sarraille, John <id.php?id=43196> 	University of California, San Diego 	1980
+Sauls, James <id.php?id=125946> 	State University of New York at Stony
+Brook 	1980
+Schack, Samuel <id.php?id=23094> 	University of Pennsylvania 	1980
+Schechter, Eric <id.php?id=31029> 	The University of Chicago 	1980
+Scherlis, William <id.php?id=86205> 	Stanford University 	1980
+Schlafly, Roger <id.php?id=32559> 	University of California, Berkeley 	1980
+Schmidt, Frank <id.php?id=23105> 	University of Pennsylvania 	1980
+Schwartz, Ira <id.php?id=87604> 	University of Maryland College Park 	1980
+Sciore, Edward <id.php?id=82086> 	Princeton University 	1980
+Scott, Patrick <id.php?id=111409> 	Columbia University 	1980
+Scudder, Gary <id.php?id=119861> 	Stanford University 	1980
+Seddighin, Morteza <id.php?id=57848> 	University of Colorado at
+Boulder 	1980
+Seidman, Robert <id.php?id=95758> 	Syracuse University 	1980
+Semmelman, Jacques <id.php?id=79651> 	Harvard University 	1980
+Sen, Amitabha <id.php?id=92944> 	The University of Chicago 	1980
+Serconek, Shirlei <id.php?id=5976> 	Rutgers University, New Brunswick 	1980
+Sevilla, Alicia <id.php?id=79287> 	Cornell University 	1980
+Shafer, Nancy <id.php?id=83608> 	University of Florida 	1980
+Shanker, Oruganti <id.php?id=98030> 	Carnegie Mellon University 	1980
+Shaw, David <id.php?id=87252> 	Stanford University 	1980
+Shaw, Robert <id.php?id=144463> 	University of California, Santa Cruz 	1980
+Shearer, James <id.php?id=12896> 	Massachusetts Institute of
+Technology 	1980
+Shekhtman, Boris <id.php?id=11168> 	Kent State University 	1980
+Shepherd, Joseph <id.php?id=119894> 	California Institute of
+Technology 	1980
+Sherwood, Robert <id.php?id=77190> 	Indiana University 	1980
+Shiffler, Ronald <id.php?id=83609> 	University of Florida 	1980
+Shopiro, Jonathan <id.php?id=163264> 	The University of Rochester 	1980
+Shraga, Yosefa <id.php?id=78426> 	State University of New York at Stony
+Brook 	1980
+Shull, E. Randy <id.php?id=37989> 	Dartmouth College 	1980
+Sibley, Thomas <id.php?id=26355> 	Boston University Graduate School 	1980
+Silver, Daniel <id.php?id=24827> 	Yale University 	1980
+Silver, Nathaniel <id.php?id=136668> 	Cornell University 	1980
+Silvester, John <id.php?id=151559> 	University of California, Los
+Angeles 	1980
+Simon, Burton <id.php?id=7546> 	University of Michigan 	1980
+Simonoff, Jeffrey <id.php?id=35349> 	Yale University 	1980
+Simrin, Harry <id.php?id=10816> 	University of North Texas 	1980
+Sincich, Terence <id.php?id=83610> 	University of Florida 	1980
+Singer, Howard <id.php?id=98402> 	University of California, Los
+Angeles 	1980
+Singh, Ammendra <id.php?id=105347> 	University of Kansas 	1980
+Singh, Kanhaya <id.php?id=17323> 	Texas A&M University 	1980
+Singh, Kesar <id.php?id=96278> 	The Pennsylvania State University 	1980
+Singham, Manohar <id.php?id=156205> 	University of Pittsburgh 	1980
+Sipser, Michael <id.php?id=64971> 	University of California, Berkeley 	1980
+Sirotnik, Barbara <id.php?id=50475> 	University of California,
+Riverside 	1980
+Sit, Cho <id.php?id=37506> 	Columbia University 	1980
+Skar, Sherwin <id.php?id=157> 	Iowa State University 	1980
+Skrien, Dale <id.php?id=28161> 	University of Washington 	1980
+Slivka, John <id.php?id=2750> 	Lehigh University 	1980
+Smiley, Michael <id.php?id=278> 	University of Michigan 	1980
+Smith, James <id.php?id=50810> 	Texas Tech University 	1980
+Smith, Melvyn <id.php?id=43727> 	Rice University 	1980
+Smith, Norman <id.php?id=3717> 	University of Nebraska-Lincoln 	1980
+Smith, Stephen <id.php?id=111474> 	University of Pittsburgh 	1980
+Sohrab, Houshang <id.php?id=31604> 	University of California, Berkeley 	1980
+Song, Chipin <id.php?id=88993> 	State University of New York at Stony
+Brook 	1980
+Spiller, P. T. <id.php?id=151911> 	The University of Chicago 	1980
+Squier, Craig <id.php?id=6774> 	University of California, Berkeley 	1980
+Steele, Jr., Guy <id.php?id=80255> 	Massachusetts Institute of
+Technology 	1980
+Steelman, John <id.php?id=15831> 	University of Virginia 	1980
+Stein, Joel <id.php?id=18027> 	Harvard University 	1980
+Steingberg, Louis <id.php?id=70208> 	Stanford University 	1980
+Steinhorn, Charles <id.php?id=9667> 	University of Wisconsin-Madison 	1980
+Stephenson, Rodney <id.php?id=133971> 	California Institute of
+Technology 	1980
+Stewart, Margaret <id.php?id=91785> 	Virginia Polytechnic Institute and
+State University 	1980
+Stinson, Susan <id.php?id=99361> 	University of California, San
+Francisco 	1980
+Stoll, Cliff <id.php?id=172419> 	University of Arizona 	1980
+Storbeck, James <id.php?id=41345> 	University of Texas at Austin 	1980
+Stowe, Dennis <id.php?id=32374> 	University of California, Berkeley 	1980
+Strasburger, Martin <id.php?id=156> 	Iowa State University 	1980
+Streett, Robert <id.php?id=61918> 	Massachusetts Institute of
+Technology 	1980
+Stubblebine, John <id.php?id=16838> 	Purdue University 	1980
+Subbaiah, Malladi <id.php?id=116286> 	California Institute of
+Technology 	1980
+Sugiyama, Linda <id.php?id=62638> 	Massachusetts Institute of
+Technology 	1980
+Sullivan, Frances <id.php?id=35538> 	City University of New York 	1980
+Sumner, John <id.php?id=102238> 	University of Miami 	1980
+Sunseri, Richard <id.php?id=4889> 	University of Illinois at
+Urbana-Champaign 	1980
+Suzuki, Hiroshi <id.php?id=9974> 	The Ohio State University 	1980
+Swensen, Anders <id.php?id=34531> 	University of California, Berkeley 	1980
+Sylvester, John <id.php?id=28323> 	New York University 	1980
+Szczepanski, Susan <id.php?id=5977> 	Rutgers University, New Brunswick 	1980
+Taber, William <id.php?id=3922> 	University of Illinois at
+Urbana-Champaign 	1980
+Tadjeran, Hamid <id.php?id=57847> 	University of Colorado at Boulder 	1980
+Taghva, Kazem <id.php?id=85213> 	University of Iowa 	1980
+Taubes, Clifford <id.php?id=18756> 	Harvard University 	1980
+Tavassoli, Hassan <id.php?id=175343> 	The Catholic University of
+America 	1980
+Taylor, Richard <id.php?id=139965> 	University of Colorado at Boulder 	1980
+Temple, J. Blake <id.php?id=7279> 	University of Michigan 	1980
+Terman, David <id.php?id=2821> 	University of Minnesota-Minneapolis 	1980
+Thapa, Mukund <id.php?id=83518> 	Stanford University 	1980
+Thirugnanasambanthan, Kanapathipillai <id.php?id=51141> 	University of
+California, Riverside 	1980
+Thompson, Clark <id.php?id=50315> 	Carnegie Mellon University 	1980
+Thompson, Jr, Henry <id.php?id=102658> 	University of California,
+Berkeley 	1980
+Thulin III, Frederick <id.php?id=27240> 	University of Illinois at
+Chicago 	1980
+Tichy, Walter <id.php?id=50237> 	Carnegie Mellon University 	1980
+Tierney, Luke <id.php?id=44108> 	Cornell University 	1980
+Titcomb, Timothy <id.php?id=11221> 	Kansas State University 	1980
+Tits, André <id.php?id=106166> 	University of California, Berkeley 	1980
+Tiwari, Ram <id.php?id=74314> 	The Florida State University 	1980
+Tjiok, Mouw-Ching <id.php?id=1153> 	State University of New York at
+Stony Brook 	1980
+Tomaras, Theodore <id.php?id=105742> 	Harvard University 	1980
+Toner, John <id.php?id=117680> 	Harvard University 	1980
+Tonnessen, Lowell <id.php?id=9668> 	University of Wisconsin-Madison 	1980
+Torquato, Salvatore <id.php?id=18919> 	State University of New York at
+Stony Brook 	1980
+Townsend, Lawrence <id.php?id=144904> 	University of Idaho 	1980
+Trace, Bruce <id.php?id=28535> 	University of California, Los Angeles 	1980
+Traldi, Lorenzo <id.php?id=24095> 	Yale University 	1980
+Treibergs, Andrejs <id.php?id=19946> 	Stanford University 	1980
+Tritchler, David <id.php?id=112847> 	Harvard University 	1980
+Trucano, Timothy <id.php?id=81063> 	University of New Mexico 	1980
+Trudinger, Peter <id.php?id=41529> 	Stanford University 	1980
+Tsao, How <id.php?id=85679> 	Michigan State University 	1980
+Tsou, Don <id.php?id=155884> 	The Pennsylvania State University 	1980
+Tucker, John <id.php?id=22259> 	The George Washington University 	1980
+Tucker, Susan <id.php?id=7280> 	University of Michigan 	1980
+Turman, Eleanor <id.php?id=1734> 	University of Florida 	1980
+Turner, Philip <id.php?id=38915> 	Wesleyan University 	1980
+Turyn, Lawrence <id.php?id=14535> 	Brown University 	1980
+Tutinas, Bernadette <id.php?id=5974> 	Rutgers University, New
+Brunswick 	1980
+Tzuu-Shuh, Chiang <id.php?id=2848> 	University of
+Minnesota-Minneapolis 	1980
+Ulrich, Gary <id.php?id=36067> 	Southern Methodist University 	1980
+Vance, Jr., James <id.php?id=9669> 	University of Wisconsin-Madison 	1980
+Vanderzanden, A. <id.php?id=113830> 	Michigan State University 	1980
+Van Haagen, Antonius <id.php?id=45084> 	Southern Illinois University at
+Carbondale 	1980
+Van Wyk, Christopher <id.php?id=47196> 	Stanford University 	1980
+Vardi, Avi <id.php?id=59427> 	Cornell University 	1980
+Vares, Maria <id.php?id=34590> 	University of California, Berkeley 	1980
+Varilly, Joseph <id.php?id=51853> 	The University of Rochester 	1980
+Veljan, Darko <id.php?id=92959> 	Cornell University 	1980
+Velleman, Daniel <id.php?id=9670> 	University of Wisconsin-Madison 	1980
+Verma, V. K. <id.php?id=151912> 	The University of Chicago 	1980
+Verriest, Erik <id.php?id=91416> 	Stanford University 	1980
+Vishniac, Ethan <id.php?id=74907> 	Harvard University 	1980
+Vitter, Jeffrey <id.php?id=47198> 	Stanford University 	1980
+Vivian, Judith <id.php?id=2866> 	Lehigh University 	1980
+Voas, Charles <id.php?id=15802> 	University of Virginia 	1980
+Vogelius, Michael <id.php?id=6195> 	University of Maryland College
+Park 	1980
+von Rossum, Marijke <id.php?id=27634> 	Temple University 	1980
+Voss, Edward <id.php?id=22441> 	University of Iowa 	1980
+Wagner, David <id.php?id=7281> 	University of Michigan 	1980
+Waldo, James <id.php?id=85460> 	University of Massachusetts Amherst 	1980
+Waler, Jesse <id.php?id=63876> 	University of Texas at Austin 	1980
+Walker, Jesse <id.php?id=45546> 	University of Texas at Austin 	1980
+Wall, David <id.php?id=76344> 	Stanford University 	1980
+Wallace, Edward <id.php?id=45527> 	University of Texas at Austin 	1980
+Wang, McKenzie <id.php?id=38577> 	Stanford University 	1980
+Wang, Pearl Yun <id.php?id=41710> 	University of Wisconsin-Milwaukee 	1980
+Ward, James <id.php?id=67570> 	Carnegie Mellon University 	1980
+Wareham, Arlen <id.php?id=98387> 	University of California, Riverside 	1980
+Watkins, John <id.php?id=15773> 	University of Kansas 	1980
+Watkins, William <id.php?id=106880> 	University of Wyoming 	1980
+Weakley, William <id.php?id=7838> 	Northwestern University 	1980
+Webb, Thomas <id.php?id=20279> 	Auburn University 	1980
+Wei, Ching-Zong <id.php?id=42622> 	Columbia University 	1980
+Wei, Shihshu <id.php?id=32071> 	University of California, Berkeley 	1980
+Weibull, Thomas <id.php?id=23222> 	University of Illinois at Chicago 	1980
+Weinberg, Clarice <id.php?id=72756> 	University of Washington 	1980
+Weinberg, David <id.php?id=9671> 	University of Wisconsin-Madison 	1980
+Weiner, James <id.php?id=94765> 	University of California, Los Angeles 	1980
+Weishaus, Abraham <id.php?id=33240> 	New York University 	1980
+Weiss, Alfred <id.php?id=9973> 	The Ohio State University 	1980
+Weiss, Michael <id.php?id=5975> 	Rutgers University, New Brunswick 	1980
+Weitkamp, Galen <id.php?id=30483> 	The Pennsylvania State University 	1980
+Weng, Cheng-Ming <id.php?id=8787> 	University of South Florida 	1980
+Weyman, Jerzy <id.php?id=36779> 	Brandeis University 	1980
+White, Billy <id.php?id=49808> 	The Johns Hopkins University 	1980
+White, David <id.php?id=155138> 	Massachusetts Institute of Technology 	1980
+White, Denis <id.php?id=12565> 	Northwestern University 	1980
+White III, George <id.php?id=67450> 	Cornell University 	1980
+Whitmore, Bradley <id.php?id=115809> 	University of Michigan 	1980
+Whittington, Keith <id.php?id=45533> 	University of Texas at Austin 	1980
+Wiley, Joe <id.php?id=103083> 	University of Arkansas 	1980
+Williams, Cindy Lou <id.php?id=146437> 	University of California,
+Irvine 	1980
+Williams, Graeme <id.php?id=163265> 	The University of Rochester 	1980
+Williams, III, Daniel <id.php?id=31605> 	University of California,
+Berkeley 	1980
+Winn, Jr., John <id.php?id=11690> 	Adelphi University 	1980
+Wirth, Patricia <id.php?id=47545> 	Washington University in St. Louis 	1980
+Wisniewski, Helena <id.php?id=35676> 	City University of New York 	1980
+Witkin, Andrew <id.php?id=50091> 	Massachusetts Institute of
+Technology 	1980
+Woerner, Katherine <id.php?id=45535> 	University of Texas at Austin 	1980
+Wong, Wing <id.php?id=106567> 	Harvard University 	1980
+Wong, Wing-Hung <id.php?id=32931> 	University of Wisconsin-Madison 	1980
+Woodall, William <id.php?id=79769> 	Virginia Polytechnic Institute and
+State University 	1980
+Woodfield, Scott <id.php?id=81916> 	Purdue University 	1980
+Wou, Ying Fou <id.php?id=45222> 	University of Arizona 	1980
+Wright, Christopher <id.php?id=18617> 	Stanford University 	1980
+Wu, Ke-Tsai <id.php?id=1431> 	The Florida State University 	1980
+Yap, Chee-Keng <id.php?id=51193> 	Yale University 	1980
+Yatomi, Chikayoshi <id.php?id=64462> 	Carnegie Mellon University 	1980
+Yoon, Sewang <id.php?id=185080> 	University of California, Los Angeles 	1980
+Yu, Jing <id.php?id=106044> 	Yale University 	1980
+Yue, Dick <id.php?id=145339> 	Massachusetts Institute of Technology 	1980
+Zaiddan, Sami <id.php?id=84635> 	University of Southern California 	1980
+Zalmai, Ghulam <id.php?id=11019> 	Washington State University 	1980
+Zamani Kashani, Nader <id.php?id=14536> 	Brown University 	1980
+Zayas, Victor <id.php?id=126163> 	University of California, Berkeley 	1980
+Zeller, Mike <id.php?id=17322> 	Texas A&M University 	1980
+Zwick, Daniel <id.php?id=12863> 	University of Oregon 	1980
+
+  * Search <search.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+
+
+The Mathematics Genealogy Project is in need of funds to help pay for
+student help and other associated costs. If you would like to
+contribute, please donate online
+<https://epayment.ndus.nodak.edu/C22800_ustores/web/product_detail.jsp?PRODUCTID=2989&SINGLESTORE=true>
+using credit card or bank transfer or mail your tax-deductible
+contribution to:
+
+Mathematics Genealogy Project
+Department of Mathematics
+North Dakota State University
+P. O. Box 6050
+Fargo, North Dakota 58108-6050
+

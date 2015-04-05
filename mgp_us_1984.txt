@@ -1,0 +1,1204 @@
+Tree <index.php>
+
+
+  Mathematics Genealogy Project
+
+  * Home <index.php>
+  * Search <search.php>
+  * Extrema <extrema.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+  * Mirrors <mirrors.php>
+      o NDSU (main) <http://www.genealogy.math.ndsu.nodak.edu/>
+      o AMS <http://www.genealogy.ams.org/>
+      o Bielefeld <http://www.math.uni-bielefeld.de/genealogy>
+      o IMPA <http://genealogy.impa.br/>
+
+A service of the NDSU <http://www.ndsu.edu/> Department of Mathematics
+<http://www.math.ndsu.nodak.edu/>, in association with the American
+Mathematical Society <http://www.ams.org/>.
+
+Your search has found 942 records in our database.
+Display results in .
+
+Abbas, Yousef <id.php?id=8793> 	University of South Florida 	1984
+Abubucker, C. <id.php?id=5595> 	University of Georgia 	1984
+Abudiak, Fawaz <id.php?id=15472> 	Michigan State University 	1984
+Abu-Libdeh, Othman <id.php?id=95178> 	The University of Chicago 	1984
+Accomando, Nicholas <id.php?id=14561> 	Brown University 	1984
+Ackerman, Terry <id.php?id=156169> 	University of Wisconsin-Milwaukee 	1984
+Adams, Gregory <id.php?id=1787> 	Indiana University 	1984
+Adams, Norman <id.php?id=6006> 	Rutgers University, New Brunswick 	1984
+Adams, III, George <id.php?id=100838> 	Purdue University 	1984
+Addanki, Sanjaya <id.php?id=163269> 	The University of Rochester 	1984
+Agogino, Alice <id.php?id=186245> 	Stanford University 	1984
+Aguilar, José <id.php?id=51132> 	University of California, Riverside 	1984
+Ahlbrandt, Gisela <id.php?id=27239> 	University of Illinois at Chicago 	1984
+Ahn, John <id.php?id=164745> 	Rensselaer Polytechnic Institute 	1984
+Aitchison, Iain <id.php?id=31996> 	University of California, Berkeley 	1984
+Aït Kaci, Hassan <id.php?id=24482> 	University of Pennsylvania 	1984
+Akbarzadeh-Yazdi, Abolfazl <id.php?id=44248> 	Case Western Reserve
+University 	1984
+Aksoy, Asuman <id.php?id=7102> 	University of Michigan 	1984
+Albert, John <id.php?id=31034> 	The University of Chicago 	1984
+Al-Jaber, Ahmad <id.php?id=44624> 	Clarkson University 	1984
+Allen, David <id.php?id=32009> 	University of California, Berkeley 	1984
+Allen, Jr., Gary <id.php?id=155802> 	Stanford University 	1984
+Altabet, Meryl <id.php?id=104713> 	Yeshiva University 	1984
+Alzamel, Ali <id.php?id=12869> 	University of Oregon 	1984
+Amaratunga, Dhammika <id.php?id=35282> 	Princeton University 	1984
+Anagnostakis, Christopher <id.php?id=106100> 	Yale University 	1984
+Anastassiou, George <id.php?id=11604> 	The University of Rochester 	1984
+Andelman, David <id.php?id=171538> 	Massachusetts Institute of
+Technology 	1984
+Anjilvel, Satish <id.php?id=33695> 	New York University 	1984
+Apté, Chidanand <id.php?id=70355> 	Rutgers University, New Brunswick 	1984
+Argyros, Ioannis <id.php?id=5596> 	University of Georgia 	1984
+Atlas, Les <id.php?id=77990> 	Stanford University 	1984
+Attili, Basem <id.php?id=43667> 	Southern Methodist University 	1984
+Au, Siu-tong <id.php?id=35354> 	Yale University 	1984
+Ayeni, Babatunde <id.php?id=136475> 	University of Louisiana at
+Lafayette 	1984
+Bach, C. Eric <id.php?id=11563> 	University of California, Berkeley 	1984
+Baer, Steven <id.php?id=17298> 	University of Illinois at Chicago 	1984
+Bagga, Kunwarjit <id.php?id=16655> 	Purdue University 	1984
+Bailey, Colin <id.php?id=75244> 	Harvard University 	1984
+Baird, Henry <id.php?id=82101> 	Princeton University 	1984
+Bajaj, Chandrajit <id.php?id=69831> 	Cornell University 	1984
+Bank, Edward <id.php?id=16418> 	Arizona State University 	1984
+Banks, David <id.php?id=91796> 	Virginia Polytechnic Institute and State
+University 	1984
+Banuelos, Rodrigo <id.php?id=48650> 	University of California, Los
+Angeles 	1984
+Barber, James <id.php?id=131861> 	State University of New York at Stony
+Brook 	1984
+Bardi, Martino <id.php?id=84292> 	University of Maryland College Park 	1984
+Baron, Anna <id.php?id=79489> 	University of Texas School of Public
+Health 	1984
+Barr, Thomas <id.php?id=13449> 	Vanderbilt University 	1984
+Barton, Thomas <id.php?id=11122> 	Kent State University 	1984
+Bar-Yam, Yaneer <id.php?id=84167> 	Massachusetts Institute of
+Technology 	1984
+Bath, Barbara <id.php?id=1373> 	The American University 	1984
+Battifarano, Ernest <id.php?id=33151> 	New York University 	1984
+Bautista, Maurino <id.php?id=16878> 	Purdue University 	1984
+Beach, Bonnie <id.php?id=89610> 	Ohio University 	1984
+Beaumont, Paul <id.php?id=157226> 	University of Pennsylvania 	1984
+Bednarz, David <id.php?id=42367> 	University of Michigan 	1984
+Bedrick, Edward <id.php?id=46335> 	University of Minnesota-Minneapolis 	1984
+Beezer, Robert <id.php?id=4683> 	University of Illinois at
+Urbana-Champaign 	1984
+Bell, Allen <id.php?id=16929> 	University of Washington 	1984
+Bell, Bradley <id.php?id=28226> 	University of Washington 	1984
+Bendjilali, Boualem <id.php?id=9883> 	University of Cincinnati 	1984
+Bennett, Bart <id.php?id=49980> 	The Johns Hopkins University 	1984
+Bertschinger, Edmund <id.php?id=107612> 	Princeton University 	1984
+Best, III, Alvin <id.php?id=41855> 	Virginia Commonwealth University 	1984
+Bestvina, Mladen <id.php?id=3879> 	University of Tennessee - Knoxville 	1984
+Betley, Stanislaw <id.php?id=32974> 	University of Notre Dame 	1984
+Bhatt, Sandeep <id.php?id=98969> 	Massachusetts Institute of
+Technology 	1984
+Bhattacharjee, Somendra <id.php?id=123289> 	Carnegie Mellon University 	1984
+Biesel, Heiner <id.php?id=70365> 	Rutgers University, New Brunswick 	1984
+Bilazarian, Peter <id.php?id=63410> 	Rensselaer Polytechnic Institute 	1984
+Bishop, Gary <id.php?id=144908> 	The University of North Carolina at
+Chapel Hill 	1984
+Bishop, Matthew <id.php?id=81902> 	Purdue University 	1984
+Bisk, Richard <id.php?id=79329> 	Clark University 	1984
+Blicher, Albert <id.php?id=32198> 	University of California, Berkeley 	1984
+Blomstrom, Carol <id.php?id=4465> 	Brown University 	1984
+Blubaugh, William <id.php?id=64549> 	University of Colorado at Boulder 	1984
+Boffi, Giandomenico <id.php?id=36765> 	Brandeis University 	1984
+Bogdanowicz, Zbigniew <id.php?id=158869> 	Stevens Institute of
+Technology 	1984
+Boncelet, Charles <id.php?id=153184> 	Princeton University 	1984
+Bondi, Andre <id.php?id=81903> 	Purdue University 	1984
+Booth, David <id.php?id=83721> 	The University of North Carolina at
+Chapel Hill 	1984
+Borrego, Salvador <id.php?id=36111> 	Southern Methodist University 	1984
+Börsch-Supan, Axel <id.php?id=183996> 	Massachusetts Institute of
+Technology 	1984
+Bosworth, Ken <id.php?id=38799> 	Rensselaer Polytechnic Institute 	1984
+Bottone, Steven <id.php?id=132238> 	Princeton University 	1984
+Boudreaux-Bartels, Gloria <id.php?id=79565> 	Rice University 	1984
+Bovik, Alan <id.php?id=45694> 	University of Illinois at
+Urbana-Champaign 	1984
+Boyle, Jeffrey <id.php?id=1868> 	University of Iowa 	1984
+Brackin, Stephen <id.php?id=30485> 	The Pennsylvania State University 	1984
+Brady, Sheryl <id.php?id=30447> 	Cornell University 	1984
+Brennan, Joseph <id.php?id=4249> 	University of Illinois at
+Urbana-Champaign 	1984
+Brenner, Charles <id.php?id=48703> 	University of California, Los
+Angeles 	1984
+Brierley, Stephen <id.php?id=23177> 	University of
+Minnesota-Minneapolis 	1984
+Bril, Gordon <id.php?id=150551> 	University of Iowa 	1984
+Brink, James <id.php?id=10699> 	The Ohio State University 	1984
+Brio, Moysey <id.php?id=22541> 	University of California, Los Angeles 	1984
+Brittain, Donald <id.php?id=23162> 	University of Pennsylvania 	1984
+Bromberg, Judith <id.php?id=35375> 	University of Michigan 	1984
+Brown, Anne <id.php?id=31024> 	Brandeis University 	1984
+Brown, David <id.php?id=142289> 	The University of Rochester 	1984
+Brown, Jeffrey <id.php?id=5599> 	University of Georgia 	1984
+Brown, Richard <id.php?id=4163> 	University of Illinois at
+Urbana-Champaign 	1984
+Bruckstein, Alfred <id.php?id=91468> 	Stanford University 	1984
+Bumrungsup, Chinnaphong <id.php?id=83593> 	University of Florida 	1984
+Bunch, David <id.php?id=29575> 	Rice University 	1984
+Burdzy, Krzysztof <id.php?id=28295> 	University of California,
+Berkeley 	1984
+Burke, Maurice <id.php?id=9931> 	University of Wisconsin-Madison 	1984
+Burkholder, Douglas <id.php?id=1889> 	University of Iowa 	1984
+Busch, John <id.php?id=116876> 	University of California, Los Angeles 	1984
+Byun, Hyeja <id.php?id=9932> 	University of Wisconsin-Madison 	1984
+Caballero, Carlos <id.php?id=22442> 	Oklahoma State University 	1984
+Caldwell, Chris <id.php?id=32703> 	University of California, Berkeley 	1984
+Campbell, James <id.php?id=24963> 	The University of North Carolina at
+Chapel Hill 	1984
+Cao, Xi-Ren <id.php?id=81154> 	Harvard University 	1984
+Carlen, Eric <id.php?id=24178> 	Princeton University 	1984
+Carlson, Caryn <id.php?id=45838> 	University of Georgia 	1984
+Carlstein, Edward <id.php?id=35355> 	Yale University 	1984
+Carr, Rodney <id.php?id=1180> 	State University of New York at Stony
+Brook 	1984
+Carroll, Jeffrey <id.php?id=9933> 	University of Wisconsin-Madison 	1984
+Cassidy, Hugh <id.php?id=186893> 	The University of Connecticut 	1984
+Castillo-Chavez, Carlos <id.php?id=9934> 	University of
+Wisconsin-Madison 	1984
+Castro Ospina, Jose <id.php?id=67449> 	Cornell University 	1984
+Cavaliere, Richard <id.php?id=22133> 	Temple University 	1984
+Celine Carley, Kathleen <id.php?id=103916> 	Harvard University 	1984
+Chai, Ching-Li <id.php?id=23857> 	Harvard University 	1984
+Chakraborti, Subhabrata <id.php?id=174070> 	State University of New York
+at Buffalo 	1984
+Chakravarti, Rajiva <id.php?id=28273> 	University of Washington 	1984
+Challener, David <id.php?id=49933> 	University of Illinois at
+Urbana-Champaign 	1984
+Chan, Wenyaw <id.php?id=49205> 	The Ohio State University 	1984
+Chang, Myron <id.php?id=52223> 	University of Maryland College Park 	1984
+Chang, Shyang <id.php?id=128749> 	University of California, Los
+Angeles 	1984
+Chang, Sung <id.php?id=1744> 	University of Florida 	1984
+Chao, Min-Te <id.php?id=120420> 	Case Western Reserve University 	1984
+Chari, Ravi <id.php?id=84183> 	Michigan State University 	1984
+Charris, Jairo <id.php?id=78777> 	Arizona State University 	1984
+Chattopadhyay, Rita <id.php?id=8794> 	University of South Florida 	1984
+Chatzidakis, Zoé <id.php?id=82670> 	Yale University 	1984
+Chavey, Darrah <id.php?id=9935> 	University of Wisconsin-Madison 	1984
+Chen, Dao-Qui <id.php?id=88897> 	State University of New York at Stony
+Brook 	1984
+Chen, Ming-San <id.php?id=179736> 	University of Maryland College Park 	1984
+Cheng, Chung-Kuan <id.php?id=40866> 	University of California,
+Berkeley 	1984
+Cheng, Yungchen <id.php?id=6012> 	Rutgers University, New Brunswick 	1984
+Chi, Ta-Ming <id.php?id=8934> 	University of Southern California 	1984
+Chiang, Wang <id.php?id=84801> 	University of Michigan 	1984
+Chidume, Charles <id.php?id=10702> 	The Ohio State University 	1984
+Chien, Cheng-Sheng <id.php?id=41440> 	Colorado State University 	1984
+Chierchia, Gennaro <id.php?id=178601> 	University of Massachusetts
+Amherst 	1984
+Chin, Kok <id.php?id=179260> 	The Johns Hopkins University 	1984
+Chiu, Shean-Tsong <id.php?id=34432> 	University of California,
+Berkeley 	1984
+Chiu, Sheng-Yang <id.php?id=86189> 	Massachusetts Institute of
+Technology 	1984
+Cho, Eung <id.php?id=6010> 	Rutgers University, New Brunswick 	1984
+Chou, Jine-Phone <id.php?id=48565> 	University of California, Los
+Angeles 	1984
+Chow, Chia-Chuan <id.php?id=151487> 	University of Colorado at Boulder 	1984
+Christy, Joseph <id.php?id=32375> 	University of California, Berkeley 	1984
+Ciccarelli, IV, Eugene <id.php?id=112519> 	Massachusetts Institute of
+Technology 	1984
+Cimbala, John <id.php?id=119853> 	California Institute of Technology 	1984
+Cioffi, John <id.php?id=126508> 	Stanford University 	1984
+Ciufolini, Ignazio <id.php?id=45610> 	University of Texas at Austin 	1984
+Civanlar, Mehmet Reha <id.php?id=162626> 	North Carolina State
+University 	1984
+Clark, Curtis <id.php?id=7103> 	University of Michigan 	1984
+Clarkson, Kenneth <id.php?id=157791> 	Stanford University 	1984
+Clemens, Laura <id.php?id=24559> 	Massachusetts Institute of
+Technology 	1984
+Cochran, Jeffery <id.php?id=119796> 	Purdue University 	1984
+Cochrane, Todd <id.php?id=7104> 	University of Michigan 	1984
+Coffey, Mary <id.php?id=42368> 	University of Michigan 	1984
+Cohen, Betty <id.php?id=10763> 	University of California, Los Angeles 	1984
+Collier, Jr., Irwin <id.php?id=48988> 	Massachusetts Institute of
+Technology 	1984
+Connors, Timothy <id.php?id=84628> 	University of Southern California 	1984
+Coonen, Jerome <id.php?id=31943> 	University of California, Berkeley 	1984
+Cortés, Víctor <id.php?id=1179> 	State University of New York at Stony
+Brook 	1984
+Costa, Gabriel <id.php?id=61039> 	Stevens Institute of Technology 	1984
+Costa, Peter <id.php?id=47344> 	University of Massachusetts Amherst 	1984
+Cox, Christopher <id.php?id=30881> 	Carnegie Mellon University 	1984
+Cox, Ross <id.php?id=46397> 	Columbia University 	1984
+Crabtree, James <id.php?id=4876> 	University of Illinois at
+Urbana-Champaign 	1984
+Craig, Jessica <id.php?id=8795> 	University of South Florida 	1984
+Critchlow, Douglas <id.php?id=51748> 	Harvard University 	1984
+Csizmazia, Anthony <id.php?id=32561> 	University of California,
+Berkeley 	1984
+Cuervo, Maria <id.php?id=61821> 	University of Miami 	1984
+Cupillari, Antonella <id.php?id=36708> 	State University of New York at
+Albany 	1984
+Currier, Robert <id.php?id=136607> 	University of Illinois at
+Urbana-Champaign 	1984
+Cvetic, Mirjam <id.php?id=116823> 	University of Maryland College Park 	1984
+Cytron, Ronald <id.php?id=139466> 	University of Illinois at
+Urbana-Champaign 	1984
+Czitrom, Anne <id.php?id=93090> 	University of Texas at Austin 	1984
+Dabrowska, Dorota <id.php?id=34457> 	University of California,
+Berkeley 	1984
+Dabrowski, Romuald <id.php?id=88678> 	State University of New York at
+Albany 	1984
+Dada, Maqbool <id.php?id=67607> 	Massachusetts Institute of Technology 	1984
+Daghel, Mohamed <id.php?id=42371> 	University of Michigan 	1984
+Daley, Raymond <id.php?id=83594> 	University of Florida 	1984
+Dalzell, Catherine <id.php?id=42483> 	Carnegie Mellon University 	1984
+Dannon, Victor <id.php?id=8796> 	University of South Florida 	1984
+Dar, Aparna <id.php?id=1183> 	State University of New York at Stony
+Brook 	1984
+Dasgupta, Partha <id.php?id=52892> 	State University of New York at
+Stony Brook 	1984
+Datskovsky, Boris <id.php?id=22510> 	Harvard University 	1984
+David, Florin <id.php?id=33530> 	New York University 	1984
+Davidoff, Giuliana <id.php?id=33711> 	New York University 	1984
+Davidson, Mark <id.php?id=77921> 	University of California, Irvine 	1984
+Davis, Ernest <id.php?id=69394> 	Yale University 	1984
+Day, Roger <id.php?id=77884> 	Harvard University 	1984
+De, Suranjan <id.php?id=140812> 	Purdue University 	1984
+De Alba-Guerra, Luz <id.php?id=167> 	Iowa State University 	1984
+DeBlassie, Richard <id.php?id=69274> 	Massachusetts Institute of
+Technology 	1984
+DeGraaf, Stuart <id.php?id=100962> 	Rice University 	1984
+Dellomo, Michael <id.php?id=134702> 	The Johns Hopkins University 	1984
+Denby, Lorraine <id.php?id=42372> 	University of Michigan 	1984
+Denenberg, Lawrence (Larry) <id.php?id=102329> 	Harvard University 	1984
+Deng, Lih-Yuan <id.php?id=80016> 	University of Wisconsin-Madison 	1984
+de Shalit, Ehud <id.php?id=50929> 	Princeton University 	1984
+de Souza e Silva, Edmundo <id.php?id=83635> 	University of California,
+Los Angeles 	1984
+Dick, Thomas <id.php?id=95239> 	University of New Hampshire 	1984
+Diener-West, Marie <id.php?id=49781> 	The Johns Hopkins University 	1984
+Dietz, Paul <id.php?id=116924> 	Cornell University 	1984
+Divito, Arthur <id.php?id=101811> 	Illinois Institute of Technology 	1984
+Dix, Julio <id.php?id=9885> 	University of Cincinnati 	1984
+Dorfman, Alan <id.php?id=49795> 	The Johns Hopkins University 	1984
+Dorman, David <id.php?id=4466> 	Brown University 	1984
+Dourmashkin, Peter <id.php?id=59367> 	Massachusetts Institute of
+Technology 	1984
+Dowla, Farid <id.php?id=175282> 	Massachusetts Institute of Technology 	1984
+Dowling, William <id.php?id=103993> 	University of Pennsylvania 	1984
+Downar, Thomas <id.php?id=67620> 	Massachusetts Institute of
+Technology 	1984
+Doyle, John <id.php?id=32494> 	University of California, Berkeley 	1984
+Dritschel, David <id.php?id=134126> 	Princeton University 	1984
+Duffie, J. <id.php?id=110288> 	Stanford University 	1984
+Dugan, Joanne <id.php?id=82960> 	Duke University 	1984
+Dunn, Gerald <id.php?id=7105> 	University of Michigan 	1984
+Dunn, John <id.php?id=66804> 	Harvard University 	1984
+Dunne, Edward <id.php?id=24852> 	Harvard University 	1984
+Durinovic, Sanja <id.php?id=99787> 	State University of New York at
+Stony Brook 	1984
+East, James <id.php?id=117642> 	University of Oregon 	1984
+Eberhardt, D. Scott <id.php?id=121069> 	Stanford University 	1984
+Eberly, David <id.php?id=44362> 	University of Colorado at Boulder 	1984
+Ebrahimzadeh, Elizabeth <id.php?id=32088> 	University of California,
+Berkeley 	1984
+Edelman, Elazer <id.php?id=99821> 	Massachusetts Institute of
+Technology 	1984
+Egecioglu, Omer <id.php?id=43140> 	University of California, San Diego 	1984
+El-Gebeily, Mohamed <id.php?id=43571> 	Oklahoma State University 	1984
+El-Khoury, Waleed <id.php?id=122360> 	University of Miami 	1984
+Elko, Constance <id.php?id=15223> 	University of Notre Dame 	1984
+Elmeri, Ageli <id.php?id=66331> 	University of Iowa 	1984
+El-Nahas, Sharaf <id.php?id=167975> 	Washington University in St.
+Louis 	1984
+El-Samaloty, Mohab <id.php?id=9884> 	University of Cincinnati 	1984
+Elyada, Dov <id.php?id=116495> 	California Institute of Technology 	1984
+Embid Droz, Pedro <id.php?id=32160> 	University of California,
+Berkeley 	1984
+Emoto, Sherrie <id.php?id=83235> 	Stanford University 	1984
+Enayat, Ali <id.php?id=9936> 	University of Wisconsin-Madison 	1984
+Enomoto, Kazuyuki <id.php?id=32831> 	University of California,
+Berkeley 	1984
+Epstein, Roy <id.php?id=118727> 	Yale University 	1984
+Erdem, Ismail <id.php?id=52656> 	North Carolina State University 	1984
+Erkip, Nesim <id.php?id=119863> 	Stanford University 	1984
+Ertekin, R. Cengiz <id.php?id=94506> 	University of California,
+Berkeley 	1984
+Ervin, Vincent <id.php?id=22156> 	Georgia Institute of Technology 	1984
+Eswarathassan, Arulappah <id.php?id=10451> 	Adelphi University 	1984
+Ewing, David <id.php?id=11216> 	Kansas State University 	1984
+Fajardo, Sergio <id.php?id=9937> 	University of Wisconsin-Madison 	1984
+Fan, Paul <id.php?id=31749> 	University of California, Berkeley 	1984
+Fang, Xhi-Zi <id.php?id=118143> 	University of Nebraska-Lincoln 	1984
+Fania, Maria <id.php?id=36326> 	University of Notre Dame 	1984
+Farag, Saad <id.php?id=43316> 	Tulane University 	1984
+Farmer, William <id.php?id=9938> 	University of Wisconsin-Madison 	1984
+Fausett, Laurene <id.php?id=40761> 	University of Wyoming 	1984
+Feeman, Timothy <id.php?id=7303> 	University of Michigan 	1984
+Fennell, James <id.php?id=49107> 	University of Maryland College Park 	1984
+Ferguson, Dianne <id.php?id=117432> 	Syracuse University 	1984
+Ferguson, James <id.php?id=176475> 	University of New Mexico 	1984
+Fernandez, Roberto <id.php?id=117120> 	Virginia Polytechnic Institute
+and State University 	1984
+Fernando, Rohan <id.php?id=53629> 	University of Illinois at
+Urbana-Champaign 	1984
+Ferrer Suarez, Jose <id.php?id=99226> 	University of Florida 	1984
+Fichtner, Ronald <id.php?id=2075> 	Emory University 	1984
+Fihrmann, Daniel <id.php?id=84385> 	Princeton University 	1984
+Filaseta, Michael <id.php?id=865> 	University of Illinois at
+Urbana-Champaign 	1984
+Fischer, Thomas <id.php?id=32973> 	University of Notre Dame 	1984
+Fisher, Allan <id.php?id=50309> 	Carnegie Mellon University 	1984
+Fitch, Joseph <id.php?id=135343> 	Princeton University 	1984
+Flam, Sjur <id.php?id=35995> 	University of Delaware 	1984
+Fleming, Charles <id.php?id=24964> 	The University of North Carolina at
+Chapel Hill 	1984
+Fletcher, Evan <id.php?id=43160> 	University of California, San Diego 	1984
+Fletcher, Raymond <id.php?id=2083> 	Emory University 	1984
+Foddy, Marjorie <id.php?id=44474> 	Stanford University 	1984
+Forbus, Kenneth <id.php?id=41374> 	Massachusetts Institute of
+Technology 	1984
+Fortune, Barry <id.php?id=32762> 	University of California, Berkeley 	1984
+Foster, Michael <id.php?id=50310> 	Carnegie Mellon University 	1984
+Fowler, Joel <id.php?id=11938> 	California Institute of Technology 	1984
+Frangos, Nicholas <id.php?id=10704> 	The Ohio State University 	1984
+Frank, Paul <id.php?id=154119> 	University of Colorado at Boulder 	1984
+Frantz, Deborah <id.php?id=2094> 	Lehigh University 	1984
+Franzosa, Robert <id.php?id=9939> 	University of Wisconsin-Madison 	1984
+Freudenberg, James <id.php?id=133748> 	University of Illinois at
+Urbana-Champaign 	1984
+Friedland, Lewis <id.php?id=2099> 	Lehigh University 	1984
+Froelich, John <id.php?id=2100> 	University of Iowa 	1984
+Frohman, Charles <id.php?id=2101> 	Indiana University 	1984
+Fu, Joseph <id.php?id=65287> 	Massachusetts Institute of Technology 	1984
+Fuchs, Ronald <id.php?id=7035> 	Air Force Institute of Technology 	1984
+Fuhrmann, Daniel <id.php?id=103376> 	Princeton University 	1984
+Fulton, Scott <id.php?id=40767> 	Colorado State University 	1984
+Gallavan, Rosemary <id.php?id=46889> 	University of California,
+Riverside 	1984
+Gao, Zhiyong <id.php?id=1181> 	State University of New York at Stony
+Brook 	1984
+Garcia, Sonia <id.php?id=51734> 	The University of Chicago 	1984
+Gary, James <id.php?id=943> 	University of Illinois at
+Urbana-Champaign 	1984
+Garzon, Maximiliano <id.php?id=935> 	University of Illinois at
+Urbana-Champaign 	1984
+Gass, Michael <id.php?id=143812> 	The Pennsylvania State University 	1984
+Gasser, Leslie <id.php?id=135186> 	University of California, Irvine 	1984
+Gavasakar, Umesh <id.php?id=42484> 	Carnegie Mellon University 	1984
+Gayek, Jonathan <id.php?id=81623> 	University of Arizona 	1984
+Ghosh, Ranjan <id.php?id=131860> 	State University of New York at Stony
+Brook 	1984
+Ghysels, Eric <id.php?id=62710> 	Northwestern University 	1984
+Giacalone, Alessandro <id.php?id=105617> 	Brown University 	1984
+Gibert, Stephen <id.php?id=8797> 	University of South Florida 	1984
+Gilbert, George <id.php?id=22511> 	Harvard University 	1984
+Gimbel, John <id.php?id=8510> 	Western Michigan University 	1984
+Gimotty, Phyllis <id.php?id=35377> 	University of Michigan 	1984
+Gischer, Jay <id.php?id=62469> 	Stanford University 	1984
+Glover, James <id.php?id=20282> 	Auburn University 	1984
+Godbole, Anant <id.php?id=106423> 	Michigan State University 	1984
+Goeters, Herman <id.php?id=38653> 	The University of Connecticut 	1984
+Gokhale, Sudhir <id.php?id=15776> 	University of Kansas 	1984
+Golden, Kenneth <id.php?id=33192> 	New York University 	1984
+Goldsman, David <id.php?id=85064> 	Cornell University 	1984
+Goldstein, Larry <id.php?id=43183> 	University of California, San
+Diego 	1984
+Goldwasser, Shafrira <id.php?id=35879> 	University of California,
+Berkeley 	1984
+Gompf, Robert <id.php?id=13160> 	University of California, Berkeley 	1984
+Gonzalez, Fulton <id.php?id=53284> 	Massachusetts Institute of
+Technology 	1984
+Goodlow, Janis <id.php?id=41856> 	Virginia Commonwealth University 	1984
+Gordon, Michael <id.php?id=104158> 	University of Michigan 	1984
+Goroff, Daniel <id.php?id=167007> 	Princeton University 	1984
+Gossett, Eric <id.php?id=45214> 	University of Arizona 	1984
+Grabner, Elise <id.php?id=2145> 	Ohio University 	1984
+Gracewski, Sheryl <id.php?id=107257> 	University of California,
+Berkeley 	1984
+Grant, Caroline <id.php?id=69273> 	Massachusetts Institute of
+Technology 	1984
+Green, Steven <id.php?id=7257> 	Brown University 	1984
+Green, Timothy <id.php?id=51811> 	Stanford University 	1984
+Greene, John <id.php?id=41450> 	University of Minnesota-Minneapolis 	1984
+Greengard, Claude <id.php?id=31568> 	University of California,
+Berkeley 	1984
+Gregory-Allen, Richard <id.php?id=63458> 	Massachusetts Institute of
+Technology 	1984
+Grinstein Aks, Benjamin <id.php?id=105728> 	Harvard University 	1984
+Grove, John <id.php?id=10708> 	The Ohio State University 	1984
+Gubbi, Ananda <id.php?id=45253> 	The University of Memphis 	1984
+Guess, Frank <id.php?id=1404> 	The Florida State University 	1984
+Guessoum, Abderrezak <id.php?id=175748> 	Georgia Institute of
+Technology 	1984
+Guo, Mao-zheng <id.php?id=33206> 	New York University 	1984
+Gurevich, Mikhail <id.php?id=87917> 	Harvard University 	1984
+Guttman, Antonin <id.php?id=80284> 	University of California, Berkeley 	1984
+Guttman, Joshua <id.php?id=135374> 	The University of Chicago 	1984
+Haddad, Ziad <id.php?id=65143> 	Massachusetts Institute of Technology 	1984
+Hadi, Ali <id.php?id=40780> 	New York University 	1984
+Haiman, Mark <id.php?id=18003> 	Massachusetts Institute of Technology 	1984
+Haimo, Varda <id.php?id=129971> 	Harvard University 	1984
+Haj-Jafar, Ali <id.php?id=15476> 	Michigan State University 	1984
+Hakawati, Abdallah <id.php?id=2179> 	Lehigh University 	1984
+Haken, Armin <id.php?id=150999> 	University of Illinois at
+Urbana-Champaign 	1984
+Halbert, Daniel <id.php?id=120382> 	University of California, Berkeley 	1984
+Halsey, Mark <id.php?id=38732> 	Dartmouth College 	1984
+Halsey, Thomas <id.php?id=117672> 	Harvard University 	1984
+Halvorsen, Katherine <id.php?id=100438> 	Harvard University 	1984
+Han, Sangyong <id.php?id=120147> 	University of Minnesota-Minneapolis 	1984
+Han, Yongsheng <id.php?id=2966> 	Washington University in St. Louis 	1984
+Harabetian, Eduard <id.php?id=48825> 	University of California, Los
+Angeles 	1984
+Hare, Rufus <id.php?id=52825> 	The University of North Carolina at
+Chapel Hill 	1984
+Harmon, Dennis <id.php?id=93007> 	The University of Oklahoma 	1984
+Haroun, Ahmed <id.php?id=157339> 	University of Pennsylvania 	1984
+Harper, James <id.php?id=36912> 	University of Oregon 	1984
+Harshman, Alan <id.php?id=108654> 	Massachusetts Institute of
+Technology 	1984
+Hartsfield, Nora <id.php?id=1528> 	University of California, Santa
+Cruz 	1984
+Hartvigsen, David <id.php?id=160299> 	Carnegie Mellon University 	1984
+Hartz, David <id.php?id=36709> 	Duke University 	1984
+Hashimi, Jamil <id.php?id=4607> 	University of Illinois at
+Urbana-Champaign 	1984
+Hassan, Syed <id.php?id=86641> 	Stanford University 	1984
+Hastie, Trevor <id.php?id=18728> 	Stanford University 	1984
+Hatziafratis, Telemachos <id.php?id=9940> 	University of
+Wisconsin-Madison 	1984
+Haughton, Dominique <id.php?id=69369> 	Massachusetts Institute of
+Technology 	1984
+Haussermann, John <id.php?id=17110> 	University of California, Santa
+Barbara 	1984
+Hawrusik, Frank <id.php?id=70235> 	Rutgers University, New Brunswick 	1984
+Heeren, Timothy <id.php?id=69736> 	Boston University Graduate School 	1984
+Heid, M. Kathleen <id.php?id=90837> 	University of Maryland College
+Park 	1984
+Heliotis, James <id.php?id=101422> 	The University of Rochester 	1984
+Hellerstein, Joe <id.php?id=116880> 	University of California, Los
+Angeles 	1984
+Hellerstein, Nathaniel <id.php?id=31789> 	University of California,
+Berkeley 	1984
+Helou, Charles <id.php?id=75393> 	Cornell University 	1984
+Heltai, Blaise <id.php?id=1182> 	State University of New York at Stony
+Brook 	1984
+Hembree, Clyde <id.php?id=3878> 	University of Tennessee - Knoxville 	1984
+Hemmeter, Joseph <id.php?id=10700> 	The Ohio State University 	1984
+Henry, David <id.php?id=83234> 	Stanford University 	1984
+Henry, Robert <id.php?id=110499> 	University of California, Berkeley 	1984
+Herlihy, Maurice <id.php?id=86210> 	Massachusetts Institute of
+Technology 	1984
+Herron, David <id.php?id=7106> 	University of Michigan 	1984
+Hester, Robert <id.php?id=52482> 	North Carolina State University 	1984
+Hillis, Stephen <id.php?id=128294> 	University of Iowa 	1984
+Hirst, Graeme <id.php?id=67142> 	Brown University 	1984
+Hislop, Peter <id.php?id=6857> 	University of California, Berkeley 	1984
+Ho, Lop-Hing <id.php?id=36296> 	Princeton University 	1984
+Ho, Siu <id.php?id=89358> 	University of Minnesota-Minneapolis 	1984
+Hochwald, Scott <id.php?id=32495> 	University of California, Berkeley 	1984
+Hoeflin, David <id.php?id=168> 	Iowa State University 	1984
+Hoffman, Daniel <id.php?id=163655> 	The University of North Carolina at
+Chapel Hill 	1984
+Hogan, Michael <id.php?id=83233> 	Stanford University 	1984
+Hollister, Robert <id.php?id=3481> 	University of Montana 	1984
+Hollot, Christopher <id.php?id=18738> 	The University of Rochester 	1984
+Hong, Yiming <id.php?id=10706> 	The Ohio State University 	1984
+Hopkins, Michael <id.php?id=5672> 	Northwestern University 	1984
+Hopp, Wallace <id.php?id=24225> 	University of Michigan 	1984
+Hornig, David <id.php?id=50166> 	Carnegie Mellon University 	1984
+Houchens, Robert <id.php?id=51133> 	University of California,
+Riverside 	1984
+House, Donald <id.php?id=37189> 	University of Massachusetts Amherst 	1984
+Hrees, Robert (Boh) <id.php?id=123341> 	Indiana University 	1984
+Hsieh, June <id.php?id=33281> 	New York University 	1984
+Hsing, Tailen <id.php?id=47514> 	The University of North Carolina at
+Chapel Hill 	1984
+Hsu, Elton (Pei) <id.php?id=15172> 	Stanford University 	1984
+Hsu, Meichun <id.php?id=74066> 	Massachusetts Institute of Technology 	1984
+Huang, Ming-Deh <id.php?id=82102> 	Princeton University 	1984
+Huang, Syni-an <id.php?id=59040> 	Carnegie Mellon University 	1984
+Hudson, Steven <id.php?id=86588> 	The University of Chicago 	1984
+Huh, Myung-Hoe <id.php?id=83232> 	Stanford University 	1984
+Hunsberger, Lester <id.php?id=4770> 	Northwestern University 	1984
+Huotari, Robert <id.php?id=71350> 	Colorado State University 	1984
+Hurd, Spencer <id.php?id=5598> 	University of Georgia 	1984
+Hurley, Susan <id.php?id=36914> 	State University of New York at
+Albany 	1984
+Hurwitz, Carol <id.php?id=35579> 	City University of New York 	1984
+Huslak, Nicholas <id.php?id=67185> 	State University of New York at
+Stony Brook 	1984
+Hwang, Hai <id.php?id=131635> 	University of Texas at Austin 	1984
+Hwang, Shang-Shouq <id.php?id=78957> 	University of Maryland College
+Park 	1984
+Inoue, Hiroshi <id.php?id=41791> 	University of South Carolina 	1984
+Irish, Norman <id.php?id=111943> 	Wayne State University 	1984
+Israel, Karen <id.php?id=175194> 	Duke University 	1984
+Iwuoha, Hyacinth <id.php?id=95761> 	State University of New York at
+Buffalo 	1984
+Jacobson, Patricia <id.php?id=87154> 	University of Washington 	1984
+Janssen, Imke <id.php?id=34535> 	University of California, Berkeley 	1984
+Jarnigan, Richard <id.php?id=35506> 	City University of New York 	1984
+Jelihovschi, Enio <id.php?id=34340> 	University of California,
+Berkeley 	1984
+Jennings, George <id.php?id=48719> 	University of California, Los
+Angeles 	1984
+Jensen, Robert <id.php?id=161946> 	University of Georgia 	1984
+Jensen, Thomas <id.php?id=20068> 	University of Utah 	1984
+Jobe, John <id.php?id=58602> 	Iowa State University 	1984
+Johnson, Jean <id.php?id=166> 	Iowa State University 	1984
+Johnson, Roger <id.php?id=31095> 	University of California, San Diego 	1984
+Judson, Thomas <id.php?id=12871> 	University of Oregon 	1984
+Kabadi, Santosh <id.php?id=113760> 	University of Texas at Dallas 	1984
+Kalantari, Bahman <id.php?id=70192> 	University of
+Minnesota-Minneapolis 	1984
+Kalish, Diane <id.php?id=35568> 	City University of New York 	1984
+Kamiyama, Angelica <id.php?id=92756> 	Rensselaer Polytechnic Institute 	1984
+Kan, Ittai <id.php?id=34694> 	University of Illinois at
+Urbana-Champaign 	1984
+Kandri-Rody, Abdelillah <id.php?id=86609> 	Rensselaer Polytechnic
+Institute 	1984
+Kane, Rajiv <id.php?id=120146> 	University of Minnesota-Minneapolis 	1984
+Kang, Keebom <id.php?id=79100> 	Purdue University 	1984
+Kaplan, Edward <id.php?id=184607> 	Massachusetts Institute of
+Technology 	1984
+Kaplan, Jules <id.php?id=101812> 	Illinois Institute of Technology 	1984
+Karimlou, Kamran <id.php?id=182668> 	University of Southern California 	1984
+Karr, Michael <id.php?id=78667> 	Harvard University 	1984
+Kaschube, Paul <id.php?id=43214> 	University of California, San Diego 	1984
+Kass, Steven <id.php?id=9941> 	University of Wisconsin-Madison 	1984
+Katsuura, Hidefumi <id.php?id=35999> 	University of Delaware 	1984
+Katz, Barry <id.php?id=35376> 	University of Michigan 	1984
+Katz, Mikhail <id.php?id=37512> 	Columbia University 	1984
+Kaylor, Ernest <id.php?id=90905> 	University of Maryland College Park 	1984
+Kazar, Michael <id.php?id=89904> 	Carnegie Mellon University 	1984
+Kazerounian, Kazem <id.php?id=39572> 	University of Illinois at
+Chicago 	1984
+Keith, Verena <id.php?id=30570> 	Tulane University 	1984
+Kemp, Paul <id.php?id=43136> 	University of California, San Diego 	1984
+Kengmana, Thongchai <id.php?id=44608> 	Harvard University 	1984
+Kennedy, Thomas <id.php?id=16352> 	University of Virginia 	1984
+Kessler, Peter <id.php?id=120383> 	University of California, Berkeley 	1984
+Keutzer, Kurt <id.php?id=148266> 	Indiana University 	1984
+Keyes, David <id.php?id=39446> 	Harvard University 	1984
+Kezouh, Abbas <id.php?id=83595> 	University of Florida 	1984
+Khabazian, Hossain <id.php?id=48869> 	University of California, Los
+Angeles 	1984
+Khajeh-Khalili, Parviz <id.php?id=7107> 	University of Michigan 	1984
+Khandoker, Jalal <id.php?id=154563> 	Missouri University of Science and
+Technology 	1984
+Kharab, Abdelwahab <id.php?id=145569> 	Oregon State University 	1984
+Khoshafian, Setrag <id.php?id=78551> 	University of Wisconsin-Madison 	1984
+Kim, Byung <id.php?id=47248> 	The University of North Carolina at Chapel
+Hill 	1984
+Kim, Hae <id.php?id=139959> 	University of New Mexico 	1984
+Kim, Hea-Jung <id.php?id=46888> 	University of California, Riverside 	1984
+Kim, Jae <id.php?id=130725> 	Massachusetts Institute of Technology 	1984
+Kim, Jai Young <id.php?id=42369> 	University of Michigan 	1984
+Kim, Kang-Kyun <id.php?id=91797> 	Virginia Polytechnic Institute and
+State University 	1984
+Kim, Kwang <id.php?id=89079> 	State University of New York at Stony
+Brook 	1984
+Kim, Young <id.php?id=48721> 	University of California, Los Angeles 	1984
+King, Christopher <id.php?id=73853> 	Harvard University 	1984
+King, Gary <id.php?id=79543> 	University of Wisconsin-Madison 	1984
+King, Jonathan <id.php?id=44515> 	Stanford University 	1984
+Kinsey, L. <id.php?id=24020> 	University of Maryland College Park 	1984
+Klespis, Mark <id.php?id=45596> 	University of Texas at Austin 	1984
+Klingler, Lee <id.php?id=9942> 	University of Wisconsin-Madison 	1984
+Kloosterman, Peter <id.php?id=52237> 	University of Wisconsin-Madison 	1984
+Knickerbocker, C. <id.php?id=49202> 	Clarkson University 	1984
+Ko, Ki Hyoung <id.php?id=36808> 	Brandeis University 	1984
+Kokoska, Stephen <id.php?id=6709> 	University of New Hampshire 	1984
+Kondopirakis, Emanuel <id.php?id=33280> 	New York University 	1984
+Koniges, Alice <id.php?id=106468> 	Princeton University 	1984
+Kortas, Ricardo <id.php?id=87254> 	Stanford University 	1984
+Koschat, Martin <id.php?id=80018> 	University of Wisconsin-Madison 	1984
+Krackhardt, David <id.php?id=144753> 	University of California, Irvine 	1984
+Kreher, Donald <id.php?id=3723> 	University of Nebraska-Lincoln 	1984
+Krenz, Gary <id.php?id=169> 	Iowa State University 	1984
+Ku, Jong-Min <id.php?id=10701> 	The Ohio State University 	1984
+Kuga, Ken'ichi <id.php?id=45605> 	University of Texas at Austin 	1984
+Kuhn, Nathaniel <id.php?id=85455> 	Princeton University 	1984
+Kung, Kenneth <id.php?id=183640> 	University of California, Los
+Angeles 	1984
+Kunkel, Paul <id.php?id=13571> 	Northwestern University 	1984
+Kurihara, Eiji <id.php?id=1743> 	University of Florida 	1984
+Kurose, James <id.php?id=76226> 	Columbia University 	1984
+Kwon, Hyuck <id.php?id=124864> 	University of Michigan 	1984
+Kwong, Ying-Chuen <id.php?id=9943> 	University of Wisconsin-Madison 	1984
+Lahiff, Maureen <id.php?id=99536> 	The University of Chicago 	1984
+Lai, Chun-Liang <id.php?id=142639> 	Case Western Reserve University 	1984
+Lam, Miu-to <id.php?id=167488> 	Iowa State University 	1984
+Lang, Daniel <id.php?id=121022> 	California Institute of Technology 	1984
+Larson, Suzanne <id.php?id=24306> 	Claremont Graduate University 	1984
+Lasaga, Fernando <id.php?id=63432> 	Massachusetts Institute of
+Technology 	1984
+Latiolais, Paul <id.php?id=43332> 	Tulane University 	1984
+Lau, Chiping <id.php?id=89204> 	University of Minnesota-Minneapolis 	1984
+Lawrence, Larry <id.php?id=84728> 	State University of New York at
+Binghamton 	1984
+Lawson, John <id.php?id=10746> 	Polytechnic University 	1984
+Lea, Cheun-der <id.php?id=2367> 	Indiana University 	1984
+Leavelle, Tommy <id.php?id=10824> 	University of North Texas 	1984
+Lee, Carl <id.php?id=128445> 	Iowa State University 	1984
+Lee, Cheng-Shyong <id.php?id=11026> 	Washington State University 	1984
+Lee, Kwang <id.php?id=11029> 	Washington State University 	1984
+Lee, M.-S. Carl <id.php?id=108911> 	Iowa State University 	1984
+Lee, Sang <id.php?id=2375> 	The Florida State University 	1984
+Lee, Sang <id.php?id=130019> 	University of Pennsylvania 	1984
+Lee, Sing-Ling <id.php?id=116006> 	University of Texas at Dallas 	1984
+Lee, Tien-You <id.php?id=9944> 	University of Wisconsin-Madison 	1984
+Lee, Yong <id.php?id=130018> 	University of Pennsylvania 	1984
+Leemis, Lawrence <id.php?id=56331> 	Purdue University 	1984
+Lehman, Philip <id.php?id=50311> 	Carnegie Mellon University 	1984
+Lenk, Peter <id.php?id=42370> 	University of Michigan 	1984
+Levenberg, Norman <id.php?id=7108> 	University of Michigan 	1984
+Levy, Bruce <id.php?id=7309> 	University of Michigan 	1984
+Leyton, Michael <id.php?id=103726> 	University of California, Berkeley 	1984
+Li, Hon <id.php?id=95744> 	University of Washington 	1984
+Li, Kuo-Cheng <id.php?id=81900> 	Purdue University 	1984
+Li, Xiaobo <id.php?id=72395> 	Michigan State University 	1984
+Liang, Tachen <id.php?id=44037> 	Purdue University 	1984
+Lien, Magnhild <id.php?id=2397> 	University of Iowa 	1984
+Lin, Edward <id.php?id=66330> 	University of Iowa 	1984
+Lin, Kai-Ching <id.php?id=48624> 	University of California, Los
+Angeles 	1984
+Lin, Woei <id.php?id=49388> 	University of Maryland Baltimore County 	1984
+Lindgren, Terence <id.php?id=6007> 	Rutgers University, New Brunswick 	1984
+Lindsay, Peter <id.php?id=936> 	University of Illinois at
+Urbana-Champaign 	1984
+Lioutas, Theodore <id.php?id=127625> 	University of Illinois at
+Urbana-Champaign 	1984
+Lipshutz, Robert <id.php?id=31819> 	University of California, Berkeley 	1984
+Lipton, Gary <id.php?id=113235> 	The University of North Carolina at
+Chapel Hill 	1984
+Lo, Andrew <id.php?id=63754> 	Harvard University 	1984
+Lo, Libo <id.php?id=99152> 	University of Michigan 	1984
+Lo, Libo <id.php?id=7109> 	University of Michigan 	1984
+Lok, Walter <id.php?id=37529> 	Columbia University 	1984
+Long, Douglas <id.php?id=82103> 	Princeton University 	1984
+Long, John <id.php?id=15473> 	Michigan State University 	1984
+Lorber, Peter <id.php?id=129413> 	Massachusetts Institute of
+Technology 	1984
+Lowe, James <id.php?id=74430> 	Georgia Institute of Technology 	1984
+Lu, Stephen <id.php?id=41463> 	Carnegie Mellon University 	1984
+Lu, Wu-Sheng <id.php?id=72034> 	University of Minnesota-Minneapolis 	1984
+Lubarsky, Robert <id.php?id=63908> 	Massachusetts Institute of
+Technology 	1984
+Lucas, Bruce <id.php?id=50211> 	Carnegie Mellon University 	1984
+Luksic, Mladen <id.php?id=50789> 	Texas Tech University 	1984
+Lyngbaek, Peter <id.php?id=85131> 	University of Southern California 	1984
+Lyubeznik, Gennady <id.php?id=22649> 	Columbia University 	1984
+MacLeish, Nanda <id.php?id=127007> 	University of Georgia 	1984
+Madras, Neal <id.php?id=31301> 	Cornell University 	1984
+Magness, Carolyn <id.php?id=6703> 	University of New Hampshire 	1984
+Magnuson, Alan <id.php?id=62545> 	Massachusetts Institute of
+Technology 	1984
+Mahaney, Lou <id.php?id=125849> 	University of Texas at Arlington 	1984
+Mahmoud, Hosam <id.php?id=61480> 	The Ohio State University 	1984
+Mairson, Harry <id.php?id=100754> 	Stanford University 	1984
+Majer, Vaclav <id.php?id=96331> 	University of Maryland College Park 	1984
+Manogue, Corinne <id.php?id=37063> 	University of Texas at Austin 	1984
+Mansfield, Edward <id.php?id=50435> 	University of Washington 	1984
+Mansfield, Helen <id.php?id=165914> 	University of Georgia 	1984
+Marafino, John <id.php?id=41693> 	University of Wisconsin-Milwaukee 	1984
+Martin, Mary <id.php?id=113055> 	The University of North Carolina at
+Chapel Hill 	1984
+Martinec, Emil <id.php?id=119191> 	Cornell University 	1984
+Marzullo, Keith <id.php?id=51771> 	Stanford University 	1984
+Mata, Jose <id.php?id=82105> 	Princeton University 	1984
+Mata-Toledo, Ramon <id.php?id=81020> 	Kansas State University 	1984
+Maughmer, Mark <id.php?id=117997> 	University of Illinois at
+Urbana-Champaign 	1984
+Mauritsen, Robert <id.php?id=93069> 	University of Washington 	1984
+May, Sheryl <id.php?id=59058> 	Carnegie Mellon University 	1984
+Mazur, Mark <id.php?id=36874> 	University of Notre Dame 	1984
+McArthur, Ian <id.php?id=105737> 	Harvard University 	1984
+McCallum, Scott <id.php?id=78542> 	University of Wisconsin-Madison 	1984
+McCallum, William <id.php?id=22512> 	Harvard University 	1984
+McCutheon, John <id.php?id=106646> 	Indiana University 	1984
+McKusick, M. Kirk <id.php?id=120384> 	University of California,
+Berkeley 	1984
+McLeod, Kevin <id.php?id=2473> 	University of Minnesota-Minneapolis 	1984
+Meacham, Stephen <id.php?id=135752> 	Massachusetts Institute of
+Technology 	1984
+Meehan, James <id.php?id=42410> 	University of Illinois at Chicago 	1984
+Meerschaert, Mark <id.php?id=7110> 	University of Michigan 	1984
+Megginson, Robert <id.php?id=4199> 	University of Illinois at
+Urbana-Champaign 	1984
+Megory-Cohen, Igal <id.php?id=32443> 	University of California,
+Berkeley 	1984
+Meier, Kathleen <id.php?id=36026> 	University of Delaware 	1984
+Melolidakis, Constantine <id.php?id=48677> 	University of California,
+Los Angeles 	1984
+Menninga, Nadine <id.php?id=3923> 	University of Illinois at
+Urbana-Champaign 	1984
+Merkle, Milan <id.php?id=84184> 	Michigan State University 	1984
+Messer, Thomas <id.php?id=175195> 	Duke University 	1984
+Metzen, Gerhard <id.php?id=1529> 	University of California, Santa Cruz 	1984
+Meyerowitz, Aaron <id.php?id=92762> 	Colorado State University 	1984
+Miazaki, Edina <id.php?id=48119> 	Iowa State University 	1984
+Micheli, Lucio <id.php?id=175193> 	Duke University 	1984
+Mifflin, Thomas <id.php?id=25439> 	The George Washington University 	1984
+Mikolic-Torreira, Igor <id.php?id=10477> 	California Institute of
+Technology 	1984
+Miller, Alice <id.php?id=36775> 	Brandeis University 	1984
+Miller, Barton <id.php?id=82210> 	University of California, Berkeley 	1984
+Miller, Michael <id.php?id=145090> 	The University of Rochester 	1984
+Miller, Russ <id.php?id=63940> 	State University of New York at
+Binghamton 	1984
+Mio, Washington <id.php?id=33812> 	New York University 	1984
+Mishkin, Nathaniel <id.php?id=78100> 	Yale University 	1984
+Mitchell, John <id.php?id=2435> 	Massachusetts Institute of Technology 	1984
+Modi, Vijay <id.php?id=162058> 	Cornell University 	1984
+Mohseni Moghadam, Mahmoud <id.php?id=15475> 	Michigan State University 	1984
+Moll, Victor <id.php?id=33282> 	New York University 	1984
+Moon, Sang <id.php?id=66396> 	University of California, Los Angeles 	1984
+Morita, June <id.php?id=34458> 	University of California, Berkeley 	1984
+Moser, Robert <id.php?id=79251> 	Stanford University 	1984
+Moss, Lawrence <id.php?id=46541> 	University of California, Los
+Angeles 	1984
+Moussavi, Saadat <id.php?id=3442> 	University of California, Riverside 	1984
+Muder, Douglas <id.php?id=86587> 	The University of Chicago 	1984
+Muganda, Godfrey <id.php?id=2510> 	Lehigh University 	1984
+Mullhaupt, Andrew <id.php?id=33579> 	New York University 	1984
+Munroe, Carol <id.php?id=36743> 	Brandeis University 	1984
+Murphy, Patricia <id.php?id=65184> 	Purdue University 	1984
+Nagata, K. Wayne <id.php?id=25281> 	Colorado State University 	1984
+Namazi, Javad <id.php?id=2520> 	Indiana University 	1984
+Narendran, Paliath <id.php?id=86876> 	Rensselaer Polytechnic Institute 	1984
+Nassar, Mostafa <id.php?id=180391> 	State University of New York at
+Buffalo 	1984
+Ncube, Matoteng <id.php?id=90444> 	University of Louisiana at
+Lafayette 	1984
+Necochea, Alejandro <id.php?id=47342> 	University of Massachusetts
+Amherst 	1984
+Neidinger, Richard <id.php?id=45604> 	University of Texas at Austin 	1984
+Nelson, Ann <id.php?id=105738> 	Harvard University 	1984
+Nelson, Philip <id.php?id=131172> 	Harvard University 	1984
+Nemzer, Dennis <id.php?id=17099> 	University of California, Santa
+Barbara 	1984
+Ng, Judith (Kan) <id.php?id=29538> 	University of California, Berkeley 	1984
+Nicolau, Alexandru <id.php?id=81629> 	Yale University 	1984
+Nievergelt, Yves <id.php?id=28134> 	University of Washington 	1984
+Nikhil, Rishiyur <id.php?id=24481> 	University of Pennsylvania 	1984
+Norfolk, Timothy <id.php?id=11151> 	Kent State University 	1984
+Notkin, David <id.php?id=50230> 	Carnegie Mellon University 	1984
+O'Brien, Fanny <id.php?id=35281> 	Princeton University 	1984
+Ogle, Crichton <id.php?id=36794> 	Brandeis University 	1984
+O'Gorman, Mary <id.php?id=91801> 	Virginia Polytechnic Institute and
+State University 	1984
+O'Hara, Kathleen <id.php?id=31948> 	University of California, Berkeley 	1984
+Okoronkwo, Emmanuel <id.php?id=45603> 	University of Texas at Austin 	1984
+Olson, David <id.php?id=140011> 	University of Oregon 	1984
+Ombe, Hitoshi <id.php?id=177805> 	University of New Mexico 	1984
+Omiecinski, Edward <id.php?id=78243> 	Northwestern University 	1984
+Omodeo, Eugenio <id.php?id=141812> 	New York University 	1984
+Ong, Michael <id.php?id=71365> 	State University of New York at Stony
+Brook 	1984
+Onsiper, Hursit <id.php?id=32469> 	University of California, Berkeley 	1984
+Opaswongkarn, Kongkiat <id.php?id=100537> 	University of Pennsylvania 	1984
+Oprea, Janeal <id.php?id=122184> 	The Ohio State University 	1984
+Opsut, Robert <id.php?id=6008> 	Rutgers University, New Brunswick 	1984
+Ortland, David <id.php?id=7111> 	University of Michigan 	1984
+Ossiander, Mina <id.php?id=26395> 	University of Washington 	1984
+Ostrouchov, George <id.php?id=65141> 	Iowa State University 	1984
+Overton, Kenneth <id.php?id=15232> 	University of Massachusetts
+Amherst 	1984
+Owens, Margaret <id.php?id=12525> 	University of Oregon 	1984
+Ozaydin, Murad <id.php?id=16562> 	Purdue University 	1984
+Palazzo, Jr., Reginaldo <id.php?id=66395> 	University of California, Los
+Angeles 	1984
+Panagopoulos, Haralambos <id.php?id=163684> 	Massachusetts Institute of
+Technology 	1984
+Paranjape, Manu <id.php?id=176799> 	Massachusetts Institute of
+Technology 	1984
+Pareja, Gilda <id.php?id=128446> 	Iowa State University 	1984
+Park, Changsoon <id.php?id=91798> 	Virginia Polytechnic Institute and
+State University 	1984
+Parsons, John <id.php?id=9533> 	New Mexico State University 	1984
+Patel, Apoorva <id.php?id=114527> 	California Institute of Technology 	1984
+Patterson, David <id.php?id=7060> 	University of Iowa 	1984
+Patterson, Ronald <id.php?id=41789> 	University of South Carolina 	1984
+Pavlicek, Glenn <id.php?id=54494> 	Northeastern University 	1984
+Pearl, Dennis <id.php?id=34659> 	University of California, Berkeley 	1984
+Pearn, Wen-Lea <id.php?id=97356> 	University of Maryland College Park 	1984
+Peck, Stephen <id.php?id=129970> 	Harvard University 	1984
+Pedersen, John <id.php?id=2586> 	Emory University 	1984
+Pelletier, Dominique <id.php?id=67985> 	Virginia Polytechnic Institute
+and State University 	1984
+Penati, A. <id.php?id=151922> 	The University of Chicago 	1984
+Perez-Esteva, Salvador <id.php?id=11027> 	Washington State University 	1984
+Perkins, Laura <id.php?id=83596> 	University of Florida 	1984
+Perline, Ronald <id.php?id=31763> 	University of California, Berkeley 	1984
+Permutt, Thomas <id.php?id=34645> 	University of California, Berkeley 	1984
+Perry, Robert J. <id.php?id=188696> 	University of Maryland College
+Park 	1984
+Perry, Zollie <id.php?id=104170> 	University of Michigan 	1984
+Petersen, Ian <id.php?id=137148> 	The University of Rochester 	1984
+Pfaff, John <id.php?id=53529> 	Clemson University 	1984
+Pfister, Richard <id.php?id=6011> 	Rutgers University, New Brunswick 	1984
+Phillips, Donald <id.php?id=101148> 	University of Colorado at Boulder 	1984
+Phillips, N. Christopher <id.php?id=12914> 	University of California,
+Berkeley 	1984
+Phillips, Tsaiyun <id.php?id=78878> 	University of Maryland College
+Park 	1984
+Pick, Roger <id.php?id=140807> 	Purdue University 	1984
+Pickering, Douglas <id.php?id=43084> 	University of Hawaii 	1984
+Pickrell, Douglas <id.php?id=45133> 	University of Arizona 	1984
+Piegorsch, Walter <id.php?id=41522> 	Cornell University 	1984
+Pieptea, Daniel <id.php?id=86314> 	University of California, Los
+Angeles 	1984
+Pignataro, Thea <id.php?id=128672> 	Princeton University 	1984
+Pinto Carvalho, Paulo <id.php?id=70460> 	Cornell University 	1984
+Pittaluga, Marilena <id.php?id=7852> 	Columbia University 	1984
+Platt, Mary <id.php?id=36814> 	Brandeis University 	1984
+Poffald, Esteban <id.php?id=8935> 	University of Southern California 	1984
+Pollard, Carl <id.php?id=105622> 	Stanford University 	1984
+Pong, Ting-Chuen <id.php?id=105344> 	Virginia Polytechnic Institute and
+State University 	1984
+Ponte, Joao <id.php?id=151267> 	University of Georgia 	1984
+Poolla, Kameshwar <id.php?id=99227> 	University of Florida 	1984
+Porter, Bruce <id.php?id=57021> 	University of California, Irvine 	1984
+Pothen, Alex <id.php?id=57911> 	Cornell University 	1984
+Powers, Robert <id.php?id=36309> 	Virginia Polytechnic Institute and
+State University 	1984
+Presler, Dwayne <id.php?id=113444> 	The Pennsylvania State University 	1984
+Pritikin, Daniel <id.php?id=9945> 	University of Wisconsin-Madison 	1984
+Qi, Lequn <id.php?id=68303> 	University of Wisconsin-Madison 	1984
+Quandt, Juergen <id.php?id=14562> 	Brown University 	1984
+Raggi-Cardenas, Alberto <id.php?id=35314> 	University of Illinois at
+Urbana-Champaign 	1984
+Rahn, Joan <id.php?id=8511> 	Western Michigan University 	1984
+Ramanan, Prakash <id.php?id=164635> 	University of Illinois at
+Urbana-Champaign 	1984
+Rao, Ramesh <id.php?id=130794> 	University of Maryland College Park 	1984
+Rashed, Dhafir <id.php?id=91799> 	Virginia Polytechnic Institute and
+State University 	1984
+Rasp, John <id.php?id=1405> 	The Florida State University 	1984
+Rebarber, Richard <id.php?id=9946> 	University of Wisconsin-Madison 	1984
+Redlich, Arthur <id.php?id=99421> 	Massachusetts Institute of
+Technology 	1984
+Reinelt, Douglas <id.php?id=11851> 	California Institute of Technology 	1984
+Ressler, Andrew <id.php?id=80261> 	Massachusetts Institute of
+Technology 	1984
+Riazi-Kermani, Mohammad <id.php?id=15474> 	Michigan State University 	1984
+Richards, Dana <id.php?id=132750> 	University of Illinois at
+Urbana-Champaign 	1984
+Richardson, James <id.php?id=106241> 	University of California,
+Berkeley 	1984
+Richardson, Walter <id.php?id=10825> 	University of North Texas 	1984
+Ricou, Manuel <id.php?id=2653> 	University of Minnesota-Minneapolis 	1984
+Rimbey, Scott <id.php?id=48638> 	University of California, Los Angeles 	1984
+Ritter, Niles <id.php?id=46021> 	Massachusetts Institute of Technology 	1984
+Robbat, Richard <id.php?id=92004> 	University of Oregon 	1984
+Robinson, Allen <id.php?id=11852> 	California Institute of Technology 	1984
+Rodriguez, Carlos <id.php?id=28387> 	State University of New York at
+Stony Brook 	1984
+Rogers, Robert <id.php?id=49212> 	University of Maryland College Park 	1984
+Rojo, Javier <id.php?id=34578> 	University of California, Berkeley 	1984
+Rollins, Eugene <id.php?id=136335> 	State University of New York at
+Stony Brook 	1984
+Ronsse, Gregory <id.php?id=11217> 	Kansas State University 	1984
+Rosgen, Thomas <id.php?id=119248> 	California Institute of Technology 	1984
+Roten, Charles <id.php?id=45213> 	University of Arizona 	1984
+Rothstein, Mitchell <id.php?id=48605> 	University of California, Los
+Angeles 	1984
+Roundy, Robin <id.php?id=85164> 	Stanford University 	1984
+Rousseau, Thomas <id.php?id=46715> 	Rensselaer Polytechnic Institute 	1984
+Rowell, James <id.php?id=12868> 	University of Oregon 	1984
+Royer, James <id.php?id=80195> 	State University of New York at
+Buffalo 	1984
+Rudolph, Terry <id.php?id=111957> 	Wayne State University 	1984
+Rusin, David <id.php?id=24606> 	The University of Chicago 	1984
+Russell, Daniel <id.php?id=115644> 	The University of Rochester 	1984
+Russo, Paula <id.php?id=2683> 	Indiana University 	1984
+Ryan, John <id.php?id=31907> 	University of California, Berkeley 	1984
+Ryan, Kara <id.php?id=10969> 	Saint Louis University 	1984
+Ryan, Kevin <id.php?id=4467> 	Brown University 	1984
+Rywkin, Richard <id.php?id=35669> 	City University of New York 	1984
+Sabin, Michael <id.php?id=83396> 	Stanford University 	1984
+Sadowsky, John <id.php?id=67629> 	University of Wisconsin-Madison 	1984
+Sammelmann, Gary <id.php?id=45601> 	University of Texas at Austin 	1984
+Sandberg, Jonathan <id.php?id=164743> 	Rensselaer Polytechnic
+Institute 	1984
+Santini, Paolo <id.php?id=171484> 	Clarkson University 	1984
+Santos, Manuel <id.php?id=31033> 	The University of Chicago 	1984
+Saper, Leslie <id.php?id=41514> 	Princeton University 	1984
+Sarkisian, Richard <id.php?id=35507> 	City University of New York 	1984
+Sarli, John <id.php?id=1527> 	University of California, Santa Cruz 	1984
+Saunders, Gregg <id.php?id=32596> 	University of California, Berkeley 	1984
+Sawyer, Ann <id.php?id=46303> 	Boston University Graduate School 	1984
+Scheinerman, Edward <id.php?id=6748> 	Princeton University 	1984
+Schell, Michael <id.php?id=46536> 	The Florida State University 	1984
+Schnibben, Jr., George <id.php?id=15228> 	Clemson University 	1984
+Schochet, Steven <id.php?id=33801> 	New York University 	1984
+Schollenberger, John <id.php?id=83603> 	University of Florida 	1984
+Schubert, David <id.php?id=48570> 	University of California, Los
+Angeles 	1984
+Schumacher, Scott <id.php?id=48655> 	University of California, Los
+Angeles 	1984
+Schwab, Barry <id.php?id=41837> 	Virginia Commonwealth University 	1984
+Schwartz, Carla <id.php?id=144289> 	Princeton University 	1984
+Schwartz, David <id.php?id=43162> 	University of California, San Diego 	1984
+Schwartz, Shoulamit <id.php?id=14563> 	Brown University 	1984
+Schwarz, Peter <id.php?id=89906> 	Carnegie Mellon University 	1984
+Scott, Ronald <id.php?id=59131> 	The University of Chicago 	1984
+Seager, Mark <id.php?id=45606> 	University of Texas at Austin 	1984
+Sengupta, Dipendra <id.php?id=1184> 	State University of New York at
+Stony Brook 	1984
+Shabell, Barbara <id.php?id=3441> 	University of California, Riverside 	1984
+Shamir, Ron <id.php?id=98668> 	University of California, Berkeley 	1984
+Shao, Jia-Yu <id.php?id=9947> 	University of Wisconsin-Madison 	1984
+Sharif, Hani <id.php?id=120982> 	University of Tennessee - Knoxville 	1984
+Sharma, Govind <id.php?id=87738> 	University of Southern California 	1984
+Shasha, Dennis <id.php?id=69408> 	Harvard University 	1984
+Shaw, Jeng-Peng <id.php?id=140811> 	Purdue University 	1984
+Shawagfeh, Nabil <id.php?id=44626> 	Clarkson University 	1984
+Sheen, Rong-Chyu <id.php?id=10707> 	The Ohio State University 	1984
+Shelton, Chrispian <id.php?id=3004> 	University of
+Minnesota-Minneapolis 	1984
+Shemesh, Meir <id.php?id=2734> 	University of Minnesota-Minneapolis 	1984
+Shepherd, Theodore <id.php?id=149792> 	Massachusetts Institute of
+Technology 	1984
+Shi, Yuan <id.php?id=41504> 	University of Pennsylvania 	1984
+Shick, Paul <id.php?id=7697> 	Northwestern University 	1984
+Shih, Tien-Mo <id.php?id=73883> 	University of California, Berkeley 	1984
+Shing, Chen-chi <id.php?id=91800> 	Virginia Polytechnic Institute and
+State University 	1984
+Shirley, Frank <id.php?id=44826> 	University of Texas at Austin 	1984
+Shmoys, David <id.php?id=36705> 	University of California, Berkeley 	1984
+Shwartz, Adam <id.php?id=95829> 	Brown University 	1984
+Shyu, Jyh-Cherng <id.php?id=36110> 	Southern Methodist University 	1984
+Shyu, Yuh-Huei <id.php?id=101814> 	Illinois Institute of Technology 	1984
+Silberberg, Teresa <id.php?id=78958> 	University of Maryland College
+Park 	1984
+Silva, Cesar <id.php?id=113781> 	The University of Rochester 	1984
+Silva, Ramon <id.php?id=107157> 	University of California, Berkeley 	1984
+Silverberg, Alice <id.php?id=41540> 	Princeton University 	1984
+Silwa, Steven <id.php?id=141099> 	Stanford University 	1984
+Simmen, Jeffery <id.php?id=11853> 	California Institute of Technology 	1984
+Sing, Banson <id.php?id=32413> 	University of California, Berkeley 	1984
+Singer, Maria <id.php?id=24967> 	The University of North Carolina at
+Chapel Hill 	1984
+Siu, Byron <id.php?id=49318> 	California Institute of Technology 	1984
+Skolnick, Michael <id.php?id=104175> 	University of Michigan 	1984
+Skora, Richard <id.php?id=45611> 	University of Texas at Austin 	1984
+Slaminka, Edward <id.php?id=7053> 	University of Michigan 	1984
+Slavin, Charles <id.php?id=9948> 	University of Wisconsin-Madison 	1984
+Smith, Mark <id.php?id=78250> 	Georgia Institute of Technology 	1984
+Smith, Ronald <id.php?id=164> 	Iowa State University 	1984
+Smith, Stuart <id.php?id=45943> 	Yale University 	1984
+Smotherman, Mark <id.php?id=87394> 	The University of North Carolina at
+Chapel Hill 	1984
+Smyth, Noel <id.php?id=11854> 	California Institute of Technology 	1984
+Soileau, Peggy <id.php?id=43363> 	Tulane University 	1984
+Spear, Kathleen <id.php?id=65139> 	Carnegie Mellon University 	1984
+Spencer, Thomas <id.php?id=76673> 	Stanford University 	1984
+Spyropoulos, Konstantine <id.php?id=4468> 	Brown University 	1984
+Srinivas, Mandayam <id.php?id=100789> 	The Pennsylvania State
+University 	1984
+Stanley, Maurice <id.php?id=31783> 	University of California, Berkeley 	1984
+Stark, Eugene <id.php?id=81257> 	Massachusetts Institute of Technology 	1984
+Stein, Jacob <id.php?id=100906> 	State University of New York at Stony
+Brook 	1984
+Stein, Michael <id.php?id=52256> 	Stanford University 	1984
+Steiner, Donald <id.php?id=165> 	Iowa State University 	1984
+Stepp, III, Robert <id.php?id=111320> 	University of Illinois at
+Urbana-Champaign 	1984
+Stern, Alan <id.php?id=32213> 	University of California, Berkeley 	1984
+Stern, Mark <id.php?id=138160> 	Princeton University 	1984
+Sternberg, Paul <id.php?id=108907> 	Massachusetts Institute of
+Technology 	1984
+Storti, Duane <id.php?id=41756> 	Cornell University 	1984
+Stuessy, Carol <id.php?id=170000> 	The Ohio State University 	1984
+Sturm, Rachel <id.php?id=33815> 	New York University 	1984
+Sturtevant, Dean <id.php?id=64863> 	Massachusetts Institute of
+Technology 	1984
+Styer, Daniel <id.php?id=148469> 	Cornell University 	1984
+Subramaniam, T. <id.php?id=35708> 	Brandeis University 	1984
+Suciu, Alexandru <id.php?id=37530> 	Columbia University 	1984
+Suh, Dong <id.php?id=6009> 	Rutgers University, New Brunswick 	1984
+Sullilvan, Barry <id.php?id=84409> 	Princeton University 	1984
+Sullivan, Francis <id.php?id=24968> 	The University of North Carolina at
+Chapel Hill 	1984
+Sullivan, Fred <id.php?id=3250> 	The Louisiana State University 	1984
+Sultanian, Bijay <id.php?id=114223> 	Arizona State University 	1984
+Sun, Ren-ji <id.php?id=43668> 	Southern Methodist University 	1984
+Sung, Andrew <id.php?id=29941> 	State University of New York at Stony
+Brook 	1984
+Sureson, Claude <id.php?id=35605> 	City University of New York 	1984
+Sutton, Richard <id.php?id=91906> 	University of Massachusetts Amherst 	1984
+Takche, Jean <id.php?id=143073> 	The Pennsylvania State University 	1984
+Tam, Luen-Fai <id.php?id=44453> 	Stanford University 	1984
+Tamura, Roy <id.php?id=52604> 	North Carolina State University 	1984
+Tang, Kwei <id.php?id=133083> 	Purdue University 	1984
+Tanveer, Saleh <id.php?id=11855> 	California Institute of Technology 	1984
+Tekalp, A. Murat <id.php?id=119357> 	Rensselaer Polytechnic Institute 	1984
+Terzopoulos, Demetri <id.php?id=67135> 	Massachusetts Institute of
+Technology 	1984
+Tesser, Steven <id.php?id=40769> 	State University of New York at
+Albany 	1984
+Therneau, Terry <id.php?id=83231> 	Stanford University 	1984
+Thompson, Craig <id.php?id=78919> 	University of Texas at Austin 	1984
+Thorpe, Charles <id.php?id=50320> 	Carnegie Mellon University 	1984
+Thurman, Walter <id.php?id=52792> 	The University of Chicago 	1984
+Tikoo, Mohan <id.php?id=15777> 	University of Kansas 	1984
+Tomaszewski, Boguslaw <id.php?id=9949> 	University of
+Wisconsin-Madison 	1984
+Touretzky, David <id.php?id=50250> 	Carnegie Mellon University 	1984
+Tourniaire, Françoise <id.php?id=45586> 	University of California,
+Berkeley 	1984
+Trabucho de Campos, Luis <id.php?id=137698> 	University of Texas at
+Austin 	1984
+Trager, Barry <id.php?id=46865> 	Massachusetts Institute of Technology 	1984
+Tsang (曾启文), Kai Man <id.php?id=130515> 	Princeton University 	1984
+Tse, Siu-Keung <id.php?id=80017> 	University of Wisconsin-Madison 	1984
+Tuckerman, Laurette <id.php?id=69370> 	Massachusetts Institute of
+Technology 	1984
+Tulowitzki, Ulrich <id.php?id=158383> 	Yale University 	1984
+Tung, Shih-Ping <id.php?id=150953> 	University of Illinois at
+Urbana-Champaign 	1984
+Tuttle, Mark <id.php?id=138908> 	Virginia Polytechnic Institute and
+State University 	1984
+Udomkavanich, Patanee <id.php?id=170582> 	The Pennsylvania State
+University 	1984
+Ulsafer, Carol <id.php?id=3482> 	University of Montana 	1984
+Umar, Amjad <id.php?id=84855> 	University of Michigan 	1984
+Ungar, Lyle <id.php?id=123361> 	Massachusetts Institute of Technology 	1984
+Upton, Richard <id.php?id=87209> 	University of Maryland College Park 	1984
+Utgoff, Paul <id.php?id=70261> 	Rutgers University, New Brunswick 	1984
+Vakil, Nader <id.php?id=28114> 	University of Washington 	1984
+Valliant, Richard <id.php?id=49803> 	The Johns Hopkins University 	1984
+Vanderbilt, Peter <id.php?id=76624> 	Cornell University 	1984
+Vatan, Pirooz <id.php?id=69372> 	Massachusetts Institute of Technology 	1984
+Vayl, Vladimir <id.php?id=63909> 	Massachusetts Institute of
+Technology 	1984
+Vazirani, Vijay <id.php?id=78255> 	University of California, Berkeley 	1984
+Ventura, Belisario <id.php?id=31398> 	University of California,
+Berkeley 	1984
+Venugopalan, Poothampilly <id.php?id=89021> 	The University of
+Connecticut 	1984
+Verdu, Sergio <id.php?id=75417> 	University of Illinois at
+Urbana-Champaign 	1984
+Vergis, Anastasios <id.php?id=82107> 	Princeton University 	1984
+Vidaurri, Mary <id.php?id=111963> 	Wayne State University 	1984
+Viet, Ngo Nhu Phu <id.php?id=31429> 	University of California,
+Berkeley 	1984
+Wadler, Philip <id.php?id=50229> 	Carnegie Mellon University 	1984
+Wajima, Masayuki <id.php?id=10703> 	The Ohio State University 	1984
+Walker, Esteban <id.php?id=91802> 	Virginia Polytechnic Institute and
+State University 	1984
+Walsh, John <id.php?id=20162> 	Auburn University 	1984
+Walsh, Shelley <id.php?id=32496> 	University of California, Berkeley 	1984
+Walsh, Vonda <id.php?id=41832> 	Virginia Commonwealth University 	1984
+Wang, Andrew <id.php?id=81901> 	Purdue University 	1984
+Wang, Chiun <id.php?id=119988> 	California Institute of Technology 	1984
+Wasil, Jr., Edward <id.php?id=97355> 	University of Maryland College
+Park 	1984
+Waters, Charles <id.php?id=7986> 	University of Wyoming 	1984
+Weerakoon, Sunethra <id.php?id=54741> 	The Pennsylvania State
+University 	1984
+Wehe, David <id.php?id=108694> 	University of Michigan 	1984
+Wei, Tsao-Ming <id.php?id=127589> 	University of Illinois at
+Urbana-Champaign 	1984
+Weihl, William <id.php?id=67447> 	Massachusetts Institute of
+Technology 	1984
+Weiner, Daniel <id.php?id=9950> 	University of Wisconsin-Madison 	1984
+Weiss, Shlomo <id.php?id=78524> 	University of Wisconsin-Madison 	1984
+Weld, Kathryn <id.php?id=35565> 	City University of New York 	1984
+Westwood, Derek <id.php?id=7054> 	University of Michigan 	1984
+Whaley, Katharine <id.php?id=59788> 	The University of Chicago 	1984
+Widland, Carl <id.php?id=3251> 	The Louisiana State University 	1984
+Wijesinha, Manel <id.php?id=83597> 	University of Florida 	1984
+Wijewardhana, L. C. Rohana <id.php?id=99426> 	Massachusetts Institute of
+Technology 	1984
+Wildberger, Norman <id.php?id=93823> 	Yale University 	1984
+Wilkinson, Steven <id.php?id=35811> 	Rice University 	1984
+Willis, Linden <id.php?id=12870> 	University of Oregon 	1984
+Wilson, Jeffrey <id.php?id=83073> 	Iowa State University 	1984
+Wilson, Jr., James <id.php?id=90406> 	University of Georgia 	1984
+Winker, Steven <id.php?id=15237> 	University of Illinois at Chicago 	1984
+Wohn, Kwangyoen <id.php?id=78879> 	University of Maryland College Park 	1984
+Woldar, Andrew <id.php?id=10705> 	The Ohio State University 	1984
+Woldie, Mammo <id.php?id=23517> 	Oklahoma State University 	1984
+Wolf, Wayne <id.php?id=84413> 	Stanford University 	1984
+Wolfson, Ouri <id.php?id=153474> 	New York University 	1984
+Womack, James <id.php?id=17182> 	University of California, Santa
+Barbara 	1984
+Woodard, Richard <id.php?id=120448> 	Harvard University 	1984
+Woodin, William <id.php?id=11957> 	University of California, Berkeley 	1984
+Woods, Anthony <id.php?id=15849> 	Purdue University 	1984
+Worley, Dale <id.php?id=18032> 	Massachusetts Institute of Technology 	1984
+Wu, Jinn-Wen <id.php?id=4811> 	University of Illinois at
+Urbana-Champaign 	1984
+Wu, Xiao-Long <id.php?id=7853> 	Columbia University 	1984
+Wuu, Julie <id.php?id=45612> 	University of Texas at Austin 	1984
+Xaba, Busa <id.php?id=83441> 	University of Arizona 	1984
+Yahya, Adnan <id.php?id=99159> 	Northwestern University 	1984
+Yalamanchili, Sudhakar <id.php?id=78249> 	University of Texas at
+Austin 	1984
+Yang, Huey-Ju <id.php?id=107270> 	University of California, Berkeley 	1984
+Yang, Jae-Heun (Jae-Hyun) <id.php?id=32029> 	University of California,
+Berkeley 	1984
+Yang, Jin-Gen <id.php?id=53296> 	Massachusetts Institute of Technology 	1984
+Yang, Vigor <id.php?id=120954> 	California Institute of Technology 	1984
+Yang, Wei-Shih <id.php?id=75435> 	Cornell University 	1984
+Yaniro, Daniel <id.php?id=12400> 	Northwestern University 	1984
+Yetter, David <id.php?id=23088> 	University of Pennsylvania 	1984
+Yokota, Hisashi <id.php?id=11028> 	Washington State University 	1984
+Yokura, Shoji <id.php?id=5597> 	University of Georgia 	1984
+Young, Virginia <id.php?id=15837> 	University of Virginia 	1984
+Yuh, Lianng <id.php?id=150550> 	University of Iowa 	1984
+Zachariah, Thomas <id.php?id=13039> 	Claremont Graduate University 	1984
+Zand, Manoucher <id.php?id=10435> 	Adelphi University 	1984
+Zandi-Bami, Ahmad <id.php?id=32030> 	University of California,
+Berkeley 	1984
+Zekeria, Abdulkeni <id.php?id=54695> 	Howard University 	1984
+Zellweger, Polle <id.php?id=120381> 	University of California,
+Berkeley 	1984
+Zhang, Cun-Hui <id.php?id=69744> 	Columbia University 	1984
+Zhang, Zhen <id.php?id=173752> 	Cornell University 	1984
+Zou, Lihe <id.php?id=43979> 	Princeton University 	1984
+
+  * Search <search.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+
+
+The Mathematics Genealogy Project is in need of funds to help pay for
+student help and other associated costs. If you would like to
+contribute, please donate online
+<https://epayment.ndus.nodak.edu/C22800_ustores/web/product_detail.jsp?PRODUCTID=2989&SINGLESTORE=true>
+using credit card or bank transfer or mail your tax-deductible
+contribution to:
+
+Mathematics Genealogy Project
+Department of Mathematics
+North Dakota State University
+P. O. Box 6050
+Fargo, North Dakota 58108-6050
+

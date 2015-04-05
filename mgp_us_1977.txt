@@ -1,0 +1,1147 @@
+Tree <index.php>
+
+
+  Mathematics Genealogy Project
+
+  * Home <index.php>
+  * Search <search.php>
+  * Extrema <extrema.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+  * Mirrors <mirrors.php>
+      o NDSU (main) <http://www.genealogy.math.ndsu.nodak.edu/>
+      o AMS <http://www.genealogy.ams.org/>
+      o Bielefeld <http://www.math.uni-bielefeld.de/genealogy>
+      o IMPA <http://genealogy.impa.br/>
+
+A service of the NDSU <http://www.ndsu.edu/> Department of Mathematics
+<http://www.math.ndsu.nodak.edu/>, in association with the American
+Mathematical Society <http://www.ams.org/>.
+
+Your search has found 909 records in our database.
+Display results in .
+
+Abowd, John <id.php?id=149824> 	The University of Chicago 	1977
+Achilles, Eva <id.php?id=12143> 	University of Houston 	1977
+Acuna-Ortega, Osvaldo <id.php?id=38928> 	Wesleyan University 	1977
+Adeboye, Adeniran <id.php?id=168208> 	The Johns Hopkins University 	1977
+Akant, Adnan <id.php?id=170172> 	Massachusetts Institute of Technology 	1977
+Alexiades, Vasilios <id.php?id=4645> 	University of Delaware 	1977
+Al-Zaid, Hasan Ali <id.php?id=46721> 	University of California, Irvine 	1977
+Andersen, Henning <id.php?id=38672> 	Massachusetts Institute of
+Technology 	1977
+Anderson, C. Anthony <id.php?id=95309> 	University of California, Los
+Angeles 	1977
+Anderson, Robert <id.php?id=31358> 	Yale University 	1977
+Anellis, Irving <id.php?id=99330> 	Brandeis University 	1977
+Antsaklis, Panayotis (Panos) <id.php?id=142577> 	Brown University 	1977
+Apodaca, Eugene <id.php?id=31985> 	University of California, Berkeley 	1977
+Arms, Judith <id.php?id=27968> 	University of California, Berkeley 	1977
+Arnold, Gene <id.php?id=19443> 	University of Toledo 	1977
+Ash, Arlene <id.php?id=64642> 	University of Illinois at Chicago 	1977
+Atacik, Sermin <id.php?id=88972> 	Temple University 	1977
+Auger, Normand <id.php?id=103252> 	University of Vermont 	1977
+Avci, Yusuf <id.php?id=44528> 	Stanford University 	1977
+Avis, David <id.php?id=73405> 	Stanford University 	1977
+Aviv, Gary <id.php?id=1137> 	State University of New York at Stony
+Brook 	1977
+Azarnia, Nazanin <id.php?id=9868> 	University of Cincinnati 	1977
+Back, Allen <id.php?id=31913> 	University of California, Berkeley 	1977
+Bailey, Thomas <id.php?id=43118> 	University of California, San Diego 	1977
+Baily, Andrew <id.php?id=7286> 	University of Michigan 	1977
+Baker, Gregory <id.php?id=9439> 	California Institute of Technology 	1977
+Baker, Mark <id.php?id=92902> 	Massachusetts Institute of Technology 	1977
+Bakir, Saad <id.php?id=91768> 	Virginia Polytechnic Institute and State
+University 	1977
+Baldwin, James <id.php?id=51145> 	University of California, Riverside 	1977
+Ball, Michael <id.php?id=6813> 	Cornell University 	1977
+Bania, Thomas <id.php?id=178033> 	University of Virginia 	1977
+Barnes, Martha <id.php?id=9993> 	The Ohio State University 	1977
+Barraza, Daniel <id.php?id=12620> 	University of Colorado at Boulder 	1977
+Barth, Jeffrey <id.php?id=120376> 	University of California, Berkeley 	1977
+Bartholdi, III, John <id.php?id=124639> 	University of Florida 	1977
+Bass, Richard <id.php?id=32229> 	University of California, Berkeley 	1977
+Bates, Gary <id.php?id=8265> 	Purdue University 	1977
+Bates, Stephen <id.php?id=129376> 	Massachusetts Institute of
+Technology 	1977
+Bateson, Carol <id.php?id=12616> 	University of Colorado at Boulder 	1977
+Batigne, Daniel <id.php?id=25452> 	The George Washington University 	1977
+Battle, Guy <id.php?id=175191> 	Duke University 	1977
+Baumeister, Richard <id.php?id=44879> 	University of Arizona 	1977
+Beadle, Allen <id.php?id=15443> 	Michigan State University 	1977
+Beggs, Robert <id.php?id=11110> 	Kent State University 	1977
+Bell, Jonathan <id.php?id=48640> 	University of California, Los
+Angeles 	1977
+Ben-Dov, Yosi <id.php?id=146105> 	University of California, Berkeley 	1977
+Benson, Jeri <id.php?id=155582> 	University of Florida 	1977
+Benson, Richard <id.php?id=107252> 	University of California, Berkeley 	1977
+Berg, John <id.php?id=43812> 	University of Missouri - Kansas City 	1977
+Berg, Rebecca <id.php?id=30978> 	University of California, Riverside 	1977
+Bergamasco, Adalberto <id.php?id=5928> 	Rutgers University, New
+Brunswick 	1977
+Berger, Roger <id.php?id=48040> 	Purdue University 	1977
+Berker, Ahmet <id.php?id=151005> 	University of Illinois at
+Urbana-Champaign 	1977
+Berman, Leonard <id.php?id=131053> 	Cornell University 	1977
+Betancourt del Rio, Rodolfo <id.php?id=86633> 	Stanford University 	1977
+Bhattarai, Hom <id.php?id=12512> 	University of Oregon 	1977
+Biederman, Leon <id.php?id=66386> 	University of California, Los
+Angeles 	1977
+Bishop, Peter <id.php?id=112628> 	Massachusetts Institute of
+Technology 	1977
+Bisson, Terrence <id.php?id=41905> 	Duke University 	1977
+Bittman, Richard <id.php?id=9598> 	University of Wisconsin-Madison 	1977
+Bix, Robert <id.php?id=7981> 	Yale University 	1977
+Blair, Peter <id.php?id=148023> 	University of Pennsylvania 	1977
+Blanchard, Olivier <id.php?id=181914> 	Massachusetts Institute of
+Technology 	1977
+Blass, Piotr <id.php?id=7241> 	University of Michigan 	1977
+Blockus (Roth), Marilyn <id.php?id=60208> 	The Johns Hopkins
+University 	1977
+Bloniarz, Peter <id.php?id=81223> 	Massachusetts Institute of
+Technology 	1977
+Bloom, John <id.php?id=11768> 	California Institute of Technology 	1977
+Bookstein, Fred <id.php?id=42381> 	University of Michigan 	1977
+Boos, Dennis <id.php?id=52461> 	The Florida State University 	1977
+Bottkol, Matthew <id.php?id=33430> 	New York University 	1977
+Bouhana, James <id.php?id=82698> 	University of Wisconsin-Madison 	1977
+Bouma, Herman <id.php?id=116353> 	University of Notre Dame 	1977
+Boyd, Jr., Eddie <id.php?id=43427> 	Oklahoma State University 	1977
+Bradley, Marshall <id.php?id=31104> 	University of Virginia 	1977
+Bramson, Maury <id.php?id=22561> 	Cornell University 	1977
+Braun, Amiram <id.php?id=38480> 	The University of Chicago 	1977
+Bressoud, David <id.php?id=26962> 	Temple University 	1977
+Brin, Matthew <id.php?id=9599> 	University of Wisconsin-Madison 	1977
+Britton, Edward <id.php?id=63393> 	The University of North Carolina at
+Chapel Hill 	1977
+Brogan, Bryce <id.php?id=44291> 	Case Western Reserve University 	1977
+Brooks, Robert <id.php?id=12421> 	Harvard University 	1977
+Brown, Arthur <id.php?id=11146> 	Kent State University 	1977
+Brown, Cynthia <id.php?id=7242> 	University of Michigan 	1977
+Brown, Mark <id.php?id=47200> 	Stanford University 	1977
+Brown, Robert <id.php?id=65900> 	University of Minnesota-Minneapolis 	1977
+Browne-Ribeiro, Henrique <id.php?id=93037> 	Massachusetts Institute of
+Technology 	1977
+Bruening, James <id.php?id=12639> 	Missouri University of Science and
+Technology 	1977
+Bruner, Robert <id.php?id=9360> 	The University of Chicago 	1977
+Bryk, Anthony <id.php?id=107401> 	Harvard University 	1977
+Buck-Lew, Maylun <id.php?id=14494> 	Brown University 	1977
+Buhler, Joe <id.php?id=22872> 	Harvard University 	1977
+Bunde, Dennis <id.php?id=82699> 	University of Wisconsin-Madison 	1977
+Burger, John <id.php?id=140984> 	University of California, Los Angeles 	1977
+Burns, Timothy <id.php?id=46416> 	University of New Mexico 	1977
+Burton, Jr., Robert <id.php?id=7820> 	Stanford University 	1977
+Butler, Ronald <id.php?id=42382> 	University of Michigan 	1977
+Byleen, Karl <id.php?id=3703> 	University of Nebraska-Lincoln 	1977
+Calabro, Mary <id.php?id=30798> 	Polytechnic University 	1977
+Caldwell. Jr., Jerome <id.php?id=1899> 	University of
+Minnesota-Minneapolis 	1977
+Callan, Columcille <id.php?id=52882> 	University of Notre Dame 	1977
+Carlson, Robert <id.php?id=48634> 	University of California, Los
+Angeles 	1977
+Carr, Ralph <id.php?id=9600> 	University of Wisconsin-Madison 	1977
+Carroll, Michael <id.php?id=111563> 	University of Iowa 	1977
+Cartier, Michael <id.php?id=48868> 	University of California, Los
+Angeles 	1977
+Cartwright, Jr., Robert <id.php?id=14534> 	Stanford University 	1977
+Casella, George <id.php?id=41524> 	Purdue University 	1977
+Castro, Alfonso <id.php?id=9869> 	University of Cincinnati 	1977
+Chachere, Gerald <id.php?id=32758> 	University of California, Berkeley 	1977
+Chambers, Frank <id.php?id=65181> 	Purdue University 	1977
+Chandrupatla, Tirupathi <id.php?id=111149> 	University of Texas at
+Austin 	1977
+Chang, David <id.php?id=3851> 	University of Tennessee - Knoxville 	1977
+Chao, Anne <id.php?id=118459> 	University of Wisconsin-Madison 	1977
+Chao, Lien-Ju <id.php?id=118518> 	University of Wisconsin-Madison 	1977
+Chao, Wen-Min <id.php?id=59128> 	The University of Chicago 	1977
+Chapman, J. <id.php?id=55214> 	University of Washington 	1977
+Charles, Randall <id.php?id=119813> 	Indiana University 	1977
+Charney, Ruth <id.php?id=12020> 	Princeton University 	1977
+Chaubey, Yogendra <id.php?id=73447> 	The University of Rochester 	1977
+Chen, Goong <id.php?id=9604> 	University of Wisconsin-Madison 	1977
+Chen, Wu-Torng <id.php?id=151485> 	University of Colorado at Boulder 	1977
+Cheney, Paul <id.php?id=74245> 	University of Minnesota-Minneapolis 	1977
+Cheng, Ching-Shui <id.php?id=34259> 	Cornell University 	1977
+Cheng, Hsueh-Cheng <id.php?id=32182> 	University of California,
+Berkeley 	1977
+Chicone, Carmen <id.php?id=9605> 	University of Wisconsin-Madison 	1977
+Chinea, Francisco Javier <id.php?id=136620> 	Syracuse University 	1977
+Chosid, Leo <id.php?id=35599> 	City University of New York 	1977
+Chow, Joe <id.php?id=102012> 	University of Illinois at
+Urbana-Champaign 	1977
+Christensen, Chris <id.php?id=16804> 	Purdue University 	1977
+Chu, Tienchen <id.php?id=19995> 	Columbia University 	1977
+Chuan, Jen-Chung <id.php?id=17088> 	University of California, Santa
+Barbara 	1977
+Chung, Dong <id.php?id=3854> 	University of Tennessee - Knoxville 	1977
+Clements, Donald <id.php?id=88125> 	University of California, Berkeley 	1977
+Clogg, Clifford <id.php?id=35309> 	The University of Chicago 	1977
+Clouse, R. Wilburn <id.php?id=77182> 	Vanderbilt University 	1977
+Coffey, Shannon <id.php?id=9870> 	University of Cincinnati 	1977
+Cohen, Jeffrey <id.php?id=3633> 	University of Rhode Island 	1977
+Cohen, Jonathan <id.php?id=1955> 	Washington University in St. Louis 	1977
+Cohen, Marvin <id.php?id=122334> 	University of Miami 	1977
+Collins, Keith <id.php?id=52634> 	North Carolina State University 	1977
+Comerford, Jonell <id.php?id=4654> 	University of Illinois at
+Urbana-Champaign 	1977
+Conjura, Edward <id.php?id=5848> 	Rutgers University, New Brunswick 	1977
+Conlon, John <id.php?id=1445> 	The Florida State University 	1977
+Conn, Gerard <id.php?id=33217> 	New York University 	1977
+Coppersmith, Don <id.php?id=83656> 	Harvard University 	1977
+Corwin, Edward <id.php?id=1972> 	Lehigh University 	1977
+Cosner, George <id.php?id=32361> 	University of California, Berkeley 	1977
+Cot, Norbert <id.php?id=177909> 	Stanford University 	1977
+Cox, Brenda <id.php?id=91769> 	Virginia Polytechnic Institute and State
+University 	1977
+Craig, James <id.php?id=119897> 	California Institute of Technology 	1977
+Critcher, Adrienne <id.php?id=30344> 	University of Iowa 	1977
+Crouch, Peter <id.php?id=129294> 	Harvard University 	1977
+Crumpton, Sharon <id.php?id=87556> 	University of Tennessee -
+Knoxville 	1977
+Cuadrado, John <id.php?id=4136> 	University of Illinois at
+Urbana-Champaign 	1977
+Curtright, Thomas <id.php?id=136436> 	California Institute of
+Technology 	1977
+Dadok, Jiri <id.php?id=53282> 	Massachusetts Institute of Technology 	1977
+Damodaran, Meledath <id.php?id=16896> 	Purdue University 	1977
+Dankner, Alan <id.php?id=32370> 	University of California, Berkeley 	1977
+Dantzig, Jonathan <id.php?id=101686> 	The Johns Hopkins University 	1977
+Das, Ashok <id.php?id=40883> 	State University of New York at Stony
+Brook 	1977
+Das, K. <id.php?id=84949> 	University of Michigan 	1977
+Davis, Amy <id.php?id=34573> 	University of California, Berkeley 	1977
+Davis, Anne <id.php?id=23515> 	Oklahoma State University 	1977
+Davison, Joseph <id.php?id=131452> 	The Johns Hopkins University 	1977
+Dawes, Robert <id.php?id=45511> 	University of Texas at Austin 	1977
+Day, Michael <id.php?id=121100> 	University of Wisconsin-Madison 	1977
+Deane, Vi <id.php?id=3469> 	University of Montana 	1977
+Debane, Sara <id.php?id=44272> 	Case Western Reserve University 	1977
+Dejax, Pierre <id.php?id=128324> 	Cornell University 	1977
+Deken, Joseph <id.php?id=83192> 	Stanford University 	1977
+de Morais, Paulo <id.php?id=85890> 	Northwestern University 	1977
+Dennis, Thomas <id.php?id=12144> 	University of Houston 	1977
+Deshpande, V. <id.php?id=41664> 	University of Wisconsin-Milwaukee 	1977
+DeWet, Andries <id.php?id=35298> 	The University of Chicago 	1977
+Dewitt, Henry <id.php?id=104232> 	University of California, Los
+Angeles 	1977
+Diamond, Harvey <id.php?id=64864> 	Massachusetts Institute of
+Technology 	1977
+Diesto, Severino <id.php?id=12610> 	University of Colorado at Boulder 	1977
+DiFiore, Lawrence <id.php?id=8280> 	University of California,
+Riverside 	1977
+Di Masi, Giovanni <id.php?id=14495> 	Brown University 	1977
+Dixon, David <id.php?id=16593> 	Purdue University 	1977
+Doeppner, Jr., Thomas <id.php?id=82064> 	Princeton University 	1977
+Donagi, Ron <id.php?id=23198> 	Harvard University 	1977
+Dorner, Bryan <id.php?id=12849> 	University of Oregon 	1977
+Dorvlo, Atsu <id.php?id=73839> 	The University of Rochester 	1977
+Doss, Said <id.php?id=32233> 	University of California, Berkeley 	1977
+Dotzel, Ronald <id.php?id=5929> 	Rutgers University, New Brunswick 	1977
+Dowdy, Lawrence <id.php?id=76228> 	Duke University 	1977
+Dowell, Juliana <id.php?id=3850> 	University of Tennessee - Knoxville 	1977
+Downing, David <id.php?id=22279> 	University of Iowa 	1977
+Dozier, Lewis <id.php?id=33164> 	New York University 	1977
+Dugopolski, Mark <id.php?id=850> 	University of Illinois at
+Urbana-Champaign 	1977
+Duncan, Lewis <id.php?id=165036> 	Rice University 	1977
+Dupont, William <id.php?id=49782> 	The Johns Hopkins University 	1977
+Edwards, John <id.php?id=141073> 	Stanford University 	1977
+Effarah, Jamil <id.php?id=117643> 	University of Oregon 	1977
+Ehrlich, Karel <id.php?id=88688> 	Cornell University 	1977
+Eisman, Gerald <id.php?id=32635> 	University of California, Berkeley 	1977
+ElBassiouni, Mohamed <id.php?id=163851> 	North Carolina State
+University 	1977
+Elder, Robert <id.php?id=91770> 	Virginia Polytechnic Institute and
+State University 	1977
+Elerath, Douglas <id.php?id=1138> 	State University of New York at Stony
+Brook 	1977
+Ellis, Jr., James <id.php?id=150749> 	Massachusetts Institute of
+Technology 	1977
+Endicott, Patrick <id.php?id=145582> 	Oregon State University 	1977
+Eshleman, Linda <id.php?id=49382> 	University of Maryland Baltimore
+County 	1977
+Evans, Michael <id.php?id=25396> 	Syracuse University 	1977
+Everts, Franklin <id.php?id=12611> 	University of Colorado at Boulder 	1977
+Eyster, J. <id.php?id=113828> 	Michigan State University 	1977
+Ezell, Cloyd <id.php?id=59222> 	Vanderbilt University 	1977
+Fadyn, Joseph <id.php?id=2066> 	Lehigh University 	1977
+Fahlman, Scott <id.php?id=50064> 	Massachusetts Institute of
+Technology 	1977
+Faigle, Ulrich <id.php?id=35214> 	The University of North Carolina at
+Chapel Hill 	1977
+Falkner, Joseph <id.php?id=50773> 	Texas Tech University 	1977
+Fall, Thomas <id.php?id=31394> 	University of California, Berkeley 	1977
+Faltz, Leonard <id.php?id=1293> 	University of California, Berkeley 	1977
+Farahzad, Parviz <id.php?id=89037> 	State University of New York at
+Stony Brook 	1977
+Farrow, Rodney <id.php?id=43731> 	Rice University 	1977
+Faulkner, Gary <id.php?id=22226> 	Georgia Institute of Technology 	1977
+Feltus, Erasmus <id.php?id=43317> 	Tulane University 	1977
+Feng, Chao-Kang <id.php?id=40858> 	University of California, Los
+Angeles 	1977
+Fernandez, James <id.php?id=12513> 	University of Oregon 	1977
+Ferreira De Carvalho, Jose <id.php?id=128451> 	Iowa State University 	1977
+Filippenko, Ivan <id.php?id=17164> 	University of California, Santa
+Barbara 	1977
+Finch, David <id.php?id=48141> 	Massachusetts Institute of Technology 	1977
+Finkelstein, Louis <id.php?id=13042> 	Northwestern University 	1977
+Finley, Fred <id.php?id=41751> 	Michigan State University 	1977
+Fisch, Ronald <id.php?id=165263> 	University of Pennsylvania 	1977
+Fischer, Elliot <id.php?id=11820> 	California Institute of Technology 	1977
+Fisk, Robert <id.php?id=182581> 	University of Wyoming 	1977
+Fitzpatrick, William <id.php?id=12638> 	Missouri University of Science
+and Technology 	1977
+Flath, Daniel <id.php?id=22873> 	Harvard University 	1977
+Fleischman, Joseph <id.php?id=15846> 	Yeshiva University 	1977
+Flon, Lawrence <id.php?id=50239> 	Carnegie Mellon University 	1977
+Fong Lochovsky, Amelia <id.php?id=82065> 	Princeton University 	1977
+Forastiero, Diane <id.php?id=24394> 	Polytechnic University 	1977
+Forde, James <id.php?id=59253> 	Vanderbilt University 	1977
+Fortini, Peter <id.php?id=95735> 	Harvard University 	1977
+Franchello, James <id.php?id=46467> 	Bowling Green State University 	1977
+Franke, William <id.php?id=3705> 	University of Nebraska-Lincoln 	1977
+Franklin, Le Roy <id.php?id=2093> 	Indiana University 	1977
+Fraser, Christopher <id.php?id=92836> 	Yale University 	1977
+Frederickson, Greg <id.php?id=77628> 	University of Maryland College
+Park 	1977
+Freiling, Michael <id.php?id=63045> 	Massachusetts Institute of
+Technology 	1977
+Frese, Michael <id.php?id=63042> 	Massachusetts Institute of
+Technology 	1977
+Friedel, Henry <id.php?id=1133> 	State University of New York at Stony
+Brook 	1977
+Friedman, Daniel <id.php?id=1516> 	University of California, Santa
+Cruz 	1977
+Friedman, Daniel <id.php?id=116239> 	University of California, Santa
+Cruz 	1977
+Frierson, Jr., Dargan <id.php?id=45489> 	University of Arizona 	1977
+Friesz, Terry <id.php?id=103374> 	The Johns Hopkins University 	1977
+Friske, Melvin <id.php?id=25379> 	Syracuse University 	1977
+Fyfe, David <id.php?id=110435> 	University of Iowa 	1977
+Gambler, Leonard <id.php?id=1139> 	State University of New York at Stony
+Brook 	1977
+Garrett, Paul <id.php?id=11350> 	Princeton University 	1977
+Garrett, Ronald <id.php?id=2118> 	Emory University 	1977
+Gates, Catherine <id.php?id=15765> 	University of Kansas 	1977
+Gates, Jr., Sylvester <id.php?id=40774> 	Massachusetts Institute of
+Technology 	1977
+Gaudard, Marie <id.php?id=6696> 	University of Massachusetts Amherst 	1977
+Gay, Richard <id.php?id=185079> 	University of California, Los Angeles 	1977
+Geer, Charles <id.php?id=61258> 	Arizona State University 	1977
+Geller, Daryl <id.php?id=8344> 	Princeton University 	1977
+Geman, Stuart <id.php?id=14485> 	Massachusetts Institute of Technology 	1977
+Genalo, Lawrence <id.php?id=151> 	Iowa State University 	1977
+Gentilesco, James <id.php?id=1134> 	State University of New York at
+Stony Brook 	1977
+George, E. Segun <id.php?id=23536> 	The University of Rochester 	1977
+Gerasch, Thomas <id.php?id=41691> 	University of Wisconsin-Milwaukee 	1977
+Geronimo, Jeffrey <id.php?id=22209> 	The Rockefeller University 	1977
+Gessel, Ira <id.php?id=18024> 	Massachusetts Institute of Technology 	1977
+Ghorai, Jugal <id.php?id=28272> 	Purdue University 	1977
+Giambruno, Antonio <id.php?id=37439> 	The University of Chicago 	1977
+Gilliam, David <id.php?id=15009> 	University of Utah 	1977
+Gills, Johnny <id.php?id=3233> 	The Louisiana State University 	1977
+Ginsparg, Jerrold <id.php?id=61943> 	Stanford University 	1977
+Girvin, Steven <id.php?id=160731> 	Princeton University 	1977
+Giuffre, Michael <id.php?id=51852> 	The University of Rochester 	1977
+Gladen, Beth <id.php?id=83191> 	Stanford University 	1977
+Glanville, R. Steven <id.php?id=120377> 	University of California,
+Berkeley 	1977
+Glaz, Harland <id.php?id=31557> 	University of California, Berkeley 	1977
+Glaz, Sarah <id.php?id=5930> 	Rutgers University, New Brunswick 	1977
+Glenn, Paul <id.php?id=30964> 	State University of New York at Buffalo 	1977
+Glynn, William <id.php?id=90369> 	Yale University 	1977
+Godbold, James <id.php?id=49725> 	The Johns Hopkins University 	1977
+Godfrey, James <id.php?id=45510> 	University of Texas at Austin 	1977
+Goel, Vijay <id.php?id=104689> 	Ohio University 	1977
+Goheen, Mark <id.php?id=83683> 	Stanford University 	1977
+Golbus, Bruce <id.php?id=36799> 	Brandeis University 	1977
+Goldring, Thomas <id.php?id=124138> 	Yeshiva University 	1977
+Goldstein, Gerald <id.php?id=37493> 	Columbia University 	1977
+Golightly, George <id.php?id=12145> 	University of Houston 	1977
+Goncalves, Daciberg <id.php?id=168036> 	The University of Rochester 	1977
+Goodman, Mordechai <id.php?id=105437> 	Illinois Institute of
+Technology 	1977
+Goodman, Terry <id.php?id=45508> 	University of Texas at Austin 	1977
+Gordon, Jean <id.php?id=38729> 	Dartmouth College 	1977
+Gordon, Marc <id.php?id=1140> 	State University of New York at Stony
+Brook 	1977
+Gordon, Rondald <id.php?id=81930> 	Purdue University 	1977
+Goss, David <id.php?id=22502> 	Harvard University 	1977
+Gould, Fred <id.php?id=48034> 	State University of New York at Stony
+Brook 	1977
+Graesser, Arthur <id.php?id=106259> 	University of California, San
+Diego 	1977
+Graham, Sidney <id.php?id=7249> 	University of Michigan 	1977
+Grasman, William <id.php?id=30583> 	University of Iowa 	1977
+Graves, Larry <id.php?id=4427> 	Brown University 	1977
+Gray, Lawrence <id.php?id=31304> 	Cornell University 	1977
+Green, Richard <id.php?id=190685> 	California Institute of Technology 	1977
+Greenberger, Pearl <id.php?id=35602> 	City University of New York 	1977
+Gregory, Thomas <id.php?id=22300> 	Yale University 	1977
+Griggs, Jerrold <id.php?id=10271> 	Massachusetts Institute of
+Technology 	1977
+Grost, Michael <id.php?id=7250> 	University of Michigan 	1977
+Grosz, Barbara <id.php?id=77528> 	University of California, Berkeley 	1977
+Guccione, Jr., Salvadore <id.php?id=12637> 	Missouri University of
+Science and Technology 	1977
+Gudapati, Krishna <id.php?id=113408> 	Case Western Reserve University 	1977
+Gunawardane, Gamini <id.php?id=160870> 	The University of Chicago 	1977
+Gupta, Anil <id.php?id=155467> 	University of Pittsburgh 	1977
+Gupta, Dev <id.php?id=130823> 	University of Massachusetts Amherst 	1977
+Guralnick, Robert <id.php?id=24943> 	University of California, Los
+Angeles 	1977
+Gutmann, Samuel <id.php?id=67713> 	Massachusetts Institute of
+Technology 	1977
+Ha, Tri <id.php?id=63701> 	University of Maryland College Park 	1977
+Haaland, Perry <id.php?id=43323> 	Tulane University 	1977
+Haas, Robert <id.php?id=44292> 	Case Western Reserve University 	1977
+Hagelgans, Nancy <id.php?id=20556> 	The Johns Hopkins University 	1977
+Hagood, John <id.php?id=20055> 	University of Utah 	1977
+Haile, Darrell <id.php?id=52275> 	Yale University 	1977
+Hajdo, Leslie <id.php?id=164624> 	Princeton University 	1977
+Hale, David <id.php?id=15444> 	Michigan State University 	1977
+Harding, Jr., Leonard <id.php?id=7252> 	University of Michigan 	1977
+Hardy, Bonnie Rae <id.php?id=3704> 	University of Nebraska-Lincoln 	1977
+Harris, Gary <id.php?id=6952> 	University of Kentucky 	1977
+Harris, Michael <id.php?id=22503> 	Harvard University 	1977
+Hassin, Refael <id.php?id=103086> 	Yale University 	1977
+Hastings, Alan <id.php?id=25017> 	Cornell University 	1977
+Hasza, David <id.php?id=48106> 	Iowa State University 	1977
+Hayes, Linda Jo <id.php?id=45509> 	University of Texas at Austin 	1977
+Head, Richard <id.php?id=79290> 	University of Arkansas 	1977
+Heck, William <id.php?id=5949> 	Rutgers University, New Brunswick 	1977
+Hedetniemi, Sandra <id.php?id=46412> 	University of Virginia 	1977
+Hegner, Nancy <id.php?id=59633> 	Rensselaer Polytechnic Institute 	1977
+Heimbuch, Bonnie Lee <id.php?id=45507> 	University of Texas at Austin 	1977
+Heller, Don <id.php?id=18493> 	Carnegie Mellon University 	1977
+Henckell, Karsten <id.php?id=32409> 	University of California,
+Berkeley 	1977
+Hendrickson, Paul <id.php?id=144819> 	The University of Oklahoma 	1977
+Hennessy, John <id.php?id=40909> 	State University of New York at Stony
+Brook 	1977
+Herink, Curtis <id.php?id=9606> 	University of Wisconsin-Madison 	1977
+Hesselink, Lambertus <id.php?id=41392> 	California Institute of
+Technology 	1977
+Hickin, Kenneth <id.php?id=15445> 	Michigan State University 	1977
+Hill, Eric <id.php?id=91103> 	University of Maryland College Park 	1977
+Hill, Theodore <id.php?id=31648> 	University of California, Berkeley 	1977
+Hillmann, Theodore <id.php?id=87449> 	University of California,
+Riverside 	1977
+Hirschhorn, Philip <id.php?id=63644> 	Massachusetts Institute of
+Technology 	1977
+Hitt, L. <id.php?id=2215> 	The Florida State University 	1977
+Hlavka, James <id.php?id=9607> 	University of Wisconsin-Madison 	1977
+Hoff, David <id.php?id=7253> 	University of Michigan 	1977
+Hoffman, Charles <id.php?id=12146> 	University of Houston 	1977
+Hoffman, Jerome <id.php?id=61474> 	Harvard University 	1977
+Hollingsworth, Mark <id.php?id=9865> 	University of Cincinnati 	1977
+Holsapple, Clyde <id.php?id=117867> 	Purdue University 	1977
+Holt, Jr., Charles <id.php?id=97732> 	Carnegie Mellon University 	1977
+Hopkins, Glenn <id.php?id=16595> 	Purdue University 	1977
+Horn, Mary <id.php?id=45506> 	University of Texas at Austin 	1977
+Housewright, Kim <id.php?id=66385> 	University of California, Los
+Angeles 	1977
+Howe, Douglas <id.php?id=23089> 	University of Pennsylvania 	1977
+Howell, Jr., Leonard <id.php?id=91771> 	Virginia Polytechnic Institute
+and State University 	1977
+Hsiang, Wu-teh <id.php?id=23123> 	University of Pennsylvania 	1977
+Hsieh, Wan-chen <id.php?id=43711> 	University of Maryland College Park 	1977
+Hsing, Deh-Phone <id.php?id=3664> 	University of Rhode Island 	1977
+Hsu, Chin-Fei <id.php?id=47494> 	The University of North Carolina at
+Chapel Hill 	1977
+Hsu, Jason <id.php?id=41542> 	Purdue University 	1977
+Hu, Thakyin <id.php?id=22281> 	University of Iowa 	1977
+Hu, Wei-hou <id.php?id=150549> 	University of Iowa 	1977
+Huang, Cheng-Chi <id.php?id=152> 	Iowa State University 	1977
+Huang, Julia <id.php?id=37497> 	Columbia University 	1977
+Huang, Jun Shon <id.php?id=83615> 	University of Florida 	1977
+Huffman, Ed <id.php?id=12636> 	Missouri University of Science and
+Technology 	1977
+Hui, Cha-Mei <id.php?id=114407> 	Massachusetts Institute of Technology 	1977
+Hulkower, Neal <id.php?id=13029> 	Northwestern University 	1977
+Hullinger, Harlan <id.php?id=22440> 	University of Iowa 	1977
+Humburg, Fredrick <id.php?id=12612> 	University of Colorado at Boulder 	1977
+Humes Jr., Carlos <id.php?id=163468> 	University of California,
+Berkeley 	1977
+Hyde, John <id.php?id=83190> 	Stanford University 	1977
+Ichihara, Kenji <id.php?id=141123> 	Cornell University 	1977
+Indrayan, Abhaya <id.php?id=165448> 	The Ohio State University 	1977
+Iorio, Jr., Rafael <id.php?id=31967> 	University of California,
+Berkeley 	1977
+Irving, Ronald <id.php?id=56984> 	Massachusetts Institute of
+Technology 	1977
+Ison, Roger <id.php?id=78945> 	University of Virginia 	1977
+Ivanov, Simeon <id.php?id=3973> 	University of Illinois at
+Urbana-Champaign 	1977
+Jackson, Bradley <id.php?id=46818> 	University of Maryland College
+Park 	1977
+Jackson, Dennis <id.php?id=20066> 	University of Utah 	1977
+Jacob, John <id.php?id=32759> 	University of California, Berkeley 	1977
+Jacobs, Barton <id.php?id=9866> 	University of Cincinnati 	1977
+Jacobs, Laurence <id.php?id=99415> 	Massachusetts Institute of
+Technology 	1977
+Jaja, Joseph <id.php?id=41404> 	Harvard University 	1977
+Jajodia, Sushil <id.php?id=12848> 	University of Oregon 	1977
+Jakel, David <id.php?id=24620> 	State University of New York at
+Buffalo 	1977
+James, David <id.php?id=85288> 	The University of Chicago 	1977
+James, Helen <id.php?id=59266> 	Vanderbilt University 	1977
+Jardin, Stephen <id.php?id=149747> 	Princeton University 	1977
+Javid, Shabon <id.php?id=102450> 	University of Illinois at
+Urbana-Champaign 	1977
+Jenson, Richard <id.php?id=64597> 	University of Illinois at Chicago 	1977
+Jiang, Chen-Wen <id.php?id=130722> 	Massachusetts Institute of
+Technology 	1977
+Johnson, David <id.php?id=12979> 	Massachusetts Institute of
+Technology 	1977
+Johnston, Elgin <id.php?id=261> 	University of Illinois at
+Urbana-Champaign 	1977
+Jones, Beverly <id.php?id=117647> 	University of Oregon 	1977
+Jones, Jeffrey <id.php?id=4428> 	Brown University 	1977
+Jong, James <id.php?id=28243> 	University of Washington 	1977
+Joni, Saj-Nicole <id.php?id=43141> 	University of California, San
+Diego 	1977
+Joseph, V. <id.php?id=16778> 	Purdue University 	1977
+Joy, Kenneth <id.php?id=12617> 	University of Colorado at Boulder 	1977
+Jungck, Gerald <id.php?id=80997> 	State University of New York at
+Binghamton 	1977
+Kalikow, Steven <id.php?id=118364> 	Cornell University 	1977
+Kam, Pooi <id.php?id=155604> 	Massachusetts Institute of Technology 	1977
+Kang, Ming-Chang <id.php?id=84432> 	The University of Chicago 	1977
+Kapoor, Shiv <id.php?id=40991> 	University of Wisconsin-Madison 	1977
+Kappel, Michael <id.php?id=10957> 	Saint Louis University 	1977
+Kastner, Marcia <id.php?id=81146> 	Harvard University 	1977
+Kearfott, Ralph <id.php?id=11622> 	University of Utah 	1977
+Kedem, Gershon <id.php?id=82703> 	University of Wisconsin-Madison 	1977
+Keenan, Donald <id.php?id=11895> 	California Institute of Technology 	1977
+Keller, Jean-Pierre <id.php?id=33569> 	New York University 	1977
+Kelley, Gary <id.php?id=48959> 	Southern Methodist University 	1977
+Kelley, Thomas <id.php?id=145583> 	Oregon State University 	1977
+Kelley, Jr., James <id.php?id=17434> 	University of Alabama-Tuscaloosa 	1977
+Kelsey, Sheryl <id.php?id=157343> 	Carnegie Mellon University 	1977
+Kerley, Lyndell <id.php?id=3853> 	University of Tennessee - Knoxville 	1977
+Kerrigan, Jr., Thomas <id.php?id=12613> 	University of Colorado at
+Boulder 	1977
+Khayyal, Faiz <id.php?id=79064> 	The George Washington University 	1977
+Kikuchi, Noboru <id.php?id=111148> 	University of Texas at Austin 	1977
+Kinney, James <id.php?id=8473> 	University of Mississippi 	1977
+Kintala, Chandra <id.php?id=155882> 	The Pennsylvania State University 	1977
+K.-Kohli, Chaya <id.php?id=63700> 	University of Maryland College Park 	1977
+Kleinerman, Aurel <id.php?id=31303> 	Cornell University 	1977
+Klingsberg, Paul <id.php?id=15211> 	University of Pennsylvania 	1977
+Knopf, Peter <id.php?id=110538> 	Cornell University 	1977
+Koehler, Kenneth <id.php?id=40632> 	University of
+Minnesota-Minneapolis 	1977
+Koenigsberg, Mark <id.php?id=63746> 	Massachusetts Institute of
+Technology 	1977
+Kolarik, William <id.php?id=114381> 	Oklahoma State University 	1977
+Koller, Herbert <id.php?id=134637> 	Yeshiva University 	1977
+Komornicki, Wojciech <id.php?id=23221> 	University of Illinois at
+Chicago 	1977
+Korchinski, Dennis <id.php?id=10433> 	Adelphi University 	1977
+Korn, Robert <id.php?id=82704> 	University of Wisconsin-Madison 	1977
+Kornya, Peter <id.php?id=7711> 	University of Oregon 	1977
+Kothari, Suraj <id.php?id=16803> 	Purdue University 	1977
+Kothmann, Margaret <id.php?id=27053> 	The Pennsylvania State
+University 	1977
+Kotman, Larry <id.php?id=16534> 	Purdue University 	1977
+Kottmeyer, William <id.php?id=10958> 	Saint Louis University 	1977
+Kottwitz, Robert <id.php?id=22874> 	Harvard University 	1977
+Kovács, Jr., Sándor <id.php?id=141011> 	California Institute of
+Technology 	1977
+Kraus, Jon <id.php?id=31395> 	University of California, Berkeley 	1977
+Krecker, Donald <id.php?id=44536> 	Stanford University 	1977
+Krevitt, James <id.php?id=41983> 	Massachusetts Institute of
+Technology 	1977
+Krishnaprasad, P. S. <id.php?id=107371> 	Harvard University 	1977
+Kronwith, Stephen <id.php?id=1141> 	State University of New York at
+Stony Brook 	1977
+Ku, Danny <id.php?id=7256> 	University of Michigan 	1977
+Kuipers, Benjamin <id.php?id=26538> 	Massachusetts Institute of
+Technology 	1977
+Kumar, Panganamala <id.php?id=42592> 	Washington University in St.
+Louis 	1977
+Kung, Sun-Yuan <id.php?id=130994> 	Stanford University 	1977
+Lacker, H. Michael <id.php?id=47884> 	New York University 	1977
+Lackritz, James <id.php?id=83616> 	University of Florida 	1977
+Lai, Shih-Lun <id.php?id=48888> 	University of California, Los Angeles 	1977
+Larimore, Michael <id.php?id=133233> 	Stanford University 	1977
+Latter, Robert <id.php?id=48691> 	University of California, Los
+Angeles 	1977
+Laud, Purushottam (Prakash) <id.php?id=49173> 	University of Missouri -
+Columbia 	1977
+Lavergne, Alan <id.php?id=44437> 	Stanford University 	1977
+Leah, Jamieson <id.php?id=82066> 	Princeton University 	1977
+LeBlanc, Richard <id.php?id=82705> 	University of Wisconsin-Madison 	1977
+Ledbetter, Jr., Carl <id.php?id=90802> 	Clark University 	1977
+Lee, Arthur <id.php?id=35962> 	University of South Carolina 	1977
+Lee, Jeanette <id.php?id=49784> 	The Johns Hopkins University 	1977
+Lee, Kil <id.php?id=36996> 	University of Georgia 	1977
+Lee, Sik-Yum <id.php?id=68668> 	University of California, Los Angeles 	1977
+Leech, Robert <id.php?id=87785> 	Duke University 	1977
+Leeper, James <id.php?id=34730> 	University of Iowa 	1977
+Lefever, John <id.php?id=9994> 	The Ohio State University 	1977
+Lehnert, Wendy <id.php?id=16979> 	Yale University 	1977
+Leipold, Richard <id.php?id=133781> 	University of Pittsburgh 	1977
+Leite, Maria <id.php?id=63004> 	Massachusetts Institute of Technology 	1977
+Lestmann, Phillip <id.php?id=8949> 	University of Southern California 	1977
+Letelier, Patricio <id.php?id=179151> 	Boston University Graduate
+School 	1977
+Leung, Kam <id.php?id=66455> 	University of Notre Dame 	1977
+Levenglick, Arthur <id.php?id=35702> 	City University of New York 	1977
+Levin, Roy <id.php?id=50113> 	Carnegie Mellon University 	1977
+Levy, Joshua <id.php?id=9608> 	University of Wisconsin-Madison 	1977
+Lewis, Byron <id.php?id=91772> 	Virginia Polytechnic Institute and State
+University 	1977
+Lewis, I. Wayne <id.php?id=717> 	University of Texas at Austin 	1977
+Lewis, Robert <id.php?id=45916> 	Cornell University 	1977
+Lima, Paulo <id.php?id=4433> 	Brown University 	1977
+Lin, Charlotte <id.php?id=30440> 	Cornell University 	1977
+Linden, Orin <id.php?id=53594> 	Yeshiva University 	1977
+Lindley, John <id.php?id=44356> 	Princeton University 	1977
+Lindsay, II, James <id.php?id=45505> 	University of Texas at Austin 	1977
+Lipper, Edward <id.php?id=129484> 	Stevens Institute of Technology 	1977
+Littman, Gary <id.php?id=94445> 	Drexel University 	1977
+Liu, Chung-Der <id.php?id=9995> 	The Ohio State University 	1977
+Liu, Ken-Chih <id.php?id=30345> 	University of Iowa 	1977
+Lo, Chung-Yin <id.php?id=176434> 	Massachusetts Institute of
+Technology 	1977
+Loats, James <id.php?id=12618> 	University of Colorado at Boulder 	1977
+Long, William <id.php?id=144878> 	Massachusetts Institute of
+Technology 	1977
+Longini, Jr., Ira <id.php?id=46813> 	University of
+Minnesota-Minneapolis 	1977
+Lorenzen, Thomas <id.php?id=87710> 	Purdue University 	1977
+Luk, Hing-Sun <id.php?id=37517> 	Columbia University 	1977
+Lundquist, Rune <id.php?id=32023> 	University of California, Berkeley 	1977
+Luskin, Mitchell <id.php?id=7728> 	The University of Chicago 	1977
+Lutz, Jo Ann <id.php?id=53160> 	Duke University 	1977
+Lynch, James <id.php?id=12621> 	University of Colorado at Boulder 	1977
+Lyzzaik, Abdallah <id.php?id=9867> 	University of Cincinnati 	1977
+Mabuchi, Toshiki <id.php?id=32024> 	University of California, Berkeley 	1977
+Magel, Kenneth <id.php?id=62459> 	Brown University 	1977
+Magnus, Alfred <id.php?id=64824> 	Massachusetts Institute of
+Technology 	1977
+Makuch, Robert <id.php?id=99567> 	Yale University 	1977
+Mallenby, Douglas <id.php?id=160740> 	Colorado State University 	1977
+Mansfield, Peter <id.php?id=142729> 	Cornell University 	1977
+Margolies, David <id.php?id=31649> 	University of California, Berkeley 	1977
+Marshall, Bernard <id.php?id=132419> 	Princeton University 	1977
+Martin, Alvin <id.php?id=24094> 	Yale University 	1977
+Mason, David <id.php?id=75837> 	University of Washington 	1977
+Matalon, Moshe <id.php?id=25169> 	Cornell University 	1977
+Mathis, Frank <id.php?id=59260> 	Vanderbilt University 	1977
+Matsumoto, Allen <id.php?id=20102> 	University of Utah 	1977
+Maurer, Robert <id.php?id=9403> 	Washington State University 	1977
+Mays, Michael <id.php?id=15781> 	The Pennsylvania State University 	1977
+McGibbon, Charles <id.php?id=9609> 	University of Wisconsin-Madison 	1977
+McIntire, Donald <id.php?id=48958> 	Southern Methodist University 	1977
+McMillan, Thomas <id.php?id=20105> 	University of Utah 	1977
+Meginniss, James <id.php?id=149825> 	The University of Chicago 	1977
+Melvin, Paul <id.php?id=23938> 	University of California, Berkeley 	1977
+Mendez, Raul <id.php?id=31558> 	University of California, Berkeley 	1977
+Meyerson, Lawrence <id.php?id=95755> 	State University of New York at
+Buffalo 	1977
+Michael, John <id.php?id=36065> 	Southern Methodist University 	1977
+Michalec, Gerald <id.php?id=116706> 	University of Pittsburgh 	1977
+Micheli-Tzanakou, Evangelia <id.php?id=70201> 	Syracuse University 	1977
+Michener, Edwina <id.php?id=61082> 	Massachusetts Institute of
+Technology 	1977
+Mihalko, Daniel <id.php?id=25186> 	Purdue University 	1977
+Mikkelson, Ruth <id.php?id=41639> 	University of Wisconsin-Milwaukee 	1977
+Millan, Jaime <id.php?id=179740> 	University of California, Berkeley 	1977
+Miller, Frederick <id.php?id=52688> 	North Carolina State University 	1977
+Miller, Jay <id.php?id=4681> 	University of Illinois at
+Urbana-Champaign 	1977
+Miller, Larry <id.php?id=48841> 	University of California, Los Angeles 	1977
+Miller, Robert <id.php?id=48714> 	University of California, Los
+Angeles 	1977
+Miller, III, Grady <id.php?id=47520> 	The University of North Carolina
+at Chapel Hill 	1977
+Mills, George <id.php?id=31780> 	University of California, Berkeley 	1977
+Milton, Donn <id.php?id=82693> 	University of Wisconsin-Madison 	1977
+Miraglia, Francisco <id.php?id=115262> 	Yale University 	1977
+Mitra, Amitava <id.php?id=131593> 	Clemson University 	1977
+Mitro, Joanna <id.php?id=12385> 	University of California, San Diego 	1977
+Mitzel, Glenn <id.php?id=106456> 	The Johns Hopkins University 	1977
+Mizell, David <id.php?id=66212> 	University of Southern California 	1977
+Mohmood, Haider <id.php?id=1340> 	The American University 	1977
+Molina, Francisco <id.php?id=86312> 	University of California, Los
+Angeles 	1977
+Molzon, Robert <id.php?id=90612> 	The Johns Hopkins University 	1977
+Mont-Reynaud, Bernard <id.php?id=47193> 	Stanford University 	1977
+Moore, Emily <id.php?id=35980> 	Dartmouth College 	1977
+Moore, Thomas <id.php?id=47312> 	University of Massachusetts Amherst 	1977
+Morgan, Frank <id.php?id=17378> 	Princeton University 	1977
+Morgenstern, Carl <id.php?id=12614> 	University of Colorado at Boulder 	1977
+Moriconi, Mark <id.php?id=77018> 	University of Texas at Austin 	1977
+Morin-Strom, Karl <id.php?id=30415> 	Massachusetts Institute of
+Technology 	1977
+Morris, Marvin <id.php?id=66801> 	Harvard University 	1977
+Morris, Max <id.php?id=91773> 	Virginia Polytechnic Institute and State
+University 	1977
+Morrison, John <id.php?id=49105> 	University of Maryland College Park 	1977
+Morrison, Kent <id.php?id=1517> 	University of California, Santa Cruz 	1977
+Moses, Barbara <id.php?id=119655> 	Indiana University 	1977
+Moses, Barbara <id.php?id=7011> 	Indiana University 	1977
+Moss, Franklin <id.php?id=154657> 	Massachusetts Institute of
+Technology 	1977
+Mudge, Trevor <id.php?id=140435> 	University of Illinois at
+Urbana-Champaign 	1977
+Murphy, James <id.php?id=49728> 	The Johns Hopkins University 	1977
+Myers, J. Robert <id.php?id=39958> 	Rice University 	1977
+Myerson, Gerald <id.php?id=7263> 	University of Michigan 	1977
+Naccache, Pierre <id.php?id=31481> 	University of California, Berkeley 	1977
+Nakao, Zensho <id.php?id=17824> 	The University of Oklahoma 	1977
+Nam, Yong <id.php?id=47394> 	The University of North Carolina at Chapel
+Hill 	1977
+Nandakumar, N. <id.php?id=4846> 	University of Illinois at
+Urbana-Champaign 	1977
+Nanopoulos, Photius <id.php?id=34470> 	University of California,
+Berkeley 	1977
+Narasimhan, Carolyn <id.php?id=13033> 	Northwestern University 	1977
+Navarro-Bermudez, Francisco <id.php?id=6991> 	Bryn Mawr College 	1977
+Naylor, William <id.php?id=183514> 	University of California, Los
+Angeles 	1977
+Neill, Michael <id.php?id=117640> 	University of Oregon 	1977
+Nelson, Sallie <id.php?id=85495> 	University of Pittsburgh 	1977
+Nemzer, Daniel <id.php?id=9992> 	The Ohio State University 	1977
+Nester, James <id.php?id=134167> 	University of Maryland College Park 	1977
+Neta, Beny <id.php?id=58740> 	Carnegie Mellon University 	1977
+Neuman, Gerald <id.php?id=57697> 	Massachusetts Institute of
+Technology 	1977
+Ng, Boon-Yian <id.php?id=9610> 	University of Wisconsin-Madison 	1977
+Nichols, John <id.php?id=3852> 	University of Tennessee - Knoxville 	1977
+Niles, Richard <id.php?id=46895> 	The University of Chicago 	1977
+Nishihama, Masahiro <id.php?id=49386> 	University of Maryland Baltimore
+County 	1977
+Nold, Annett <id.php?id=87603> 	University of Maryland College Park 	1977
+Norland, Robert <id.php?id=83189> 	Stanford University 	1977
+Norton, Julia <id.php?id=103748> 	Harvard University 	1977
+Nowell, William <id.php?id=6950> 	University of Kentucky 	1977
+Noyes, James <id.php?id=82706> 	University of Wisconsin-Madison 	1977
+Nygaard, Niels <id.php?id=69193> 	Massachusetts Institute of
+Technology 	1977
+Obaid, Samih <id.php?id=14138> 	The Pennsylvania State University 	1977
+O'Brien, Robert <id.php?id=27163> 	The George Washington University 	1977
+O'Connor, Brian <id.php?id=4666> 	University of Illinois at
+Urbana-Champaign 	1977
+Oh, Duk <id.php?id=16303> 	University of Virginia 	1977
+Olayi, Gabriel <id.php?id=10434> 	Adelphi University 	1977
+Olson, Lynn <id.php?id=54247> 	University of Notre Dame 	1977
+Olson, Pearl <id.php?id=45504> 	University of Texas at Austin 	1977
+Orr, Dalton <id.php?id=43345> 	Tulane University 	1977
+Owens, Kathleen <id.php?id=116707> 	University of Pittsburgh 	1977
+Owens, Philip <id.php?id=84786> 	New York University 	1977
+Paes-Leme, Paulo <id.php?id=33320> 	New York University 	1977
+Palta, Mari <id.php?id=60631> 	University of Minnesota-Minneapolis 	1977
+Paluszny, Marco <id.php?id=43132> 	University of California, San Diego 	1977
+Panchal, Champak <id.php?id=3470> 	University of Montana 	1977
+Pang, Jong-Shi <id.php?id=6746> 	Stanford University 	1977
+Parikh, Jo Ann <id.php?id=78857> 	University of Maryland College Park 	1977
+Parker, George <id.php?id=2571> 	Emory University 	1977
+Parker, Phillip <id.php?id=22143> 	Oregon State University 	1977
+Parks, R. <id.php?id=155468> 	University of Pittsburgh 	1977
+Pasciak, Joseph <id.php?id=36942> 	Cornell University 	1977
+Patton, Charles <id.php?id=1135> 	State University of New York at Stony
+Brook 	1977
+Paulsen, Vern <id.php?id=7266> 	University of Michigan 	1977
+Payne, Dean <id.php?id=22428> 	The University of North Carolina at
+Chapel Hill 	1977
+Pearce, Lynn <id.php?id=4800> 	University of South Carolina 	1977
+Peck, Vincent <id.php?id=95418> 	The University of Rochester 	1977
+Pelz, Wolfgang <id.php?id=91767> 	Virginia Polytechnic Institute and
+State University 	1977
+Perkel, Manley <id.php?id=7267> 	University of Michigan 	1977
+Peterson, Douglas <id.php?id=17317> 	Texas A&M University 	1977
+Peterson, Edith <id.php?id=3706> 	University of Nebraska-Lincoln 	1977
+Peterson, Loren <id.php?id=3707> 	University of Nebraska-Lincoln 	1977
+Phong, Duong <id.php?id=8345> 	Princeton University 	1977
+Pickel, William <id.php?id=3593> 	University of Missouri - Columbia 	1977
+Pickle, Linda <id.php?id=49787> 	The Johns Hopkins University 	1977
+Polansky, Paul <id.php?id=4429> 	Brown University 	1977
+Poor, Harold <id.php?id=18864> 	Princeton University 	1977
+Posner, David <id.php?id=32204> 	University of California, Berkeley 	1977
+Potel, Michael <id.php?id=88629> 	The University of Chicago 	1977
+Pothering, George <id.php?id=46056> 	University of Notre Dame 	1977
+Powell, Jerome <id.php?id=33059> 	Columbia University 	1977
+Powell, Warren <id.php?id=2611> 	Lehigh University 	1977
+Prasad, Vidhu <id.php?id=6992> 	Bryn Mawr College 	1977
+Prather, Carl <id.php?id=7672> 	Northwestern University 	1977
+Preisler, Haiganoush <id.php?id=34423> 	University of California,
+Berkeley 	1977
+Prevot, Kenneth <id.php?id=41984> 	Massachusetts Institute of
+Technology 	1977
+Price, Keith <id.php?id=50323> 	Carnegie Mellon University 	1977
+Provan, J. Scott <id.php?id=44366> 	Cornell University 	1977
+Psaltis, Demetri <id.php?id=161666> 	Carnegie Mellon University 	1977
+Purakam, Orasri <id.php?id=90843> 	University of Maryland College Park 	1977
+Putt, Harold <id.php?id=46469> 	Bowling Green State University 	1977
+Quart, George <id.php?id=4430> 	Brown University 	1977
+Quaynor, Nii <id.php?id=105640> 	State University of New York at Stony
+Brook 	1977
+Raibert, Marc <id.php?id=121238> 	Massachusetts Institute of
+Technology 	1977
+Ramanathan, Jayashree <id.php?id=43732> 	Rice University 	1977
+Rasmussen, Carl <id.php?id=88834> 	The University of Connecticut 	1977
+Rassias, George <id.php?id=32592> 	University of California, Berkeley 	1977
+Rassias, John <id.php?id=32362> 	University of California, Berkeley 	1977
+Ratcliffe, John <id.php?id=7269> 	University of Michigan 	1977
+Ray, William <id.php?id=22283> 	University of Iowa 	1977
+Raynor, Jr., William <id.php?id=139008> 	The University of North
+Carolina at Chapel Hill 	1977
+Rebassoo, Vaho <id.php?id=28195> 	University of Washington 	1977
+Redmond, David <id.php?id=917> 	University of Illinois at
+Urbana-Champaign 	1977
+Reichel, Paul <id.php?id=105438> 	Illinois Institute of Technology 	1977
+Reif, John <id.php?id=78668> 	Harvard University 	1977
+Reiland, Susan <id.php?id=1447> 	The Florida State University 	1977
+Reiland, Thomas <id.php?id=1449> 	The Florida State University 	1977
+Reimnitz, Peter <id.php?id=75555> 	The University of Rochester 	1977
+Reiser, John <id.php?id=47192> 	Stanford University 	1977
+Reiss, Steven <id.php?id=41384> 	Yale University 	1977
+Rennolet, Charles <id.php?id=9611> 	University of Wisconsin-Madison 	1977
+Retta, Tekiehaimanot <id.php?id=38887> 	Wesleyan University 	1977
+Rezny, Michael <id.php?id=33237> 	New York University 	1977
+Rhoades, Clark <id.php?id=12619> 	University of Colorado at Boulder 	1977
+Ribeiro Filho, Henrique <id.php?id=67778> 	Massachusetts Institute of
+Technology 	1977
+Ricci, Fulvio <id.php?id=43707> 	University of Maryland College Park 	1977
+Rice, Richard <id.php?id=45207> 	University of Massachusetts Amherst 	1977
+Richard, Frederic <id.php?id=74613> 	University of Massachusetts
+Amherst 	1977
+Richardson, David <id.php?id=15038> 	Cornell University 	1977
+Richardson, Mary <id.php?id=116708> 	University of Pittsburgh 	1977
+Rich, Jr., William <id.php?id=12147> 	University of Houston 	1977
+Richter, Linda <id.php?id=4623> 	University of Illinois at
+Urbana-Champaign 	1977
+Riera, Gonzalo <id.php?id=20019> 	Columbia University 	1977
+Rivera, Hernan <id.php?id=3026> 	Southern Illinois University at
+Carbondale 	1977
+Rivers, Daniel <id.php?id=48949> 	University of California, Los
+Angeles 	1977
+Rockett, Andrew <id.php?id=1136> 	State University of New York at Stony
+Brook 	1977
+Roeder, Charles <id.php?id=125840> 	University of California, Berkeley 	1977
+Roller, William <id.php?id=91774> 	Virginia Polytechnic Institute and
+State University 	1977
+Rooney, Martin <id.php?id=45503> 	University of Texas at Austin 	1977
+Rosales, Rodolfo <id.php?id=11821> 	California Institute of Technology 	1977
+Rose, David <id.php?id=8775> 	University of South Florida 	1977
+Rose, Russell <id.php?id=45501> 	University of Texas at Austin 	1977
+Rosenberger, James <id.php?id=133266> 	Cornell University 	1977
+Rosenthal, Erik <id.php?id=32485> 	University of California, Berkeley 	1977
+Rovinsky, Robert <id.php?id=97343> 	Cornell University 	1977
+Rowland, Bruce <id.php?id=82694> 	University of Wisconsin-Madison 	1977
+Rudnicki, John <id.php?id=168164> 	Brown University 	1977
+Rugaber, Jon <id.php?id=78247> 	Yale University 	1977
+Ruppert, David <id.php?id=47229> 	Michigan State University 	1977
+Rusinek, Roza <id.php?id=14671> 	Yeshiva University 	1977
+Sadler, Walter <id.php?id=9612> 	University of Wisconsin-Madison 	1977
+Safonov, Michael <id.php?id=112455> 	Massachusetts Institute of
+Technology 	1977
+Salehi, Ali Akbar <id.php?id=173591> 	Massachusetts Institute of
+Technology 	1977
+Salinetti, Gabriella <id.php?id=38077> 	University of Kentucky 	1977
+Sanders, Ross <id.php?id=43804> 	University of Missouri - Kansas City 	1977
+Sant'Anna, Annibal <id.php?id=34597> 	University of California,
+Berkeley 	1977
+Sarhan, Mahmoud <id.php?id=176474> 	University of New Mexico 	1977
+Sarian, Edward <id.php?id=146897> 	Stevens Institute of Technology 	1977
+Sarma, Ivatury <id.php?id=3708> 	University of Nebraska-Lincoln 	1977
+Sauer, Peter <id.php?id=162663> 	Purdue University 	1977
+Savage, Carla <id.php?id=820> 	University of Illinois at
+Urbana-Champaign 	1977
+Savage, Thomas <id.php?id=24307> 	Claremont Graduate University 	1977
+Savir, Jacob <id.php?id=86634> 	Stanford University 	1977
+Scannell-Smith, Velma <id.php?id=43582> 	Oklahoma State University 	1977
+Schloss, H. Stephen <id.php?id=29274> 	University of Southern
+California 	1977
+Schmidt, Philip <id.php?id=95754> 	Syracuse University 	1977
+Schnabel, Robert <id.php?id=29571> 	Cornell University 	1977
+Schoen, Richard <id.php?id=32919> 	Stanford University 	1977
+Scholnick, Allen <id.php?id=35578> 	City University of New York 	1977
+Schooley, William <id.php?id=64745> 	University of Illinois at Chicago 	1977
+Schor, Ricardo <id.php?id=33828> 	New York University 	1977
+Schoute, Frederik (Frits) <id.php?id=81147> 	Harvard University 	1977
+Schreiber, Robert <id.php?id=81599> 	Yale University 	1977
+Schwartz, Charles <id.php?id=5931> 	Rutgers University, New Brunswick 	1977
+Schwartz, Mayer <id.php?id=81931> 	Purdue University 	1977
+Seeling, Ronald <id.php?id=6953> 	University of Kentucky 	1977
+Segreti, Anthony <id.php?id=41851> 	Virginia Commonwealth University 	1977
+Seiford, Lawrence <id.php?id=27617> 	University of Texas at Austin 	1977
+Selick, Paul <id.php?id=1311> 	Princeton University 	1977
+Sepehrnoori, Kambozia <id.php?id=45776> 	University of Texas at Austin 	1977
+Seshadri, Kalyanasundaram <id.php?id=151897> 	University of California,
+San Diego 	1977
+Shanny, Robert <id.php?id=41665> 	University of Wisconsin-Milwaukee 	1977
+Shapiro, Paul <id.php?id=130721> 	Massachusetts Institute of
+Technology 	1977
+Sharma, Promod <id.php?id=185078> 	University of California, Los
+Angeles 	1977
+Shaw, Sen-Yen <id.php?id=64670> 	University of Illinois at Chicago 	1977
+Sheets, Robert <id.php?id=34165> 	University of California, Riverside 	1977
+Shelley, II, Mack <id.php?id=40636> 	University of Wisconsin-Madison 	1977
+Shenoy, Prakash <id.php?id=99109> 	Cornell University 	1977
+Shew, Steven <id.php?id=71373> 	Arizona State University 	1977
+Shiffer, Irwin <id.php?id=52530> 	North Carolina State University 	1977
+Shokooh, Arsalan <id.php?id=105439> 	Illinois Institute of Technology 	1977
+Shore, Robert <id.php?id=97932> 	Carnegie Mellon University 	1977
+Shows, Jr., George <id.php?id=146436> 	University of California,
+Irvine 	1977
+Shreve, Steven <id.php?id=4008> 	University of Illinois at
+Urbana-Champaign 	1977
+Shrier, Stefan <id.php?id=14497> 	Brown University 	1977
+Shull, Carolyn <id.php?id=17318> 	Texas A&M University 	1977
+Shum, Annie <id.php?id=143689> 	Harvard University 	1977
+Sieg, Wilfried <id.php?id=119223> 	Stanford University 	1977
+Siegel, Andrew <id.php?id=83188> 	Stanford University 	1977
+Siegel, Howard <id.php?id=82067> 	Princeton University 	1977
+Siegel, Warren <id.php?id=52181> 	University of California, Berkeley 	1977
+Sieger, Richard <id.php?id=12534> 	University of Oregon 	1977
+Silva, Claudio <id.php?id=131505> 	The University of North Carolina at
+Chapel Hill 	1977
+Silva, Maria <id.php?id=5948> 	Rutgers University, New Brunswick 	1977
+Silver, Edward <id.php?id=105212> 	Columbia University 	1977
+Silverstein, Anna <id.php?id=5927> 	Rutgers University, New Brunswick 	1977
+Simutis, Jean <id.php?id=75989> 	University of California, Davis 	1977
+Sira-Ramírez, Hebertt <id.php?id=186981> 	Massachusetts Institute of
+Technology 	1977
+Skalba, Justine <id.php?id=5951> 	Rutgers University, New Brunswick 	1977
+Sloan, Kenneth <id.php?id=71942> 	University of Pennsylvania 	1977
+Smillie, John <id.php?id=46894> 	The University of Chicago 	1977
+Smith, Brent <id.php?id=3234> 	The Louisiana State University 	1977
+Smith, Gary <id.php?id=101518> 	University of California, Berkeley 	1977
+Smith, Henry <id.php?id=3468> 	University of Montana 	1977
+Smith, Jeffrey <id.php?id=47298> 	The University of Chicago 	1977
+Smith, Manfred <id.php?id=19436> 	Virginia Polytechnic Institute and
+State University 	1977
+Smith, Roy <id.php?id=85477> 	University of Utah 	1977
+Snider, Larry <id.php?id=50812> 	Texas Tech University 	1977
+Snyder, Richard <id.php?id=105440> 	Illinois Institute of Technology 	1977
+Snyder, William Merritt Jr. (Chip) <id.php?id=58448> 	University of
+Maryland College Park 	1977
+Socie, Darrell <id.php?id=81121> 	University of Illinois at
+Urbana-Champaign 	1977
+Soffa, Mary <id.php?id=78225> 	University of Pittsburgh 	1977
+Solderitsch, James <id.php?id=2765> 	Lehigh University 	1977
+Solomon, Marvin <id.php?id=82283> 	Cornell University 	1977
+Sorensen, Danny <id.php?id=25509> 	University of California, San Diego 	1977
+Sorenson, Peter <id.php?id=12148> 	University of Houston 	1977
+Sorkin, Arthur <id.php?id=147273> 	University of California, Los
+Angeles 	1977
+Sovero, Emilio <id.php?id=120949> 	California Institute of Technology 	1977
+Spackman, Kenneth <id.php?id=12615> 	University of Colorado at Boulder 	1977
+Speh, Birgit <id.php?id=24495> 	Massachusetts Institute of Technology 	1977
+Spingarn, Jonathan <id.php?id=28234> 	University of Washington 	1977
+Sproull, Robert <id.php?id=50086> 	Stanford University 	1977
+Staffeldt, Ross <id.php?id=32747> 	University of California, Berkeley 	1977
+Stafford, Richard <id.php?id=5952> 	Rutgers University, New Brunswick 	1977
+Stafford, Robert <id.php?id=85286> 	The University of Chicago 	1977
+Stanley, Lee <id.php?id=11990> 	University of California, Berkeley 	1977
+Stanley, Walter <id.php?id=27165> 	The George Washington University 	1977
+Stanton, Dennis <id.php?id=9613> 	University of Wisconsin-Madison 	1977
+Steel, John <id.php?id=22128> 	University of California, Berkeley 	1977
+Stein, David <id.php?id=81145> 	Harvard University 	1977
+Steinberger, Mark <id.php?id=9359> 	The University of Chicago 	1977
+Sternfeld, Robert <id.php?id=9614> 	University of Wisconsin-Madison 	1977
+Steuer, Michael <id.php?id=10448> 	Adelphi University 	1977
+Stewart, Ward <id.php?id=90910> 	University of Maryland College Park 	1977
+Stiller, Peter <id.php?id=47800> 	Princeton University 	1977
+Stockenberg, John <id.php?id=135125> 	Brown University 	1977
+Stout, Quentin <id.php?id=2788> 	Indiana University 	1977
+Straight, H. <id.php?id=8502> 	Western Michigan University 	1977
+Strassberg, Helen <id.php?id=35601> 	City University of New York 	1977
+Strasser, Edward <id.php?id=30796> 	Polytechnic University 	1977
+Strauss, David <id.php?id=85496> 	University of Pittsburgh 	1977
+Sturm, Jacob <id.php?id=93166> 	Princeton University 	1977
+Stynes, Martin <id.php?id=36944> 	Oregon State University 	1977
+Su, Chen-Jyi <id.php?id=122341> 	University of Miami 	1977
+Suarez, Pedro <id.php?id=4772> 	Northwestern University 	1977
+Suchan, Gerald <id.php?id=12149> 	University of Houston 	1977
+Suchanek, Ana Maria <id.php?id=12740> 	Northwestern University 	1977
+Summers, Richard <id.php?id=22242> 	Georgia Institute of Technology 	1977
+Sundberg, Carl <id.php?id=9615> 	University of Wisconsin-Madison 	1977
+Sunder, Viakalathur <id.php?id=2800> 	Indiana University 	1977
+Swart, Charles <id.php?id=821> 	University of Illinois at
+Urbana-Champaign 	1977
+Swartz, Boyd <id.php?id=33064> 	New York University 	1977
+Sweet, Richard <id.php?id=47220> 	Stanford University 	1977
+Sweigart, James <id.php?id=98216> 	Carnegie Mellon University 	1977
+Tai, Kuo-Chung <id.php?id=22793> 	Cornell University 	1977
+Taliaferro, Dickenson <id.php?id=2812> 	Emory University 	1977
+Tamhankar, Madhav <id.php?id=20658> 	State University of New York at
+Buffalo 	1977
+Tan, Henry <id.php?id=27164> 	The George Washington University 	1977
+Tang, Leh-Sheng <id.php?id=5950> 	Rutgers University, New Brunswick 	1977
+Teleman, Nicolae <id.php?id=14886> 	Massachusetts Institute of
+Technology 	1977
+Terasawa, Jun <id.php?id=24624> 	State University of New York at
+Buffalo 	1977
+Terrell, George <id.php?id=43769> 	Rice University 	1977
+Thiel, Mark <id.php?id=44288> 	Case Western Reserve University 	1977
+Thisted, Ronald <id.php?id=58879> 	Stanford University 	1977
+Thomas, Annie <id.php?id=85061> 	Yale University 	1977
+Thomas, Donald <id.php?id=87295> 	Carnegie Mellon University 	1977
+Thomas, Jr., Donald <id.php?id=93699> 	Carnegie Mellon University 	1977
+Thomason, Robert <id.php?id=1330> 	Princeton University 	1977
+Thompson, John <id.php?id=119318> 	University of Illinois at
+Urbana-Champaign 	1977
+Thompson, Michael <id.php?id=35537> 	City University of New York 	1977
+Thornton, Vincie <id.php?id=85743> 	University of Florida 	1977
+Tietz, Leon <id.php?id=41545> 	University of Illinois at
+Urbana-Champaign 	1977
+Tigner, John <id.php?id=154618> 	Hunter College 	1977
+Tinsley, Frederick <id.php?id=9616> 	University of Wisconsin-Madison 	1977
+Toffoli, Tommaso <id.php?id=104177> 	University of Michigan 	1977
+Tomer, Damber-Singh <id.php?id=64749> 	University of Illinois at
+Chicago 	1977
+Treese, George <id.php?id=165384> 	Louisiana Tech University 	1977
+Treichler, John <id.php?id=133072> 	Stanford University 	1977
+Trent, Tavan <id.php?id=16312> 	University of Virginia 	1977
+Tribolet, José <id.php?id=91052> 	Massachusetts Institute of
+Technology 	1977
+Trubowitz, Eugene <id.php?id=33271> 	New York University 	1977
+Tung, Ka Kit <id.php?id=50413> 	Harvard University 	1977
+Tunnell, Jerrold <id.php?id=6191> 	Harvard University 	1977
+Turbay, Gabriel <id.php?id=43723> 	Rice University 	1977
+Turgi, Mary <id.php?id=825> 	University of Illinois at
+Urbana-Champaign 	1977
+Ullman, Shimon <id.php?id=19000> 	Massachusetts Institute of
+Technology 	1977
+Urban, III, Joseph <id.php?id=1280> 	University of Louisiana at
+Lafayette 	1977
+Vadiveloo, Jeyaraj <id.php?id=34329> 	University of California,
+Berkeley 	1977
+Vainsencher, Israel <id.php?id=38671> 	Massachusetts Institute of
+Technology 	1977
+VanderBrug, Gordon <id.php?id=78858> 	University of Maryland College
+Park 	1977
+Van Wesep, Robert <id.php?id=31376> 	University of California,
+Berkeley 	1977
+Vardi, Yehuda <id.php?id=36227> 	Cornell University 	1977
+Vargas, Jorge <id.php?id=35494> 	Columbia University 	1977
+Varley, Jr., Robert <id.php?id=35162> 	The University of North Carolina
+at Chapel Hill 	1977
+Verde-Star, Luis <id.php?id=9617> 	University of Wisconsin-Madison 	1977
+Viera, Proulx <id.php?id=161112> 	Columbia University 	1977
+Vijums, Valdis <id.php?id=5933> 	Rutgers University, New Brunswick 	1977
+Vogtmann, Karen <id.php?id=24015> 	University of California, Berkeley 	1977
+Volponi, Allan <id.php?id=11682> 	Adelphi University 	1977
+Von Kaenel, Pierre <id.php?id=25368> 	Syracuse University 	1977
+Wachs, Michelle <id.php?id=26898> 	University of California, San Diego 	1977
+Wagner, Sigrid <id.php?id=68897> 	New York University 	1977
+Walker, Glenn <id.php?id=83617> 	University of Florida 	1977
+Walker, Russell <id.php?id=13081> 	University of California, Berkeley 	1977
+Walton, Ian <id.php?id=1518> 	University of California, Santa Cruz 	1977
+Wandell, Brian <id.php?id=132943> 	University of California, Irvine 	1977
+Wang, Zanyuan <id.php?id=127059> 	University of California, Berkeley 	1977
+Washburn, Hugh <id.php?id=147816> 	University of Southern California 	1977
+Wasserman, Stanley <id.php?id=13739> 	Harvard University 	1977
+Watts, J. H. Vernon <id.php?id=47511> 	The University of North Carolina
+at Chapel Hill 	1977
+Weaver, Richard <id.php?id=152958> 	Cornell University 	1977
+Wei, Duan <id.php?id=41752> 	University of South Carolina 	1977
+Weibel, Charles <id.php?id=5983> 	The University of Chicago 	1977
+Weisinger, James <id.php?id=22875> 	Harvard University 	1977
+Wellington, Robert <id.php?id=9361> 	The University of Chicago 	1977
+Wells, Daniel <id.php?id=2901> 	Indiana University 	1977
+Werschulz, Arthur <id.php?id=58892> 	Carnegie Mellon University 	1977
+Westervelt, Robert <id.php?id=136742> 	University of California,
+Berkeley 	1977
+Weyuker, Elaine <id.php?id=70233> 	Rutgers University, New Brunswick 	1977
+White, Edward <id.php?id=11491> 	The Pennsylvania State University 	1977
+White, Luther <id.php?id=4667> 	University of Illinois at
+Urbana-Champaign 	1977
+White, II, James <id.php?id=3235> 	The Louisiana State University 	1977
+Widtfeldt, James <id.php?id=85299> 	Rensselaer Polytechnic Institute 	1977
+Wiederhold, Alan <id.php?id=155536> 	Rice University 	1977
+Wildenberg, Gerald <id.php?id=13824> 	Clark University 	1977
+Wild, Jr., J. Christian <id.php?id=70340> 	Rutgers University, New
+Brunswick 	1977
+Williams, Luther <id.php?id=87529> 	University of Tennessee -
+Knoxville 	1977
+Wilson, Art <id.php?id=99038> 	University of Montana 	1977
+Winklmann, Karl <id.php?id=81932> 	Purdue University 	1977
+Winther, Ragnar <id.php?id=106033> 	Cornell University 	1977
+Wojcik, Gregory <id.php?id=116292> 	California Institute of Technology 	1977
+Wolf, Thomas <id.php?id=9618> 	University of Wisconsin-Madison 	1977
+Wolff, Edward <id.php?id=45206> 	University of Massachusetts Amherst 	1977
+Wollman, Stephen <id.php?id=118477> 	University of New Mexico 	1977
+Wong, Derek <id.php?id=1450> 	The Florida State University 	1977
+Wong, Roman <id.php?id=5932> 	Rutgers University, New Brunswick 	1977
+Wong, Sherman <id.php?id=31478> 	University of California, Berkeley 	1977
+Woo, Moo <id.php?id=17460> 	University of Alabama-Tuscaloosa 	1977
+Woodham, Robert <id.php?id=72085> 	Massachusetts Institute of
+Technology 	1977
+Woodworth, Patricia <id.php?id=64779> 	State University of New York at
+Binghamton 	1977
+Wright, Ron <id.php?id=8001> 	University of Massachusetts Amherst 	1977
+Wright, Ronald <id.php?id=6951> 	University of Kentucky 	1977
+Wright, Steve <id.php?id=2936> 	Indiana University 	1977
+Wright, Tommy <id.php?id=165449> 	The Ohio State University 	1977
+Wyler, Daniel <id.php?id=79419> 	Carnegie Mellon University 	1977
+Wysk, Richard <id.php?id=185437> 	Purdue University 	1977
+Wysocki, Edward <id.php?id=106450> 	The Johns Hopkins University 	1977
+Xavier, Frederico <id.php?id=51921> 	The University of Rochester 	1977
+Yang, Joanne <id.php?id=165450> 	The Ohio State University 	1977
+Yates, George <id.php?id=98422> 	California Institute of Technology 	1977
+Yeh, Ching Ming <id.php?id=1451> 	The Florida State University 	1977
+Yeung, Patrick <id.php?id=62292> 	Massachusetts Institute of
+Technology 	1977
+Yoon, Barbara <id.php?id=99428> 	Massachusetts Institute of Technology 	1977
+Yoon, Yong <id.php?id=1719> 	University of Florida 	1977
+Young, Christopher <id.php?id=4431> 	Brown University 	1977
+Young, David <id.php?id=102020> 	University of Illinois at
+Urbana-Champaign 	1977
+Young, Stephen <id.php?id=63035> 	Massachusetts Institute of
+Technology 	1977
+Yuan, Chen <id.php?id=52486> 	North Carolina State University 	1977
+Yuan, Stephen <id.php?id=93089> 	University of Texas at Austin 	1977
+Zage, Wayne <id.php?id=64717> 	University of Illinois at Chicago 	1977
+Zamlong, Stuart <id.php?id=69333> 	Brown University 	1977
+Zarate, Guillermo <id.php?id=52562> 	North Carolina State University 	1977
+Ziegler, Lynn <id.php?id=7282> 	University of Michigan 	1977
+Zietz, Stanley <id.php?id=31489> 	University of California, Berkeley 	1977
+Zipkin, Paul <id.php?id=87380> 	Yale University 	1977
+Zweibel, Ellen <id.php?id=3592> 	Princeton University 	1977
+Zyla, Lubomyr <id.php?id=43753> 	Rice University 	1977
+
+  * Search <search.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+
+
+The Mathematics Genealogy Project is in need of funds to help pay for
+student help and other associated costs. If you would like to
+contribute, please donate online
+<https://epayment.ndus.nodak.edu/C22800_ustores/web/product_detail.jsp?PRODUCTID=2989&SINGLESTORE=true>
+using credit card or bank transfer or mail your tax-deductible
+contribution to:
+
+Mathematics Genealogy Project
+Department of Mathematics
+North Dakota State University
+P. O. Box 6050
+Fargo, North Dakota 58108-6050
+

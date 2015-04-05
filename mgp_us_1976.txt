@@ -1,0 +1,1159 @@
+Tree <index.php>
+
+
+  Mathematics Genealogy Project
+
+  * Home <index.php>
+  * Search <search.php>
+  * Extrema <extrema.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+  * Mirrors <mirrors.php>
+      o NDSU (main) <http://www.genealogy.math.ndsu.nodak.edu/>
+      o AMS <http://www.genealogy.ams.org/>
+      o Bielefeld <http://www.math.uni-bielefeld.de/genealogy>
+      o IMPA <http://genealogy.impa.br/>
+
+A service of the NDSU <http://www.ndsu.edu/> Department of Mathematics
+<http://www.math.ndsu.nodak.edu/>, in association with the American
+Mathematical Society <http://www.ams.org/>.
+
+Your search has found 947 records in our database.
+Display results in .
+
+Adamson, Alan <id.php?id=32727> 	University of California, Berkeley 	1976
+Adkins, William <id.php?id=12846> 	University of Oregon 	1976
+Adleman, Leonard <id.php?id=62298> 	University of California, Berkeley 	1976
+Adler, Mark <id.php?id=33429> 	New York University 	1976
+Agarwal, Vinod <id.php?id=107249> 	University of California, Berkeley 	1976
+Aghevli, Behrooz <id.php?id=12558> 	Northwestern University 	1976
+Akyildiz, Yilmaz <id.php?id=32757> 	University of California, Berkeley 	1976
+Albrecht, James <id.php?id=92336> 	University of California, Berkeley 	1976
+Alexander, Joyce <id.php?id=148021> 	University of Pennsylvania 	1976
+Al-Khafaji, Mahmoud <id.php?id=9526> 	New Mexico State University 	1976
+Allebach, Jan <id.php?id=71813> 	Princeton University 	1976
+Alliston, Rollie <id.php?id=15830> 	University of Virginia 	1976
+Alspach, Dale <id.php?id=10005> 	The Ohio State University 	1976
+Ancel, Fredric <id.php?id=9576> 	University of Wisconsin-Madison 	1976
+Andersen, Lyle <id.php?id=7645> 	University of Denver 	1976
+Anderson, David <id.php?id=26094> 	The University of Chicago 	1976
+Anderson, Eugene <id.php?id=9577> 	University of Wisconsin-Madison 	1976
+Anderson, Ian <id.php?id=22869> 	University of Arizona 	1976
+Andresen, Patricia <id.php?id=17163> 	University of California, Santa
+Barbara 	1976
+Andrew, Alfred <id.php?id=22206> 	Stanford University 	1976
+Angluin, Dana <id.php?id=61380> 	University of California, Berkeley 	1976
+Askanas, Malgorzata <id.php?id=35683> 	City University of New York 	1976
+Asmuth, Charles <id.php?id=59127> 	The University of Chicago 	1976
+Astbury, Kenneth <id.php?id=9997> 	The Ohio State University 	1976
+Atlas, Jay <id.php?id=93758> 	Princeton University 	1976
+Austin, Billy <id.php?id=8468> 	University of Mississippi 	1976
+Austin, Howard <id.php?id=61046> 	Massachusetts Institute of
+Technology 	1976
+Auth, II, Joseph <id.php?id=38914> 	Wesleyan University 	1976
+Avenier, ex Carpano, Marie-Jose <id.php?id=31741> 	University of
+California, Berkeley 	1976
+Avrunin, George <id.php?id=7237> 	University of Michigan 	1976
+Aytuna, Aydin <id.php?id=28252> 	University of Washington 	1976
+Baclawski, Kenneth <id.php?id=92603> 	Harvard University 	1976
+Baglivo, Jenny <id.php?id=25331> 	Syracuse University 	1976
+Bailey, David <id.php?id=7822> 	Stanford University 	1976
+Baird, Bridget <id.php?id=88816> 	State University of New York at
+Buffalo 	1976
+Baker, Daniel <id.php?id=1130> 	State University of New York at Stony
+Brook 	1976
+Baker, Paul <id.php?id=76752> 	University of Delaware 	1976
+Balder, Erik <id.php?id=34527> 	University of California, Berkeley 	1976
+Balkanyi, Leslie <id.php?id=44238> 	Case Western Reserve University 	1976
+Bambenek, Theordore <id.php?id=150> 	Iowa State University 	1976
+Bangura, Edrisa <id.php?id=42383> 	University of Michigan 	1976
+Barbasch, Dan <id.php?id=40280> 	University of Illinois at
+Urbana-Champaign 	1976
+Barry, Michael <id.php?id=36338> 	University of Notre Dame 	1976
+Bartold, Shelley <id.php?id=42384> 	University of Michigan 	1976
+Bates, Peter <id.php?id=14848> 	University of Utah 	1976
+Batterson, Steven <id.php?id=13032> 	Northwestern University 	1976
+Becerra-Bertram, Edgar <id.php?id=5847> 	Rutgers University, New
+Brunswick 	1976
+Bednarski, Tadeusz <id.php?id=34542> 	University of California,
+Berkeley 	1976
+Beers, Donna <id.php?id=30677> 	The University of Connecticut 	1976
+Bell, Gregory <id.php?id=7240> 	University of Michigan 	1976
+Bender, Jr., Paul <id.php?id=1846> 	Ohio University 	1976
+Benedict, James <id.php?id=8501> 	Western Michigan University 	1976
+Benincasa, Ronald <id.php?id=79883> 	The Johns Hopkins University 	1976
+Bennett, John <id.php?id=82652> 	University of Wisconsin-Madison 	1976
+Bennison, Victor <id.php?id=31288> 	The University of Chicago 	1976
+Bentley, Jon <id.php?id=50096> 	The University of North Carolina at
+Chapel Hill 	1976
+Bergman, Gerald <id.php?id=111935> 	Wayne State University 	1976
+Berlinghoff, William <id.php?id=38934> 	Wesleyan University 	1976
+Berman, Robert <id.php?id=62977> 	Massachusetts Institute of
+Technology 	1976
+Bernal, Robert <id.php?id=130822> 	University of Massachusetts Amherst 	1976
+Bernard, Claude <id.php?id=105678> 	Harvard University 	1976
+Bernard, Paul <id.php?id=5720> 	University of Notre Dame 	1976
+Bernard, Peter <id.php?id=81195> 	University of California, Berkeley 	1976
+Berner, Andrew <id.php?id=9578> 	University of Wisconsin-Madison 	1976
+Bertiger, William <id.php?id=32360> 	University of California,
+Berkeley 	1976
+Bester, Michal <id.php?id=5256> 	University of Michigan 	1976
+Bhatt, Ravindra <id.php?id=173849> 	University of Illinois at
+Urbana-Champaign 	1976
+Billawalla, Nazir <id.php?id=14045> 	University of Texas at Austin 	1976
+Bindschadler, David <id.php?id=1859> 	Indiana University 	1976
+Birmingham, Robert <id.php?id=155215> 	University of Pittsburgh 	1976
+Bitner, James <id.php?id=30166> 	University of Illinois at
+Urbana-Champaign 	1976
+Bleecker, Cecelia <id.php?id=31391> 	University of California,
+Berkeley 	1976
+Bloom, Gary <id.php?id=46576> 	University of Southern California 	1976
+Blosser, Patrick <id.php?id=81938> 	Purdue University 	1976
+Bodo, Erwin <id.php?id=1456> 	The Florida State University 	1976
+Bogart, Joanne <id.php?id=114065> 	Cornell University 	1976
+Bohannon, Tommy <id.php?id=7352> 	Texas A&M University 	1976
+Bohn, Mark <id.php?id=120218> 	California Institute of Technology 	1976
+Bonczek, Robert <id.php?id=81935> 	Purdue University 	1976
+Bond, Lloyd <id.php?id=155581> 	The Johns Hopkins University 	1976
+Bowling, John <id.php?id=122178> 	The Ohio State University 	1976
+Boxer, Laurence <id.php?id=863> 	University of Illinois at
+Urbana-Champaign 	1976
+Boyd, David <id.php?id=121438> 	Virginia Polytechnic Institute and State
+University 	1976
+Boyd, John <id.php?id=90338> 	Harvard University 	1976
+Boyer, Jr., John <id.php?id=85678> 	Michigan State University 	1976
+Boylls, Jr., C. Curtis <id.php?id=36096> 	Stanford University 	1976
+Bradburn, John <id.php?id=64744> 	University of Illinois at Chicago 	1976
+Brady, Dennis <id.php?id=107722> 	Montana State University 	1976
+Briggs, William <id.php?id=15177> 	Harvard University 	1976
+Brook, Sandra <id.php?id=5838> 	Rutgers University, New Brunswick 	1976
+Bross, Dean <id.php?id=49740> 	The Johns Hopkins University 	1976
+Brown, Allen <id.php?id=79704> 	Massachusetts Institute of Technology 	1976
+Brown, Stephen <id.php?id=149816> 	The University of Chicago 	1976
+Browne, Russell <id.php?id=179733> 	University of Maryland College
+Park 	1976
+Brydges, David <id.php?id=5257> 	University of Michigan 	1976
+Buell, Duncan <id.php?id=64623> 	University of Illinois at Chicago 	1976
+Bull , Jr., Everett <id.php?id=63025> 	Massachusetts Institute of
+Technology 	1976
+Burch, Charles <id.php?id=8279> 	University of California, Riverside 	1976
+Burd, Barry <id.php?id=63777> 	University of Illinois at
+Urbana-Champaign 	1976
+Burdick, Richard <id.php?id=133488> 	Texas A&M University 	1976
+Burkhart, Richard <id.php?id=38764> 	Dartmouth College 	1976
+Burnap, Charles <id.php?id=73855> 	Harvard University 	1976
+Burns, Anne <id.php?id=1123> 	State University of New York at Stony
+Brook 	1976
+Burns, John <id.php?id=35922> 	Stevens Institute of Technology 	1976
+Burstein, Leigh <id.php?id=106757> 	Stanford University 	1976
+Burt, Peter <id.php?id=36374> 	Massachusetts Institute of Technology 	1976
+Bushar, Harry <id.php?id=55090> 	University of Maryland College Park 	1976
+Byrd, Richard <id.php?id=43741> 	Rice University 	1976
+Caby, Errol <id.php?id=34529> 	University of California, Berkeley 	1976
+Caine, Bruce <id.php?id=1898> 	Emory University 	1976
+Campbell, Gregory <id.php?id=1457> 	The Florida State University 	1976
+Campbell, Patricia <id.php?id=181281> 	The Florida State University 	1976
+Campoli, Oscar <id.php?id=5845> 	Rutgers University, New Brunswick 	1976
+Cantwell, Brian <id.php?id=119983> 	California Institute of Technology 	1976
+Carlson, Robert <id.php?id=73689> 	The Johns Hopkins University 	1976
+Carlsson, Gunnar <id.php?id=14885> 	Stanford University 	1976
+Carmony, Lowell <id.php?id=3022> 	Southern Illinois University at
+Carbondale 	1976
+Carrig, James <id.php?id=5836> 	Rutgers University, New Brunswick 	1976
+Carter, Randy <id.php?id=48096> 	Iowa State University 	1976
+Cash, James <id.php?id=140827> 	Purdue University 	1976
+Castañon, David <id.php?id=63094> 	Massachusetts Institute of
+Technology 	1976
+Catlin, Paul <id.php?id=10001> 	The Ohio State University 	1976
+Cellini, Michael <id.php?id=30773> 	Fordham University 	1976
+Center, Barbara <id.php?id=8772> 	University of South Florida 	1976
+Chakravarti, Kamal <id.php?id=10000> 	The Ohio State University 	1976
+Chakravarty, Sudip <id.php?id=176943> 	Northwestern University 	1976
+Chan, John <id.php?id=120285> 	University of Michigan 	1976
+Chandler, James <id.php?id=15800> 	University of Virginia 	1976
+Chang, Fwu-Ranq <id.php?id=74289> 	State University of New York at Stony
+Brook 	1976
+Chang, I-Shou <id.php?id=37482> 	Columbia University 	1976
+Chang, Jin Yuh <id.php?id=44269> 	Case Western Reserve University 	1976
+Chang, Kuang-I <id.php?id=10002> 	The Ohio State University 	1976
+Chang, Robin <id.php?id=82061> 	Princeton University 	1976
+Chang, Yi <id.php?id=130720> 	Massachusetts Institute of Technology 	1976
+Chao, Minna <id.php?id=1919> 	Washington University in St. Louis 	1976
+Chartoff, Barton <id.php?id=13035> 	Northwestern University 	1976
+Chelson, Paul <id.php?id=24323> 	Claremont Graduate University 	1976
+Chermak, Andrew <id.php?id=5834> 	Rutgers University, New Brunswick 	1976
+Ching, Wai-Sin <id.php?id=10003> 	The Ohio State University 	1976
+Chiou, Kuo <id.php?id=129967> 	Harvard University 	1976
+Chirica, Laurian <id.php?id=147274> 	University of California, Los
+Angeles 	1976
+Choo, Seki Alexander Coo <id.php?id=149546> 	University of Iowa 	1976
+Chow, Winston <id.php?id=34327> 	University of California, Berkeley 	1976
+Christiansen, Edmund <id.php?id=43906> 	Massachusetts Institute of
+Technology 	1976
+Chueh, Kathy <id.php?id=9579> 	University of Wisconsin-Madison 	1976
+Chung, Li-Jin <id.php?id=53693> 	North Carolina State University 	1976
+Clark, Bradd <id.php?id=9728> 	University of Wyoming 	1976
+Clark, Douglas <id.php?id=47840> 	Carnegie Mellon University 	1976
+Clark, Stephen <id.php?id=31742> 	University of California, Berkeley 	1976
+Clarke, Lori <id.php?id=94890> 	University of Colorado at Boulder 	1976
+Clarke, Thomas <id.php?id=11158> 	Kent State University 	1976
+Clarke, Jr., Edmund <id.php?id=50063> 	Cornell University 	1976
+Cochell, Gary <id.php?id=43502> 	Oklahoma State University 	1976
+Coffee, Terence <id.php?id=35653> 	City University of New York 	1976
+Cohen, David <id.php?id=30420> 	Massachusetts Institute of Technology 	1976
+Cohen, Ellis <id.php?id=50112> 	Carnegie Mellon University 	1976
+Cohen, Jo-Ann <id.php?id=15183> 	Duke University 	1976
+Cohen, Martin <id.php?id=45439> 	University of Texas at Austin 	1976
+Collison, Mary <id.php?id=49061> 	New York University 	1976
+Colvin, Michael <id.php?id=12138> 	University of Houston 	1976
+Comer, Douglas <id.php?id=100769> 	The Pennsylvania State University 	1976
+Constantino, III, Joseph <id.php?id=48247> 	University of Pittsburgh 	1976
+Cooper, Yonina <id.php?id=9522> 	New Mexico State University 	1976
+Courville, James <id.php?id=29622> 	University of Louisiana at
+Lafayette 	1976
+Cowen, Carl <id.php?id=16465> 	University of California, Berkeley 	1976
+Cowles (Wolfe), Mary <id.php?id=31010> 	The Pennsylvania State
+University 	1976
+Cox, J. Theodore <id.php?id=31305> 	Cornell University 	1976
+Cranwell, Robert <id.php?id=16408> 	Arizona State University 	1976
+Crawford, John <id.php?id=9580> 	University of Wisconsin-Madison 	1976
+Crawley, Jr., James <id.php?id=3849> 	University of Tennessee -
+Knoxville 	1976
+Cruthirds, John <id.php?id=1987> 	The Florida State University 	1976
+Currier, Barbara <id.php?id=41880> 	University of Missouri - Kansas
+City 	1976
+Curry, James <id.php?id=32065> 	University of California, Berkeley 	1976
+Daccach, Janey <id.php?id=5841> 	Rutgers University, New Brunswick 	1976
+Dahlberg, Kenneth <id.php?id=9601> 	Princeton University 	1976
+Dalal, Siddhartha <id.php?id=170969> 	The University of Rochester 	1976
+Dalezman, Michael <id.php?id=23933> 	New York University 	1976
+Damarin, Suzanne <id.php?id=122182> 	The Ohio State University 	1976
+Damlamian, Alain <id.php?id=84031> 	Harvard University 	1976
+Daneshmand-Firouzabadi, Mahmoud <id.php?id=34422> 	University of
+California, Berkeley 	1976
+D'Angelo, John <id.php?id=9735> 	Princeton University 	1976
+Davidson, Kenneth <id.php?id=31392> 	University of California,
+Berkeley 	1976
+Davidson, Paul <id.php?id=27034> 	University of Pittsburgh 	1976
+Davis, Joel <id.php?id=135211> 	Georgia Institute of Technology 	1976
+Davis, Larry <id.php?id=78856> 	University of Maryland College Park 	1976
+Davis, Randall <id.php?id=61100> 	Stanford University 	1976
+Davis, Sheldon <id.php?id=1999> 	Ohio University 	1976
+Dean, Euda <id.php?id=8883> 	Texas Christian University 	1976
+De Caux, Peter <id.php?id=2002> 	Emory University 	1976
+Dechert, W. (Dee) <id.php?id=94708> 	Cornell University 	1976
+DeGrand, Thomas <id.php?id=103738> 	Massachusetts Institute of
+Technology 	1976
+Dehnad, Khosrow <id.php?id=31697> 	University of California, Berkeley 	1976
+Deift, Percy <id.php?id=33911> 	Princeton University 	1976
+del Pino, Guido <id.php?id=32964> 	University of Wisconsin-Madison 	1976
+De Moura, Carlos <id.php?id=33688> 	New York University 	1976
+Denig, William <id.php?id=9999> 	The Ohio State University 	1976
+De Riggi, Dennis <id.php?id=31745> 	University of Maryland College
+Park 	1976
+Derrick, Frederick <id.php?id=52852> 	North Carolina State University 	1976
+Detlefsen, Michael <id.php?id=84349> 	The Johns Hopkins University 	1976
+Deuermeyer, Bryan <id.php?id=112200> 	Northwestern University 	1976
+Devroye, Luc <id.php?id=73385> 	University of Texas at Austin 	1976
+DeWitt, David <id.php?id=82209> 	University of Michigan 	1976
+Diamond, Jr., Harold <id.php?id=117903> 	New York University 	1976
+Dibner, Steve <id.php?id=80996> 	State University of New York at
+Binghamton 	1976
+Dicenzo, Alan <id.php?id=44264> 	Case Western Reserve University 	1976
+Dickey, David <id.php?id=48100> 	Iowa State University 	1976
+Diem, Janet <id.php?id=47095> 	Tulane University 	1976
+Dines, Kris <id.php?id=103626> 	Purdue University 	1976
+Di Prisco De Venanzi, Carlos <id.php?id=22596> 	Massachusetts Institute
+of Technology 	1976
+Dixon, Michael <id.php?id=43164> 	University of California, San Diego 	1976
+Dodson, Bruce <id.php?id=1124> 	State University of New York at Stony
+Brook 	1976
+Dolan, Louise <id.php?id=62561> 	Massachusetts Institute of Technology 	1976
+Donoghue, John F. <id.php?id=162165> 	University of Massachusetts
+Amherst 	1976
+Donovan, Timothy <id.php?id=12608> 	University of Colorado at Boulder 	1976
+Dorsett, Charles <id.php?id=10814> 	University of North Texas 	1976
+Dotti de Miatello, Isabel <id.php?id=5840> 	Rutgers University, New
+Brunswick 	1976
+Dotti de Miatello, Isabel <id.php?id=163086> 	Rutgers University, New
+Brunswick 	1976
+Dougalis, Vassilios <id.php?id=28503> 	Harvard University 	1976
+Douros, George <id.php?id=64698> 	University of Illinois at Chicago 	1976
+Doyle, John <id.php?id=25429> 	Syracuse University 	1976
+Dranchak, John <id.php?id=145584> 	Oregon State University 	1976
+Driggs, John <id.php?id=5258> 	University of Michigan 	1976
+Drummond, Douglas <id.php?id=52561> 	North Carolina State University 	1976
+Duchamp, Thomas <id.php?id=4724> 	University of Illinois at
+Urbana-Champaign 	1976
+Duncan, Gregory <id.php?id=86754> 	University of California, Berkeley 	1976
+Dunning, Larry <id.php?id=100697> 	North Carolina State University 	1976
+Durgun, Kanat <id.php?id=25387> 	Syracuse University 	1976
+Durrett, Richard <id.php?id=38623> 	Stanford University 	1976
+Early, Theresa <id.php?id=2043> 	The Florida State University 	1976
+Eastman, Beatrice <id.php?id=28148> 	Fordham University 	1976
+Eastwood, Michael <id.php?id=33738> 	Princeton University 	1976
+Eddy, William <id.php?id=35342> 	Yale University 	1976
+Edwards, Bruce <id.php?id=38778> 	Dartmouth College 	1976
+Ehrenpreis, Charles <id.php?id=24092> 	Yale University 	1976
+Ekanadham, Kattamuri <id.php?id=105637> 	State University of New York at
+Stony Brook 	1976
+El-Mokadem, Ferial <id.php?id=63698> 	University of Maryland College
+Park 	1976
+Elosser, Paul <id.php?id=6954> 	University of Kentucky 	1976
+Embley, David <id.php?id=8723> 	University of Illinois at
+Urbana-Champaign 	1976
+Emigh, Ted <id.php?id=96264> 	Iowa State University 	1976
+Engebos, Bernard <id.php?id=9524> 	New Mexico State University 	1976
+Engel, Frank <id.php?id=9168> 	Yale University 	1976
+Engenes, Hans <id.php?id=38926> 	Wesleyan University 	1976
+Epperson, Jon <id.php?id=62844> 	Texas A&M University 	1976
+Eterno, John <id.php?id=155601> 	Massachusetts Institute of Technology 	1976
+Evans, Daniel <id.php?id=48723> 	University of California, Los Angeles 	1976
+Evans, Paul <id.php?id=149817> 	The University of Chicago 	1976
+Everett, Daniel <id.php?id=9581> 	University of Wisconsin-Madison 	1976
+Fabec, Raymond <id.php?id=12605> 	University of Colorado at Boulder 	1976
+Farmer, Thomas <id.php?id=76892> 	University of Minnesota-Minneapolis 	1976
+Farrell, William <id.php?id=86180> 	University of California, Los
+Angeles 	1976
+Faugeras, Olivier <id.php?id=80304> 	University of Utah 	1976
+Feinberg, Jerry <id.php?id=24415> 	Stanford University 	1976
+Fellner, Stephen <id.php?id=5837> 	Rutgers University, New Brunswick 	1976
+Feshbach, Mark <id.php?id=12012> 	Stanford University 	1976
+Fife, Earl <id.php?id=38896> 	Wesleyan University 	1976
+Fink, John <id.php?id=5259> 	University of Michigan 	1976
+Finster, Mark <id.php?id=5260> 	University of Michigan 	1976
+Fitzpatrick, Donald <id.php?id=49943> 	The Johns Hopkins University 	1976
+Fitzpatrick, Phillip <id.php?id=20427> 	The University of Oklahoma 	1976
+Flahive, Mary <id.php?id=10006> 	The Ohio State University 	1976
+Fleisher, Jay <id.php?id=82653> 	University of Wisconsin-Madison 	1976
+Fleming, Thomas <id.php?id=55098> 	University of Maryland College Park 	1976
+Fletcher, Sharon <id.php?id=81936> 	Purdue University 	1976
+Fora, Ali <id.php?id=41890> 	State University of New York at Buffalo 	1976
+Foster, James <id.php?id=8950> 	University of Southern California 	1976
+Frank, Eugene <id.php?id=44244> 	Case Western Reserve University 	1976
+Frankel, Robert <id.php?id=9582> 	University of Wisconsin-Madison 	1976
+Fredricks, Gregory <id.php?id=145585> 	Oregon State University 	1976
+Fried, David <id.php?id=32590> 	University of California, Berkeley 	1976
+Friedman, Sy <id.php?id=62291> 	Massachusetts Institute of Technology 	1976
+Gahl, Robert <id.php?id=3702> 	University of Nebraska-Lincoln 	1976
+Galli, Donald <id.php?id=88949> 	Missouri University of Science and
+Technology 	1976
+Gallicchio, Angela <id.php?id=90911> 	University of Maryland College
+Park 	1976
+Galloway, Gregory <id.php?id=36882> 	University of California, San
+Diego 	1976
+Garber, Peter <id.php?id=149818> 	The University of Chicago 	1976
+Gardner, Patrick <id.php?id=11228> 	Kansas State University 	1976
+Garman, Brian <id.php?id=8500> 	Western Michigan University 	1976
+Garrett, John <id.php?id=12635> 	Missouri University of Science and
+Technology 	1976
+Gaylor, Richard <id.php?id=2121> 	The Florida State University 	1976
+Gaynor, John <id.php?id=4780> 	University of Illinois at
+Urbana-Champaign 	1976
+Gemeda, Demissu <id.php?id=36768> 	Brandeis University 	1976
+George, Kayikkalthoppu <id.php?id=1125> 	State University of New York at
+Stony Brook 	1976
+Ghia, Gokul <id.php?id=35343> 	Yale University 	1976
+Ghosh, Subir <id.php?id=41971> 	Colorado State University 	1976
+Giel, Charles <id.php?id=11113> 	Kent State University 	1976
+Gilliam, Kenneth <id.php?id=2129> 	Lehigh University 	1976
+Ginali, Susanna <id.php?id=33915> 	The University of Chicago 	1976
+Gladstien, Keith <id.php?id=16854> 	Purdue University 	1976
+Goad, Robert <id.php?id=5585> 	University of Georgia 	1976
+Goel, Suresh <id.php?id=2137> 	Ohio University 	1976
+Golabi, Kamal <id.php?id=86178> 	University of California, Los Angeles 	1976
+Gold, Bonnie <id.php?id=27639> 	Cornell University 	1976
+Golden, Bruce <id.php?id=40771> 	Massachusetts Institute of Technology 	1976
+Goldstein, Lawrence <id.php?id=84389> 	Princeton University 	1976
+Goodman, Robert <id.php?id=168082> 	Stanford University 	1976
+Gordon, James <id.php?id=2141> 	Washington University in St. Louis 	1976
+Goresky, R. Mark <id.php?id=4422> 	Brown University 	1976
+Goth, John <id.php?id=31752> 	University of Texas at Austin 	1976
+Goto, Midori <id.php?id=23149> 	University of Pennsylvania 	1976
+Goulet, Daniel <id.php?id=672> 	University of Houston 	1976
+Goyal, Deepak <id.php?id=82062> 	Princeton University 	1976
+Graham, Gordon <id.php?id=81933> 	Purdue University 	1976
+Grayson, Daniel <id.php?id=11365> 	Massachusetts Institute of
+Technology 	1976
+Green, Philip <id.php?id=32435> 	University of California, Berkeley 	1976
+Greenfield, Gary <id.php?id=128913> 	Oregon State University 	1976
+Green, Jr., David <id.php?id=15437> 	Michigan State University 	1976
+Greenough, T. Lockman <id.php?id=34679> 	Dartmouth College 	1976
+Gribik, Paul <id.php?id=98215> 	Carnegie Mellon University 	1976
+Grieco, Linda <id.php?id=5843> 	Rutgers University, New Brunswick 	1976
+Griffeath, David <id.php?id=9592> 	Cornell University 	1976
+Grim, Patrick <id.php?id=96969> 	Boston University Graduate School 	1976
+Grisham, Jack <id.php?id=43725> 	Rice University 	1976
+Grispolakis, Joachim <id.php?id=29866> 	Wayne State University 	1976
+Griswold, Norman <id.php?id=105342> 	University of Kansas 	1976
+Grone, Robert <id.php?id=17162> 	University of California, Santa
+Barbara 	1976
+Guibas, Leonidas <id.php?id=39940> 	Stanford University 	1976
+Gummersheimer, Victor <id.php?id=3024> 	Southern Illinois University at
+Carbondale 	1976
+Gupton, James <id.php?id=59246> 	Vanderbilt University 	1976
+Gurganus, Kenneth <id.php?id=35128> 	The University of North Carolina at
+Chapel Hill 	1976
+Gurwood, Christopher <id.php?id=33132> 	New York University 	1976
+Gutmann, Robert <id.php?id=141350> 	Iowa State University 	1976
+Hall, Dennis <id.php?id=143555> 	University of Tennessee - Knoxville 	1976
+Hall, William <id.php?id=47882> 	University of Illinois at
+Urbana-Champaign 	1976
+Hameiri, Eliezer <id.php?id=33256> 	New York University 	1976
+Hamilton, James <id.php?id=105382> 	University of Michigan 	1976
+Hammers, William <id.php?id=103081> 	University of Arkansas 	1976
+Hanges, Nicholas <id.php?id=16673> 	Purdue University 	1976
+Hankins, J. <id.php?id=12634> 	Missouri University of Science and
+Technology 	1976
+Hanna, Nagy <id.php?id=148022> 	University of Pennsylvania 	1976
+Hannula, Russell <id.php?id=36917> 	Carnegie Mellon University 	1976
+Hanson, David <id.php?id=82155> 	University of Arizona 	1976
+Hardy, Leon <id.php?id=15434> 	Michigan State University 	1976
+Harkleroad, Leon <id.php?id=103876> 	University of Notre Dame 	1976
+Harper, Thurman <id.php?id=106457> 	The Johns Hopkins University 	1976
+Harrell II, Evans <id.php?id=22250> 	Princeton University 	1976
+Harrington, Andrew <id.php?id=44532> 	Stanford University 	1976
+Harrington, David <id.php?id=55091> 	University of Maryland College
+Park 	1976
+Harris, Mark <id.php?id=47314> 	University of Massachusetts Amherst 	1976
+Hart, Kathleen <id.php?id=120507> 	Indiana University 	1976
+Hartman, Jehuda <id.php?id=48840> 	University of California, Los
+Angeles 	1976
+Hauge, Sharon <id.php?id=1361> 	The American University 	1976
+Hayslett, Jr., Homer <id.php?id=38780> 	Dartmouth College 	1976
+Hegg, Daniel <id.php?id=155602> 	University of Michigan 	1976
+Heiser, John <id.php?id=147282> 	University of California, Los Angeles 	1976
+Henle, James <id.php?id=22597> 	Massachusetts Institute of Technology 	1976
+Herrmann, Nira <id.php?id=83187> 	Stanford University 	1976
+Hill, David <id.php?id=83618> 	University of Florida 	1976
+Hillhouse, Patricia <id.php?id=5584> 	University of Georgia 	1976
+Hines, Michael <id.php?id=121401> 	University of California, Riverside 	1976
+Hipps, William <id.php?id=12768> 	Northwestern University 	1976
+Ho, Tsing-Jen <id.php?id=30753> 	Fordham University 	1976
+Hochberg, Kenneth <id.php?id=33270> 	New York University 	1976
+Hodrick, Robert <id.php?id=149819> 	The University of Chicago 	1976
+Hoerbelt, Bernard <id.php?id=95753> 	State University of New York at
+Buffalo 	1976
+Hogye, Michael <id.php?id=41825> 	Virginia Commonwealth University 	1976
+Hoogheem, Allan <id.php?id=346> 	University of Minnesota-Minneapolis 	1976
+Hoots, Jr., Felix <id.php?id=20426> 	Auburn University 	1976
+Hoover, Wayne <id.php?id=15442> 	Michigan State University 	1976
+Horn, Julian <id.php?id=44427> 	Stanford University 	1976
+Houston, A. Glen <id.php?id=48957> 	Southern Methodist University 	1976
+Howell, Thomas <id.php?id=102104> 	Cornell University 	1976
+Hoyer, R.W. <id.php?id=91765> 	Virginia Polytechnic Institute and State
+University 	1976
+Hribsek, Marija <id.php?id=63699> 	University of Maryland College Park 	1976
+Hsiao, Yueh-ling <id.php?id=36104> 	Southern Methodist University 	1976
+Hsieh, Hui-Kuang <id.php?id=24608> 	University of Wisconsin-Madison 	1976
+Hsu, Nai-Ting <id.php?id=82662> 	University of Wisconsin-Madison 	1976
+Hsu, Sze-Bi <id.php?id=30581> 	University of Iowa 	1976
+Huang, Hua-Min <id.php?id=1126> 	State University of New York at Stony
+Brook 	1976
+Huang, Lih-Wen <id.php?id=5261> 	University of Michigan 	1976
+Huckabay, Gary <id.php?id=43450> 	Oklahoma State University 	1976
+Huibregtse, Mark <id.php?id=52777> 	Massachusetts Institute of
+Technology 	1976
+Humphreys, Paul <id.php?id=187938> 	Stanford University 	1976
+Hwang, Rong <id.php?id=1716> 	University of Florida 	1976
+Hyman, James <id.php?id=33689> 	New York University 	1976
+Ingersoll, Jr., Jonathan <id.php?id=148587> 	Massachusetts Institute of
+Technology 	1976
+Ippolito, Pauline <id.php?id=12413> 	Northwestern University 	1976
+Isaacson, David <id.php?id=19598> 	New York University 	1976
+Itkin, Arthur <id.php?id=49735> 	The Johns Hopkins University 	1976
+Jacobs, David <id.php?id=44022> 	University of Missouri - Columbia 	1976
+Jacobs, Elliott <id.php?id=10436> 	Adelphi University 	1976
+Jacobs, Neal <id.php?id=35654> 	City University of New York 	1976
+Jacroux, Michael <id.php?id=163850> 	Oregon State University 	1976
+Jakobsen, Hans <id.php?id=25147> 	Massachusetts Institute of
+Technology 	1976
+Jakowatz, Jr., Charles <id.php?id=97328> 	Purdue University 	1976
+Jamil, Basharat <id.php?id=35592> 	City University of New York 	1976
+Jariyavidyanont, Patrakoon <id.php?id=123342> 	Indiana University 	1976
+Jenq, Yih-Chyun <id.php?id=74434> 	Princeton University 	1976
+Jespersen, Dennis <id.php?id=5262> 	University of Michigan 	1976
+Jochnowitz, Naomi <id.php?id=22501> 	Harvard University 	1976
+Johnson, Jimmie <id.php?id=64740> 	University of Illinois at Chicago 	1976
+Johnson, Jon <id.php?id=6955> 	University of Kentucky 	1976
+Johnson, Kent <id.php?id=4423> 	Brown University 	1976
+Johnson, Nancy <id.php?id=64722> 	University of Illinois at Chicago 	1976
+Johnson, Jr., David <id.php?id=59283> 	Vanderbilt University 	1976
+Johnsson, Richard <id.php?id=50115> 	Carnegie Mellon University 	1976
+Jones, Charles <id.php?id=169140> 	Illinois Institute of Technology 	1976
+Jordy, George <id.php?id=90913> 	University of Maryland College Park 	1976
+Josephson, William <id.php?id=55565> 	Polytechnic University 	1976
+Juang, Ling-Ling <id.php?id=89072> 	State University of New York at
+Stony Brook 	1976
+Just, Erwin <id.php?id=10449> 	Adelphi University 	1976
+Kahn, Kevin <id.php?id=81937> 	Purdue University 	1976
+Kalantari, Iraj <id.php?id=30438> 	Cornell University 	1976
+Kalouptsidis, Nicholas <id.php?id=148425> 	Washington University in St.
+Louis 	1976
+Kam, John <id.php?id=82063> 	Princeton University 	1976
+Kan, Joseph <id.php?id=145586> 	Oregon State University 	1976
+Kaplan, Steven <id.php?id=31983> 	University of California, Berkeley 	1976
+Karp, Leon <id.php?id=33524> 	New York University 	1976
+Katz, Myron <id.php?id=31488> 	University of California, Berkeley 	1976
+Kazlow, Michael <id.php?id=1122> 	State University of New York at Stony
+Brook 	1976
+Keils, William <id.php?id=45440> 	University of Texas at Austin 	1976
+Kelley, Carl <id.php?id=11621> 	Purdue University 	1976
+Kelman, Jerson <id.php?id=72184> 	Colorado State University 	1976
+Kelmanson, Milton <id.php?id=4424> 	Brown University 	1976
+Kendirli, Barış <id.php?id=66063> 	Yale University 	1976
+Keny, Sharad <id.php?id=48882> 	University of California, Los Angeles 	1976
+Kern, Dennis <id.php?id=50784> 	Texas Tech University 	1976
+Kershenbaum, Aaron <id.php?id=35990> 	Polytechnic University 	1976
+Kessler, Glenn <id.php?id=111421> 	Princeton University 	1976
+Khoury, Helen <id.php?id=15020> 	The Florida State University 	1976
+Khuri, Andrawus (Andre') <id.php?id=491> 	Virginia Polytechnic Institute
+and State University 	1976
+Kidwell, Mark <id.php?id=30989> 	Yale University 	1976
+Kilpatrick, Paul <id.php?id=63394> 	The University of North Carolina at
+Chapel Hill 	1976
+Kim, Ki <id.php?id=43451> 	Oklahoma State University 	1976
+Kim, Sun <id.php?id=53688> 	North Carolina State University 	1976
+Kirk, Herbert <id.php?id=52850> 	North Carolina State University 	1976
+Kishore, Masao <id.php?id=46026> 	Princeton University 	1976
+Klein, Sanford <id.php?id=67610> 	University of Wisconsin-Madison 	1976
+Kleinhaus, Rosemarie <id.php?id=43581> 	Oklahoma State University 	1976
+Kleinstein, Jerrold <id.php?id=7543> 	Cornell University 	1976
+Knerr, Barry <id.php?id=12414> 	Northwestern University 	1976
+Kober, Wolfgang <id.php?id=12606> 	University of Colorado at Boulder 	1976
+Koch, John <id.php?id=43384> 	University of Illinois at
+Urbana-Champaign 	1976
+Kochman, Fred <id.php?id=69037> 	Harvard University 	1976
+Koh, Hock-Lye <id.php?id=9583> 	University of Wisconsin-Madison 	1976
+Kolata, Wiilaim <id.php?id=69820> 	University of Maryland College Park 	1976
+Kolupaev, Stephen <id.php?id=86629> 	Stanford University 	1976
+Kong, Maynard <id.php?id=5854> 	The University of Chicago 	1976
+Konrad, John <id.php?id=119854> 	California Institute of Technology 	1976
+Konsynski, Benn <id.php?id=81934> 	Purdue University 	1976
+Korff, Phil <id.php?id=116837> 	University of California, Los Angeles 	1976
+Kostreva, Michael <id.php?id=30888> 	Rensselaer Polytechnic Institute 	1976
+Kozen, Dexter <id.php?id=38611> 	Cornell University 	1976
+Kramarz, Luis <id.php?id=13010> 	Georgia Institute of Technology 	1976
+Kraut, Robert <id.php?id=148516> 	University of Pittsburgh 	1976
+Krol, Igor <id.php?id=1127> 	State University of New York at Stony
+Brook 	1976
+Krutar, Rudolph <id.php?id=121964> 	Carnegie Mellon University 	1976
+Kuiken, Kathryn <id.php?id=24392> 	Polytechnic University 	1976
+Kulp, Richard <id.php?id=7025> 	Texas Tech University 	1976
+Kupferwasser, Marcello <id.php?id=24563> 	Columbia University 	1976
+Kusefoglu, Ayse <id.php?id=5263> 	University of Michigan 	1976
+Kushner, Harvey <id.php?id=145743> 	Temple University 	1976
+Ladhawala, Narendrakumar <id.php?id=16746> 	Purdue University 	1976
+Lafuente, Juan <id.php?id=76618> 	Cornell University 	1976
+Lai, Heng-Lung <id.php?id=30339> 	University of Pennsylvania 	1976
+Laidacker, Michael <id.php?id=12140> 	University of Houston 	1976
+Lair, Alan <id.php?id=7027> 	Texas Tech University 	1976
+Lampone, Leo <id.php?id=156924> 	Drexel University 	1976
+Landgren, John <id.php?id=2352> 	University of Minnesota-Minneapolis 	1976
+Lantz, David <id.php?id=15762> 	University of Kansas 	1976
+Larson, David <id.php?id=17350> 	University of California, Berkeley 	1976
+Laughlin, James <id.php?id=111255> 	University of Illinois at
+Urbana-Champaign 	1976
+Lee, Calvin <id.php?id=31645> 	University of California, Berkeley 	1976
+Lee, Chu-In <id.php?id=67749> 	Oregon State University 	1976
+Lee, Kuan <id.php?id=66798> 	Harvard University 	1976
+Lee, Lee <id.php?id=104502> 	Columbia University 	1976
+Lee, Shyh-Ling <id.php?id=5844> 	Rutgers University, New Brunswick 	1976
+Lee, Youn <id.php?id=5264> 	University of Michigan 	1976
+Legge, Gordon <id.php?id=38360> 	Harvard University 	1976
+Legge, John <id.php?id=14198> 	The University of Oklahoma 	1976
+Lemeshow, Stanley <id.php?id=62164> 	University of California, Los
+Angeles 	1976
+Lemme, James <id.php?id=81939> 	Purdue University 	1976
+Lenat, Douglas <id.php?id=96260> 	Stanford University 	1976
+Lesh, James <id.php?id=66383> 	University of California, Los Angeles 	1976
+Leung, Hoi <id.php?id=47519> 	The University of North Carolina at Chapel
+Hill 	1976
+Leung-Yan-Cheong, Sik <id.php?id=139028> 	Stanford University 	1976
+Levedahl, Joeseph <id.php?id=149820> 	The University of Chicago 	1976
+Levesque, Claude <id.php?id=29686> 	Illinois Institute of Technology 	1976
+Levi, Sandro <id.php?id=40977> 	University of Maryland College Park 	1976
+Levitt, Paul <id.php?id=33409> 	New York University 	1976
+Lewis, Gilbert <id.php?id=41714> 	University of Wisconsin-Milwaukee 	1976
+Lewis, John <id.php?id=46410> 	Stanford University 	1976
+Li, I-Hung <id.php?id=179258> 	The Johns Hopkins University 	1976
+Lieberworth, David <id.php?id=114600> 	The Rockefeller University 	1976
+Ligaard, Hans <id.php?id=9358> 	The University of Chicago 	1976
+Lih, Ko-Wei <id.php?id=44610> 	Duke University 	1976
+Lim, Evan <id.php?id=133558> 	Stanford University 	1976
+Limsui, E. <id.php?id=1717> 	University of Florida 	1976
+Lin, Fou-Lai <id.php?id=30754> 	Fordham University 	1976
+Lin, Jeng-Eng <id.php?id=4425> 	Brown University 	1976
+Lindenfeld, Israel <id.php?id=15438> 	Michigan State University 	1976
+Lindquist, Susan <id.php?id=147696> 	Harvard University 	1976
+Liou, Jenn-Hann <id.php?id=139340> 	University of California, Berkeley 	1976
+Lipman, Marc <id.php?id=30228> 	Dartmouth College 	1976
+List, Stephen <id.php?id=14489> 	Brown University 	1976
+Liu, An-Kuo <id.php?id=101685> 	The Johns Hopkins University 	1976
+Liu, Kiang <id.php?id=47369> 	The University of North Carolina at Chapel
+Hill 	1976
+Ljung, Greta <id.php?id=139969> 	University of Wisconsin-Madison 	1976
+Loatman, Robert <id.php?id=30747> 	Fordham University 	1976
+Locksley, Norman <id.php?id=90912> 	University of Maryland College
+Park 	1976
+Logan, James <id.php?id=16261> 	University of Iowa 	1976
+Lohuis, David <id.php?id=15814> 	University of Virginia 	1976
+London, Steven <id.php?id=9584> 	University of Wisconsin-Madison 	1976
+Longnecker, Michael <id.php?id=33448> 	The Florida State University 	1976
+Loomer, Norman <id.php?id=9585> 	University of Wisconsin-Madison 	1976
+Lopez, Jr., Antonio <id.php?id=140055> 	Clemson University 	1976
+LoSecco, John <id.php?id=105680> 	Harvard University 	1976
+Lowerre, Bruce <id.php?id=50324> 	Carnegie Mellon University 	1976
+Lozano, Carlos <id.php?id=9586> 	University of Wisconsin-Madison 	1976
+Lucas, Caro <id.php?id=118449> 	University of California, Berkeley 	1976
+Luecking, Daniel <id.php?id=38606> 	University of Illinois at
+Urbana-Champaign 	1976
+Lukesh, Gordon <id.php?id=36329> 	University of Massachusetts Amherst 	1976
+Ma, Fred <id.php?id=148020> 	University of Pennsylvania 	1976
+MacDermot, Alan <id.php?id=142728> 	Cornell University 	1976
+Machado, Stella <id.php?id=35297> 	The University of Chicago 	1976
+Madden, Ragan <id.php?id=91766> 	Virginia Polytechnic Institute and
+State University 	1976
+Mageirou, Evangelos <id.php?id=81181> 	Harvard University 	1976
+Maguregui, Javier <id.php?id=82692> 	University of Wisconsin-Madison 	1976
+Magurn, Bruce <id.php?id=13036> 	Northwestern University 	1976
+Maher, David <id.php?id=2438> 	Lehigh University 	1976
+Mak, Patrick <id.php?id=66299> 	University of California, Los Angeles 	1976
+Makowski, Lee <id.php?id=150751> 	Massachusetts Institute of
+Technology 	1976
+Malcolmson, Peter <id.php?id=31441> 	University of California,
+Berkeley 	1976
+Malitz, Isaac (Richard) <id.php?id=91603> 	University of California, Los
+Angeles 	1976
+Mallory, Walter <id.php?id=5842> 	Rutgers University, New Brunswick 	1976
+Mangru, Mats <id.php?id=55255> 	University of Iowa 	1976
+Manning, Kenneth <id.php?id=154504> 	Harvard University 	1976
+Mantel, Jeffrey <id.php?id=12769> 	Northwestern University 	1976
+Margolis, Stephen <id.php?id=14490> 	Brown University 	1976
+Markot, Robert <id.php?id=9998> 	The Ohio State University 	1976
+Marshall, Donald <id.php?id=28314> 	University of California, Los
+Angeles 	1976
+Marston, Philip <id.php?id=162332> 	Stanford University 	1976
+Martin, Donald <id.php?id=66384> 	University of California, Los
+Angeles 	1976
+Martin, Nathan <id.php?id=130719> 	Massachusetts Institute of
+Technology 	1976
+Martin, Robert <id.php?id=7848> 	Columbia University 	1976
+Martin, Thomas <id.php?id=12607> 	University of Colorado at Boulder 	1976
+Maskin, Eric <id.php?id=107117> 	Harvard University 	1976
+Matchett, Andrew <id.php?id=4884> 	University of Illinois at
+Urbana-Champaign 	1976
+Matheson, Alec <id.php?id=4604> 	University of Illinois at
+Urbana-Champaign 	1976
+Matthews, Robert <id.php?id=41344> 	University of Idaho 	1976
+Matzdorff, Edward <id.php?id=130399> 	Oregon State University 	1976
+Mayer, Richard <id.php?id=47543> 	Washington University in St. Louis 	1976
+McCammon, J. Andrew <id.php?id=105213> 	Harvard University 	1976
+McCormick, Robert <id.php?id=10815> 	University of North Texas 	1976
+McDermott, Drew <id.php?id=61079> 	Massachusetts Institute of
+Technology 	1976
+McDonald, Thomas <id.php?id=25375> 	Syracuse University 	1976
+McGlinn, Robert <id.php?id=3025> 	Southern Illinois University at
+Carbondale 	1976
+McIntyre, Eldon <id.php?id=33637> 	New York University 	1976
+McKenna, Patrick <id.php?id=7312> 	University of Michigan 	1976
+McKnight, Curtis <id.php?id=48137> 	University of Illinois at
+Urbana-Champaign 	1976
+Meadows, Douglas <id.php?id=18615> 	Stanford University 	1976
+Mehta, Vikram <id.php?id=31811> 	University of California, Berkeley 	1976
+Mei, Howell <id.php?id=29570> 	Cornell University 	1976
+Mekler, Alan <id.php?id=44443> 	Stanford University 	1976
+Mendelssohn, Roy <id.php?id=87383> 	Yale University 	1976
+Mendoza, Gaston <id.php?id=31377> 	Temple University 	1976
+Mentz, Raul <id.php?id=83186> 	Stanford University 	1976
+Mercuri, Francesco <id.php?id=47594> 	The University of Chicago 	1976
+Merrill, Stephen <id.php?id=6717> 	University of Iowa 	1976
+Messa, Kenneth <id.php?id=43339> 	Tulane University 	1976
+Miatello, Roberto <id.php?id=5846> 	Rutgers University, New Brunswick 	1976
+Mickley, Richard <id.php?id=103253> 	University of Vermont 	1976
+Miel, George <id.php?id=58849> 	University of Wyoming 	1976
+Miklovic, Donald <id.php?id=11817> 	California Institute of Technology 	1976
+Millar, Terrence <id.php?id=9656> 	Cornell University 	1976
+Miller, Ben <id.php?id=33236> 	New York University 	1976
+Miller, Dale <id.php?id=28277> 	University of Washington 	1976
+Miller, Douglas <id.php?id=32728> 	University of California, Berkeley 	1976
+Miller, J. <id.php?id=2487> 	Lehigh University 	1976
+Miller, Robert <id.php?id=32232> 	University of California, Berkeley 	1976
+Mills, Jr., Wendell <id.php?id=5265> 	University of Michigan 	1976
+Milne, Stephen <id.php?id=11644> 	University of California, San Diego 	1976
+Minzoni, Antonmaria <id.php?id=11818> 	California Institute of
+Technology 	1976
+Mitchell, Emerson <id.php?id=9587> 	University of Wisconsin-Madison 	1976
+Miura, Ryozo <id.php?id=34450> 	University of California, Berkeley 	1976
+Miyawaki, Takashi <id.php?id=35344> 	Yale University 	1976
+Mlynarski, Max <id.php?id=44613> 	Polytechnic University 	1976
+Mock, Betty <id.php?id=33609> 	New York University 	1976
+Modrys, Walter <id.php?id=35622> 	City University of New York 	1976
+Monahan, John <id.php?id=36916> 	Carnegie Mellon University 	1976
+Monrad, Ditlev <id.php?id=32228> 	University of California, Berkeley 	1976
+Montalvo, Fanya <id.php?id=37182> 	University of Massachusetts Amherst 	1976
+Montazer-Haghighi, Aliakbar <id.php?id=44275> 	Case Western Reserve
+University 	1976
+Moon, I. Douglas <id.php?id=104596> 	Virginia Polytechnic Institute and
+State University 	1976
+Moore, Thomas <id.php?id=38781> 	Dartmouth College 	1976
+Moortqat, Luc <id.php?id=111925> 	Wayne State University 	1976
+Morais, Ricardo <id.php?id=5835> 	Rutgers University, New Brunswick 	1976
+Morley, Thomas <id.php?id=4801> 	Carnegie Mellon University 	1976
+Morrel, Judith <id.php?id=64501> 	University of Georgia 	1976
+Morris, Jr., Joseph <id.php?id=17446> 	University of
+Alabama-Tuscaloosa 	1976
+Morrison, Michael <id.php?id=48613> 	University of California, Los
+Angeles 	1976
+Morrison, Terry <id.php?id=11126> 	Kent State University 	1976
+Morrow, James <id.php?id=2506> 	The Florida State University 	1976
+Morton, Robert <id.php?id=62320> 	The Pennsylvania State University 	1976
+Moussatat, Walid <id.php?id=34528> 	University of California, Berkeley 	1976
+Mukerjee, Hari <id.php?id=22542> 	State University of New York at
+Binghamton 	1976
+Muller, Keith <id.php?id=48046> 	The University of North Carolina at
+Chapel Hill 	1976
+Murphy, Michael <id.php?id=3232> 	The Louisiana State University 	1976
+Murray, IV, William <id.php?id=17316> 	Texas A&M University 	1976
+Myerson, Roger <id.php?id=99809> 	Harvard University 	1976
+Mys, Donald <id.php?id=111933> 	Wayne State University 	1976
+Nagarkatte, Umesh <id.php?id=35577> 	City University of New York 	1976
+Nagel, Roger <id.php?id=78855> 	University of Maryland College Park 	1976
+Nagin, Daniel <id.php?id=105262> 	Carnegie Mellon University 	1976
+Nash, John <id.php?id=44555> 	Stanford University 	1976
+Navathe, Shamkant <id.php?id=78242> 	University of Michigan 	1976
+Nelson, John <id.php?id=84708> 	University of Southern California 	1976
+Nelson, Roger <id.php?id=15436> 	Michigan State University 	1976
+Ng, Mary Jeanne <id.php?id=145587> 	Oregon State University 	1976
+Ng, Sheung-Lip <id.php?id=97991> 	California Institute of Technology 	1976
+Nissim, Leonard <id.php?id=24071> 	Massachusetts Institute of
+Technology 	1976
+Nordstrom, David <id.php?id=31984> 	University of California, Berkeley 	1976
+Noren, Paul <id.php?id=45208> 	University of Arizona 	1976
+Norton, V. <id.php?id=45986> 	Princeton University 	1976
+Novak, Jr., Gordon <id.php?id=78909> 	University of Texas at Austin 	1976
+Nyman, Terry <id.php?id=47319> 	University of Massachusetts Amherst 	1976
+O‘Brien, Barbara <id.php?id=38935> 	Wesleyan University 	1976
+O‘Callaghan, William <id.php?id=38886> 	Wesleyan University 	1976
+O'Donnell, Michael <id.php?id=77011> 	Cornell University 	1976
+Oey, Kiam <id.php?id=97990> 	California Institute of Technology 	1976
+Ohya, Masanori <id.php?id=51850> 	The University of Rochester 	1976
+O'Leary, Dianne <id.php?id=7751> 	Stanford University 	1976
+Olivier, Horace <id.php?id=29623> 	University of Louisiana at
+Lafayette 	1976
+Olver, Peter <id.php?id=11330> 	Harvard University 	1976
+O'Meara, Patrick <id.php?id=150548> 	University of Iowa 	1976
+O'Neill, Edward <id.php?id=24093> 	Yale University 	1976
+O'Neill, Terence <id.php?id=83185> 	Stanford University 	1976
+Ørsted, Bent <id.php?id=25148> 	Massachusetts Institute of Technology 	1976
+Osgood, Brad <id.php?id=35121> 	Carnegie Mellon University 	1976
+Ota, Clem <id.php?id=9525> 	New Mexico State University 	1976
+Oulton, David <id.php?id=9402> 	Washington State University 	1976
+Page, Don <id.php?id=105658> 	California Institute of Technology 	1976
+Pakravan, Karim <id.php?id=149821> 	The University of Chicago 	1976
+Pal, Sat <id.php?id=9996> 	The Ohio State University 	1976
+Panda, Durga <id.php?id=103630> 	Purdue University 	1976
+Pansiot, Jean-Jacques <id.php?id=117419> 	Cornell University 	1976
+Papadimitriou, Christos <id.php?id=46289> 	Princeton University 	1976
+Papnicolaou, Andreas <id.php?id=44270> 	Case Western Reserve
+University 	1976
+Park, Robert <id.php?id=48593> 	University of California, Los Angeles 	1976
+Parker, Joseph <id.php?id=11923> 	California Institute of Technology 	1976
+Parker, Kenneth <id.php?id=86630> 	Stanford University 	1976
+Parry, Walter <id.php?id=32312> 	University of California, Berkeley 	1976
+Parsons, Lee <id.php?id=9588> 	University of Wisconsin-Madison 	1976
+Passmore, III, Norman <id.php?id=69254> 	University of Delaware 	1976
+Pate, Jr, Thomas <id.php?id=2577> 	Emory University 	1976
+Patel, Janak <id.php?id=41497> 	Stanford University 	1976
+Patterson, David <id.php?id=98366> 	University of California, Los
+Angeles 	1976
+Pawlowski, James <id.php?id=12141> 	University of Houston 	1976
+Peace, Karl <id.php?id=41823> 	Virginia Commonwealth University 	1976
+Pearce, James <id.php?id=97989> 	California Institute of Technology 	1976
+Peeples, Donald <id.php?id=2588> 	Emory University 	1976
+Pence, Dennis <id.php?id=16765> 	Purdue University 	1976
+Pereira, Nino <id.php?id=133784> 	Cornell University 	1976
+Persek, Stephen <id.php?id=33162> 	New York University 	1976
+Persons, Richard <id.php?id=34401> 	University of California, Berkeley 	1976
+Peterson, Brian <id.php?id=31905> 	University of California, Berkeley 	1976
+Peterson, Jr., Arthur <id.php?id=83184> 	Stanford University 	1976
+Petrus, Ann <id.php?id=17413> 	Tulane University 	1976
+Phelps, Kevin <id.php?id=20275> 	Auburn University 	1976
+Piacenza, Robert <id.php?id=41490> 	University of Miami 	1976
+Piacenza, Robert <id.php?id=122354> 	University of Miami 	1976
+Piene, Ragni <id.php?id=35972> 	Massachusetts Institute of Technology 	1976
+Pierson, Harry <id.php?id=9589> 	University of Wisconsin-Madison 	1976
+Plaisted, David <id.php?id=98855> 	Stanford University 	1976
+Platzeck, María <id.php?id=36745> 	Brandeis University 	1976
+Plosser, Charles <id.php?id=149822> 	The University of Chicago 	1976
+Pomarede, Jean-Michel <id.php?id=144660> 	Yale University 	1976
+Pong, James <id.php?id=83183> 	Stanford University 	1976
+Port, Robert <id.php?id=86959> 	The University of Connecticut 	1976
+Posch, Jr., Joseph <id.php?id=114108> 	Wayne State University 	1976
+Pourciau, Bruce <id.php?id=37080> 	University of California, San Diego 	1976
+Powder, Charles <id.php?id=3952> 	University of Illinois at
+Urbana-Champaign 	1976
+Pradhan, Arvind <id.php?id=142649> 	Case Western Reserve University 	1976
+Prange, John <id.php?id=9590> 	University of Wisconsin-Madison 	1976
+Prestini, Elena <id.php?id=143686> 	University of Maryland College
+Park 	1976
+Price, Thomas <id.php?id=5586> 	University of Georgia 	1976
+Proulx, Ronald <id.php?id=37483> 	Columbia University 	1976
+Puk, Richard <id.php?id=81940> 	Purdue University 	1976
+Quigg, David <id.php?id=9593> 	University of Wisconsin-Madison 	1976
+Quinzi, Anthony <id.php?id=1458> 	The Florida State University 	1976
+Quon, Tony <id.php?id=35273> 	Princeton University 	1976
+Raeburn, Iain <id.php?id=18227> 	University of Utah 	1976
+Rahe, Maurice <id.php?id=7818> 	Stanford University 	1976
+Rajaram, Navaratna <id.php?id=2630> 	Indiana University 	1976
+Rall, Douglas <id.php?id=43514> 	University of Iowa 	1976
+Rao, Prabhakar <id.php?id=31812> 	University of California, Berkeley 	1976
+Rao, Raghavendra <id.php?id=113758> 	Case Western Reserve University 	1976
+Rapaport, William <id.php?id=86961> 	Indiana University 	1976
+Rasmussen, Robert <id.php?id=141334> 	Iowa State University 	1976
+Rassias, Themistocles <id.php?id=32591> 	University of California,
+Berkeley 	1976
+Ratliff, Michael <id.php?id=12609> 	University of Colorado at Boulder 	1976
+Redmond, Donald <id.php?id=4001> 	University of Illinois at
+Urbana-Champaign 	1976
+Reeds, III, James <id.php?id=45202> 	Harvard University 	1976
+Rehmer, Karl <id.php?id=3023> 	Southern Illinois University at
+Carbondale 	1976
+Reinsel, Gregory <id.php?id=49280> 	University of Pittsburgh 	1976
+Reitano, Robert <id.php?id=6387> 	Massachusetts Institute of
+Technology 	1976
+Rennie, Michael <id.php?id=11015> 	Washington State University 	1976
+Retzlaff, Allen <id.php?id=30439> 	Cornell University 	1976
+Reznick, Bruce <id.php?id=4822> 	Stanford University 	1976
+Rhyne, James <id.php?id=78908> 	University of Texas at Austin 	1976
+Ricci, Stephen <id.php?id=5266> 	University of Michigan 	1976
+Richards, James <id.php?id=88955> 	Missouri University of Science and
+Technology 	1976
+Richman, Daniel <id.php?id=9594> 	University of Wisconsin-Madison 	1976
+Riddle, M. Lee <id.php?id=26460> 	Temple University 	1976
+Riegsecker, John <id.php?id=64311> 	University of Illinois at Chicago 	1976
+Riffelmacher, David <id.php?id=114066> 	Cornell University 	1976
+Ristow, Allan <id.php?id=41638> 	University of Wisconsin-Milwaukee 	1976
+Ritter, Grant <id.php?id=141122> 	Cornell University 	1976
+Roan, Raymond <id.php?id=5267> 	University of Michigan 	1976
+Roark, Winfred <id.php?id=17823> 	The University of Oklahoma 	1976
+Roberts, Jean <id.php?id=12142> 	University of Houston 	1976
+Rohrlich, David <id.php?id=6177> 	Yale University 	1976
+Rojo, Oscar <id.php?id=9523> 	New Mexico State University 	1976
+Roll, Janet <id.php?id=46466> 	Bowling Green State University 	1976
+Rolland, Peter <id.php?id=35591> 	City University of New York 	1976
+Romo, John <id.php?id=43434> 	Oklahoma State University 	1976
+Rose, Bruce <id.php?id=85287> 	The University of Chicago 	1976
+Rosen, Kenneth <id.php?id=36353> 	Massachusetts Institute of
+Technology 	1976
+Rosenberg, Jonathan <id.php?id=23205> 	University of California,
+Berkeley 	1976
+Rosenberg, Richard <id.php?id=33568> 	New York University 	1976
+Ross, Sharon <id.php?id=2670> 	Emory University 	1976
+Rothstein, Michael <id.php?id=75996> 	University of Wisconsin-Madison 	1976
+Rouch, Timothy <id.php?id=16840> 	Purdue University 	1976
+Rowe, Lawrence <id.php?id=70097> 	University of California, Irvine 	1976
+Rubison, Richard <id.php?id=2677> 	Indiana University 	1976
+Rudnick, Karl <id.php?id=11738> 	California Institute of Technology 	1976
+Russell, Gary <id.php?id=20022> 	Columbia University 	1976
+Ruttan, Arden <id.php?id=11170> 	Kent State University 	1976
+Rychener, Michael <id.php?id=50363> 	Carnegie Mellon University 	1976
+Sack, Ira <id.php?id=114519> 	Stevens Institute of Technology 	1976
+Sady, Richard <id.php?id=80185> 	University of Notre Dame 	1976
+Sag, Ivan <id.php?id=105591> 	Massachusetts Institute of Technology 	1976
+Salas-Fumas, Vicente <id.php?id=140802> 	Purdue University 	1976
+Salazar, Tomas <id.php?id=112807> 	University of New Mexico 	1976
+Salchenberger, Samuel <id.php?id=12770> 	Northwestern University 	1976
+Saltman, David <id.php?id=7980> 	Yale University 	1976
+Salwach, Chester <id.php?id=2697> 	Lehigh University 	1976
+Samec, Thomas <id.php?id=148898> 	University of California, Los
+Angeles 	1976
+Sami, Ramez <id.php?id=32614> 	University of California, Berkeley 	1976
+Sanderson, James <id.php?id=50863> 	University of New Mexico 	1976
+Sapojnikoff, Victor <id.php?id=20555> 	Princeton University 	1976
+Satzer, William <id.php?id=38500> 	University of Minnesota-Minneapolis 	1976
+Sayward, Frederick <id.php?id=14491> 	Brown University 	1976
+Scheuermann, Peter <id.php?id=91102> 	State University of New York at
+Stony Brook 	1976
+Schmeelk, John <id.php?id=27157> 	The George Washington University 	1976
+Schmidt, Darrell <id.php?id=23244> 	Montana State University 	1976
+Schmidt, Diane <id.php?id=111462> 	State University of New York at
+Binghamton 	1976
+Schneider, Edward <id.php?id=50240> 	Carnegie Mellon University 	1976
+Scholl, Michel <id.php?id=87487> 	University of California, Los
+Angeles 	1976
+Schonbek, Maria <id.php?id=5268> 	University of Michigan 	1976
+Schrader, Ronald <id.php?id=11309> 	The Pennsylvania State University 	1976
+Scott, David <id.php?id=35389> 	Rice University 	1976
+Seeder, Susan <id.php?id=105364> 	Illinois Institute of Technology 	1976
+Seese, Letitia <id.php?id=5839> 	Rutgers University, New Brunswick 	1976
+Segami, Carlos <id.php?id=47374> 	The University of North Carolina at
+Chapel Hill 	1976
+Seifert, Charles <id.php?id=11125> 	Kent State University 	1976
+Semmes, Patricia <id.php?id=45438> 	University of Texas at Austin 	1976
+Series, Caroline <id.php?id=75406> 	Harvard University 	1976
+Serlin, Ronald <id.php?id=93949> 	University of California, Berkeley 	1976
+Sernesi, Edoardo <id.php?id=36820> 	Brandeis University 	1976
+Shaffer, Charles <id.php?id=108677> 	Montana State University 	1976
+Shaughnessy, J. <id.php?id=15439> 	Michigan State University 	1976
+Shavel, Ira <id.php?id=1131> 	State University of New York at Stony
+Brook 	1976
+Shedletsky, John <id.php?id=86631> 	Stanford University 	1976
+Sherman, Clayton <id.php?id=45057> 	Rice University 	1976
+Shieh, Shan-luk Arthur <id.php?id=33608> 	New York University 	1976
+Shiflet, Angel <id.php?id=59258> 	Vanderbilt University 	1976
+Shirey, John <id.php?id=117653> 	University of Oregon 	1976
+Shrieves, Herbert <id.php?id=45915> 	North Carolina State University 	1976
+Shrikhande, Neelima <id.php?id=9595> 	University of Wisconsin-Madison 	1976
+Shunk, Dan <id.php?id=117495> 	Purdue University 	1976
+Sickles, Robin <id.php?id=190191> 	The University of North Carolina at
+Chapel Hill 	1976
+Silberschatz, Abraham <id.php?id=94554> 	State University of New York at
+Stony Brook 	1976
+Silkowski, Richard <id.php?id=14492> 	Brown University 	1976
+Simone, Joseph <id.php?id=43807> 	University of Missouri - Kansas City 	1976
+Singh, Anand <id.php?id=43784> 	University of Missouri - Kansas City 	1976
+Singhal, Vijay <id.php?id=127640> 	Massachusetts Institute of
+Technology 	1976
+Situmeang, Robinson <id.php?id=165447> 	The Ohio State University 	1976
+Skelton, Robert <id.php?id=117992> 	University of California, Berkeley 	1976
+Slud, Eric <id.php?id=55064> 	Massachusetts Institute of Technology 	1976
+Small, Margot <id.php?id=37484> 	Columbia University 	1976
+Smeltzer, Michael <id.php?id=9167> 	Yale University 	1976
+Smith, Hal <id.php?id=16388> 	University of Iowa 	1976
+Smith, James <id.php?id=112042> 	University of Illinois at
+Urbana-Champaign 	1976
+Smith, Jo <id.php?id=46468> 	Bowling Green State University 	1976
+Smith, Justin <id.php?id=33813> 	New York University 	1976
+Smith, Pamela <id.php?id=82689> 	University of Wisconsin-Madison 	1976
+Smith, Randolph <id.php?id=5269> 	University of Michigan 	1976
+Smith, Richard <id.php?id=17140> 	University of California, Santa
+Barbara 	1976
+Smith, Ronald <id.php?id=20276> 	Auburn University 	1976
+Smith, Stewart <id.php?id=44523> 	Stanford University 	1976
+Snabb, Thomas <id.php?id=100617> 	Wayne State University 	1976
+Sod, Gary <id.php?id=31556> 	University of California, Berkeley 	1976
+Solomon, Martin <id.php?id=98239> 	Stevens Institute of Technology 	1976
+Somers, Janet <id.php?id=31382> 	University of California, Berkeley 	1976
+Sontag, Eduardo <id.php?id=1718> 	University of Florida 	1976
+Sorbello, Robert <id.php?id=66799> 	Harvard University 	1976
+Sparks, Billie <id.php?id=1370> 	George Peabody College for Teachers 	1976
+Speckman, Paul <id.php?id=41534> 	University of California, Los
+Angeles 	1976
+Spiegelman, Clifford <id.php?id=13043> 	Northwestern University 	1976
+Spradlin, Charles <id.php?id=49793> 	The Johns Hopkins University 	1976
+Srihari, Sargur <id.php?id=93102> 	The Ohio State University 	1976
+Srinivasan, Mandyam <id.php?id=189351> 	Yale University 	1976
+Starbird, Thomas <id.php?id=31978> 	University of California, Berkeley 	1976
+Starner, Jr., John <id.php?id=50864> 	University of New Mexico 	1976
+St.Clair, Dan <id.php?id=21985> 	Missouri University of Science and
+Technology 	1976
+Stech, Harlan <id.php?id=15441> 	Michigan State University 	1976
+Steeg, Manfred <id.php?id=5270> 	University of Michigan 	1976
+Stelle, Kellogg <id.php?id=163300> 	Brandeis University 	1976
+Stenson, Ellen <id.php?id=47329> 	University of Massachusetts Amherst 	1976
+Stephenson, Kenneth <id.php?id=9596> 	University of Wisconsin-Madison 	1976
+Stevenson, Jr., John <id.php?id=24393> 	Polytechnic University 	1976
+Stokes, S. Lynne <id.php?id=47493> 	The University of North Carolina at
+Chapel Hill 	1976
+Stone, John <id.php?id=87447> 	University of Texas at Austin 	1976
+Stonitsch, J. Peter <id.php?id=51919> 	University of Notre Dame 	1976
+Strikwerda, John <id.php?id=8430> 	Stanford University 	1976
+Strub, Mike <id.php?id=91763> 	Virginia Polytechnic Institute and State
+University 	1976
+Stubbs, Daniel <id.php?id=153361> 	Harvard University 	1976
+Stucke, Carl <id.php?id=2791> 	Emory University 	1976
+Sukhatme, Vasant <id.php?id=149823> 	The University of Chicago 	1976
+Sullivan, Joe <id.php?id=18216> 	Georgia Institute of Technology 	1976
+Sun, Fang-kuo <id.php?id=81143> 	Harvard University 	1976
+Suzuki, Norihisa <id.php?id=61942> 	Stanford University 	1976
+Sverdlove, Ronald <id.php?id=44467> 	Stanford University 	1976
+Swanson, Richard <id.php?id=1515> 	University of California, Santa
+Cruz 	1976
+Sylvester, Garrett <id.php?id=62997> 	Massachusetts Institute of
+Technology 	1976
+Szatrowski, Ted <id.php?id=83182> 	Stanford University 	1976
+Sze, Alexander <id.php?id=20322> 	Cornell University 	1976
+Tai, Yung-sheng <id.php?id=28524> 	Harvard University 	1976
+Taliaferro, Steven <id.php?id=44468> 	Stanford University 	1976
+Tang, Chih-Tong <id.php?id=175688> 	Yale University 	1976
+Tannenbaum, Allen <id.php?id=19358> 	Harvard University 	1976
+Tavantzis, John <id.php?id=33523> 	New York University 	1976
+Taylor, Russell <id.php?id=103327> 	Stanford University 	1976
+Tchen, André <id.php?id=83181> 	Stanford University 	1976
+Terng, Chuu-Lian <id.php?id=35876> 	Brandeis University 	1976
+Thissen, David <id.php?id=156777> 	The University of Chicago 	1976
+Thomas, Joseph <id.php?id=14493> 	Brown University 	1976
+Thomas, Mark <id.php?id=31425> 	University of California, Berkeley 	1976
+Thompson, W. Travis <id.php?id=103082> 	University of Arkansas 	1976
+Thomson, L. William <id.php?id=107116> 	Stanford University 	1976
+Tichenor, Dolores <id.php?id=12633> 	Missouri University of Science and
+Technology 	1976
+Tiede, James <id.php?id=112848> 	State University of New York at
+Buffalo 	1976
+Tier, Charles <id.php?id=33410> 	New York University 	1976
+Tinkelman, Robert <id.php?id=63026> 	Massachusetts Institute of
+Technology 	1976
+Tipler, Frank <id.php?id=118192> 	University of Maryland College Park 	1976
+Tomasovic, Joseph <id.php?id=37485> 	Columbia University 	1976
+Tomboulis, Eleftherios <id.php?id=99424> 	Massachusetts Institute of
+Technology 	1976
+Toro, Emilio <id.php?id=8773> 	University of South Florida 	1976
+Tosch, Thomas <id.php?id=67953> 	Clemson University 	1976
+Townsend, Douglas <id.php?id=942> 	University of Illinois at
+Urbana-Champaign 	1976
+Townsend, Paul <id.php?id=103859> 	Brandeis University 	1976
+Trojanowski, Anthony <id.php?id=43218> 	University of California, San
+Diego 	1976
+Trussell, Henry <id.php?id=85528> 	University of New Mexico 	1976
+Tsai, Chon-Yin <id.php?id=129417> 	Massachusetts Institute of
+Technology 	1976
+Tsai, Robin <id.php?id=73688> 	The Johns Hopkins University 	1976
+Tsao, Hung-Ping <id.php?id=4792> 	University of Illinois at
+Urbana-Champaign 	1976
+Tseng, Wei <id.php?id=33090> 	New York University 	1976
+Tucci, Ralph <id.php?id=29626> 	University of Wisconsin-Milwaukee 	1976
+Tung, Ching-Yuan <id.php?id=37486> 	Columbia University 	1976
+Tupitsyn, Victor <id.php?id=1132> 	State University of New York at Stony
+Brook 	1976
+Turett, Jay <id.php?id=4669> 	University of Illinois at
+Urbana-Champaign 	1976
+Turner, John <id.php?id=106193> 	Princeton University 	1976
+Tzung, Fu-Chien <id.php?id=18239> 	North Carolina State University 	1976
+Uhlmann Arancibia, Gunther <id.php?id=28326> 	Massachusetts Institute of
+Technology 	1976
+Unlu, Yusuf <id.php?id=15764> 	University of Kansas 	1976
+Uomini, Robert <id.php?id=32069> 	University of California, Berkeley 	1976
+Usas, Alan <id.php?id=86632> 	Stanford University 	1976
+Van Scoy, Frances <id.php?id=24526> 	University of Virginia 	1976
+Vargas, Jose <id.php?id=48885> 	University of California, Los Angeles 	1976
+Vargas, Mario <id.php?id=142951> 	Case Western Reserve University 	1976
+Varshney, Pramod <id.php?id=187675> 	University of Illinois at
+Urbana-Champaign 	1976
+Vasak, John <id.php?id=4073> 	University of Illinois at
+Urbana-Champaign 	1976
+Velleman, Paul <id.php?id=52468> 	Princeton University 	1976
+Venning, Michael <id.php?id=30437> 	Cornell University 	1976
+Viollaz, Aldo <id.php?id=34326> 	University of California, Berkeley 	1976
+Vitacco, William <id.php?id=141335> 	Iowa State University 	1976
+Vitulli, Marie <id.php?id=23130> 	University of Pennsylvania 	1976
+Vodola, Paul <id.php?id=16297> 	University of Virginia 	1976
+Vogan, Jr., David <id.php?id=37052> 	Massachusetts Institute of
+Technology 	1976
+Vojir, William <id.php?id=11681> 	Adelphi University 	1976
+Wade, Bradford <id.php?id=81941> 	Purdue University 	1976
+Wage, Michael <id.php?id=9597> 	University of Wisconsin-Madison 	1976
+Walker, Joseph <id.php?id=47499> 	The University of North Carolina at
+Chapel Hill 	1976
+Waller, Nancy <id.php?id=15440> 	Michigan State University 	1976
+Wang, George <id.php?id=48132> 	Iowa State University 	1976
+Wanna, Salma <id.php?id=4135> 	University of Illinois at
+Urbana-Champaign 	1976
+Ward, Michael <id.php?id=66800> 	Harvard University 	1976
+Warren, Bette <id.php?id=2890> 	Indiana University 	1976
+Warren, Scott <id.php?id=43733> 	Rice University 	1976
+Wax, Yohanan <id.php?id=35345> 	Yale University 	1976
+Waymire, Edward <id.php?id=45209> 	University of Arizona 	1976
+Weber, Charles <id.php?id=33091> 	New York University 	1976
+Wehrly, Thomas <id.php?id=61291> 	University of Wisconsin-Madison 	1976
+Weight, Thomas <id.php?id=48696> 	University of California, Los
+Angeles 	1976
+Weissler, Frederic <id.php?id=31539> 	University of California,
+Berkeley 	1976
+Welch, Richard <id.php?id=8774> 	University of South Florida 	1976
+Wesley, Margaret <id.php?id=83180> 	Stanford University 	1976
+Weyant, John <id.php?id=40898> 	University of California, Berkeley 	1976
+Weyhrauch, Richard <id.php?id=33023> 	Stanford University 	1976
+Weyland, Nicholas <id.php?id=63889> 	University of Notre Dame 	1976
+White, William <id.php?id=8463> 	University of Mississippi 	1976
+White, Jr., Halbert <id.php?id=44130> 	Massachusetts Institute of
+Technology 	1976
+White, Jr., James <id.php?id=18097> 	Auburn University 	1976
+White, Jr., King <id.php?id=164749> 	Duke University 	1976
+Wiederhold, Gio(vanni) <id.php?id=70996> 	University of California, San
+Francisco 	1976
+Wiegand, Wayne <id.php?id=41824> 	Virginia Commonwealth University 	1976
+Wierman, John <id.php?id=6747> 	University of Washington 	1976
+Wiita, Paul <id.php?id=74917> 	Princeton University 	1976
+Williams, Lawrence <id.php?id=5271> 	University of Michigan 	1976
+Williams, Michael <id.php?id=33189> 	New York University 	1976
+Williams, Raymond <id.php?id=74333> 	University of New Mexico 	1976
+Wilson, Stephen <id.php?id=28080> 	University of Washington 	1976
+Witten, Edward <id.php?id=31293> 	Princeton University 	1976
+Wolf, Edwin <id.php?id=4426> 	Brown University 	1976
+Wolfe, Barbara Lu <id.php?id=51851> 	The University of Rochester 	1976
+Wolfe, Robert <id.php?id=45000> 	State University of New York at
+Buffalo 	1976
+Wolfe, William <id.php?id=35649> 	City University of New York 	1976
+Wolpert, Robert <id.php?id=44991> 	Princeton University 	1976
+Wolpert, Scott <id.php?id=26986> 	Stanford University 	1976
+Wong, Pit-Mann <id.php?id=36059> 	University of Notre Dame 	1976
+Wong, Rina <id.php?id=64747> 	University of Illinois at Chicago 	1976
+Wood, Dick <id.php?id=3467> 	University of Montana 	1976
+Wood, Terry <id.php?id=125419> 	Michigan State University 	1976
+Wrathall, Celia <id.php?id=104002> 	Harvard University 	1976
+Wright, Margaret <id.php?id=46411> 	Stanford University 	1976
+Wu, Chien-Fu <id.php?id=34328> 	University of California, Berkeley 	1976
+Wu, Ping-Yuan <id.php?id=8951> 	University of Southern California 	1976
+Yakush, Samuel <id.php?id=8952> 	University of Southern California 	1976
+Yang, Shie-Shien <id.php?id=38454> 	Iowa State University 	1976
+Yang, Shi Nine <id.php?id=87385> 	State University of New York at
+Buffalo 	1976
+Yates, Robert <id.php?id=44497> 	Stanford University 	1976
+Yau, Stephen <id.php?id=1128> 	State University of New York at Stony
+Brook 	1976
+Yoder, Jeffry <id.php?id=10004> 	The Ohio State University 	1976
+Yoon, Young <id.php?id=2967> 	Indiana University 	1976
+You, Yuan-Chwen <id.php?id=15435> 	Michigan State University 	1976
+Yu, Pui Man <id.php?id=50828> 	Texas Tech University 	1976
+Zago, Jose <id.php?id=82691> 	University of Wisconsin-Madison 	1976
+Zang, Thomas <id.php?id=62998> 	Massachusetts Institute of Technology 	1976
+Zaniolo, Carlo <id.php?id=70480> 	University of California, Los
+Angeles 	1976
+Zauber, Ann <id.php?id=49698> 	The Johns Hopkins University 	1976
+Zeppetella, Anthony <id.php?id=33269> 	New York University 	1976
+Zibman, Israel <id.php?id=8342> 	Princeton University 	1976
+Ziff, Robert <id.php?id=132952> 	The Rockefeller University 	1976
+Zoltek, Stanley <id.php?id=1129> 	State University of New York at Stony
+Brook 	1976
+Zue, Victor <id.php?id=103677> 	Massachusetts Institute of Technology 	1976
+Zwicker, William <id.php?id=62999> 	Harvard University 	1976
+Zwicker, William <id.php?id=62999> 	Massachusetts Institute of
+Technology 	1976
+
+  * Search <search.php>
+  * About MGP <about.php>
+      o Mission <mission.php>
+      o News <news.php>
+      o Staff <staff.php>
+      o Recognition <recognition.php>
+      o Acknowledgments <acknowledgments.php>
+  * Links <links.php>
+  * FAQs <faq.php>
+  * Posters <posters.php>
+  * Submit Data <submit.php>
+  * Contact <contact.php>
+
+
+The Mathematics Genealogy Project is in need of funds to help pay for
+student help and other associated costs. If you would like to
+contribute, please donate online
+<https://epayment.ndus.nodak.edu/C22800_ustores/web/product_detail.jsp?PRODUCTID=2989&SINGLESTORE=true>
+using credit card or bank transfer or mail your tax-deductible
+contribution to:
+
+Mathematics Genealogy Project
+Department of Mathematics
+North Dakota State University
+P. O. Box 6050
+Fargo, North Dakota 58108-6050
+
